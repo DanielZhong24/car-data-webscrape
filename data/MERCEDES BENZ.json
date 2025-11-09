@@ -1,0 +1,2899 @@
+[
+  {
+    "generation": "2025 Mercedes-Benz SL 680 Roadster Maybach (R232)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ SL Roadster Maybach (R232) 680 V8 9AT 4MATIC+ AWD (585 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-sl-monogram-maybach-2025.html#aeng_mercedes-benz-sl-monogram-maybach-2025-680-v8-9at-4matic-awd-585-hp",
+    "ENGINE SPECS - 680 V8 9AT 4MATIC+ AWD (585 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3982 cm3",
+      "Power": "430.3 KW @ 5500-6500 RPM\n585 HP @ 5500-6500 RPM\n577 BHP @ 5500-6500 RPM",
+      "Torque": "590 lb-ft @ 2500-5000 RPM\n800 Nm @ 2500-5000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18.5 gallons (70.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "162 mph (261 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "9-speed automatic Speepshift MCT"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Ventilated discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "275/35 ZR21 // 305/30 ZR21"
+    },
+    "DIMENSIONS": {
+      "Length": "184.9 in (4696 mm)",
+      "Width": "75.4 in (1915 mm)",
+      "Height": "53.5 in (1359 mm)",
+      "Front/rear Track": "65.1/63.7 in (1,654/1,618 mm)",
+      "Wheelbase": "106.3 in (2700 mm)",
+      "Cargo Volume": "7.5 cuFT (212 L)",
+      "Turning circle (curb to curb)": "40.5 ft (12.3 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4354 lbs (1975 kg)",
+      "Gross Weight Limit": "4839 lbs (2195 kg)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "17.3 mpg US (13.6 L/100Km)",
+      "CO2 Emissions (Combined)": "309 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-sl-monogram-maybach-2025-7975_16.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-sl-monogram-maybach-2025-7975_17.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-sl-monogram-maybach-2025-7975_18.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-sl-monogram-maybach-2025-7975_19.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-sl-monogram-maybach-2025-7975_20.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ SL Monogram Maybach",
+    "url": "https://www.autoevolution.com/mercedes-benz/sl-monogram-maybach/",
+    "start_year": 2025,
+    "end_year": null
+  },
+  {
+    "generation": "2024 Mercedes-Benz GLS",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ GLS 450 4MATIC AWD (381 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-gls-2023.html#aeng_mercedes-benz-gls-2023-450-4matic",
+    "ENGINE SPECS - 450 4MATIC AWD (381 HP)": {
+      "Cylinders": "L6",
+      "Displacement": "2999 cm3",
+      "Power": "280.2 KW @ 5800-6100 RPM\n381 HP @ 5800-6100 RPM\n376 BHP @ 5800-6100 RPM",
+      "Torque": "369 lb-ft @ 1800-5000 RPM\n500 Nm @ 1800-5000 RPM",
+      "Electrical motor power": "14.7 kw (20 hp)",
+      "Electrical motor torque": "109.2 lb-ft (148 Nm)",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "130 mph (209 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-gls-2023-7462_19.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-gls-2023-7462_20.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-gls-2023-7462_21.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-gls-2023-7462_22.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-gls-2023-7462_23.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ GLS-Class",
+    "url": "https://www.autoevolution.com/mercedes-benz/gls-class/",
+    "start_year": 2016,
+    "end_year": null
+  },
+  {
+    "generation": "2021 Mercedes-Benz GLS Maybach",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ GLS Maybach (X167) 4.0L V8 9AT AWD (558 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-gls-600-maybach-2020.html#aeng_mercedes-benz-gls-600-maybach-x167-2020-40l-v8-9at-558-hp",
+    "ENGINE SPECS - 4.0L V8 9AT AWD (558 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3982 cm3",
+      "Power": "410.4 KW @ 6000-6500 RPM\n558 HP @ 6000-6500 RPM\n550 BHP @ 6000-6500 RPM",
+      "Torque": "538 lb-ft @ 2500-5000 RPM\n730 Nm @ 2500-5000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "9-speed automatic (9G-TRONIC)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "285/45 R 22 // 325/40 R 22"
+    },
+    "DIMENSIONS": {
+      "Length": "204.9 in (5204 mm)",
+      "Width": "79.9 in (2029 mm)",
+      "Height": "72.4 in (1839 mm)",
+      "Front/rear Track": "66.9/67.8 in (1,699/1,722 mm)",
+      "Wheelbase": "123.4 in (3134 mm)",
+      "Cargo Volume": "18.4 cuFT (521 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "6140 lbs (2785 kg)",
+      "Gross Weight Limit": "7165 lbs (3250 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "19.6 mpg US (12 L/100Km)",
+      "CO2 Emissions": "273 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLS-600-Maybach-6701_17.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLS-600-Maybach-6701_18.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLS-600-Maybach-6701_19.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLS-600-Maybach-6701_20.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLS-600-Maybach-6701_21.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ GLS Maybach",
+    "url": "https://www.autoevolution.com/mercedes-benz/gls-maybach/",
+    "start_year": 2020,
+    "end_year": null
+  },
+  {
+    "generation": "2020 Mercedes-Benz GLB",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ GLB-Class (X247) 200 7AT FWD (163 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-glb-2019.html#aeng_mercedes-benz-glb-2019-13l-7at-163-hp",
+    "ENGINE SPECS - 200 7AT FWD (163 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1332 cm3",
+      "Power": "119.9 KW @ 5500 RPM\n163 HP @ 5500 RPM\n161 BHP @ 5500 RPM",
+      "Torque": "184 lb-ft @ 1620-4000 RPM\n250 Nm @ 1620-4000 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "129 mph (208 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "9.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "7-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "182.4 in (4633 mm)",
+      "Width": "72.2 in (1834 mm)",
+      "Height": "65.3 in (1659 mm)",
+      "Wheelbase": "111.4 in (2830 mm)",
+      "Cargo Volume": "19.8 cuFT (561 L)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "37.9 mpg US (6.2 L/100Km)",
+      "CO2 Emissions": "142 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLB-6595_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLB-6595_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLB-6595_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLB-6595_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLB-6595_16.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ GLB",
+    "url": "https://www.autoevolution.com/mercedes-benz/glb/",
+    "start_year": 2019,
+    "end_year": null
+  },
+  {
+    "generation": "MERCEDES BENZ E-Class T-Modell All-Terrain (S213)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ E-Class T-Modell All-Terrain (S213) 200 9AT RWD (183 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-e-class-t-modell-all-terrain-2017.html#aeng_mercedes-benz-e-class-t-modell-all-terrain-2017-200-9at-183-hp",
+    "ENGINE SPECS - 200 9AT RWD (183 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1991 cm3",
+      "Power": "134.6 KW @ 5500 RPM\n183 HP @ 5500 RPM\n181 BHP @ 5500 RPM",
+      "Torque": "221 lb-ft @ 1200-4000 RPM\n300 Nm @ 1200-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "13.2 gallons (50.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "144 mph (232 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "9-speed automatic (9G-TRONIC)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/55 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "19.4 in (493 mm)",
+      "Width": "72.9 in (1852 mm)",
+      "Height": "58.1 in (1476 mm)",
+      "Front/rear Track": "63/63.3 in (1,600/1,608 mm)",
+      "Wheelbase": "115.7 in (2939 mm)",
+      "Ground Clearance": "6.1 in (155 mm)",
+      "Cargo Volume": "22.6 cuFT (640 L)",
+      "Aerodynamics (Cd)": "0.29"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3759 lbs (1705 kg)",
+      "Gross Weight Limit": "5236 lbs (2375 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "28.7 mpg US (8.2 L/100Km)",
+      "Highway": "42 mpg US (5.6 L/100Km)",
+      "Combined": "35.6 mpg US (6.6 L/100Km)",
+      "CO2 Emissions": "149 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-E-Class-T-Modell-All-Terrain-5901_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-E-Class-T-Modell-All-Terrain-5901_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-E-Class-T-Modell-All-Terrain-5901_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-E-Class-T-Modell-All-Terrain-5901_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-E-Class-T-Modell-All-Terrain-5901_11.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ E-Class T-Modell All-Terrain",
+    "url": "https://www.autoevolution.com/mercedes-benz/e-klasse-t-modell-all-terrain/",
+    "start_year": 2017,
+    "end_year": null
+  },
+  {
+    "generation": "MERCEDES BENZ T-Class",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ T-Class T 160 6MT FWD (102 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-t-class-2022.html#aeng_mercedes-benz-t-class-2022-t-160-102-hp",
+    "ENGINE SPECS - T 160 6MT FWD (102 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1332 cm3",
+      "Power": "75 KW @ 4500 RPM\n102 HP @ 4500 RPM\n101 BHP @ 4500 RPM",
+      "Torque": "148 lb-ft @ 1500 RPM\n200 Nm @ 1500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.3 gallons (54.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "104 mph (167 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "14.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/60 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "177.1 in (4498 mm)",
+      "Width": "73.2 in (1859 mm)",
+      "Height": "71.3 in (1811 mm)",
+      "Front/rear Track": "62.4/62.8 in (1,585/1,595 mm)",
+      "Wheelbase": "106.9 in (2715 mm)",
+      "Cargo Volume": "18.4 cuFT (521 L)",
+      "Turning circle": "38.5 ft (11.7 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3265 lbs (1481 kg)",
+      "Gross Weight Limit": "4619 lbs (2095 kg)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "35.1 mpg US (6.7 L/100Km)",
+      "CO2 Emissions (Combined)": "153 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-t-class-2022-7260_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-t-class-2022-7260_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-t-class-2022-7260_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-t-class-2022-7260_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-t-class-2022-7260_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ T-Class",
+    "url": "https://www.autoevolution.com/mercedes-benz/t-class/",
+    "start_year": 2022,
+    "end_year": null
+  },
+  {
+    "generation": "MERCEDES BENZ Citan",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ Citan Panel Van 110 6MT FWD (102 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-citan-2021.html#aeng_mercedes-benz-citan-2021-panel-van-110-6mt-102-hp",
+    "ENGINE SPECS - PANEL VAN 110 6MT FWD (102 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1332 cm3",
+      "Power": "75 KW @ 4500 RPM\n102 HP @ 4500 RPM\n101 BHP @ 4500 RPM",
+      "Torque": "148 lb-ft @ 1500 RPM\n200 Nm @ 1500 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "104 mph (167 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "14.3 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "32.7 mpg US (7.2 L/100Km)",
+      "CO2 Emissions (Combined)": "162 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-citan-2021-7154_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-citan-2021-7154_16.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-citan-2021-7154_17.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-citan-2021-7154_18.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-citan-2021-7154_19.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ Citan",
+    "url": "https://www.autoevolution.com/mercedes-benz/citan/",
+    "start_year": 2021,
+    "end_year": null
+  },
+  {
+    "generation": "MERCEDES BENZ CLS",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ CLS 350 9AT (299 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-cls-2021.html#aeng_mercedes-benz-cls-2021-350-9at-299-hp",
+    "ENGINE SPECS - 350 9AT (299 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1991 cm3",
+      "Power": "219.9 KW @ 5800-6100 RPM\n299 HP @ 5800-6100 RPM\n295 BHP @ 5800-6100 RPM",
+      "Torque": "295 lb-ft @ 3000-4000 RPM\n400 Nm @ 3000-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "9-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "32.2 mpg US (7.3 L/100Km)",
+      "CO2 Emissions": "168 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-cls-2021-7082_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-cls-2021-7082_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-cls-2021-7082_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-cls-2021-7082_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-cls-2021-7082_12.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ CLS-Klasse",
+    "url": "https://www.autoevolution.com/mercedes-benz/cls-klasse/",
+    "start_year": 2004,
+    "end_year": null
+  },
+  {
+    "generation": "MERCEDES BENZ C-Class T-Modell (S205)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ C-Class T-Modell (S205) C 160 G-TRONIC 9AT RWD (129 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-c-class-t-modell-s205-2018.html#aeng_mercedes-benz-c-class-t-modell-s205-2018-c-160-g-tronic-9at-129-hp",
+    "ENGINE SPECS - C 160 G-TRONIC 9AT RWD (129 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1595 cm3",
+      "Power": "94.9 KW @ - RPM\n129 HP @ - RPM\n127 BHP @ - RPM",
+      "Torque": "155 lb-ft @ 1200-4000 RPM\n210 Nm @ 1200-4000 RPM",
+      "Fuel System": "Turbocharge Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "10.8 gallons (40.9 L)",
+      "Fuel capacity (optional)": "205/60R16 gallons (776.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "129 mph (208 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "10.2 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "9-speed automatic (9G-TRONIC)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated disc"
+    },
+    "DIMENSIONS": {
+      "Length": "185.1 in (4702 mm)",
+      "Width": "71.3 in (1811 mm)",
+      "Height": "57.4 in (1458 mm)",
+      "Front/rear Track": "62.4/62.4 in (1,585/1,585 mm)",
+      "Wheelbase": "111.8 in (2840 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3186 lbs (1445 kg)",
+      "Gross Weight Limit": "4652 lbs (2110 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "29 mpg US (8.1 L/100Km)",
+      "Highway": "42.8 mpg US (5.5 L/100Km)",
+      "Combined": "36.2 mpg US (6.5 L/100Km)",
+      "CO2 Emissions": "148 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-C-Class-T-Modell--S205--6238_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-C-Class-T-Modell--S205--6238_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-C-Class-T-Modell--S205--6238_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-C-Class-T-Modell--S205--6238_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-C-Class-T-Modell--S205--6238_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ C-Klasse T-Modell",
+    "url": "https://www.autoevolution.com/mercedes-benz/c-klasse-t-modell/",
+    "start_year": 1996,
+    "end_year": null
+  },
+  {
+    "generation": "MERCEDES BENZ C-Class All-Terrain",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ C-Class All-Terrain C 200 4MATIC 9AT AWD (204 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-c-class-all-terrain-2021.html#aeng_mercedes-benz-c-class-all-terrain-2021-c-200-4matic-9at-awd-204-hp",
+    "ENGINE SPECS - C 200 4MATIC 9AT AWD (204 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1496 cm3",
+      "Power": "150 KW @ 5800-6100 RPM\n204 HP @ 5800-6100 RPM\n201 BHP @ 5800-6100 RPM",
+      "Torque": "221 lb-ft @ 1800-4000 RPM\n300 Nm @ 1800-4000 RPM",
+      "Electrical motor power": "14.7 kw (20 hp)",
+      "Electrical motor torque": "147.5 lb-ft (200 Nm)",
+      "Fuel System": "High-pressure injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "13.2 gallons (50.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "144 mph (232 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "7.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "9-speed automatic (9G-TRONIC)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/55 R17 W"
+    },
+    "DIMENSIONS": {
+      "Length": "187.2 in (4755 mm)",
+      "Width": "71.7 in (1821 mm)",
+      "Height": "58.8 in (1494 mm)",
+      "Front/rear Track": "62.4/62.3 in (1,585/1,582 mm)",
+      "Wheelbase": "112.8 in (2865 mm)",
+      "Cargo Volume": "17.3 cuFT (490 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3792 lbs (1720 kg)",
+      "Gross Weight Limit": "5225 lbs (2370 kg)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "30.9 mpg US (7.6 L/100Km)",
+      "CO2 Emissions (Combined)": "174 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-c-class-all-terrain-2021-7155_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-c-class-all-terrain-2021-7155_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-c-class-all-terrain-2021-7155_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-c-class-all-terrain-2021-7155_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-c-class-all-terrain-2021-7155_10.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ C-Klasse All-Terrain",
+    "url": "https://www.autoevolution.com/mercedes-benz/c-klasse-all-terrain/",
+    "start_year": 2021,
+    "end_year": null
+  },
+  {
+    "generation": "2018 Mercedes-Benz A-Class L Sedan (Z177)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ A-Class L Sedan (Z177) 1.3L 7AT (135 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-a-class-l-sedan-2018.html#aeng_mercedes-benz-a-class-l-sedan-2018-13l-7at-135-hp",
+    "ENGINE SPECS - 1.3L 7AT (135 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1333 cm3",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "181.5 in (4610 mm)",
+      "Width": "70.7 in (1796 mm)",
+      "Height": "57.5 in (1461 mm)",
+      "Wheelbase": "109.8 in (2789 mm)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-A-Class-L-Sedan-6344_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-A-Class-L-Sedan-6344_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-A-Class-L-Sedan-6344_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-A-Class-L-Sedan-6344_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-A-Class-L-Sedan-6344_7.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ A-Class Sedan",
+    "url": "https://www.autoevolution.com/mercedes-benz/a-class/",
+    "start_year": 2018,
+    "end_year": 2023
+  },
+  {
+    "generation": "2013 Mercedes-Benz A45 AMG",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ A45 AMG (W176) 2.0L 4MATIC 7AT (365 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-a45-amg-2013.html#aeng_mercedes-benz-a45-amg-2013-20-awd-7at-365-hp",
+    "ENGINE SPECS - 2.0L 4MATIC 7AT (365 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1991 cm3",
+      "Power": "265 KW @ 6000 RPM\n360 HP @ 6000 RPM\n355 BHP @ 6000 RPM",
+      "Torque": "332 lb-ft @ 2250-5000 RPM\n450 Nm @ 2250-5000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic (AMG-SPEEDSHIFT DCT)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/40 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "169 in (4293 mm)",
+      "Width": "70.1 in (1781 mm)",
+      "Height": "52.2 in (1326 mm)",
+      "Front/rear Track": "61.3/61.5 in (1,557/1,562 mm)",
+      "Wheelbase": "4.2 in (107 mm)",
+      "Ground Clearance": "4.4 in (112 mm)",
+      "Cargo Volume": "12 cuFT (340 L)",
+      "Aerodynamics (Cd)": "0.34"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3100 lbs (1406 kg)",
+      "Gross Weight Limit": "4519 lbs (2050 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "26.7 mpg US (8.8 L/100Km)",
+      "Highway": "40.6 mpg US (5.8 L/100Km)",
+      "Combined": "34.1 mpg US (6.9 L/100Km)",
+      "CO2 Emissions": "165 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZA45AMG-4768_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZA45AMG-4768_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZA45AMG-4768_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZA45AMG-4768_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZA45AMG-4768_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ A-Klasse AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/a-klasse-amg/",
+    "start_year": 2013,
+    "end_year": 2015
+  },
+  {
+    "generation": "2008 Mercedes-Benz A-Class Coupe (C169)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ A-Klasse Coupe (C169) 150 5MT FWD (95 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-a-klasse-coupe-w169-2008.html#aeng_mercedes-benz-a-klasse-coupe-w169-2008-150",
+    "ENGINE SPECS - 150 5MT FWD (95 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1498 cm3",
+      "Power": "70 KW @ 5200 RPM\n95 HP @ 5200 RPM\n94 BHP @ 5200 RPM",
+      "Torque": "103 lb-ft @ 3500-4000 RPM\n140 Nm @ 3500-4000 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.3 gallons (54.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "108 mph (174 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "12.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "185/65 R15"
+    },
+    "DIMENSIONS": {
+      "Length": "152.8 in (3881 mm)",
+      "Width": "69.4 in (1763 mm)",
+      "Height": "62.7 in (1593 mm)",
+      "Front/rear Track": "61.2/61 in (1,554/1,549 mm)",
+      "Wheelbase": "101.1 in (2568 mm)",
+      "Ground Clearance": "4.9 in (124 mm)",
+      "Cargo Volume": "15.3 cuFT (433 L)",
+      "Aerodynamics (Cd)": "0.31",
+      "Turning circle": "35.9 ft (10.9 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2634.5 lbs (1195 kg)",
+      "Gross Weight Limit": "3836 lbs (1740 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "29.8 mpg US (7.9 L/100Km)",
+      "Highway": "43.6 mpg US (5.4 L/100Km)",
+      "Combined": "37.9 mpg US (6.2 L/100Km)",
+      "CO2 Emissions": "148 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZA-KlasseCoupe-W169--4076_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZA-KlasseCoupe-W169--4076_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZA-KlasseCoupe-W169--4076_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZA-KlasseCoupe-W169--4076_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZA-KlasseCoupe-W169--4076_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ A-Klasse Coupe",
+    "url": "https://www.autoevolution.com/mercedes-benz/a-klasse-coupe/",
+    "start_year": 2004,
+    "end_year": 2012
+  },
+  {
+    "generation": "2021 Mercedes-Benz C-Class Cabriolet (A205)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ C-Class Cabriolet (A205) C 180 9AT RWD (156 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-c-43-4matic-a205-2018.html#aeng_mercedes-benz-c-class-a205-2018-c-180-9at-156-hp",
+    "ENGINE SPECS - C 180 9AT RWD (156 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1595 cm3",
+      "Power": "114.7 KW @ - RPM\n156 HP @ - RPM\n154 BHP @ - RPM",
+      "Torque": "184 lb-ft @ 1200-4000 RPM\n250 Nm @ 1200-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "13.2 gallons (50.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "137 mph (220 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "9-speed automatic (9G-TRONIC)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "184.5 in (4686 mm)",
+      "Width": "71.3 in (1811 mm)",
+      "Height": "55.5 in (1410 mm)",
+      "Front/rear Track": "61.5/60.9 in (1,562/1,547 mm)",
+      "Wheelbase": "111.8 in (2840 mm)",
+      "Ground Clearance": "4.1 in (104 mm)",
+      "Cargo Volume": "4.1 cuFT (116 L)",
+      "Aerodynamics (Cd)": "0.28"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3472 lbs (1575 kg)",
+      "Gross Weight Limit": "4663 lbs (2115 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "29.8 mpg US (7.9 L/100Km)",
+      "Highway": "41.3 mpg US (5.7 L/100Km)",
+      "Combined": "36.2 mpg US (6.5 L/100Km)",
+      "CO2 Emissions": "149 g/km"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Low": "32.2 mpg US (7.3 L/100Km)",
+      "Extra high": "28.7 mpg US (8.2 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/Mercedes-AMG-C-43-4MATIC--A205--6285_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/Mercedes-AMG-C-43-4MATIC--A205--6285_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/Mercedes-AMG-C-43-4MATIC--A205--6285_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/Mercedes-AMG-C-43-4MATIC--A205--6285_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/Mercedes-AMG-C-43-4MATIC--A205--6285_11.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ C-Class Cabriolet",
+    "url": "https://www.autoevolution.com/mercedes-benz/c-class-cabriolet/",
+    "start_year": 2016,
+    "end_year": 2022
+  },
+  {
+    "generation": "2016 Mercedes-Benz C-Class Coupe (C205)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ C-Class Coupe (C205) 180 6MT RWD (156 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-c-class-coupe-2016.html#aeng_mercedes-benz-c-class-coupe-2016-180-6mt-156-hp",
+    "ENGINE SPECS - 180 6MT RWD (156 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1595 cm3",
+      "Power": "114.8 KW @ 5300 RPM\n156 HP @ 5300 RPM\n154 BHP @ 5300 RPM",
+      "Torque": "184 lb-ft @ 1200-4000 RPM\n250 Nm @ 1200-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.4 gallons (65.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "140 mph (225 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/50 R 17"
+    },
+    "DIMENSIONS": {
+      "Length": "184.5 in (4686 mm)",
+      "Width": "71.3 in (1811 mm)",
+      "Height": "55.3 in (1405 mm)",
+      "Front/rear Track": "61.5/60.9 in (1,562/1,547 mm)",
+      "Wheelbase": "111.8 in (2840 mm)",
+      "Ground Clearance": "4.1 in (104 mm)",
+      "Cargo Volume": "14.1 cuFT (399 L)",
+      "Aerodynamics (Cd)": "0.29"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3252 lbs (1475 kg)",
+      "Gross Weight Limit": "4398 lbs (1995 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "32.7 mpg US (7.2 L/100Km)",
+      "Highway": "47 mpg US (5 L/100Km)",
+      "Combined": "40.6 mpg US (5.8 L/100Km)",
+      "CO2 Emissions": "135 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-C-Class-Coupe-5619_20.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-C-Class-Coupe-5619_21.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-C-Class-Coupe-5619_22.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-C-Class-Coupe-5619_23.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-C-Class-Coupe-5619_24.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ C-Klasse Coupe",
+    "url": "https://www.autoevolution.com/mercedes-benz/c-klasse-coupe/",
+    "start_year": 2011,
+    "end_year": 2018
+  },
+  {
+    "generation": "2011 Mercedes-Benz C 63 AMG Coupe (C204)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ C 63 AMG Coupe (C204) 6.2L V8 7AT RWD (457 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-c-klasse-coupe-amg-c204-2011.html#aeng_mercedes-benz-c-klasse-coupe-amg-c204-2011-62-v8",
+    "ENGINE SPECS - 6.2L V8 7AT RWD (457 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "6208 cm3",
+      "Power": "336 KW @ 6800 RPM\n457 HP @ 6800 RPM\n451 BHP @ 6800 RPM",
+      "Torque": "443 lb-ft @ 5000 RPM\n601 Nm @ 5000 RPM",
+      "Fuel System": "Turbocharged direct injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic (AMG-SPEEDSHIFT)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/40 R 18 || 255/35 R 18"
+    },
+    "DIMENSIONS": {
+      "Length": "185.3 in (4707 mm)",
+      "Width": "69.7 in (1770 mm)",
+      "Height": "54.8 in (1392 mm)",
+      "Front/rear Track": "65.3/64.3 in (1,659/1,633 mm)",
+      "Wheelbase": "108.7 in (2761 mm)",
+      "Ground Clearance": "4 in (102 mm)",
+      "Cargo Volume": "15.9 cuFT (450 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3814 lbs (1730 kg)",
+      "Gross Weight Limit": "4762 lbs (2160 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "12.9 mpg US (18.2 L/100Km)",
+      "Highway": "28 mpg US (8.4 L/100Km)",
+      "Combined": "19.6 mpg US (12 L/100Km)",
+      "CO2 Emissions": "280 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZC-KlasseCoupeAMG-C204--4355_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZC-KlasseCoupeAMG-C204--4355_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZC-KlasseCoupeAMG-C204--4355_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZC-KlasseCoupeAMG-C204--4355_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZC-KlasseCoupeAMG-C204--4355_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ C-Klasse Coupe AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/c-klasse-coupe-amg/",
+    "start_year": 2011,
+    "end_year": 2016
+  },
+  {
+    "generation": "2002 Mercedes-Benz C-Class SportCoupe AMG (C203)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ C-Klasse SportCoupe AMG (C203) 32 CDI 5AT RWD (354 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-c-klasse-sportcoupe-amg-c203-2000.html#aeng_mercedes-benz-c-klasse-sportcoupe-amg-c203-2002-32-cdi-5at-354-hp",
+    "ENGINE SPECS - 32 CDI 5AT RWD (354 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3199 cm3",
+      "Power": "260.4 KW @ 6100 RPM\n354 HP @ 6100 RPM\n349 BHP @ 6100 RPM",
+      "Torque": "332 lb-ft @ 4400 RPM\n450 Nm @ 4400 RPM",
+      "Fuel System": "Multipoint Injection supercharging (Compressor)",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "16.4 gallons (62.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "5-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/40 ZR18 // 275/35 ZR18"
+    },
+    "DIMENSIONS": {
+      "Length": "171 in (4343 mm)",
+      "Width": "68 in (1727 mm)",
+      "Height": "55.4 in (1407 mm)",
+      "Front/rear Track": "58.8/57.6 in (1,494/1,463 mm)",
+      "Wheelbase": "106.9 in (2715 mm)",
+      "Ground Clearance": "6.2 in (157 mm)",
+      "Cargo Volume": "10.9 cuFT (309 L)",
+      "Aerodynamics (Cd)": "0.29"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3252 lbs (1475 kg)",
+      "Gross Weight Limit": "4586 lbs (2080 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "14.1 mpg US (16.7 L/100Km)",
+      "Highway": "27.4 mpg US (8.6 L/100Km)",
+      "Combined": "20.5 mpg US (11.5 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZC-KlasseSportCoupeAMG-332_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZC-KlasseSportCoupeAMG-332_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZC-KlasseSportCoupeAMG-332_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZC-KlasseSportCoupeAMG-332_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZC-KlasseSportCoupeAMG-332_6.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ C-Klasse SportCoupe AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/c-klasse-sportcoupe-amg/",
+    "start_year": 2002,
+    "end_year": 2004
+  },
+  {
+    "generation": "2008 Mercedes-Benz CLC (CL203)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ CLC (CL203) 160 BlueEFFICIENCY 5AT RWD (129 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-clc-w203-2008.html#aeng_mercedes-benz-clc-w203-2008-160-blueefficiency-5at-129-hp",
+    "ENGINE SPECS - 160 BLUEEFFICIENCY 5AT RWD (129 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1597 cm3",
+      "Power": "94.9 KW @ 5000 RPM\n129 HP @ 5000 RPM\n127 BHP @ 5000 RPM",
+      "Torque": "162 lb-ft @ 2500 RPM\n220 Nm @ 2500 RPM",
+      "Fuel System": "Supercharged Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "16.4 gallons (62.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "130 mph (209 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "5-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/45 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "171 in (4343 mm)",
+      "Width": "68 in (1727 mm)",
+      "Height": "55.5 in (1410 mm)",
+      "Front/rear Track": "58.8/57.6 in (1,494/1,463 mm)",
+      "Wheelbase": "106.9 in (2715 mm)",
+      "Ground Clearance": "4.3 in (109 mm)",
+      "Cargo Volume": "10.9 cuFT (309 L)",
+      "Aerodynamics (Cd)": "0.29"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3064 lbs (1390 kg)",
+      "Gross Weight Limit": "4277 lbs (1940 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "23.1 mpg US (10.2 L/100Km)",
+      "Highway": "39.9 mpg US (5.9 L/100Km)",
+      "Combined": "31.4 mpg US (7.5 L/100Km)",
+      "CO2 Emissions": "178 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLC-W203--3630_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLC-W203--3630_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLC-W203--3630_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLC-W203--3630_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLC-W203--3630_9.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ C-Klasse SportCoupe/CLC",
+    "url": "https://www.autoevolution.com/mercedes-benz/c-klasse-sportcoupe-clc/",
+    "start_year": 2000,
+    "end_year": 2011
+  },
+  {
+    "generation": "2004 Mercedes-Benz C 55 AMG T-Modell (S203)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ C 55 AMG T-Modell (S203) 5.4 V8 5AT (367 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-c-55-amg-t-modell-s203-2004.html#aeng_mercedes-benz-c-55-amg-t-modell-s203-2004-54-v8",
+    "ENGINE SPECS - 5.4 V8 5AT (367 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "5439 cm3",
+      "Power": "270 KW @ 5750 RPM\n367 HP @ 5750 RPM\n362 BHP @ 5750 RPM",
+      "Torque": "376 lb-ft @ 4000 RPM\n510 Nm @ 4000 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155.3 mph (250 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "5-speed automatic (5G-Tronic)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/40 R18 || 245/35 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "181.5 in (4610 mm)",
+      "Width": "68.7 in (1745 mm)",
+      "Height": "55.6 in (1412 mm)",
+      "Front/rear Track": "59.3/58.2 in (1,506/1,478 mm)",
+      "Wheelbase": "106.9 in (2715 mm)",
+      "Ground Clearance": "5.5 in (140 mm)",
+      "Cargo Volume": "16.6 cuFT (470 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3516 lbs (1595 kg)",
+      "Gross Weight Limit": "4850 lbs (2200 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "13.2 mpg US (17.8 L/100Km)",
+      "Highway": "25.6 mpg US (9.2 L/100Km)",
+      "Combined": "19.6 mpg US (12 L/100Km)",
+      "CO2 Emissions": "293 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZC-KlasseT-Modell-W203-55AMG-1455_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZC-KlasseT-Modell-W203-55AMG-1455_2.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ C-Klasse T-Modell AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/c-klasse-t-modell-amg/",
+    "start_year": 2004,
+    "end_year": 2007
+  },
+  {
+    "generation": "MERCEDES BENZ CL 63 AMG (C216)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ CL 63 AMG (C216) 5.5L V8 7AT RWD (544 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-cl-63-amg-c216-2012.html#aeng_mercedes-benz-cl-63-amg-c216-2012-55l-v8-544-hp",
+    "ENGINE SPECS - 5.5L V8 7AT RWD (544 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "5461 cm3",
+      "Power": "400 KW @ 5250-5750 RPM\n544 HP @ 5250-5750 RPM\n536 BHP @ 5250-5750 RPM",
+      "Torque": "590 lb-ft @ 2000-4500 RPM\n800 Nm @ 2000-4500 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "AMG SPEEDSHIFT MCT 7-speed sports transmission"
+    },
+    "BRAKES SPECS": {
+      "Front": "Double sliding callipers with compound brake discs",
+      "Rear": "Sliding frame-type callipers with compound brake discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "Front: 255/40 ZR 19; Rear: 275/40 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "201 in (5105 mm)",
+      "Width": "73.7 in (1872 mm)",
+      "Height": "56.1 in (1425 mm)",
+      "Front/rear Track": "63/63.3 in (1,600/1,608 mm)",
+      "Wheelbase": "116.3 in (2954 mm)",
+      "Ground Clearance": "5.2 in (132 mm)",
+      "Cargo Volume": "17.3 cuFT (490 L)",
+      "Aerodynamics (Cd)": "0.27"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4707 lbs (2135 kg)",
+      "Gross Weight Limit": "5699 lbs (2585 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16.3 mpg US (14.4 L/100Km)",
+      "Highway": "28.7 mpg US (8.2 L/100Km)",
+      "Combined": "22.4 mpg US (10.5 L/100Km)",
+      "CO2 Emissions": "244 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCL63AMG-C216--4702_1.png",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCL63AMG-C216--4702_2.png",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCL63AMG-C216--4702_3.png",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCL63AMG-C216--4702_4.png",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCL63AMG-C216--4702_5.png"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ CL AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/cl-amg/",
+    "start_year": 2000,
+    "end_year": 2013
+  },
+  {
+    "generation": "MERCEDES BENZ CLA 45 (C117)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ CLA 45 (C117) 2.0 4MATIC 7AT (360 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-cla-45-amg-2013.html#aeng_mercedes-benz-cla-amg-2013-20-4matic-7at-360-hp",
+    "ENGINE SPECS - 2.0 4MATIC 7AT (360 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1991 cm3",
+      "Power": "265 KW @ 6000 RPM\n360 HP @ 6000 RPM\n355 BHP @ 6000 RPM",
+      "Torque": "332 lb-ft @ 2250-5000 RPM\n450 Nm @ 2250-5000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic (AMG-SPEEDSHIFT DCT)"
+    },
+    "BRAKES SPECS": {
+      "Front": "350 x 32 mm Ventilated Discs",
+      "Rear": "330 x 22 mm Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/40 R 18"
+    },
+    "DIMENSIONS": {
+      "Length": "182.3 in (4630 mm)",
+      "Width": "70 in (1778 mm)",
+      "Height": "56.4 in (1433 mm)",
+      "Front/rear Track": "61/60.9 in (1,549/1,547 mm)",
+      "Wheelbase": "106.3 in (2700 mm)",
+      "Ground Clearance": "3.5 in (89 mm)",
+      "Cargo Volume": "16.6 cuFT (470 L)",
+      "Aerodynamics (Cd)": "0.32"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3494 lbs (1585 kg)",
+      "Gross Weight Limit": "4575 lbs (2075 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "25.8 mpg US (9.1 L/100Km)",
+      "Highway": "39.9 mpg US (5.9 L/100Km)",
+      "Combined": "33.1 mpg US (7.1 L/100Km)",
+      "CO2 Emissions": "165 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLA-AMG-4837_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLA-AMG-4837_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLA-AMG-4837_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLA-AMG-4837_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLA-AMG-4837_11.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ CLA 45",
+    "url": "https://www.autoevolution.com/mercedes-benz/cla-45-amg/",
+    "start_year": 2013,
+    "end_year": 2016
+  },
+  {
+    "generation": "2007 Mercedes-Benz CLK 63 AMG Black Series (C209)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ CLK 63 AMG Black Series (C209) 6.2 V8 7AT (507 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-clk-63-amg-black-series-c209-2007.html#aeng_mercedes-benz-clk-63-amg-black-series-c-209-2007-62-v8",
+    "ENGINE SPECS - 6.2 V8 7AT (507 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "6208 cm3",
+      "Power": "372.9 KW @ 6800 RPM\n507 HP @ 6800 RPM\n500 BHP @ 6800 RPM",
+      "Torque": "465 lb-ft @ 5000 RPM\n630 Nm @ 5000 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "186.4 mph (300 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.3 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic (AMG SPEEDSHIFT)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs (composite)",
+      "Rear": "Ventilated Discs (composite)"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/30 R19 || 285/30 R19"
+    },
+    "DIMENSIONS": {
+      "Length": "183.3 in (4656 mm)",
+      "Width": "72.2 in (1834 mm)",
+      "Height": "53.7 in (1364 mm)",
+      "Front/rear Track": "61.7/60.6 in (1,567/1,539 mm)",
+      "Wheelbase": "106.9 in (2715 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3847 lbs (1745 kg)",
+      "Gross Weight Limit": "4398 lbs (1995 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "10.1 mpg US (23.3 L/100Km)",
+      "Highway": "21.8 mpg US (10.8 L/100Km)",
+      "Combined": "15.4 mpg US (15.3 L/100Km)",
+      "CO2 Emissions": "369 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLK63AMGBlackSeries-C209--1613_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLK63AMGBlackSeries-C209--1613_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLK63AMGBlackSeries-C209--1613_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLK63AMGBlackSeries-C209--1613_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLK63AMGBlackSeries-C209--1613_8.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ CLK AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/clk-amg/",
+    "start_year": 1999,
+    "end_year": 2009
+  },
+  {
+    "generation": "2006 Mercedes-Benz CLK 63 AMG Cabriolet (A209)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ CLK 63 AMG Cabrio (A209) 6.2 V8 7AT (481 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-clk-63-amg-cabrio-a209-2006.html#aeng_mercedes-benz-clk-63-amg-cabrio-a209-2006-62-v8",
+    "ENGINE SPECS - 6.2 V8 7AT (481 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "6208 cm3",
+      "Power": "354 KW @ 6800 RPM\n481 HP @ 6800 RPM\n475 BHP @ 6800 RPM",
+      "Torque": "465 lb-ft @ 5200 RPM\n630 Nm @ 5200 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155.3 mph (250 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic (AMG SPEEDSHIFT)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/40 R 18 || 255/35 R 18"
+    },
+    "DIMENSIONS": {
+      "Length": "183.1 in (4651 mm)",
+      "Width": "68.5 in (1740 mm)",
+      "Height": "55.1 in (1400 mm)",
+      "Front/rear Track": "58.9/58 in (1,496/1,473 mm)",
+      "Wheelbase": "106.9 in (2715 mm)",
+      "Cargo Volume": "9.75 cuFT (276 L)",
+      "Aerodynamics (Cd)": "0.29"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4133 lbs (1875 kg)",
+      "Gross Weight Limit": "4982 lbs (2260 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "10.9 mpg US (21.6 L/100Km)",
+      "Highway": "23.1 mpg US (10.2 L/100Km)",
+      "Combined": "16.3 mpg US (14.4 L/100Km)",
+      "CO2 Emissions": "344 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLK63AMGCabrio-A209--1600_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLK63AMGCabrio-A209--1600_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLK63AMGCabrio-A209--1600_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLK63AMGCabrio-A209--1600_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLK63AMGCabrio-A209--1600_6.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ CLK AMG Cabrio",
+    "url": "https://www.autoevolution.com/mercedes-benz/clk-amg-cabrio/",
+    "start_year": 2000,
+    "end_year": 2009
+  },
+  {
+    "generation": "1998 Mercedes-Benz CLK GTR AMG",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ CLK GTR AMG 6.9L V12 6MT (612 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-clk-gtr-amg-1998.html#aeng_mercedes-benz-clk-gtr-amg-1998-69-v12",
+    "ENGINE SPECS - 6.9L V12 6MT (612 HP)": {
+      "Cylinders": "V12",
+      "Displacement": "6898 cm3",
+      "Power": "450 KW @ 6800 RPM\n612 HP @ 6800 RPM\n603 BHP @ 6800 RPM",
+      "Torque": "568 lb-ft @ 5250 RPM\n770 Nm @ 5250 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "199 mph (320 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs (composite)",
+      "Rear": "Ventilated Discs (composite)"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "295/35 ZR18 || 345/35 ZR18"
+    },
+    "DIMENSIONS": {
+      "Length": "191.1 in (4854 mm)",
+      "Width": "76.8 in (1951 mm)",
+      "Height": "43.3 in (1100 mm)",
+      "Front/rear Track": "65.6/62.8 in (1,666/1,595 mm)",
+      "Wheelbase": "105.1 in (2670 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3404 lbs (1544 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLKGTR-2024_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLKGTR-2024_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLKGTR-2024_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLKGTR-2024_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZCLKGTR-2024_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ CLK GTR",
+    "url": "https://www.autoevolution.com/mercedes-benz/clk-gtr/",
+    "start_year": 1998,
+    "end_year": 1999
+  },
+  {
+    "generation": "2014 Mercedes-Benz CLS63 AMG",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ CLS 63 AMG (C218) 5.5L V8 7AT 4MATIC AWD (557 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-cls-63-amg-c218-2014.html#aeng_mercedes-benz-cls-63-amg-c218-2014-55-v8-7at-4matic-557-hp",
+    "ENGINE SPECS - 5.5L V8 7AT 4MATIC AWD (557 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "5461 cm3",
+      "Power": "410 KW @ 5500 RPM\n557 HP @ 5500 RPM\n550 BHP @ 5500 RPM",
+      "Torque": "531 lb-ft @ 1750-5250 RPM\n720 Nm @ 1750-5250 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.4 gallons (65.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/35 ZR 19 || 285/30 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "194.4 in (4938 mm)",
+      "Width": "74.1 in (1882 mm)",
+      "Height": "55.8 in (1417 mm)",
+      "Front/rear Track": "62.8/64 in (1,595/1,626 mm)",
+      "Wheelbase": "113.1 in (2873 mm)",
+      "Cargo Volume": "18.4 cuFT (521 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4288 lbs (1945 kg)",
+      "Gross Weight Limit": "5324 lbs (2415 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16.3 mpg US (14.4 L/100Km)",
+      "Highway": "29.4 mpg US (8 L/100Km)",
+      "Combined": "22.6 mpg US (10.4 L/100Km)",
+      "CO2 Emissions": "243 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-63-AMG--C218--5378_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-63-AMG--C218--5378_16.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-63-AMG--C218--5378_17.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-63-AMG--C218--5378_18.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-63-AMG--C218--5378_19.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ CLS AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/cls-amg/",
+    "start_year": 2004,
+    "end_year": 2018
+  },
+  {
+    "generation": "MERCEDES BENZ CLS Shooting Brake (X218)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ CLS Shooting Brake (X218) 400 4MATIC 7AT AWD (333 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-cls-shooting-brake-2014.html#aeng_mercedes-benz-cls-shooting-brake-2014-400-4matic-7at-333-hp",
+    "ENGINE SPECS - 400 4MATIC 7AT AWD (333 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3498 cm3",
+      "Power": "245 KW @ 5250-6000 RPM\n333 HP @ 5250-6000 RPM\n329 BHP @ 5250-6000 RPM",
+      "Torque": "354 lb-ft @ 1200-4000 RPM\n480 Nm @ 1200-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "15.6 gallons (59.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/45 R 17"
+    },
+    "DIMENSIONS": {
+      "Length": "195 in (4953 mm)",
+      "Width": "74.1 in (1882 mm)",
+      "Height": "55.9 in (1420 mm)",
+      "Front/rear Track": "62.8/64.1 in (1,595/1,628 mm)",
+      "Wheelbase": "113.1 in (2873 mm)",
+      "Ground Clearance": "4.6 in (117 mm)",
+      "Cargo Volume": "20.8 cuFT (589 L)",
+      "Aerodynamics (Cd)": "0.29"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4222 lbs (1915 kg)",
+      "Gross Weight Limit": "5379 lbs (2440 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "21.4 mpg US (11 L/100Km)",
+      "Highway": "34.6 mpg US (6.8 L/100Km)",
+      "Combined": "28 mpg US (8.4 L/100Km)",
+      "CO2 Emissions": "195 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-Shooting-Brake-5379_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-Shooting-Brake-5379_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-Shooting-Brake-5379_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-Shooting-Brake-5379_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-Shooting-Brake-5379_13.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ CLS Shooting Brake",
+    "url": "https://www.autoevolution.com/mercedes-benz/cls-shooting-brake/",
+    "start_year": 2012,
+    "end_year": 2017
+  },
+  {
+    "generation": "2014 Mercedes-Benz CLS63 AMG Shooting Brake",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ CLS Shooting Brake AMG (X218) 5.5L V8 7AT 4MATIC AWD (557 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-cls-shooting-brake-amg-2014.html#aeng_mercedes-benz-cls-shooting-brake-amg-2014-55-v8-7at-4matic-557-hp",
+    "ENGINE SPECS - 5.5L V8 7AT 4MATIC AWD (557 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "5461 cm3",
+      "Power": "410 KW @ 5500 RPM\n557 HP @ 5500 RPM\n550 BHP @ 5500 RPM",
+      "Torque": "531 lb-ft @ 1750-5250 RPM\n720 Nm @ 1750-5250 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.4 gallons (65.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic (AMG SPEEDSHIFT DCT)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/35 ZR19 || 285/30 ZR19"
+    },
+    "DIMENSIONS": {
+      "Length": "183.2 in (4653 mm)",
+      "Width": "74.1 in (1882 mm)",
+      "Height": "55.9 in (1420 mm)",
+      "Front/rear Track": "62.8/64.1 in (1,595/1,628 mm)",
+      "Wheelbase": "113.1 in (2873 mm)",
+      "Ground Clearance": "4.5 in (114 mm)",
+      "Cargo Volume": "20.8 cuFT (589 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4464 lbs (2025 kg)",
+      "Gross Weight Limit": "5644 lbs (2560 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16.3 mpg US (14.4 L/100Km)",
+      "Highway": "28 mpg US (8.4 L/100Km)",
+      "Combined": "22.2 mpg US (10.6 L/100Km)",
+      "CO2 Emissions": "248 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-Shooting-Brake-AMG-5380_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-Shooting-Brake-AMG-5380_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-Shooting-Brake-AMG-5380_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-Shooting-Brake-AMG-5380_16.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CLS-Shooting-Brake-AMG-5380_17.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ CLS Shooting Brake AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/cls-shooting-brake-amg/",
+    "start_year": 2014,
+    "end_year": 2018
+  },
+  {
+    "generation": "MERCEDES BENZ E 63 AMG (W212)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ E 63 AMG (W212) 5.5L V8 4MATIC 7AT AWD (557 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-e-63-amg-w212-2013.html#aeng_mercedes-benz-e-63-amg-w212-2013-55l-v8-4matic-557-hp",
+    "ENGINE SPECS - 5.5L V8 4MATIC 7AT AWD (557 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "5461 cm3",
+      "Power": "410 KW @ 5500 RPM\n557 HP @ 5500 RPM\n550 BHP @ 5500 RPM",
+      "Torque": "531 lb-ft @ 1750-5250 RPM\n720 Nm @ 1750-5250 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed AMG SPEEDSHIFT MCT"
+    },
+    "BRAKES SPECS": {
+      "Front": "360mm sport ventilated and perforated brake disks",
+      "Rear": "360mm sport ventilated and perforated brake disks"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "Front: 255/40 R18, Rear 285/35 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "192.6 in (4892 mm)",
+      "Width": "73.7 in (1872 mm)",
+      "Height": "57.7 in (1466 mm)",
+      "Front/rear Track": "64/62.9 in (1,626/1,598 mm)",
+      "Wheelbase": "113.1 in (2873 mm)",
+      "Ground Clearance": "4.5 in (114 mm)",
+      "Cargo Volume": "19.4 cuFT (549 L)",
+      "Aerodynamics (Cd)": "0.25"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4233 lbs (1920 kg)",
+      "Gross Weight Limit": "5313 lbs (2410 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16.3 mpg US (14.4 L/100Km)",
+      "Highway": "29.8 mpg US (7.9 L/100Km)",
+      "Combined": "22.8 mpg US (10.3 L/100Km)",
+      "CO2 Emissions": "242 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZE63AMG-W212--4712_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZE63AMG-W212--4712_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZE63AMG-W212--4712_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZE63AMG-W212--4712_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZE63AMG-W212--4712_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ E-Klasse AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/e-klasse-amg/",
+    "start_year": 1996,
+    "end_year": 2016
+  },
+  {
+    "generation": "MERCEDES BENZ E 63 AMG T-Modell (S212)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ E 63 AMG T-Modell (S212) 5.5L V8 4MATIC 7AT AWD (557 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-e-63-amg-t-modell-s212-2013.html#aeng_mercedes-benz-e-63-amg-t-modell-s212-2013-55l-v8-4matic-557-hp",
+    "ENGINE SPECS - 5.5L V8 4MATIC 7AT AWD (557 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "5461 cm3",
+      "Power": "410 KW @ 5500 RPM\n557 HP @ 5500 RPM\n550 BHP @ 5500 RPM",
+      "Torque": "531 lb-ft @ 1750-5250 RPM\n720 Nm @ 1750-5250 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed AMG SPEEDSHIFT MCT"
+    },
+    "BRAKES SPECS": {
+      "Front": "360mm sport ventilated and perforated brake disks",
+      "Rear": "360mm sport ventilated and perforated brake disks"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "Front: 255/40 R18, Rear 285/35 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "193.1 in (4905 mm)",
+      "Width": "73.7 in (1872 mm)",
+      "Height": "59.9 in (1521 mm)",
+      "Front/rear Track": "64/62.9 in (1,626/1,598 mm)",
+      "Wheelbase": "113.1 in (2873 mm)",
+      "Ground Clearance": "4.4 in (112 mm)",
+      "Cargo Volume": "24.5 cuFT (694 L)",
+      "Aerodynamics (Cd)": "0.25"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4464 lbs (2025 kg)",
+      "Gross Weight Limit": "5688 lbs (2580 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16.3 mpg US (14.4 L/100Km)",
+      "Highway": "28.7 mpg US (8.2 L/100Km)",
+      "Combined": "22.4 mpg US (10.5 L/100Km)",
+      "CO2 Emissions": "246 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZE63AMGT-Modell-S212--4713_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZE63AMGT-Modell-S212--4713_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZE63AMGT-Modell-S212--4713_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZE63AMGT-Modell-S212--4713_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZE63AMGT-Modell-S212--4713_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ E-Klasse T-Modell AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/e-klasse-t-modell-amg/",
+    "start_year": 2004,
+    "end_year": 2017
+  },
+  {
+    "generation": "2013 Mercedes-Benz G63 AMG 6x6",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ G-Class AMG 6x6 (W463) 5.5 V8 7AT 6x6 (544 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-g-class-amg-6x6-w463-2013.html#aeng_mercedes-benz-g-class-amg-6x6-w463-2013-55-v8-7at-544-hp",
+    "ENGINE SPECS - 5.5 V8 7AT 6X6 (544 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "5461 cm3",
+      "Power": "400.1 KW @ 5500 RPM\n544 HP @ 5500 RPM\n537 BHP @ 5500 RPM",
+      "Torque": "561 lb-ft @ 2000 RPM\n760 Nm @ 2000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "100 mph (161 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic (7G-TRONIC PLUS)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "37 x 12.5 x 18"
+    },
+    "DIMENSIONS": {
+      "Length": "231.3 in (5875 mm)",
+      "Width": "83.1 in (2111 mm)",
+      "Height": "87 in (2210 mm)",
+      "Front/rear Track": "69.8/69.8 in (1,773/1,773 mm)",
+      "Wheelbase": "165.2 in (4196 mm)",
+      "Ground Clearance": "18.1 in (460 mm)",
+      "Aerodynamics (Cd)": "0.54"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "8488 lbs (3850 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-G-Class-AMG-6x6--W463--5736_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-G-Class-AMG-6x6--W463--5736_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-G-Class-AMG-6x6--W463--5736_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-G-Class-AMG-6x6--W463--5736_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-G-Class-AMG-6x6--W463--5736_9.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ G-Klasse AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/g-klasse-amg/",
+    "start_year": 1999,
+    "end_year": 2018
+  },
+  {
+    "generation": "MERCEDES BENZ GL-Klasse (X165)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ GL-Klasse (X165) 400 4MATIC 7AT AWD (333 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-gl-klasse-x165-2012.html#aeng_mercedes-benz-gl-klasse-x165-2012-400-4matic-7at-333-hp",
+    "ENGINE SPECS - 400 4MATIC 7AT AWD (333 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2996 cm3",
+      "Power": "244.9 KW @ 5250 RPM\n333 HP @ 5250 RPM\n328 BHP @ 5250 RPM",
+      "Torque": "354 lb-ft @ 1400 RPM\n480 Nm @ 1400 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "26.4 gallons (99.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "149 mph (240 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic (G TRONIC)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/60 R 18"
+    },
+    "DIMENSIONS": {
+      "Length": "201.6 in (5121 mm)",
+      "Width": "84.3 in (2141 mm)",
+      "Height": "72.8 in (1849 mm)",
+      "Front/rear Track": "65.2/65.9 in (1,656/1,674 mm)",
+      "Wheelbase": "121 in (3073 mm)",
+      "Ground Clearance": "8.5 in (216 mm)",
+      "Cargo Volume": "24 cuFT (680 L)",
+      "Aerodynamics (Cd)": "0.35"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "5148 lbs (2335 kg)",
+      "Gross Weight Limit": "7165 lbs (3250 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "20.3 mpg US (11.6 L/100Km)",
+      "Highway": "30.2 mpg US (7.8 L/100Km)",
+      "Combined": "25.6 mpg US (9.2 L/100Km)",
+      "CO2 Emissions": "215 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZGL-Klasse-X165--4559_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZGL-Klasse-X165--4559_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZGL-Klasse-X165--4559_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZGL-Klasse-X165--4559_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZGL-Klasse-X165--4559_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ GL-Klasse",
+    "url": "https://www.autoevolution.com/mercedes-benz/gl-klasse/",
+    "start_year": 2006,
+    "end_year": 2016
+  },
+  {
+    "generation": "MERCEDES BENZ GL 63 AMG (X166)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ GL 63 AMG (X166) 5.5L V8 7AT AWD (557 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-gl-63-amg-x165-2012.html#aeng_mercedes-benz-gl-63-amg-x165-2012-55l-v8",
+    "ENGINE SPECS - 5.5L V8 7AT AWD (557 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "5461 cm3",
+      "Power": "410 KW @ 5250-5750 RPM\n557 HP @ 5250-5750 RPM\n550 BHP @ 5250-5750 RPM",
+      "Torque": "561 lb-ft @ 2000-5000 RPM\n761 Nm @ 2000-5000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "26.4 gallons (99.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic (7G-TRONIC PLUS)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "295/40 R 21"
+    },
+    "DIMENSIONS": {
+      "Length": "201.6 in (5121 mm)",
+      "Width": "84.3 in (2141 mm)",
+      "Height": "72.8 in (1849 mm)",
+      "Front/rear Track": "65.2/65.9 in (1,656/1,674 mm)",
+      "Wheelbase": "121 in (3073 mm)",
+      "Ground Clearance": "7.8 in (198 mm)",
+      "Cargo Volume": "24 cuFT (680 L)",
+      "Aerodynamics (Cd)": "0.38"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "5688 lbs (2580 kg)",
+      "Gross Weight Limit": "7165 lbs (3250 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "14.9 mpg US (15.8 L/100Km)",
+      "Highway": "22.8 mpg US (10.3 L/100Km)",
+      "Combined": "19.1 mpg US (12.3 L/100Km)",
+      "CO2 Emissions": "288 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZGL-KlasseAMG-X165--4610_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZGL-KlasseAMG-X165--4610_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZGL-KlasseAMG-X165--4610_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZGL-KlasseAMG-X165--4610_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZGL-KlasseAMG-X165--4610_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ GL-Klasse AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/gl-klasse-amg/",
+    "start_year": 2012,
+    "end_year": 2016
+  },
+  {
+    "generation": "2012 Mercedes-Benz GLK",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ GLK 200 6MT RWD (184 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-glk-2012.html#aeng_mercedes-benz-glk-2012-200",
+    "ENGINE SPECS - 200 6MT RWD (184 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1991 cm3",
+      "Power": "135 KW @ 5500 RPM\n184 HP @ 5500 RPM\n181 BHP @ 5500 RPM",
+      "Torque": "221 lb-ft @ 3000 RPM\n300 Nm @ 3000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.4 gallons (65.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "130 mph (209 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Ventilated discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/60 R 17"
+    },
+    "DIMENSIONS": {
+      "Length": "178.3 in (4529 mm)",
+      "Width": "74.25 in (1886 mm)",
+      "Height": "66.9 in (1699 mm)",
+      "Front/rear Track": "60.1/ 62.5 in (1,527/1,588 mm)",
+      "Wheelbase": "108.5 in (2756 mm)",
+      "Ground Clearance": "7.9 in (201 mm)",
+      "Cargo Volume": "15.9 cuFT (450 L)",
+      "Aerodynamics (Cd)": "0.35"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3605 lbs (1635 kg)",
+      "Gross Weight Limit": "5093 lbs (2310 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "25.6 mpg US (9.2 L/100Km)",
+      "Highway": "37.9 mpg US (6.2 L/100Km)",
+      "Combined": "32.2 mpg US (7.3 L/100Km)",
+      "CO2 Emissions": "170 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLK-5143_25.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLK-5143_26.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLK-5143_27.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLK-5143_28.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLK-5143_29.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ GLK-Klasse",
+    "url": "https://www.autoevolution.com/mercedes-benz/glk-klasse/",
+    "start_year": 2008,
+    "end_year": 2016
+  },
+  {
+    "generation": "MERCEDES BENZ ML-Klasse (W166)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ ML-Klasse (W166) 350 BlueEFFICIENCY 4MATIC 7AT AWD (306 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-ml-klasse-w166-2011.html#aeng_mercedes-benz-ml-klasse-w166-2011-350-blueefficiency-306-hp",
+    "ENGINE SPECS - 350 BLUEEFFICIENCY 4MATIC 7AT AWD (306 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3498 cm3",
+      "Power": "225 KW @ 6500 RPM\n306 HP @ 6500 RPM\n302 BHP @ 6500 RPM",
+      "Torque": "273 lb-ft @ 3500–5250 RPM\n370 Nm @ 3500–5250 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "25.1 gallons (95.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "146 mph (235 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "7.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic (G TRONIC)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/55 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "189.13 in (4804 mm)",
+      "Width": "84.29 in (2141 mm)",
+      "Height": "70.7 in (1796 mm)",
+      "Front/rear Track": "64.88/65.47 in (1,648/1,663 mm)",
+      "Wheelbase": "114.76 in (2915 mm)",
+      "Ground Clearance": "11.2 in (284 mm)",
+      "Cargo Volume": "29.4 cuFT (833 L)",
+      "Aerodynamics (Cd)": "0.34"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4696 lbs (2130 kg)",
+      "Gross Weight Limit": "6504 lbs (2950 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "21.6 mpg US (10.9 L/100Km)",
+      "Highway": "33.6 mpg US (7 L/100Km)",
+      "Combined": "27.7 mpg US (8.5 L/100Km)",
+      "CO2 Emissions": "199 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZML-Klasse-W166--4390_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZML-Klasse-W166--4390_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZML-Klasse-W166--4390_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZML-Klasse-W166--4390_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZML-Klasse-W166--4390_9.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ M-Klasse",
+    "url": "https://www.autoevolution.com/mercedes-benz/m-klasse/",
+    "start_year": 1997,
+    "end_year": 2015
+  },
+  {
+    "generation": "2011 Mercedes-Benz ML63 AMG",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ ML 63 AMG (W166) 5.5L V8 7AT (525 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-ml-63-amg-w166-2011.html#aeng_mercedes-benz-ml-63-amg-w166-2011-55l-v8",
+    "ENGINE SPECS - 5.5L V8 7AT (525 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "5461 cm3",
+      "Power": "386 KW @ 5750 RPM\n525 HP @ 5750 RPM\n518 BHP @ 5750 RPM",
+      "Torque": "516 lb-ft @ 2000-4500 RPM\n700 Nm @ 2000-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "174 mph (280 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic (AMG-SPEEDSHIFT)"
+    },
+    "BRAKES SPECS": {
+      "Front": "390 x 36 mm Ventilated Discs",
+      "Rear": "345 x 26 mm Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/45 R20 or 295/35 R21"
+    },
+    "DIMENSIONS": {
+      "Length": "189.8 in (4821 mm)",
+      "Width": "76.8 in (1951 mm)",
+      "Height": "73.2 in (1859 mm)",
+      "Front/rear Track": "64.9/65.5 in (1,648/1,664 mm)",
+      "Wheelbase": "114.8 in (2916 mm)",
+      "Ground Clearance": "6.9 in (175 mm)",
+      "Cargo Volume": "29.4 cuFT (833 L)",
+      "Aerodynamics (Cd)": "0.32"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "5170 lbs (2345 kg)",
+      "Gross Weight Limit": "6724 lbs (3050 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "14 mpg US (16.8 L/100Km)",
+      "Highway": "18 mpg US (13.1 L/100Km)",
+      "Combined": "16 mpg US (14.7 L/100Km)",
+      "CO2 Emissions": "276 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZML63AMG-W166--4432_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZML63AMG-W166--4432_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZML63AMG-W166--4432_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZML63AMG-W166--4432_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZML63AMG-W166--4432_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ M-Klasse AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/m-klasse-amg/",
+    "start_year": 1999,
+    "end_year": 2015
+  },
+  {
+    "generation": "2010 Mercedes-Benz R-Class (W251)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ R-Klasse (W251) 350 V6 BlueEFFICIENCY 4Matic 7AT AWD (306 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-r-klasse-2010.html#aeng_mercedes-benz-r-klasse-2010-350-blueefficiency-4matic-306-hp",
+    "ENGINE SPECS - 350 V6 BLUEEFFICIENCY 4MATIC 7AT AWD (306 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3498 cm3",
+      "Power": "225 KW @ 6500 RPM\n306 HP @ 6500 RPM\n302 BHP @ 6500 RPM",
+      "Torque": "273 lb-ft @ 3500-5250 RPM\n370 Nm @ 3500-5250 RPM",
+      "Fuel System": "Turbocharged direct injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "21.1 gallons (79.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "152 mph (245 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "7.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic (G TRONIC)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/55 R 18"
+    },
+    "DIMENSIONS": {
+      "Length": "193.7 in (4920 mm)",
+      "Width": "75.6 in (1920 mm)",
+      "Height": "65.9 in (1674 mm)",
+      "Front/rear Track": "65.4/65 in (1,661/1,651 mm)",
+      "Wheelbase": "117.3 in (2979 mm)",
+      "Ground Clearance": "5.8 in (147 mm)",
+      "Cargo Volume": "19.4/68.8 cuFT (549 L)",
+      "Aerodynamics (Cd)": "0.32",
+      "Turning circle": "40.7 ft (12.4 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4806 lbs (2180 kg)",
+      "Gross Weight Limit": "6261 lbs (2840 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "17.7 mpg US (13.3 L/100Km)",
+      "Highway": "28.7 mpg US (8.2 L/100Km)",
+      "Combined": "23.3 mpg US (10.1 L/100Km)",
+      "CO2 Emissions": "235 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZR-Klasse-4288_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZR-Klasse-4288_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZR-Klasse-4288_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZR-Klasse-4288_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZR-Klasse-4288_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ R-Klasse",
+    "url": "https://www.autoevolution.com/mercedes-benz/r-klasse/",
+    "start_year": 2005,
+    "end_year": 2013
+  },
+  {
+    "generation": "2006 Mercedes-Benz R 63 AMG (W251)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ R 63 AMG (W251) 6.2 V8",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-r-63-amg-w251-2006.html#aeng_mercedes-benz-r-63-amg-w251-2006-62-v8",
+    "ENGINE SPECS - 6.2 V8": {
+      "Cylinders": "V8",
+      "Displacement": "6208 cm3",
+      "Power": "375 KW @ 6800 RPM\n510 HP @ 6800 RPM\n503 BHP @ 6800 RPM",
+      "Torque": "465 lb-ft @ 5200 RPM\n630 Nm @ 5200 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155.3 mph (250 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "Automatic, 7 Speed"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/45R20"
+    },
+    "DIMENSIONS": {
+      "Length": "203.7 in (5174 mm)",
+      "Width": "75.7 in (1923 mm)",
+      "Height": "65.5 in (1664 mm)",
+      "Front/rear Track": "64.7/64.4 in (1,643/1,636 mm)",
+      "Wheelbase": "126.6 in (3216 mm)",
+      "Ground Clearance": "5.9 in (150 mm)",
+      "Cargo Volume": "24.2 cuFT (685 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "5015.5 lbs (2275 kg)",
+      "Gross Weight Limit": "6503.6 lbs (2950 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "9.7 mpg US (24.2 L/100Km)",
+      "Highway": "19.9 mpg US (11.8 L/100Km)",
+      "Combined": "14.4 mpg US (16.3 L/100Km)",
+      "CO2 Emissions": "387 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZR63AMG-W251--2515_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZR63AMG-W251--2515_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZR63AMG-W251--2515_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZR63AMG-W251--2515_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZR63AMG-W251--2515_7.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ R-Klasse AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/r-klasse-amg/",
+    "start_year": 2006,
+    "end_year": 2008
+  },
+  {
+    "generation": "MERCEDES BENZ R-Class Long (W251)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ R-Class Long (W251) 320 4MATIC 7AT (272 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-r-class-long-2010.html#aeng_mercedes-benz-r-class-long-2010-320-4matic-7at-272-hp",
+    "ENGINE SPECS - 320 4MATIC 7AT (272 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2996 cm3",
+      "Power": "200 KW @ 5000 RPM\n272 HP @ 5000 RPM\n268 BHP @ 5000 RPM",
+      "Torque": "295 lb-ft @ 1300-4500 RPM\n400 Nm @ 1300-4500 RPM",
+      "Fuel System": "Turbocharged Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "149 mph (240 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "7.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic (G TRONIC)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/55 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "203.1 in (5159 mm)",
+      "Width": "75.7 in (1923 mm)",
+      "Height": "65.5 in (1664 mm)",
+      "Front/rear Track": "64.7/64.4 in (1,643/1,636 mm)",
+      "Wheelbase": "126.6 in (3216 mm)",
+      "Ground Clearance": "5.8 in (147 mm)",
+      "Cargo Volume": "22.4 cuFT (634 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "5309 lbs (2408 kg)",
+      "Gross Weight Limit": "6592 lbs (2990 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16.2 mpg US (14.5 L/100Km)",
+      "Highway": "28.7 mpg US (8.2 L/100Km)",
+      "Combined": "23.5 mpg US (10 L/100Km)",
+      "CO2 Emissions": "249 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-R-Class-Long-5434_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-R-Class-Long-5434_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-R-Class-Long-5434_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-R-Class-Long-5434_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-R-Class-Long-5434_8.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ R-Klasse Lang",
+    "url": "https://www.autoevolution.com/mercedes-benz/r-klasse-lang/",
+    "start_year": 2005,
+    "end_year": 2013
+  },
+  {
+    "generation": "2014 Mercedes-Benz S63 AMG Coupe",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ S 63 AMG Coupe (C217) 5.5L V8 4MATIC 7AT AWD (585 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-s-63-amg-coupe-2014.html#aeng_mercedes-benz-s-63-amg-coupe-2014-55-v8-s-63-amg-4matic-7at-585-hp",
+    "ENGINE SPECS - 5.5L V8 4MATIC 7AT AWD (585 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "5461 cm3",
+      "Power": "430 KW @ 5500 RPM\n585 HP @ 5500 RPM\n577 BHP @ 5500 RPM",
+      "Torque": "664 lb-ft @ 2250-3750 RPM\n900 Nm @ 2250-3750 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "AMG SPEEDSHIFT MCT 7 Speed"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Ventilated discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/45 R 19"
+    },
+    "DIMENSIONS": {
+      "Length": "197.9 in (5027 mm)",
+      "Width": "74.8 in (1900 mm)",
+      "Height": "55.6 in (1412 mm)",
+      "Front/rear Track": "64/64.9 in (1,626/1,648 mm)",
+      "Wheelbase": "115.9 in (2944 mm)",
+      "Ground Clearance": "4.8 in (122 mm)",
+      "Cargo Volume": "14.1 cuFT (399 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4564 lbs (2070 kg)",
+      "Gross Weight Limit": "5611 lbs (2545 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "18 mpg US (13.1 L/100Km)",
+      "Highway": "31.4 mpg US (7.5 L/100Km)",
+      "Combined": "23.8 mpg US (9.9 L/100Km)",
+      "CO2 Emissions": "232 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-63-AMG-Coupe-5126_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-63-AMG-Coupe-5126_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-63-AMG-Coupe-5126_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-63-AMG-Coupe-5126_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-63-AMG-Coupe-5126_16.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ S-Class Coupe AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/s-class-coupe-amg/",
+    "start_year": 2014,
+    "end_year": 2017
+  },
+  {
+    "generation": "2013 Mercedes-AMG S 63",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ S 63 AMG (W222) 5.5l V8 4Matic 7AT (585 HP) - longbase",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-s-63-amg-w222-2013.html#aeng_mercedes-benz-s-63-amg-w222-2013-55l-v8-4matic-7at-585-hp-longbase",
+    "ENGINE SPECS - 5.5L V8 4MATIC 7AT (585 HP) - LONGBASE": {
+      "Cylinders": "V8",
+      "Displacement": "5461 cm3",
+      "Power": "430 KW @ 5500 RPM\n585 HP @ 5500 RPM\n577 BHP @ 5500 RPM",
+      "Torque": "664 lb-ft @ 2250-3750 RPM\n900 Nm @ 2250-3750 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "AMG SPEEDSHIFT MCT 7-speed sports transmission"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "Front: 255/45 R 19, Rear: 285/40 R 19"
+    },
+    "DIMENSIONS": {
+      "Length": "206.5 in (5245 mm)",
+      "Width": "74.8 in (1900 mm)",
+      "Height": "58.9 in (1496 mm)",
+      "Front/rear Track": "63.9/64.4 in (1,623/1,636 mm)",
+      "Wheelbase": "124.6 in (3165 mm)",
+      "Ground Clearance": "5 in (127 mm)",
+      "Cargo Volume": "18 cuFT (510 L)",
+      "Aerodynamics (Cd)": "0.28"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4310 lbs (1955 kg)",
+      "Gross Weight Limit": "6008 lbs (2725 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16.7 mpg US (14.1 L/100Km)",
+      "Highway": "29 mpg US (8.1 L/100Km)",
+      "Combined": "22.8 mpg US (10.3 L/100Km)",
+      "CO2 Emissions": "242 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-63-AMG--W222--4912_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-63-AMG--W222--4912_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-63-AMG--W222--4912_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-63-AMG--W222--4912_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-63-AMG--W222--4912_14.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ S-Klasse AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/s-klasse-amg/",
+    "start_year": 1999,
+    "end_year": 2017
+  },
+  {
+    "generation": "MERCEDES BENZ S-Class Coupe (C217)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ S-Class Coupe (C217) 560 9AT (469 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-s-class-coupe-c217-2017.html#aeng_mercedes-benz-s-class-coupe-c217-2017-560-9at-469-hp",
+    "ENGINE SPECS - 560 9AT (469 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3982 cm3",
+      "Power": "345 KW @ 5250-5500 RPM\n469 HP @ 5250-5500 RPM\n463 BHP @ 5250-5500 RPM",
+      "Torque": "516 lb-ft @ 2000-4000 RPM\n700 Nm @ 2000-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "9-speed automatic (9G-TRONIC)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "197.9 in (5027 mm)",
+      "Width": "74.8 in (1900 mm)",
+      "Height": "55.6 in (1412 mm)",
+      "Wheelbase": "115.9 in (2944 mm)",
+      "Cargo Volume": "14.1 cuFT (399 L)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "27 mpg US (8.7 L/100Km)",
+      "CO2 Emissions": "197 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-Class-Coupe--C217--6101_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-Class-Coupe--C217--6101_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-Class-Coupe--C217--6101_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-Class-Coupe--C217--6101_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-Class-Coupe--C217--6101_7.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ S-Klasse Coupe",
+    "url": "https://www.autoevolution.com/mercedes-benz/s-klasse-coupe/",
+    "start_year": 2014,
+    "end_year": 2020
+  },
+  {
+    "generation": "2016 Mercedes-Benz SL 63 AMG (R231)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ SL 63 AMG (R231) 5.5L 7AT (585 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-sl-63-amg-r231-2016.html#aeng_mercedes-benz-sl-63-amg-r231-2016-55-7at-585-hp",
+    "ENGINE SPECS - 5.5L 7AT (585 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "5461 cm3",
+      "Power": "430.3 KW @ 5500 RPM\n585 HP @ 5500 RPM\n577 BHP @ 5500 RPM",
+      "Torque": "664 lb-ft @ 2250-3750 RPM\n900 Nm @ 2250-3750 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "19.8 gallons (75.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic (AMG SPEEDSHIFT MCT)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/35 ZR 19 || 285/30 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "182.3 in (4630 mm)",
+      "Width": "73.9 in (1877 mm)",
+      "Height": "51.8 in (1316 mm)",
+      "Front/rear Track": "63/63.1 in (1,600/1,603 mm)",
+      "Wheelbase": "101.8 in (2586 mm)",
+      "Ground Clearance": "4.2 in (107 mm)",
+      "Cargo Volume": "12.9 cuFT (365 L)",
+      "Aerodynamics (Cd)": "0.32"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4068 lbs (1845 kg)",
+      "Gross Weight Limit": "4806 lbs (2180 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16.8 mpg US (14 L/100Km)",
+      "Highway": "30.5 mpg US (7.7 L/100Km)",
+      "Combined": "23.3 mpg US (10.1 L/100Km)",
+      "CO2 Emissions": "234 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SL-63-AMG--R231--5617_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SL-63-AMG--R231--5617_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SL-63-AMG--R231--5617_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SL-63-AMG--R231--5617_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SL-63-AMG--R231--5617_10.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ SL AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/sl-amg/",
+    "start_year": 1999,
+    "end_year": 2019
+  },
+  {
+    "generation": "2016 Mercedes-Benz SLC (R172)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ SLC-Class (R172) 180 6MT RWD (156 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-slc-class-r172-2016.html#aeng_mercedes-benz-slc-class-r172-2016-180-6mt-156-hp",
+    "ENGINE SPECS - 180 6MT RWD (156 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1595 cm3",
+      "Power": "114.8 KW @ 5300 RPM\n156 HP @ 5300 RPM\n154 BHP @ 5300 RPM",
+      "Torque": "184 lb-ft @ 1200-4000 RPM\n250 Nm @ 1200-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "15.9 gallons (60.2 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "140 mph (225 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "7.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/55 R 16"
+    },
+    "DIMENSIONS": {
+      "Length": "162.7 in (4133 mm)",
+      "Width": "71.3 in (1811 mm)",
+      "Height": "51.2 in (1300 mm)",
+      "Front/rear Track": "61.4/61.6 in (1,560/1,565 mm)",
+      "Wheelbase": "95.7 in (2431 mm)",
+      "Ground Clearance": "4.7 in (119 mm)",
+      "Cargo Volume": "10.1 cuFT (286 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3164 lbs (1435 kg)",
+      "Gross Weight Limit": "3858 lbs (1750 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "31.8 mpg US (7.4 L/100Km)",
+      "Highway": "52.3 mpg US (4.5 L/100Km)",
+      "Combined": "42 mpg US (5.6 L/100Km)",
+      "CO2 Emissions": "127 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SLC-Class--R172--5698_21.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SLC-Class--R172--5698_22.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SLC-Class--R172--5698_23.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SLC-Class--R172--5698_24.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SLC-Class--R172--5698_25.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ SLC-Class",
+    "url": "https://www.autoevolution.com/mercedes-benz/slc-class/",
+    "start_year": 2016,
+    "end_year": 2020
+  },
+  {
+    "generation": "MERCEDES BENZ SLK 55 AMG (R172)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ SLK 55 AMG (R172) 5.5 V8 7AT (421 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-slk-55-amg-r172-2012.html#aeng_mercedes-benz-slk-55-amg-r172-2012-55-amg",
+    "ENGINE SPECS - 5.5 V8 7AT (421 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "5461 cm3",
+      "Power": "310 KW @ 6800 RPM\n421 HP @ 6800 RPM\n416 BHP @ 6800 RPM",
+      "Torque": "398 lb-ft @ 4500 RPM\n540 Nm @ 4500 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic (G TRONIC)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235 / 40 R18 || 255 / 35 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "163.2 in (4145 mm)",
+      "Width": "79 in (2007 mm)",
+      "Height": "51.2 in (1300 mm)",
+      "Front/rear Track": "61/61.7 in (1,549/1,567 mm)",
+      "Wheelbase": "95.7 in (2431 mm)",
+      "Ground Clearance": "4.3 in (109 mm)",
+      "Cargo Volume": "7.9 cuFT (224 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3726 lbs (1690 kg)",
+      "Gross Weight Limit": "4211 lbs (1910 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "20 mpg US (11.8 L/100Km)",
+      "Highway": "38 mpg US (6.2 L/100Km)",
+      "Combined": "28 mpg US (8.4 L/100Km)",
+      "CO2 Emissions": "195 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZSLK55AMG-R172--4468_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZSLK55AMG-R172--4468_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZSLK55AMG-R172--4468_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZSLK55AMG-R172--4468_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZSLK55AMG-R172--4468_5.png"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ SLK AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/slk-amg/",
+    "start_year": 2000,
+    "end_year": 2016
+  },
+  {
+    "generation": "2009 Mercedes-Benz SLR Stirling Moss (Z199)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ SLR Stirling Moss (Z199) 5.4 V8 Kompressor 5AT (650 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-slr-stirling-moss-2009.html#aeng_mercedes-benz-slr-striling-moss-2009-54-v8-kompressor",
+    "ENGINE SPECS - 5.4 V8 KOMPRESSOR 5AT (650 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "5439 cm3",
+      "Power": "478 KW @ 6500 RPM\n650 HP @ 6500 RPM\n641 BHP @ 6500 RPM",
+      "Torque": "604 lb-ft @ 4000 RPM\n819 Nm @ 4000 RPM",
+      "Fuel System": "Supercharged Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "217 mph (349 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "5-speed automatic (AMG SPEEDSHIFT)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/35 19 || 295/30 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "189.7 in (4818 mm)",
+      "Width": "86.3 in (2192 mm)",
+      "Height": "48 in (1219 mm)",
+      "Front/rear Track": "64.3/61.7 in (1,633/1,567 mm)",
+      "Wheelbase": "106.2 in (2697 mm)",
+      "Ground Clearance": "3.9 in (99 mm)",
+      "Cargo Volume": "10.2 cuFT (289 L)",
+      "Aerodynamics (Cd)": "0.37"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3419 lbs (1551 kg)",
+      "Gross Weight Limit": "4233 lbs (1920 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "11.3 mpg US (20.8 L/100Km)",
+      "Highway": "21.8 mpg US (10.8 L/100Km)",
+      "Combined": "16.2 mpg US (14.5 L/100Km)",
+      "CO2 Emissions": "459-295 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZSLRStrilingMoss-4128_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZSLRStrilingMoss-4128_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZSLRStrilingMoss-4128_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZSLRStrilingMoss-4128_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZSLRStrilingMoss-4128_8.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ SLR McLaren",
+    "url": "https://www.autoevolution.com/mercedes-benz/slr-mclaren/",
+    "start_year": 2003,
+    "end_year": 2009
+  },
+  {
+    "generation": "MERCEDES BENZ SLS AMG Black Series",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ SLS AMG Black Series 6.3L V8 7AT (631 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-sls-amg-black-series-2013.html#aeng_mercedes-benz-sls-amg-black-series-2013-63l-v8-7at-631-hp",
+    "ENGINE SPECS - 6.3L V8 7AT (631 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "6208 cm3",
+      "Power": "464.1 KW @ 7400 RPM\n631 HP @ 7400 RPM\n622 BHP @ 7400 RPM",
+      "Torque": "468 lb-ft @ 5500 RPM\n635 Nm @ 5500 RPM",
+      "Fuel System": "Multipoint indirect Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "196 mph (315 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic DCT"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "275/35 ZR19 // 325/30 ZR20"
+    },
+    "DIMENSIONS": {
+      "Length": "182.6 in (4638 mm)",
+      "Width": "77.4 in (1966 mm)",
+      "Height": "49.6 in (1260 mm)",
+      "Front/rear Track": "67/66 in (1,702/1,676 mm)",
+      "Wheelbase": "105.5 in (2680 mm)",
+      "Ground Clearance": "3.9 in (99 mm)",
+      "Cargo Volume": "6.2 cuFT (176 L)",
+      "Aerodynamics (Cd)": "0.38"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3417 lbs (1550 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "17.2 mpg US (13.7 L/100Km)",
+      "CO2 Emissions": "321 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SLS-AMG-Black-Series-6730_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SLS-AMG-Black-Series-6730_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SLS-AMG-Black-Series-6730_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SLS-AMG-Black-Series-6730_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-SLS-AMG-Black-Series-6730_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ SLS AMG",
+    "url": "https://www.autoevolution.com/mercedes-benz/sls-amg/",
+    "start_year": 2010,
+    "end_year": 2015
+  },
+  {
+    "generation": "1996 Mercedes-Benz V-Class (W638)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ V-Klasse (W638) V-230 5MT FWD (143 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-v-klasse-w638-1996.html#aeng_mercedes-benz-v-klasse-w638-1996-230",
+    "ENGINE SPECS - V-230 5MT FWD (143 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2295 cm3",
+      "Power": "105 KW @ 5000 RPM\n143 HP @ 5000 RPM\n141 BHP @ 5000 RPM",
+      "Torque": "155 lb-ft @ 4000 RPM\n210 Nm @ 4000 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "20.6 gallons (78.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "108.1 mph (174 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "14.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "195/70 R15 C 96 T"
+    },
+    "DIMENSIONS": {
+      "Length": "183.4 in (4658 mm)",
+      "Width": "74 in (1880 mm)",
+      "Height": "72.6 in (1844 mm)",
+      "Front/rear Track": "63.8/64.2 in (1,621/1,631 mm)",
+      "Wheelbase": "118.1 in (3000 mm)",
+      "Ground Clearance": "6.3 in (160 mm)",
+      "Cargo Volume": "20.5-120.8 cuFT (580 L)",
+      "Aerodynamics (Cd)": "0.4"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4409.2 lbs (2000 kg)",
+      "Gross Weight Limit": "5798.1 lbs (2630 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "14.2 mpg US (16.6 L/100Km)",
+      "Highway": "27 mpg US (8.7 L/100Km)",
+      "Combined": "20.2 mpg US (11.6 L/100Km)",
+      "CO2 Emissions": "276 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZV-Klasse-W638--2517_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZV-Klasse-W638--2517_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZV-Klasse-W638--2517_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZV-Klasse-W638--2517_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZV-Klasse-W638--2517_10.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ V-Class and predecessors",
+    "url": "https://www.autoevolution.com/mercedes-benz/v-class-and-predecessors/",
+    "start_year": 1996,
+    "end_year": 2023
+  },
+  {
+    "generation": "2003 Mercedes-Benz Vaneo (W414)",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ VANEO (W414) 1.6L 5MT FWD (102 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-vaneo-w414-2002.html#aeng_mercedes-benz-vaneo-1999-16-102-hp",
+    "ENGINE SPECS - 1.6L 5MT FWD (102 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1598 cm3",
+      "Power": "75 KW @ 5250 RPM\n102 HP @ 5250 RPM\n101 BHP @ 5250 RPM",
+      "Torque": "111 lb-ft @ 4000 RPM\n150 Nm @ 4000 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.3 gallons (54.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "104 mph (167 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "13.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "195/55 R15T"
+    },
+    "DIMENSIONS": {
+      "Length": "165 in (4191 mm)",
+      "Width": "68.6 in (1742 mm)",
+      "Height": "73 in (1854 mm)",
+      "Front/rear Track": "6/5.8 in (152/147 mm)",
+      "Wheelbase": "114.2 in (2901 mm)",
+      "Cargo Volume": "25.3 cuFT (716 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3009 lbs (1365 kg)",
+      "Gross Weight Limit": "4211 lbs (1910 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "23.5 mpg US (10 L/100Km)",
+      "Highway": "39.2 mpg US (6 L/100Km)",
+      "Combined": "29.4 mpg US (8 L/100Km)",
+      "CO2 Emissions": "192 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZVANEO-405_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZVANEO-405_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZVANEO-405_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZVANEO-405_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZVANEO-405_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ VANEO",
+    "url": "https://www.autoevolution.com/mercedes-benz/vaneo/",
+    "start_year": 2002,
+    "end_year": 2006
+  },
+  {
+    "generation": "MERCEDES BENZ VIANO",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ VIANO 3.5L V6 RWD (258 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-viano-2010.html#aeng_mercedes-benz-viano-2010-35-cdi-v6-258hp",
+    "ENGINE SPECS - 3.5L V6 RWD (258 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3498 cm3",
+      "Power": "190 KW @ 5900 RPM\n258 HP @ 5900 RPM\n255 BHP @ 5900 RPM",
+      "Torque": "229 lb-ft @ 1400-2400 RPM\n310 Nm @ 1400-2400 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "19.8 gallons (75.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "135 mph (217 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "5-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/60 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "197.2 in (5009 mm)",
+      "Width": "74.8 in (1900 mm)",
+      "Height": "73.8 in (1875 mm)",
+      "Front/rear Track": "64.2/64.2 in (1,631/1,631 mm)",
+      "Wheelbase": "126 in (3200 mm)",
+      "Ground Clearance": "5.9 in (150 mm)",
+      "Cargo Volume": "25.8 cuFT (731 L)",
+      "Aerodynamics (Cd)": "0.33"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4497 lbs (2040 kg)",
+      "Gross Weight Limit": "6173 lbs (2800 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "14.3 mpg US (16.4 L/100Km)",
+      "Highway": "24.8 mpg US (9.5 L/100Km)",
+      "Combined": "19.6 mpg US (12 L/100Km)",
+      "CO2 Emissions": "284 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZVIANO-4359_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZVIANO-4359_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZVIANO-4359_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZVIANO-4359_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZVIANO-4359_5.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ VIANO",
+    "url": "https://www.autoevolution.com/mercedes-benz/viano/",
+    "start_year": 2003,
+    "end_year": 2014
+  },
+  {
+    "generation": "MERCEDES BENZ X-Class",
+    "fuel_type": "gasoline",
+    "engine": "MERCEDES BENZ X-Class 200 6MT RWD (166 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-x-class-2017.html#aeng_mercedes-benz-x-class-2017-200-6mt-166-hp",
+    "ENGINE SPECS - 200 6MT RWD (166 HP)": {
+      "Cylinders": "L4",
+      "Power": "122.1 KW @ - RPM\n166 HP @ - RPM\n164 BHP @ - RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "19.3 gallons (73.1 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/65 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "210.2 in (5339 mm)",
+      "Width": "75.6 in (1920 mm)",
+      "Height": "71.6 in (1819 mm)",
+      "Front/rear Track": "64.3/64.3 in (1,633/1,633 mm)",
+      "Wheelbase": "124 in (3150 mm)",
+      "Ground Clearance": "8 in (203 mm)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-X-Class-6067_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-X-Class-6067_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-X-Class-6067_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-X-Class-6067_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-X-Class-6067_14.jpg"
+    ],
+    "brand": "MERCEDES BENZ",
+    "model": "MERCEDES BENZ X-Class",
+    "url": "https://www.autoevolution.com/mercedes-benz/x-class/",
+    "start_year": 2017,
+    "end_year": 2020
+  }
+]

@@ -1,0 +1,1608 @@
+[
+  {
+    "generation": "2024 Cadillac XT4",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC 2023 XT4 2.0L Turbocharged 9AT FWD (238 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-2023-xt4-2023.html#aeng_cadillac-2023-xt4-2023-20l-turbocharged-9at-fwd-267-hp",
+    "ENGINE SPECS - 2.0L TURBOCHARGED 9AT FWD (238 HP)": {
+      "Cylinders": "L4",
+      "Power": "175 KW @ 5000 RPM\n238 HP @ 5000 RPM\n235 BHP @ 5000 RPM",
+      "Torque": "258 lb-ft @ 1500-4000 RPM\n350 Nm @ 1500-4000 RPM",
+      "Fuel": "Gasoline"
+    },
+    "DIMENSIONS": {
+      "Length": "181.1 in (4600 mm)",
+      "Width": "83.5 in (2121 mm)",
+      "Height": "64.1 in (1628 mm)",
+      "Front/rear Track": "63.2/63.1 in (1,605/1,603 mm)",
+      "Wheelbase": "109.4 in (2779 mm)",
+      "Ground Clearance": "6.7 in (170 mm)",
+      "Cargo Volume": "22.5 cuFT (637 L)",
+      "Turning circle": "38.1 ft (11.6 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3660 lbs (1660 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-2023-xt4-2023-7426_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-2023-xt4-2023-7426_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-2023-xt4-2023-7426_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-2023-xt4-2023-7426_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-2023-xt4-2023-7426_2.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC XT4",
+    "url": "https://www.autoevolution.com/cadillac/xt4/",
+    "start_year": 2018,
+    "end_year": 2025
+  },
+  {
+    "generation": "2025 Cadillac CT5-V",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC CT5-V 3.0L V6 10AT AWD (365 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-ct5-v-2024.html#aeng_cadillac-ct5-v-2024-30l-v6-10at-awd-365-hp",
+    "ENGINE SPECS - 3.0L V6 10AT AWD (365 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2990 cm3",
+      "Power": "268.5 KW @ 5400 RPM\n365 HP @ 5400 RPM\n360 BHP @ 5400 RPM",
+      "Torque": "406 lb-ft @ 2350-4000 RPM\n550 Nm @ 2350-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.4 gallons (65.9 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "10-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/40 R19"
+    },
+    "DIMENSIONS": {
+      "Length": "194.7 in (4945 mm)",
+      "Width": "74.1 in (1882 mm)",
+      "Height": "57.2 in (1453 mm)",
+      "Front/rear Track": "62.8/63.9 in (1,595/1,623 mm)",
+      "Wheelbase": "116 in (2946 mm)",
+      "Cargo Volume": "11.9 cuFT (337 L)",
+      "Turning circle (curb to curb)": "39 ft (11.9 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4202 lbs (1906 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-ct5-v-2024-7657_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-ct5-v-2024-7657_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-ct5-v-2024-7657_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-ct5-v-2024-7657_3.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC CT5-V",
+    "url": "https://www.autoevolution.com/cadillac/ct5-v/",
+    "start_year": 2019,
+    "end_year": null
+  },
+  {
+    "generation": "2025 Cadillac Escalade",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC Escalade 6.2L V8 10AT AWD (426 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-escalade-2024.html#aeng_cadillac-escalade-2024-62l-v8-10at-awd-426-hp",
+    "ENGINE SPECS - 6.2L V8 10AT AWD (426 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "6162 cm3",
+      "Power": "313.2 KW @ 5600 RPM\n425.8 HP @ 5600 RPM\n420 BHP @ 5600 RPM",
+      "Torque": "460 lb-ft @ 4100 RPM\n623 Nm @ 4100 RPM",
+      "Fuel System": "Direct injection Naturally aspirated",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "24 gallons (90.8 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "10-speed automatic Hydra-Matic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Ventilated discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "275/50 R22"
+    },
+    "DIMENSIONS": {
+      "Length": "211.9 in (5382 mm)",
+      "Width": "85 in (2159 mm)",
+      "Height": "76.3 in (1938 mm)",
+      "Front/rear Track": "68.4/68.1 in (1,737/1,730 mm)",
+      "Wheelbase": "120.9 in (3071 mm)",
+      "Cargo Volume": "25.5 cuFT (722 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "6014 lbs (2728 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-escalade-2024-7809_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-escalade-2024-7809_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-escalade-2024-7809_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-escalade-2024-7809_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-escalade-2024-7809_15.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC Escalade",
+    "url": "https://www.autoevolution.com/cadillac/escalade/",
+    "start_year": 2000,
+    "end_year": null
+  },
+  {
+    "generation": "2025 Cadillac CT5",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC CT5 2.0L Turbo 10AT AWD (240 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-ct5-2023.html#aeng_cadillac-ct5-2023-20l-turbo-10at-awd-240-hp",
+    "ENGINE SPECS - 2.0L TURBO 10AT AWD (240 HP)": {
+      "Cylinders": "L4",
+      "Power": "176.7 KW @ 5000 RPM\n240 HP @ 5000 RPM\n237 BHP @ 5000 RPM",
+      "Torque": "258 lb-ft @ 1500-4000 RPM\n350 Nm @ 1500-4000 RPM",
+      "Fuel System": "Direct injection with electronic throttle control",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.4 gallons (65.9 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "10-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/45 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "194 in (4928 mm)",
+      "Width": "74.1 in (1882 mm)",
+      "Height": "57.2 in (1453 mm)",
+      "Front/rear Track": "62.8/63.9 in (1,595/1,623 mm)",
+      "Wheelbase": "116 in (2946 mm)",
+      "Cargo Volume": "11.9 cuFT (337 L)",
+      "Turning circle": "40.7 ft (12.4 m)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-ct5-2023-7593_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-ct5-2023-7593_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-ct5-2023-7593_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-ct5-2023-7593_1.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC CT5",
+    "url": "https://www.autoevolution.com/cadillac/ct5/",
+    "start_year": 2019,
+    "end_year": null
+  },
+  {
+    "generation": "2020 Cadillac CT4",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC CT4 2.0L Turbo 8AT AWD (240 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-ct4-2019.html#aeng_cadillac-ct4-2019-20l-turbo-8at-awd-243-hp",
+    "ENGINE SPECS - 2.0L TURBO 8AT AWD (240 HP)": {
+      "Cylinders": "L4",
+      "Power": "176.7 KW @ 5000 RPM\n240 HP @ 5000 RPM\n237 BHP @ 5000 RPM",
+      "Torque": "258 lb-ft @ 1500-4000 RPM\n350 Nm @ 1500-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.4 gallons (65.9 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/45 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "187.2 in (4755 mm)",
+      "Width": "71.5 in (1816 mm)",
+      "Height": "56 in (1422 mm)",
+      "Front/rear Track": "60.3/61.7 in (1,532/1,567 mm)",
+      "Wheelbase": "109.3 in (2776 mm)",
+      "Cargo Volume": "10.7 cuFT (303 L)",
+      "Turning circle": "38.1 ft (11.6 m)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "23.1 mpg US (10.2 L/100Km)",
+      "Highway": "34.1 mpg US (6.9 L/100Km)",
+      "Combined": "27 mpg US (8.7 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-ct4-2019-7549_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-ct4-2019-7549_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-ct4-2019-7549_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-ct4-2019-7549_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-ct4-2019-7549_11.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC CT4",
+    "url": "https://www.autoevolution.com/cadillac/ct4-v/",
+    "start_year": 2019,
+    "end_year": null
+  },
+  {
+    "generation": "2022 Cadillac CT4-V Blackwing",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC CT4-V Blackwing 3.6L V6 10AT (472 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-blackwing-2021.html#aeng_cadillac-blackwing-2021-36l-v6-10at-472-hp",
+    "ENGINE SPECS - 3.6L V6 10AT (472 HP)": {
+      "Cylinders": "V6",
+      "Power": "347.2 KW @ - RPM\n472 HP @ - RPM\n466 BHP @ - RPM",
+      "Torque": "445 lb-ft @ - RPM\n603 Nm @ - RPM",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "189 mph (304 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "10-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/35ZR18 // 275/35ZR18"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-blackwing-2021-7003_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-blackwing-2021-7003_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-blackwing-2021-7003_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-blackwing-2021-7003_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-blackwing-2021-7003_12.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC CT4-V",
+    "url": "https://www.autoevolution.com/cadillac/ct4-v-1/",
+    "start_year": 2019,
+    "end_year": null
+  },
+  {
+    "generation": "2013 Cadillac ATS",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC ATS 2.0L Turbo AWD 6AT (276 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-ats-2012.html#aeng_cadillac-ats-2012-20l-turbo-awd-6at-276-hp",
+    "ENGINE SPECS - 2.0L TURBO AWD 6AT (276 HP)": {
+      "Cylinders": "4",
+      "Displacement": "1998 cm3",
+      "Power": "203 KW @ 5500 RPM\n276 HP @ 5500 RPM\n272 BHP @ 5500 RPM",
+      "Torque": "260 lb-ft @ 1700-5500 RPM\n353 Nm @ 1700-5500 RPM",
+      "Fuel System": "direct high-pressure fuel injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6 speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "vented disks",
+      "Rear": "vented disks"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P225/45R17"
+    },
+    "DIMENSIONS": {
+      "Length": "182.8 in (4643 mm)",
+      "Width": "55.9 in (1420 mm)",
+      "Height": "71.1 in (1806 mm)",
+      "Front/rear Track": "59.5/60.9 in (1,511/1,547 mm)",
+      "Wheelbase": "109.3 in (2776 mm)",
+      "Cargo Volume": "10.2 cuFT (289 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3543 lbs (1607 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "20 mpg US (11.8 L/100Km)",
+      "Highway": "30 mpg US (7.8 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACATS-4461_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACATS-4461_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACATS-4461_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACATS-4461_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACATS-4461_5.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC ATS",
+    "url": "https://www.autoevolution.com/cadillac/ats/",
+    "start_year": 2012,
+    "end_year": 2019
+  },
+  {
+    "generation": "2015 Cadillac ATS Coupe",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC ATS Coupe 2.0L Turbo 6MT AWD (276 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-ats-coupe-2014.html#aeng_cadillac-ats-coupe-2014-20-turbo-awd-6mt-276-hp",
+    "ENGINE SPECS - 2.0L TURBO 6MT AWD (276 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1998 cm3",
+      "Power": "203 KW @ 5500 RPM\n276 HP @ 5500 RPM\n272 BHP @ 5500 RPM",
+      "Torque": "295 lb-ft @ 3000-4600 RPM\n400 Nm @ 3000-4600 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "16 gallons (60.6 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "164 mph (264 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Solid Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/40R18"
+    },
+    "DIMENSIONS": {
+      "Length": "183.6 in (4663 mm)",
+      "Width": "72.5 in (1842 mm)",
+      "Height": "54.8 in (1392 mm)",
+      "Front/rear Track": "60.3/61.7 in (1,532/1,567 mm)",
+      "Wheelbase": "109.3 in (2776 mm)",
+      "Ground Clearance": "5.7 in (145 mm)",
+      "Cargo Volume": "10.4 cuFT (294 L)",
+      "Aerodynamics (Cd)": "0.29"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3417 lbs (1550 kg)",
+      "Gross Weight Limit": "4519 lbs (2050 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "21 mpg US (11.2 L/100Km)",
+      "Highway": "31 mpg US (7.6 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-Coupe-5088_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-Coupe-5088_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-Coupe-5088_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-Coupe-5088_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-Coupe-5088_5.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC ATS Coupe",
+    "url": "https://www.autoevolution.com/cadillac/ats-coupe/",
+    "start_year": 2014,
+    "end_year": 2019
+  },
+  {
+    "generation": "2015 Cadillac ATS-V",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC ATS-V 3.6L V6 6MT RWD (464 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-ats-v-2015.html#aeng_cadillac-ats-v-2015-36-v6-6mt-455-hp",
+    "ENGINE SPECS - 3.6L V6 6MT RWD (464 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3564 cm3",
+      "Power": "346 KW @ 5750 RPM\n470 HP @ 5750 RPM\n464 BHP @ 5750 RPM",
+      "Torque": "444 lb-ft @ 603 RPM\n602 Nm @ 603 RPM",
+      "Fuel System": "Turbocharged direct injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "16 gallons (60.6 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Acceleration 0-62 Mph (0-100 kph)": "4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Ventilated disc"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/35Z R18 || 275/35Z R18"
+    },
+    "DIMENSIONS": {
+      "Length": "184 in (4674 mm)",
+      "Width": "71.3 in (1811 mm)",
+      "Height": "55.7 in (1415 mm)",
+      "Front/rear Track": "60.6/60.5 in (1,539/1,537 mm)",
+      "Wheelbase": "109.3 in (2776 mm)",
+      "Cargo Volume": "9.4 cuFT (266 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3760 lbs (1706 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-V-5341_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-V-5341_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-V-5341_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-V-5341_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-V-5341_6.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC ATS-V",
+    "url": "https://www.autoevolution.com/cadillac/ats-v/",
+    "start_year": 2015,
+    "end_year": 2019
+  },
+  {
+    "generation": "2016 Cadillac ATS-V Coupe",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC ATS-V Coupe 3.6L V6 6MT RWD (464 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-ats-v-coupe-2015.html#aeng_cadillac-ats-v-coupe-2015-36-v6-6mt-455-hp",
+    "ENGINE SPECS - 3.6L V6 6MT RWD (464 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3564 cm3",
+      "Power": "346 KW @ 5750 RPM\n470 HP @ 5750 RPM\n464 BHP @ 5750 RPM",
+      "Torque": "444 lb-ft @ 3500 RPM\n602 Nm @ 3500 RPM",
+      "Fuel System": "Turbocharged direct injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "16.1 gallons (60.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Ventilated disc"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/35Z R18 || 275/35Z R18"
+    },
+    "DIMENSIONS": {
+      "Length": "184.7 in (4691 mm)",
+      "Width": "72.5 in (1842 mm)",
+      "Height": "54.5 in (1384 mm)",
+      "Front/rear Track": "60.6/61.4 in (1,539/1,560 mm)",
+      "Wheelbase": "109.3 in (2776 mm)",
+      "Cargo Volume": "10.4 cuFT (294 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3600 lbs (1633 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-V-Coupe-5340_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-V-Coupe-5340_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-V-Coupe-5340_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-V-Coupe-5340_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-ATS-V-Coupe-5340_7.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC ATS-V Coupe",
+    "url": "https://www.autoevolution.com/cadillac/ats-v-coupe/",
+    "start_year": 2015,
+    "end_year": 2019
+  },
+  {
+    "generation": "2006 Cadillac BLS",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC BLS 2.0L Turbo 5AT FWD (175 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-bls-2006.html#aeng_cadillac-bls-2006-20-turbo-5at-175-hp",
+    "ENGINE SPECS - 2.0L TURBO 5AT FWD (175 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1998 cm3",
+      "Power": "129 KW @ 5500 RPM\n175 HP @ 5500 RPM\n173 BHP @ 5500 RPM",
+      "Torque": "265 lb-ft @ 2500 RPM\n359 Nm @ 2500 RPM",
+      "Fuel System": "Turbocharged Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "15.3 gallons (57.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "137 mph (220 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/55 VR16"
+    },
+    "DIMENSIONS": {
+      "Length": "184.3 in (4681 mm)",
+      "Width": "68.9 in (1750 mm)",
+      "Height": "57.9 in (1471 mm)",
+      "Front/rear Track": "59.8/59.4 in (1,519/1,509 mm)",
+      "Wheelbase": "105.5 in (2680 mm)",
+      "Ground Clearance": "4.7 in (119 mm)",
+      "Cargo Volume": "15 cuFT (425 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3263 lbs (1480 kg)",
+      "Gross Weight Limit": "4431 lbs (2010 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "18.2 mpg US (12.9 L/100Km)",
+      "Highway": "35.1 mpg US (6.7 L/100Km)",
+      "Combined": "26.1 mpg US (9 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACBLS-1050_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACBLS-1050_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACBLS-1050_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACBLS-1050_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACBLS-1050_8.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC BLS",
+    "url": "https://www.autoevolution.com/cadillac/bls/",
+    "start_year": 2006,
+    "end_year": 2010
+  },
+  {
+    "generation": "2007 Cadillac BLS Wagon",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC BLS Wagon 2.0L Turbo 5AT FWD (210 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-bls-wagon-2007.html#aeng_cadillac-bls-wagon-2007-20-turbo-5at-210-hp",
+    "ENGINE SPECS - 2.0L TURBO 5AT FWD (210 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1998 cm3",
+      "Power": "154.5 KW @ 5300 RPM\n210 HP @ 5300 RPM\n207 BHP @ 5300 RPM",
+      "Torque": "221 lb-ft @ 2500-4000 RPM\n300 Nm @ 2500-4000 RPM",
+      "Fuel System": "Turbocharged Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "15.3 gallons (57.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "134 mph (216 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/55 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "184.3 in (4681 mm)",
+      "Width": "68.9 in (1750 mm)",
+      "Height": "57.9 in (1471 mm)",
+      "Front/rear Track": "59.8/59.4 in (1,519/1,509 mm)",
+      "Wheelbase": "105.5 in (2680 mm)",
+      "Ground Clearance": "4.7 in (119 mm)",
+      "Cargo Volume": "14.8 cuFT (419 L)",
+      "Aerodynamics (Cd)": "0.31",
+      "Turning circle": "35.4 ft (10.8 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3450 lbs (1565 kg)",
+      "Gross Weight Limit": "4630 lbs (2100 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "17.2 mpg US (13.7 L/100Km)",
+      "Highway": "36.2 mpg US (6.5 L/100Km)",
+      "Combined": "25.8 mpg US (9.1 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACBLS-3911_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACBLS-3911_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACBLS-3911_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACBLS-3911_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACBLS-3911_5.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC BLS Wagon",
+    "url": "https://www.autoevolution.com/cadillac/bls-wagon/",
+    "start_year": 2007,
+    "end_year": 2010
+  },
+  {
+    "generation": "1997 Cadillac Catera",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC Catera 3.0L V6 (200 HP) 4AT",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-catera-1997.html#aeng_cadillac-catera-1997-30",
+    "ENGINE SPECS - 3.0L V6 (200 HP) 4AT": {
+      "Cylinders": "V6",
+      "Displacement": "2962 cm3",
+      "Power": "149 KW @ 6000 RPM\n203 HP @ 6000 RPM\n200 BHP @ 6000 RPM",
+      "Torque": "192 lb-ft @ 3600 RPM\n260 Nm @ 3600 RPM",
+      "Fuel System": "Multipoint injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "125 mph (201 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "4 Speed, automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/55 HR 16"
+    },
+    "DIMENSIONS": {
+      "Length": "193.8 in (4923 mm)",
+      "Width": "70.3 in (1786 mm)",
+      "Height": "57.4 in (1458 mm)",
+      "Front/rear Track": "59.1/59.8 in (1,501/1,519 mm)",
+      "Wheelbase": "107.4 in (2728 mm)",
+      "Ground Clearance": "5.1 in (130 mm)",
+      "Cargo Volume": "16.6 cuFT (470 L)",
+      "Aerodynamics (Cd)": "0.33"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3770 lbs (1710 kg)",
+      "Gross Weight Limit": "4817 lbs (2185 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "18 mpg US (13.1 L/100Km)",
+      "Highway": "25 mpg US (9.4 L/100Km)",
+      "Combined": "21 mpg US (11.2 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACCatera-1042_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACCatera-1042_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACCatera-1042_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-Catera-1042_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-Catera-1042_8.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC Catera",
+    "url": "https://www.autoevolution.com/cadillac/catera/",
+    "start_year": 1997,
+    "end_year": 2001
+  },
+  {
+    "generation": "2019 Cadillac CT6 V-Sport",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC CT6 V-Sport 4.2L V8 10AT (550 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-ct6-v-sport-2018.html#aeng_cadillac-ct6-v-sport-2018-42l-v8-10at-550-hp",
+    "ENGINE SPECS - 4.2L V8 10AT (550 HP)": {
+      "Cylinders": "V*",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Gearbox": "10-Sped automatic"
+    },
+    "DIMENSIONS": {
+      "Length": "204 in (5182 mm)",
+      "Width": "74 in (1880 mm)",
+      "Height": "58 in (1473 mm)",
+      "Wheelbase": "122.4 in (3109 mm)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CT6-V-Sport-6326_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CT6-V-Sport-6326_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CT6-V-Sport-6326_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CT6-V-Sport-6326_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CT6-V-Sport-6326_12.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC CT6",
+    "url": "https://www.autoevolution.com/cadillac/ct6/",
+    "start_year": 2016,
+    "end_year": 2023
+  },
+  {
+    "generation": "2013 CADILLAC CTS",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC CTS 2.0L Turbo 6AT AWD (276 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-cts-2013.html#aeng_cadillac-cts-2013-20-turbo-awd-6at-276-hp",
+    "ENGINE SPECS - 2.0L TURBO 6AT AWD (276 HP)": {
+      "Cylinders": "4",
+      "Displacement": "1998 cm3",
+      "Power": "203 KW @ 5500 RPM\n276 HP @ 5500 RPM\n272 BHP @ 5500 RPM",
+      "Torque": "295 lb-ft @ 1700-5500 RPM\n400 Nm @ 1700-5500 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6 speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Solid Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/45R17"
+    },
+    "DIMENSIONS": {
+      "Length": "195.5 in (4966 mm)",
+      "Width": "72.2 in (1834 mm)",
+      "Height": "57.7 in (1466 mm)",
+      "Front/rear Track": "61.4/61.7 in (1,560/1,567 mm)",
+      "Wheelbase": "114.6 in (2911 mm)",
+      "Cargo Volume": "13.7 cuFT (388 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3616 lbs (1640 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "18 mpg US (13.1 L/100Km)",
+      "Highway": "28 mpg US (8.4 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-4833_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-4833_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-4833_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-4833_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-4833_5.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC CTS",
+    "url": "https://www.autoevolution.com/cadillac/cts/",
+    "start_year": 2002,
+    "end_year": 2019
+  },
+  {
+    "generation": "2011 Cadillac CTS Coupe",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC CTS Coupe 3.6L V6 AWD 6AT (322 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-cts-coupe-2011.html#aeng_cadillac-cts-coupe-2011-36l-v6-awd",
+    "ENGINE SPECS - 3.6L V6 AWD 6AT (322 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3564 cm3",
+      "Power": "237 KW @ 6800 RPM\n322 HP @ 6800 RPM\n318 BHP @ 6800 RPM",
+      "Torque": "275 lb-ft @ 4900 RPM\n373 Nm @ 4900 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Acceleration 0-62 Mph (0-100 kph)": "7.3 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "316 x 30 Ventilated Discs",
+      "Rear": "315 x 23 Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P235/50R18 || P265/45R18"
+    },
+    "DIMENSIONS": {
+      "Length": "188.5 in (4788 mm)",
+      "Width": "74.1 in (1882 mm)",
+      "Height": "56 in (1422 mm)",
+      "Front/rear Track": "62/63 in (1,575/1,600 mm)",
+      "Wheelbase": "113.4 in (2880 mm)",
+      "Cargo Volume": "10.5 cuFT (297 L)",
+      "Aerodynamics (Cd)": "0.36"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4096 lbs (1858 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "18 mpg US (13.1 L/100Km)",
+      "Highway": "27 mpg US (8.7 L/100Km)",
+      "Combined": "21 mpg US (11.2 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-Coupe-4458_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-Coupe-4458_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-Coupe-4458_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-Coupe-4458_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-Coupe-4458_6.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC CTS Coupe",
+    "url": "https://www.autoevolution.com/cadillac/cts-coupe/",
+    "start_year": 2011,
+    "end_year": 2014
+  },
+  {
+    "generation": "2010 Cadillac CTS Sport Wagon",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC CTS Sport Wagon 3.0L V6 6AT RWD (276 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-cts-sport-wagon-2009.html#aeng_cadillac-cts-sport-wagon-2009-30-v6-rwd",
+    "ENGINE SPECS - 3.0L V6 6AT RWD (276 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2994 cm3",
+      "Power": "203 KW @ 7000 RPM\n276 HP @ 7000 RPM\n272 BHP @ 7000 RPM",
+      "Torque": "223 lb-ft @ 5700 RPM\n302 Nm @ 5700 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18 gallons (68.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "140 mph (225 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P235/50 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "192 in (4877 mm)",
+      "Width": "72.5 in (1842 mm)",
+      "Height": "58 in (1473 mm)",
+      "Front/rear Track": "61.8/62.2 in (1,570/1,580 mm)",
+      "Wheelbase": "113.4 in (2880 mm)",
+      "Ground Clearance": "5.9 in (150 mm)",
+      "Cargo Volume": "25.4 cuFT (719 L)",
+      "Aerodynamics (Cd)": "0.33"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4255 lbs (1930 kg)",
+      "Gross Weight Limit": "5203 lbs (2360 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "14.5 mpg US (16.2 L/100Km)",
+      "Highway": "30.5 mpg US (7.7 L/100Km)",
+      "Combined": "21.8 mpg US (10.8 L/100Km)",
+      "CO2 Emissions": "249 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACCTSSportWagon-3910_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACCTSSportWagon-3910_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACCTSSportWagon-3910_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACCTSSportWagon-3910_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACCTSSportWagon-3910_5.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC CTS Sport Wagon",
+    "url": "https://www.autoevolution.com/cadillac/cts-sport-wagon/",
+    "start_year": 2009,
+    "end_year": 2014
+  },
+  {
+    "generation": "2016 Cadillac CTS-V",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC CTS-V 6.2 V8 8AT (640 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-cts-v-2015.html#aeng_cadillac-cts-v-2015-62-v8-8at-640-hp",
+    "ENGINE SPECS - 6.2 V8 8AT (640 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "6162 cm3",
+      "Power": "477 KW @ 6400 RPM\n649 HP @ 6400 RPM\n640 BHP @ 6400 RPM",
+      "Torque": "630 lb-ft @ 3600 RPM\n854 Nm @ 3600 RPM",
+      "Fuel System": "Supercharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "200 mph (322 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/35 ZR 19 || 295/30 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "197.6 in (5019 mm)",
+      "Width": "72.2 in (1834 mm)",
+      "Height": "57.2 in (1453 mm)",
+      "Front/rear Track": "62.1/61.2 in (1,577/1,554 mm)",
+      "Wheelbase": "114.6 in (2911 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4145 lbs (1880 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-5355_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-5355_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-5355_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-5355_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-5355_9.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC CTS V-Series",
+    "url": "https://www.autoevolution.com/cadillac/cts-v-series/",
+    "start_year": 2003,
+    "end_year": 2019
+  },
+  {
+    "generation": "2011 Cadillac CTS-V Coupe",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC CTS-V Coupe 6.2L SC V8 6AT RWD (564 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-cts-v-coupe-2012.html#aeng_cadillac-cts-v-coupe-2012-62l-sc-v8-6at-564-hp",
+    "ENGINE SPECS - 6.2L SC V8 6AT RWD (564 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "6162 cm3",
+      "Power": "415 KW @ 6100 RPM\n564 HP @ 6100 RPM\n557 BHP @ 6100 RPM",
+      "Torque": "551 lb-ft @ 3800 RPM\n747 Nm @ 3800 RPM",
+      "Fuel System": "Supercharged Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "188 mph (303 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "380 mm x 32 mm Ventilated Discs",
+      "Rear": "373 mm x 28 mm Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P255/40R19 || P285/35R19"
+    },
+    "DIMENSIONS": {
+      "Length": "188.5 in (4788 mm)",
+      "Width": "74.1 in (1882 mm)",
+      "Height": "56 in (1422 mm)",
+      "Front/rear Track": "61.8/62.8 in (1,570/1,595 mm)",
+      "Wheelbase": "113.4 in (2880 mm)",
+      "Ground Clearance": "5.4 in (137 mm)",
+      "Cargo Volume": "10.5 cuFT (297 L)",
+      "Aerodynamics (Cd)": "0.36"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4255 lbs (1930 kg)",
+      "Gross Weight Limit": "5004 lbs (2270 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "12 mpg US (19.6 L/100Km)",
+      "Highway": "18 mpg US (13.1 L/100Km)",
+      "Combined": "14 mpg US (16.8 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-Coupe-4457_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-Coupe-4457_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-Coupe-4457_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-Coupe-4457_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-Coupe-4457_6.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC CTS-V Coupe",
+    "url": "https://www.autoevolution.com/cadillac/cts-v-coupe/",
+    "start_year": 2012,
+    "end_year": 2015
+  },
+  {
+    "generation": "2011 Cadillac CTS-V Sport Wagon",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC CTS-V Sport Wagon 6.2L SC V8 RWD 6AT (564 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-cts-v-sport-wagon-2010.html#aeng_cadillac-cts-v-sport-wagon-2010-62l-sc-v8-6at-564-hp",
+    "ENGINE SPECS - 6.2L SC V8 RWD 6AT (564 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "6162 cm3",
+      "Power": "415 KW @ 6100 RPM\n564 HP @ 6100 RPM\n557 BHP @ 6100 RPM",
+      "Torque": "551 lb-ft @ 3800 RPM\n747 Nm @ 3800 RPM",
+      "Fuel System": "Supercharged Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "188 mph (303 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "380 x 32mm Ventilated Discs",
+      "Rear": "373 mm x 28 mm Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P255/40R19 || P285/35R19"
+    },
+    "DIMENSIONS": {
+      "Length": "192 in (4877 mm)",
+      "Width": "72.5 in (1842 mm)",
+      "Height": "58 in (1473 mm)",
+      "Front/rear Track": "61.8/62.2 in (1,570/1,580 mm)",
+      "Wheelbase": "113.4 in (2880 mm)",
+      "Ground Clearance": "5.9 in (150 mm)",
+      "Cargo Volume": "25.4 cuFT (719 L)",
+      "Aerodynamics (Cd)": "0.36"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4425 lbs (2007 kg)",
+      "Gross Weight Limit": "5247 lbs (2380 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "12 mpg US (19.6 L/100Km)",
+      "Highway": "18 mpg US (13.1 L/100Km)",
+      "Combined": "14 mpg US (16.8 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-Sport-Wagon-4459_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-Sport-Wagon-4459_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-Sport-Wagon-4459_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-Sport-Wagon-4459_16.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CTS-V-Sport-Wagon-4459_17.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC CTS-V Sport Wagon",
+    "url": "https://www.autoevolution.com/cadillac/cts-v-sport-wagon/",
+    "start_year": 2010,
+    "end_year": 2014
+  },
+  {
+    "generation": "2000 Cadillac DeVille",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC DeVille 4.6L V8 4AT (279 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-deville-1999.html#aeng_cadillac-deville-1999-46-279-hp",
+    "ENGINE SPECS - 4.6L V8 4AT (279 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "4565 cm3",
+      "Power": "205 KW @ 5600 RPM\n279 HP @ 5600 RPM\n275 BHP @ 5600 RPM",
+      "Torque": "300 lb-ft @ 4000 RPM\n407 Nm @ 4000 RPM",
+      "Fuel System": "Electronic Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "111.9 mph (180 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "4-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "Front 225/60 SR 16 Rear 225/60 R 16"
+    },
+    "DIMENSIONS": {
+      "Length": "207 in (5258 mm)",
+      "Width": "74.4 in (1890 mm)",
+      "Height": "56.7 in (1440 mm)",
+      "Front/rear Track": "62.7/62.4 in (1,593/1,585 mm)",
+      "Wheelbase": "115.3 in (2929 mm)",
+      "Cargo Volume": "18.9 cuFT (535 L)",
+      "Aerodynamics (Cd)": "0.35"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4017.5 lbs (1822 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "18 mpg US (13.1 L/100Km)",
+      "Highway": "28.7 mpg US (8.2 L/100Km)",
+      "Combined": "21.4 mpg US (11 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACDeVille-77_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACDeVille-77_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACDeVille-77_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACDeVille-77_4.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC DeVille",
+    "url": "https://www.autoevolution.com/cadillac/deville/",
+    "start_year": 1994,
+    "end_year": 2005
+  },
+  {
+    "generation": "2009 Cadillac DTS",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC DTS 4.6L V8 4AT FWD (279 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-dts-2008.html#aeng_cadillac-dts-2008-46-v8",
+    "ENGINE SPECS - 4.6L V8 4AT FWD (279 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "4565 cm3",
+      "Power": "205 KW @ 5200 RPM\n279 HP @ 5200 RPM\n275 BHP @ 5200 RPM",
+      "Torque": "288 lb-ft @ 4400 RPM\n390 Nm @ 4400 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18.5 gallons (70.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "112 mph (180 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "7.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "4-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Vented Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P235/55 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "207.6 in (5273 mm)",
+      "Width": "74.8 in (1900 mm)",
+      "Height": "57.6 in (1463 mm)",
+      "Front/rear Track": "62.5/61.7 in (1,588/1,567 mm)",
+      "Wheelbase": "115.6 in (2936 mm)",
+      "Ground Clearance": "5.3 in (135 mm)",
+      "Cargo Volume": "18.8 cuFT (532 L)",
+      "Aerodynamics (Cd)": "0.32"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4009 lbs (1818 kg)",
+      "Gross Weight Limit": "5347 lbs (2425 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "15 mpg US (15.7 L/100Km)",
+      "Highway": "22 mpg US (10.7 L/100Km)",
+      "Combined": "18.5 mpg US (12.7 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACDTS-4001_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACDTS-4001_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACDTS-4001_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACDTS-4001_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-DTS-4001_15.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC DTS",
+    "url": "https://www.autoevolution.com/cadillac/dts/",
+    "start_year": 2005,
+    "end_year": 2011
+  },
+  {
+    "generation": "2021 Cadillac Escalade ESV",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC Escalade ESV 6.2L V8 10AT AWD (420 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-escalade-esv-2020.html#aeng_cadillac-escalade-esv-2020-62l-v8-10at-awd-420-hp",
+    "ENGINE SPECS - 6.2L V8 10AT AWD (420 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "6162 cm3",
+      "Power": "308.9 KW @ 5600 RPM\n420 HP @ 5600 RPM\n414 BHP @ 5600 RPM",
+      "Torque": "460 lb-ft @ 4100 RPM\n623 Nm @ 4100 RPM",
+      "Fuel System": "Direct high-pressure fuel injection with Dynamic Fuel Managemen",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "28.3 gallons (107.1 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "10-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P275/50R22"
+    },
+    "DIMENSIONS": {
+      "Length": "227 in (5766 mm)",
+      "Width": "81.1 in (2060 mm)",
+      "Height": "76.5 in (1943 mm)",
+      "Front/rear Track": "68.4/68.1 in (1,737/1,730 mm)",
+      "Wheelbase": "134.1 in (3406 mm)",
+      "Cargo Volume": "42.9 cuFT (1215 L)"
+    },
+    "WEIGHT SPECS": {
+      "Gross Weight Limit": "5992 lbs (2718 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-escalade-esv-2020-7056_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-escalade-esv-2020-7056_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-escalade-esv-2020-7056_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-escalade-esv-2020-7056_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/cadillac-escalade-esv-2020-7056_5.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC Escalade ESV",
+    "url": "https://www.autoevolution.com/cadillac/escalade-esv/",
+    "start_year": 2002,
+    "end_year": 2024
+  },
+  {
+    "generation": "2007 Cadillac Escalade EXT",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC Escalade EXT 6.2L V8 6AT (409 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-escalade-ext-2006.html#aeng_cadillac-escalade-ext-2006-62",
+    "ENGINE SPECS - 6.2L V8 6AT (409 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "6199 cm3",
+      "Power": "301 KW @ 5700 RPM\n409 HP @ 5700 RPM\n404 BHP @ 5700 RPM",
+      "Torque": "417 lb-ft @ 4400 RPM\n565 Nm @ 4400 RPM",
+      "Fuel System": "Electronic Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "107 mph (172 km/h)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P265/65R18 AL2"
+    },
+    "DIMENSIONS": {
+      "Length": "222 in (5639 mm)",
+      "Width": "79.1 in (2009 mm)",
+      "Height": "74.5 in (1892 mm)",
+      "Front/rear Track": "68.1/67 in (1,730/1,702 mm)",
+      "Wheelbase": "130 in (3302 mm)",
+      "Ground Clearance": "9.2 in (234 mm)",
+      "Cargo Volume": "54.3 cuFT (1538 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "5774.9 lbs (2619 kg)",
+      "Gross Weight Limit": "7000.9 lbs (3176 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACEscaladeEXT-1115_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACEscaladeEXT-1115_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACEscaladeEXT-1115_3.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC Escalade EXT",
+    "url": "https://www.autoevolution.com/cadillac/escalade-ext/",
+    "start_year": 2001,
+    "end_year": 2013
+  },
+  {
+    "generation": "2010 Cadillac SRX",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC SRX 2.8L V6 6AT AWD (300 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-srx-2009.html#aeng_cadillac-2010-cadillac-srx-2009-28-v6",
+    "ENGINE SPECS - 2.8L V6 6AT AWD (300 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2792 cm3",
+      "Power": "224.3 KW @ 5500 RPM\n305 HP @ 5500 RPM\n301 BHP @ 5500 RPM",
+      "Torque": "295 lb-ft @ 2000 RPM\n400 Nm @ 2000 RPM",
+      "Fuel System": "Turbocharged Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "20.6 gallons (78.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "130 mph (209 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P235/65 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "190.2 in (4831 mm)",
+      "Width": "75.1 in (1908 mm)",
+      "Height": "65.6 in (1666 mm)",
+      "Front/rear Track": "64/63.7 in (1,626/1,618 mm)",
+      "Wheelbase": "110.5 in (2807 mm)",
+      "Ground Clearance": "7 in (178 mm)",
+      "Cargo Volume": "29.2 cuFT (827 L)",
+      "Aerodynamics (Cd)": "0.35",
+      "Turning circle": "39.7 ft (12.1 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4308 lbs (1954 kg)",
+      "Gross Weight Limit": "5467 lbs (2480 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "15 mpg US (15.7 L/100Km)",
+      "Highway": "22 mpg US (10.7 L/100Km)",
+      "Combined": "18 mpg US (13.1 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACSRX-3869_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACSRX-3869_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACSRX-3869_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACSRX-3869_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACSRX-3869_5.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC SRX",
+    "url": "https://www.autoevolution.com/cadillac/srx/",
+    "start_year": 2004,
+    "end_year": 2016
+  },
+  {
+    "generation": "2008 Cadillac STS",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC STS 3.6L V6 6AT (306 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-sts-2007.html#aeng_cadillac-sts-2007-36",
+    "ENGINE SPECS - 3.6L V6 6AT (306 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3564 cm3",
+      "Power": "225 KW @ 6300 RPM\n306 HP @ 6300 RPM\n302 BHP @ 6300 RPM",
+      "Torque": "272 lb-ft @ 5200 RPM\n369 Nm @ 5200 RPM",
+      "Fuel System": "Electronic Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.4 gallons (65.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "142 mph (229 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "7.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P255/45R18"
+    },
+    "DIMENSIONS": {
+      "Length": "196.3 in (4986 mm)",
+      "Width": "72.6 in (1844 mm)",
+      "Height": "57.6 in (1463 mm)",
+      "Front/rear Track": "61.8/62.3 in (1,570/1,582 mm)",
+      "Wheelbase": "116.4 in (2957 mm)",
+      "Ground Clearance": "8.2 in (208 mm)",
+      "Cargo Volume": "13.8 cuFT (391 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3940 lbs (1787 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "18 mpg US (13.1 L/100Km)",
+      "Highway": "27 mpg US (8.7 L/100Km)",
+      "Combined": "19 mpg US (12.4 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACSTS-1831_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACSTS-1831_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACSTS-1831_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACSTS-1831_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACSTS-1831_6.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC STS",
+    "url": "https://www.autoevolution.com/cadillac/sts/",
+    "start_year": 2004,
+    "end_year": 2010
+  },
+  {
+    "generation": "2008 Cadillac XLR",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC XLR 4.6 V8 5AT (325 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-xlr-2008.html#aeng_cadillac-xlr-2008-46-v8",
+    "ENGINE SPECS - 4.6 V8 5AT (325 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "4565 cm3",
+      "Power": "239 KW @ 6400 RPM\n325 HP @ 6400 RPM\n321 BHP @ 6400 RPM",
+      "Torque": "310 lb-ft @ 4400 RPM\n420 Nm @ 4400 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "Automatic, 6 Speed"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P235/50R18"
+    },
+    "DIMENSIONS": {
+      "Length": "177.7 in (4514 mm)",
+      "Width": "72.3 in (1836 mm)",
+      "Height": "50.4 in (1280 mm)",
+      "Front/rear Track": "61.6/62.1 in (1,565/1,577 mm)",
+      "Wheelbase": "105.7 in (2685 mm)",
+      "Ground Clearance": "5.3 in (135 mm)",
+      "Cargo Volume": "4.4 cuFT (125 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3726 lbs (1690 kg)",
+      "Gross Weight Limit": "4508 lbs (2045 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "15 mpg US (15.7 L/100Km)",
+      "Highway": "24 mpg US (9.8 L/100Km)",
+      "Combined": "19.5 mpg US (12.1 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACXLR-3999_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACXLR-3999_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACXLR-3999_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACXLR-3999_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACXLR-3999_5.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC XLR",
+    "url": "https://www.autoevolution.com/cadillac/xlr/",
+    "start_year": 2003,
+    "end_year": 2009
+  },
+  {
+    "generation": "2008 Cadillac XLR-V",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC XLR-V 4.4L V8 6AT RWD (449 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-xlr-v-2008.html#aeng_cadillac-xlr-v-2008-44l-v8",
+    "ENGINE SPECS - 4.4L V8 6AT RWD (449 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "4371 cm3",
+      "Power": "330 KW @ 6400 RPM\n449 HP @ 6400 RPM\n443 BHP @ 6400 RPM",
+      "Torque": "414 lb-ft @ 3600 RPM\n561 Nm @ 3600 RPM",
+      "Fuel System": "Supercharged Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/45 R19"
+    },
+    "DIMENSIONS": {
+      "Length": "177.7 in (4514 mm)",
+      "Width": "72.3 in (1836 mm)",
+      "Height": "50.4 in (1280 mm)",
+      "Front/rear Track": "62.2/62.2 in (1,580/1,580 mm)",
+      "Wheelbase": "105.7 in (2685 mm)",
+      "Ground Clearance": "5.3 in (135 mm)",
+      "Cargo Volume": "4.4 cuFT (125 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3814 lbs (1730 kg)",
+      "Gross Weight Limit": "4564 lbs (2070 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "14 mpg US (16.8 L/100Km)",
+      "Highway": "21 mpg US (11.2 L/100Km)",
+      "Combined": "16 mpg US (14.7 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACXLRV-Series-4000_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACXLRV-Series-4000_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACXLRV-Series-4000_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACXLRV-Series-4000_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLACXLRV-Series-4000_6.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC XLR V-Series",
+    "url": "https://www.autoevolution.com/cadillac/xlr-v-series/",
+    "start_year": 2008,
+    "end_year": 2011
+  },
+  {
+    "generation": "020 Cadillac XT5",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC XT5 2.0L VVT 9AT FWD (237 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-xt5-2019.html#aeng_cadillac-xt5-2019-20l-vvt-9at-237-hp",
+    "ENGINE SPECS - 2.0L VVT 9AT FWD (237 HP)": {
+      "Cylinders": "L4",
+      "Power": "174.3 KW @ 5000 RPM\n237 HP @ 5000 RPM\n234 BHP @ 5000 RPM",
+      "Torque": "258 lb-ft @ 1500-4000 RPM\n350 Nm @ 1500-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "9-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P235/65R18 // P235/55R20"
+    },
+    "DIMENSIONS": {
+      "Length": "189.6 in (4816 mm)",
+      "Width": "75 in (1905 mm)",
+      "Height": "66.1 in (1679 mm)",
+      "Front/rear Track": "64.8/64.8 in (1,646/1,646 mm)",
+      "Wheelbase": "112.5 in (2858 mm)",
+      "Cargo Volume": "30.1 cuFT (852 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3915 lbs (1776 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-XT5-6635_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-XT5-6635_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-XT5-6635_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-XT5-6635_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-XT5-6635_10.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC XT5",
+    "url": "https://www.autoevolution.com/cadillac/xt5/",
+    "start_year": 2016,
+    "end_year": 2024
+  },
+  {
+    "generation": "2018 Cadillac XTS",
+    "fuel_type": "gasoline",
+    "engine": "CADILLAC XTS 3.6L V6 6AT AWD (304 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/cadillac-xts-2017.html#aeng_cadillac-xts-2017-36-v6-6at-awd-304-hp",
+    "ENGINE SPECS - 3.6L V6 6AT AWD (304 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3564 cm3",
+      "Power": "226.7 KW @ 6800 RPM\n308 HP @ 6800 RPM\n304 BHP @ 6800 RPM",
+      "Torque": "264 lb-ft @ 5300 RPM\n358 Nm @ 5300 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18.5 gallons (70.0 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/45 R19"
+    },
+    "DIMENSIONS": {
+      "Length": "200.9 in (5103 mm)",
+      "Width": "72.9 in (1852 mm)",
+      "Height": "59.4 in (1509 mm)",
+      "Front/rear Track": "61.7/62 in (1,567/1,575 mm)",
+      "Wheelbase": "111.7 in (2837 mm)",
+      "Cargo Volume": "18 cuFT (510 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4200 lbs (1905 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "17 mpg US (13.8 L/100Km)",
+      "Highway": "26 mpg US (9 L/100Km)",
+      "Combined": "20 mpg US (11.8 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-XTS-6040_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-XTS-6040_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-XTS-6040_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-XTS-6040_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-XTS-6040_2.jpg"
+    ],
+    "brand": "CADILLAC",
+    "model": "CADILLAC XTS",
+    "url": "https://www.autoevolution.com/cadillac/xts/",
+    "start_year": 2013,
+    "end_year": 2019
+  }
+]

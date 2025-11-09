@@ -1,0 +1,4097 @@
+[
+  {
+    "generation": "2020 Porsche 718 Boxster T (982)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 718 Boxster T 2.0L 6MT RWD (300 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-718-boxter-t-2018.html#aeng_porsche-718-boxter-t-2018-20l-6mt-300-hp",
+    "ENGINE SPECS - 2.0L 6MT RWD (300 HP)": {
+      "Cylinders": "H4",
+      "Displacement": "1998 cm3",
+      "Power": "220.6 KW @ 6500 RPM\n300 HP @ 6500 RPM\n296 BHP @ 6500 RPM",
+      "Torque": "280 lb-ft @ 2150 RPM\n380 Nm @ 2150 RPM",
+      "Fuel System": "Turbocharge Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "171 mph (275 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/45 ZR 18"
+    },
+    "DIMENSIONS": {
+      "Length": "173.1 in (4397 mm)",
+      "Width": "78.5 in (1994 mm)",
+      "Height": "49.7 in (1262 mm)",
+      "Front/rear Track": "59.6/60.3 in (1,514/1,532 mm)",
+      "Wheelbase": "2475 in (62865 mm)",
+      "Ground Clearance": "5.2 in (132 mm)",
+      "Cargo Volume": "5.3 cuFT (150 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2976 lbs (1350 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "28.7 mpg US (8.2 L/100Km)",
+      "CO2 Emissions": "187 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Boxter-T-6468_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Boxter-T-6468_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Boxter-T-6468_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Boxter-T-6468_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Boxter-T-6468_5.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 718 Boxster",
+    "url": "https://www.autoevolution.com/porsche/718-boxster/",
+    "start_year": 2016,
+    "end_year": null
+  },
+  {
+    "generation": "911 Carrera 4S Cabriolet (992)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Carrera 4S Cabriolet (992) 3.0L 8AT (450 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-carrera-4s-cabriolet-2018.html#aeng_porsche-911-carrera-4s-cabriolet-2018-30l-8at-450-hp",
+    "ENGINE SPECS - 3.0L 8AT (450 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "2981 cm3",
+      "Power": "331 KW @ 6500 RPM\n450 HP @ 6500 RPM\n444 BHP @ 6500 RPM",
+      "Torque": "391 lb-ft @ 2300-5000 RPM\n530 Nm @ 2300-5000 RPM",
+      "Fuel System": "Turbocharge Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.7 gallons (67.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "189 mph (304 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-Speed automatic DCT"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/35 ZR 20 || 305/30 ZR 20"
+    },
+    "DIMENSIONS": {
+      "Length": "177.9 in (4519 mm)",
+      "Width": "79.7 in (2024 mm)",
+      "Height": "51.1 in (1298 mm)",
+      "Wheelbase": "96.5 in (2451 mm)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "26.1 mpg US (9 L/100Km)",
+      "CO2 Emissions": "207 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4S-Cabriolet-6477_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4S-Cabriolet-6477_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4S-Cabriolet-6477_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4S-Cabriolet-6477_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4S-Cabriolet-6477_6.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Carrera 4S Cabriolet",
+    "url": "https://www.autoevolution.com/porsche/911-carrera-4s-cabriolet/",
+    "start_year": 2003,
+    "end_year": 2025
+  },
+  {
+    "generation": "2020 Porsche 911 Turbo S Cabriolet",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Turbo S Cabriolet (992) 3.8L 7AT AWD (650 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-turbo-s-cabriolet-992-2020.html#aeng_porsche-911-turbo-s-cabriolet-992-2020-38l-7at-awd-650-hp",
+    "ENGINE SPECS - 3.8L 7AT AWD (650 HP)": {
+      "Cylinders": "H6",
+      "Power": "478.1 KW @ - RPM\n650 HP @ - RPM\n641 BHP @ - RPM",
+      "Torque": "590 lb-ft @ - RPM\n800 Nm @ - RPM",
+      "Fuel System": "Turbocharge Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "205 mph (330 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "2.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Discs"
+    },
+    "DIMENSIONS": {
+      "Width": "74.8 in (1900 mm)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Turbo-S-Cabriolet--992--6786_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Turbo-S-Cabriolet--992--6786_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Turbo-S-Cabriolet--992--6786_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Turbo-S-Cabriolet--992--6786_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Turbo-S-Cabriolet--992--6786_7.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Turbo S Cabriolet",
+    "url": "https://www.autoevolution.com/porsche/911-turbo-s-cabriolet/",
+    "start_year": 2004,
+    "end_year": null
+  },
+  {
+    "generation": "2020 Porsche 718 Cayman T (982C)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 718 Cayman T 2.0L 6MT RWD (300 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-718-cayman-t-2018.html#aeng_porsche-718-cayman-t-2018-20l-6mt-300-hp",
+    "ENGINE SPECS - 2.0L 6MT RWD (300 HP)": {
+      "Cylinders": "H4",
+      "Displacement": "1988 cm3",
+      "Power": "220.6 KW @ 6500 RPM\n300 HP @ 6500 RPM\n296 BHP @ 6500 RPM",
+      "Torque": "280 lb-ft @ 2150 RPM\n380 Nm @ 2150 RPM",
+      "Fuel System": "Turbocharge Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.3 gallons (54.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "171 mph (275 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/45 ZR 18"
+    },
+    "DIMENSIONS": {
+      "Length": "172.4 in (4379 mm)",
+      "Width": "78.5 in (1994 mm)",
+      "Height": "50.2 in (1275 mm)",
+      "Front/rear Track": "59.6/60.3 in (1,514/1,532 mm)",
+      "Wheelbase": "97.4 in (2474 mm)",
+      "Ground Clearance": "5.2 in (132 mm)",
+      "Cargo Volume": "5.3 cuFT (150 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "29 mpg US (8.1 L/100Km)",
+      "CO2 Emissions": "186 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-T-6469_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-T-6469_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-T-6469_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-T-6469_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-T-6469_8.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 718 Cayman",
+    "url": "https://www.autoevolution.com/porsche/718-cayman/",
+    "start_year": 2016,
+    "end_year": null
+  },
+  {
+    "generation": "Porsche 911 Carrera 4S (992)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Carrera 4S (992) 3.0L 8AT AWD (450 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-carrera-4s-2018.html#aeng_porsche-911-carrera-4s-2018-30l-8at-450-hp",
+    "ENGINE SPECS - 3.0L 8AT AWD (450 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "2981 cm3",
+      "Power": "331 KW @ 6500 RPM\n450 HP @ 6500 RPM\n444 BHP @ 6500 RPM",
+      "Torque": "391 lb-ft @ 2300-5000 RPM\n530 Nm @ 2300-5000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.7 gallons (67.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "191 mph (307 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-Speed automatic Dual Clutch"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/35 ZR 20 // 305/30 ZR 21"
+    },
+    "DIMENSIONS": {
+      "Length": "177.9 in (4519 mm)",
+      "Width": "79.7 in (2024 mm)",
+      "Height": "51.2 in (1300 mm)",
+      "Front/rear Track": "62.6/61.3 in (1,590/1,557 mm)",
+      "Wheelbase": "96.5 in (2451 mm)",
+      "Cargo Volume": "4.7 cuFT (133 L)",
+      "Aerodynamics (Cd)": "0.29"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3450 lbs (1565 kg)",
+      "Gross Weight Limit": "4431 lbs (2010 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "21.2 mpg US (11.1 L/100Km)",
+      "Highway": "30.2 mpg US (7.8 L/100Km)",
+      "Combined": "26.1 mpg US (9 L/100Km)",
+      "CO2 Emissions": "206 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4S-6447_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4S-6447_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4S-6447_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4S-6447_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4S-6447_7.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Carrera 4S",
+    "url": "https://www.autoevolution.com/porsche/911-carrera-4s/",
+    "start_year": 1995,
+    "end_year": 2025
+  },
+  {
+    "generation": "2021 Porsche MAcan GTS",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Macan GTS (95B) 2.9L V6 BiTurbo 7AT (440 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-macan-gts-2021.html#aeng_porsche-macan-gts-2021-29l-v6-7at-440-hp",
+    "ENGINE SPECS - 2.9L V6 BITURBO 7AT (440 HP)": {
+      "Cylinders": "V6",
+      "Power": "323.6 KW @ - RPM\n440 HP @ - RPM\n434 BHP @ - RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Acceleration 0-62 Mph (0-100 kph)": "4.3 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Gearbox": "7-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-gts-2021-7140_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-gts-2021-7140_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-gts-2021-7140_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-gts-2021-7140_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-gts-2021-7140_8.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Macan GTS",
+    "url": "https://www.autoevolution.com/porsche/macan-gts/",
+    "start_year": 2015,
+    "end_year": null
+  },
+  {
+    "generation": "2025 Porsche 911 Turbo S",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Turbo S 3.6L 8AT AWD (711 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-turbo-s-2025.html#aeng_porsche-911-turbo-s-2025-36l-8at-awd-hp",
+    "ENGINE SPECS - 3.6L 8AT AWD (711 HP)": {
+      "Cylinders": "B6",
+      "Displacement": "3561 cm3",
+      "Power": "470.7 KW @ 7500 RPM\n640 HP @ 7500 RPM\n631 BHP @ 7500 RPM",
+      "Torque": "561 lb-ft @ - RPM\n760 Nm @ - RPM",
+      "Electrical motor power": "11 kw (15 hp)",
+      "Total maximum power": "522.9 kw (711 hp)",
+      "Total maximum torque": "590 lb-ft (800 Nm)",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Hybrid Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "200 mph (322 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "2.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic PDK"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Ventilated discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/35 R20 97Y // 325/30 R21 108Y"
+    },
+    "DIMENSIONS": {
+      "Length": "179.2 in (4552 mm)",
+      "Width": "74.8 in (1900 mm)",
+      "Height": "51.4 in (1306 mm)",
+      "Wheelbase": "96.5 in (2451 mm)",
+      "Turning circle (curb to curb)": "35.8 ft (10.9 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3968 lbs (1800 kg)",
+      "Gross Weight Limit": "4685 lbs (2125 kg)"
+    },
+    "POWER SYSTEM SPECS": {
+      "Power pack": "Lithium-ion (Li-Ion)",
+      "Maximum Capacity": "1.9 kWh"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-turbo-s-2025-7964_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-turbo-s-2025-7964_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-turbo-s-2025-7964_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-turbo-s-2025-7964_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-turbo-s-2025-7964_8.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Turbo S",
+    "url": "https://www.autoevolution.com/porsche/911-turbo-s/",
+    "start_year": 2004,
+    "end_year": null
+  },
+  {
+    "generation": "2025 Porsche 911 GT3",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 GT3 4.0L 6MT RWD (510 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-gt3-2024.html#aeng_porsche-911-gt3-2024-40l-6mt-rwd-510-hp",
+    "ENGINE SPECS - 4.0L 6MT RWD (510 HP)": {
+      "Cylinders": "B6",
+      "Displacement": "3996 cm3",
+      "Power": "375.1 KW @ 9000 RPM\n510 HP @ 9000 RPM\n503 BHP @ 9000 RPM",
+      "Torque": "332 lb-ft @ - RPM\n450 Nm @ - RPM",
+      "Fuel System": "Direct injection Naturally aspirated",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "194 mph (312 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-manual speed GT sports transmission"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Ventilated discs"
+    },
+    "DIMENSIONS": {
+      "Length": "179.9 in (4569 mm)",
+      "Width": "72.9 in (1852 mm)",
+      "Height": "50.4 in (1280 mm)",
+      "Wheelbase": "97.4 in (2474 mm)",
+      "Ground Clearance": "3 in (76 mm)",
+      "Cargo Volume": "4.8 cuFT (136 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3223 lbs (1462 kg)",
+      "Gross Weight Limit": "3891 lbs (1765 kg)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "17.2 mpg US (13.7 L/100Km)",
+      "CO2 Emissions (Combined)": "310 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-gt3-2024-7823_23.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-gt3-2024-7823_24.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-gt3-2024-7823_25.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-gt3-2024-7823_26.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-gt3-2024-7823_27.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 GT3",
+    "url": "https://www.autoevolution.com/porsche/911-gt3/",
+    "start_year": 1999,
+    "end_year": null
+  },
+  {
+    "generation": "2025 Porsche 911 Carrera 4 GTS",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Carrera 4 GTS (992) 3.6L T-Hybrid 8AT AWD (541 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-carrera-4-gts-992-2024.html#aeng_porsche-911-carrera-4-gts-992-2024-36l-t-hybrid-8at-awd-541-hp",
+    "ENGINE SPECS - 3.6L T-HYBRID 8AT AWD (541 HP)": {
+      "Cylinders": "B6",
+      "Displacement": "3591 cm3",
+      "Power": "356.7 KW @ 6500 RPM\n485 HP @ 6500 RPM\n478 BHP @ 6500 RPM",
+      "Torque": "420 lb-ft @ 2000-5500 RPM\n570 Nm @ 2000-5500 RPM",
+      "Electrical motor power": "40 kw (54 hp)",
+      "Electrical motor torque": "150 lb-ft (203 Nm)",
+      "Total maximum power": "397.9 kw (541 hp)",
+      "Total maximum torque": "449.9 lb-ft (610 Nm)",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Hybrid Gasoline",
+      "Fuel capacity": "16.6 gallons (62.8 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "194 mph (312 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic PDK"
+    },
+    "BRAKES SPECS": {
+      "Front": "Six-piston aluminium monobloc fixed-calliper brakes; grey cast-iron discs, internally vented and cross-drilled",
+      "Rear": "Four-piston aluminium monobloc fixed-calliper brakes; grey cast-iron discs, internally vented and cross-drilled"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/35 ZR 20 // 315/30 ZR 21"
+    },
+    "DIMENSIONS": {
+      "Length": "179.3 in (4554 mm)",
+      "Width": "72.9 in (1852 mm)",
+      "Height": "50.9 in (1293 mm)",
+      "Front/rear Track": "63.1/61.2 in (1,603/1,554 mm)",
+      "Wheelbase": "96.5 in (2451 mm)",
+      "Aerodynamics (Cd)": "0.27",
+      "Aerodynamics (frontal area)": "2.07 m2",
+      "Turning circle": "35.8 ft (10.9 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3627 lbs (1645 kg)",
+      "Gross Weight Limit": "4332 lbs (1965 kg)"
+    },
+    "POWER SYSTEM SPECS": {
+      "Power pack": "Liquid-cooled lithium-ion battery with battery management system",
+      "Nominal Capacity": "1.9 kWh"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "21.2 mpg US (11.1 L/100Km)",
+      "CO2 Emissions (Combined)": "251 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-carrera-4-gts-992-2024-7779_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-carrera-4-gts-992-2024-7779_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-carrera-4-gts-992-2024-7779_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-carrera-4-gts-992-2024-7779_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-carrera-4-gts-992-2024-7779_11.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Carrera 4 GTS",
+    "url": "https://www.autoevolution.com/porsche/911-carrera-4-gts/",
+    "start_year": 2014,
+    "end_year": null
+  },
+  {
+    "generation": "2024 Porsche Cayenne GTS",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Cayenne GTS 4.0L V8 Tiptronic S 8AT AWD (500 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-cayenne-gts-2024.html#aeng_porsche-cayenne-gts-2024-40l-v8-tiptronic-s-8at-awd-500-hp",
+    "ENGINE SPECS - 4.0L V8 TIPTRONIC S 8AT AWD (500 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3996 cm3",
+      "Power": "367.7 KW @ 6000 RPM\n500 HP @ 6000 RPM\n493 BHP @ 6000 RPM",
+      "Torque": "487 lb-ft @ 2100-4500 RPM\n660 Nm @ 2100-4500 RPM",
+      "Fuel System": "Direct Injection Twin turbo",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "171 mph (275 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic Tiptronic S"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Ventilated discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "285/45 R21 // 315/40 R21"
+    },
+    "DIMENSIONS": {
+      "Length": "194.1 in (4930 mm)",
+      "Width": "78.3 in (1989 mm)",
+      "Height": "65.1 in (1654 mm)",
+      "Wheelbase": "114 in (2896 mm)",
+      "Ground Clearance": "7.4 in (188 mm)",
+      "Cargo Volume": "19.6 cuFT (555 L)",
+      "Turning circle": "40 ft (12.2 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4894 lbs (2220 kg)",
+      "Gross Weight Limit": "6338 lbs (2875 kg)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Low": "10.9 mpg US (21.6 L/100Km)",
+      "Medium": "18.7 mpg US (12.6 L/100Km)",
+      "High": "22.6 mpg US (10.4 L/100Km)",
+      "Extra high": "21.2 mpg US (11.1 L/100Km)",
+      "Combined": "18.7 mpg US (12.6 L/100Km)",
+      "CO2 Emissions (Combined)": "287 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-gts-2024-7728_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-gts-2024-7728_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-gts-2024-7728_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-gts-2024-7728_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-gts-2024-7728_7.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Cayenne GTS",
+    "url": "https://www.autoevolution.com/porsche/cayenne-gts/",
+    "start_year": 2008,
+    "end_year": null
+  },
+  {
+    "generation": "2024 Porsche 718 Spyder RS",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 718 Spyder RS 4.0L 7AT RWD (500 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-718-spyder-rs-2023.html#aeng_porsche-718-spyder-rs-2023-40l-7at-rwd-500-hp",
+    "ENGINE SPECS - 4.0L 7AT RWD (500 HP)": {
+      "Cylinders": "B6",
+      "Displacement": "3996 cm3",
+      "Power": "367.7 KW @ 9000 RPM\n500 HP @ 9000 RPM\n493 BHP @ 9000 RPM",
+      "Torque": "332 lb-ft @ 6750 RPM\n450 Nm @ 6750 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.3 gallons (54.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "191 mph (307 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic PDK"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "173.9 in (4417 mm)",
+      "Width": "78.5 in (1994 mm)",
+      "Height": "49.3 in (1252 mm)",
+      "Wheelbase": "97.7 in (2482 mm)",
+      "Ground Clearance": "3.1 in (79 mm)",
+      "Turning circle": "37.4 ft (11.4 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3109 lbs (1410 kg)",
+      "Gross Weight Limit": "3869 lbs (1755 kg)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "18.1 mpg US (13 L/100Km)",
+      "CO2 Emissions (Combined)": "294 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-718-spyder-rs-2023-7511_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-718-spyder-rs-2023-7511_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-718-spyder-rs-2023-7511_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-718-spyder-rs-2023-7511_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-718-spyder-rs-2023-7511_8.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 718 Spyder",
+    "url": "https://www.autoevolution.com/porsche/718-spyder/",
+    "start_year": 2019,
+    "end_year": null
+  },
+  {
+    "generation": "2022 Porsche 718 Cayman GT4 RS",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 718 Cayman GT4 RS 4.0L 7AT RWD (500 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-718-cayman-gt4-rs-2021.html#aeng_porsche-718-cayman-gt4-rs-2021-40l-7at-rwd-500-hp",
+    "ENGINE SPECS - 4.0L 7AT RWD (500 HP)": {
+      "Cylinders": "B6",
+      "Displacement": "3996 cm3",
+      "Power": "367.7 KW @ 9000 RPM\n500 HP @ 9000 RPM\n493 BHP @ 9000 RPM",
+      "Torque": "332 lb-ft @ - RPM\n450 Nm @ - RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.3 gallons (54.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "196 mph (315 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic PDK"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "175.4 in (4455 mm)",
+      "Width": "78.5 in (1994 mm)",
+      "Height": "49.9 in (1267 mm)",
+      "Wheelbase": "97.7 in (2482 mm)",
+      "Turning circle": "37.4 ft (11.4 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3120 lbs (1415 kg)",
+      "Gross Weight Limit": "3904 lbs (1771 kg)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "17.8 mpg US (13.2 L/100Km)",
+      "CO2 Emissions (Combined)": "299 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-718-cayman-gt4-rs-2021-7513_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-718-cayman-gt4-rs-2021-7513_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-718-cayman-gt4-rs-2021-7513_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-718-cayman-gt4-rs-2021-7513_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-718-cayman-gt4-rs-2021-7513_5.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 718 Cayman GT4",
+    "url": "https://www.autoevolution.com/porsche/718-cayman-gt4/",
+    "start_year": 2015,
+    "end_year": null
+  },
+  {
+    "generation": "2024 Porsche Cayenne Turbo E-Hybrid",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Cayenne Turbo E-Hybrid 4.0L V8 8AT AWD (739 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-cayenne-turbo-e-hybrid-2023.html#aeng_porsche-cayenne-turbo-e-hybrid-2023-40l-v8-8at-awd-599-hp",
+    "ENGINE SPECS - 4.0L V8 8AT AWD (739 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3996 cm3",
+      "Power": "440.6 KW @ 6000-6800 RPM\n599 HP @ 6000-6800 RPM\n591 BHP @ 6000-6800 RPM",
+      "Torque": "590 lb-ft @ 2400-4500 RPM\n800 Nm @ 2400-4500 RPM",
+      "Electrical motor power": "129.4 kw (176 hp)",
+      "Electrical motor torque": "339.3 lb-ft (460 Nm)",
+      "Total maximum power": "543.5 kw (739 hp)",
+      "Total maximum torque": "700.7 lb-ft (950 Nm)",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Hybrid Gasoline",
+      "Fuel capacity": "18.5 gallons (70.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "183 mph (295 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "194.1 in (4930 mm)",
+      "Width": "78.1 in (1984 mm)",
+      "Height": "66.3 in (1684 mm)",
+      "Wheelbase": "114 in (2896 mm)",
+      "Ground Clearance": "7.8 in (198 mm)",
+      "Cargo Volume": "19 cuFT (538 L)",
+      "Turning circle": "39.7 ft (12.1 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "5666 lbs (2570 kg)",
+      "Gross Weight Limit": "6614 lbs (3000 kg)"
+    },
+    "POWER SYSTEM SPECS": {
+      "Power pack": "Lithium-Ion",
+      "Range": "43.5 miles (70.0 km)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "117.6 mpg US (2 L/100Km)",
+      "CO2 Emissions (Combined)": "45 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-turbo-e-hybrid-2023-7581_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-turbo-e-hybrid-2023-7581_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-turbo-e-hybrid-2023-7581_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-turbo-e-hybrid-2023-7581_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-turbo-e-hybrid-2023-7581_5.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Cayenne Turbo E-Hybrid",
+    "url": "https://www.autoevolution.com/porsche/cayenne-turbo-e-hybrid-1/",
+    "start_year": 2023,
+    "end_year": null
+  },
+  {
+    "generation": "2024 Porsche Cayenne",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Cayenne 3.0L V6 8AT AWD (353 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-cayenne-2023.html#aeng_porsche-cayenne-2023-30l-v6-8at-awd-353-hp",
+    "ENGINE SPECS - 3.0L V6 8AT AWD (353 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2995 cm3",
+      "Power": "259.6 KW @ 5400-6400 RPM\n353 HP @ 5400-6400 RPM\n348 BHP @ 5400-6400 RPM",
+      "Torque": "369 lb-ft @ 1450-4500 RPM\n500 Nm @ 1450-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "19.8 gallons (75.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "150 mph (241 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "194.1 in (4930 mm)",
+      "Width": "86.4 in (2195 mm)",
+      "Height": "66.9 in (1699 mm)",
+      "Wheelbase": "114 in (2896 mm)",
+      "Ground Clearance": "7.6 in (193 mm)",
+      "Cargo Volume": "24.6 cuFT (697 L)",
+      "Turning circle": "40 ft (12.2 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4696 lbs (2130 kg)",
+      "Gross Weight Limit": "6250 lbs (2835 kg)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "19.4 mpg US (12.1 L/100Km)",
+      "CO2 Emissions (Combined)": "275 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-2023-7484_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-2023-7484_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-2023-7484_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-2023-7484_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-2023-7484_5.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Cayenne",
+    "url": "https://www.autoevolution.com/porsche/cayenne/",
+    "start_year": 2002,
+    "end_year": null
+  },
+  {
+    "generation": "2024 Porsche Panamera",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera 2.9L V6 8AT RWD (353 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-2023-1.html#aeng_porsche-panamera-2023-29l-v6-8at-rwd-353-hp",
+    "ENGINE SPECS - 2.9L V6 8AT RWD (353 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2894 cm3",
+      "Power": "259.6 KW @ 5400-6700 RPM\n353 HP @ 5400-6700 RPM\n348 BHP @ 5400-6700 RPM",
+      "Torque": "369 lb-ft @ 1900-4800 RPM\n500 Nm @ 1900-4800 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "19.8 gallons (75.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "169 mph (272 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.3 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "8-speed automatic DCT"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "198.9 in (5052 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "56 in (1422 mm)",
+      "Wheelbase": "116.1 in (2949 mm)",
+      "Ground Clearance": "5.2 in (132 mm)",
+      "Cargo Volume": "17.4 cuFT (493 L)",
+      "Turning circle": "39 ft (11.9 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4321 lbs (1960 kg)",
+      "Gross Weight Limit": "5523 lbs (2505 kg)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "22.4 mpg US (10.5 L/100Km)",
+      "CO2 Emissions (Combined)": "239 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-2023-1-7628_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-2023-1-7628_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-2023-1-7628_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-2023-1-7628_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-2023-1-7628_8.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera",
+    "url": "https://www.autoevolution.com/porsche/panamera/",
+    "start_year": 2009,
+    "end_year": 2023
+  },
+  {
+    "generation": "2024 Porsche Panamera 4",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera 4 2.9L V6 8AT RWD (353 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-4-2024.html#aeng_porsche-panamera-4-2024-29l-v6-8at-rwd-353-hp",
+    "ENGINE SPECS - 2.9L V6 8AT RWD (353 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2894 cm3",
+      "Power": "259.6 KW @ 5400-6700 RPM\n353 HP @ 5400-6700 RPM\n348 BHP @ 5400-6700 RPM",
+      "Torque": "369 lb-ft @ 1900-4800 RPM\n500 Nm @ 1900-4800 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "19.8 gallons (75.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "168 mph (270 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "8-speed automatic DCT"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "198.9 in (5052 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "56 in (1422 mm)",
+      "Wheelbase": "116.1 in (2949 mm)",
+      "Ground Clearance": "5.2 in (132 mm)",
+      "Cargo Volume": "17.4 cuFT (493 L)",
+      "Turning circle": "39 ft (11.9 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4398 lbs (1995 kg)",
+      "Gross Weight Limit": "5600 lbs (2540 kg)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "21 mpg US (11.2 L/100Km)",
+      "CO2 Emissions (Combined)": "253 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-4-2024-7626_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-4-2024-7626_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-4-2024-7626_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-4-2024-7626_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-4-2024-7626_11.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera 4",
+    "url": "https://www.autoevolution.com/porsche/panamera-4/",
+    "start_year": 2009,
+    "end_year": null
+  },
+  {
+    "generation": "2024 Cayenne E-Hybrid Coupe",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Cayenne E-Hybrid Coupe 3.0L V6 8AT AWD (470 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-cayenne-coupe-2023.html#aeng_porsche-cayenne-e-hybrid-coupe-2023-30l-v6-8at-awd-470-hp",
+    "ENGINE SPECS - 3.0L V6 8AT AWD (470 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2995 cm3",
+      "Power": "223.6 KW @ 5400-6400 RPM\n304 HP @ 5400-6400 RPM\n300 BHP @ 5400-6400 RPM",
+      "Torque": "310 lb-ft @ 1400-6500 RPM\n420 Nm @ 1400-6500 RPM",
+      "Electrical motor power": "129.4 kw (176 hp)",
+      "Electrical motor torque": "339.3 lb-ft (460 Nm)",
+      "Total maximum power": "345.7 kw (470 hp)",
+      "Total maximum torque": "479.4 lb-ft (650 Nm)",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Hybrid Gasoline",
+      "Fuel capacity": "19.8 gallons (75.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "158 mph (254 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "194.1 in (4930 mm)",
+      "Width": "84.6 in (2149 mm)",
+      "Height": "66.8 in (1697 mm)",
+      "Wheelbase": "114 in (2896 mm)",
+      "Ground Clearance": "7.4 in (188 mm)",
+      "Cargo Volume": "22.1 cuFT (626 L)",
+      "Turning circle": "40 ft (12.2 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "5512 lbs (2500 kg)",
+      "Gross Weight Limit": "6889 lbs (3125 kg)"
+    },
+    "POWER SYSTEM SPECS": {
+      "Power pack": "Lithium-Ion",
+      "Maximum Capacity": "25.9 kWh",
+      "Range": "41 miles (66.0 km)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "130.7 mpg US (1.8 L/100Km)",
+      "CO2 Emissions (Combined)": "42 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-coupe-2023-7485_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-coupe-2023-7485_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-coupe-2023-7485_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-coupe-2023-7485_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-coupe-2023-7485_5.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Cayenne Coupe",
+    "url": "https://www.autoevolution.com/porsche/cayenne-coupe/",
+    "start_year": 2019,
+    "end_year": null
+  },
+  {
+    "generation": "2024 Porsche Panamera Turbo E-Hybrid",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera Turbo E Hybrid 4.0L V8 8AT AWD (680 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-2023.html#aeng_porsche-panamera-2023-29l-v6-rwd-353-hp",
+    "ENGINE SPECS - 4.0L V8 8AT AWD (680 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3996 cm3",
+      "Power": "381.7 KW @ 6000 RPM\n519 HP @ 6000 RPM\n512 BHP @ 6000 RPM",
+      "Torque": "568 lb-ft @ 2330-4000 RPM\n770 Nm @ 2330-4000 RPM",
+      "Electrical motor power": "139.7 kw (190 hp)",
+      "Electrical motor torque": "331.9 lb-ft (450 Nm)",
+      "Total maximum power": "500 kw (680 hp)",
+      "Total maximum torque": "685.9 lb-ft (930 Nm)",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Hybrid Gasoline",
+      "Fuel capacity": "21.1 gallons (79.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "196 mph (315 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic DCT"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "199 in (5055 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "55.9 in (1420 mm)",
+      "Wheelbase": "116.1 in (2949 mm)",
+      "Ground Clearance": "5.2 in (132 mm)",
+      "Cargo Volume": "14.9 cuFT (422 L)",
+      "Turning circle": "39 ft (11.9 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "5368 lbs (2435 kg)",
+      "Gross Weight Limit": "6239 lbs (2830 kg)"
+    },
+    "POWER SYSTEM SPECS": {
+      "Range": "47.2 miles (76.0 km)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "138.4 mpg US (1.7 L/100Km)",
+      "CO2 Emissions (Combined)": "38 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-2023-7625_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-2023-7625_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-2023-7625_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-2023-7625_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-panamera-2023-7625_10.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera Turbo E Hybrid",
+    "url": "https://www.autoevolution.com/porsche/panamera-turbo-e-hybrid/",
+    "start_year": 2023,
+    "end_year": null
+  },
+  {
+    "generation": "2024 Porsche Cayenne S",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Cayenne S 4.0L V8 8AT AWD (474 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-cayenne-s-2023.html#aeng_porsche-cayenne-s-2023-40l-v8-8at-awd-474-hp",
+    "ENGINE SPECS - 4.0L V8 8AT AWD (474 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3996 cm3",
+      "Power": "348.6 KW @ 6000 RPM\n474 HP @ 6000 RPM\n467 BHP @ 6000 RPM",
+      "Torque": "443 lb-ft @ 2000-2500 RPM\n600 Nm @ 2000-2500 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "23.8 gallons (90.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "170 mph (274 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic Tiptronic S"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/55 ZR20 // 295/45 ZR20"
+    },
+    "DIMENSIONS": {
+      "Length": "194.1 in (4930 mm)",
+      "Width": "78.1 in (1984 mm)",
+      "Height": "66.8 in (1697 mm)",
+      "Wheelbase": "114 in (2896 mm)",
+      "Ground Clearance": "7.6 in (193 mm)",
+      "Cargo Volume": "24.6 cuFT (697 L)",
+      "Turning circle": "40 ft (12.2 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4762 lbs (2160 kg)",
+      "Gross Weight Limit": "6460 lbs (2930 kg)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Low": "10.7 mpg US (22 L/100Km)",
+      "Medium": "19.3 mpg US (12.2 L/100Km)",
+      "High": "23.5 mpg US (10 L/100Km)",
+      "Extra high": "21.6 mpg US (10.9 L/100Km)",
+      "Combined": "19 mpg US (12.4 L/100Km)",
+      "CO2 Emissions (Combined)": "282 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-s-2023-7520_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-s-2023-7520_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-s-2023-7520_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-s-2023-7520_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayenne-s-2023-7520_7.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Cayenne S",
+    "url": "https://www.autoevolution.com/porsche/cayenne-s/",
+    "start_year": 2002,
+    "end_year": null
+  },
+  {
+    "generation": "PORSCHE Macan T",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Macan T 2.0L 7AT AWD (265 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-macan-t-2022.html#aeng_porsche-macan-t-2022-20l-7at-awd-265-hp",
+    "ENGINE SPECS - 2.0L 7AT AWD (265 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1984 cm3",
+      "Power": "194.9 KW @ 5000-6500 RPM\n265 HP @ 5000-6500 RPM\n261 BHP @ 5000-6500 RPM",
+      "Torque": "295 lb-ft @ 1800-4500 RPM\n400 Nm @ 1800-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.2 gallons (65.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "144 mph (232 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6.2 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic PDK"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/45 R20 // 295/40 R20"
+    },
+    "DIMENSIONS": {
+      "Length": "186.1 in (4727 mm)",
+      "Width": "75.9 in (1928 mm)",
+      "Height": "63.2 in (1605 mm)",
+      "Wheelbase": "110.5 in (2807 mm)",
+      "Ground Clearance": "7.4 in (188 mm)",
+      "Cargo Volume": "16.2 cuFT (459 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4112 - 5534 lbs (1865 - 2510 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "21.8 mpg US (10.8 L/100Km)",
+      "Highway": "31.4 mpg US (7.5 L/100Km)",
+      "Combined": "27 mpg US (8.7 L/100Km)",
+      "CO2 Emissions": "200 g/km"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "23.3 mpg US (10.1 L/100Km)",
+      "CO2 Emissions (Combined)": "229 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-t-2022-7237_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-t-2022-7237_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-t-2022-7237_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-t-2022-7237_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-t-2022-7237_7.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Macan T",
+    "url": "https://www.autoevolution.com/porsche/macan-t/",
+    "start_year": 2022,
+    "end_year": null
+  },
+  {
+    "generation": "2023 Porsche 911 Carrera T",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Carrera T 3.0L 8AT RWD (380 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-carrera-t-2022.html#aeng_porsche-911-carrera-t-2022-30l-8at-rwd-380-hp",
+    "ENGINE SPECS - 3.0L 8AT RWD (380 HP)": {
+      "Cylinders": "L6",
+      "Power": "279.5 KW @ - RPM\n380 HP @ - RPM\n375 BHP @ - RPM",
+      "Torque": "332 lb-ft @ - RPM\n450 Nm @ - RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "181 mph (291 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-carrera-t-2022-7325_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-carrera-t-2022-7325_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-carrera-t-2022-7325_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-carrera-t-2022-7325_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-carrera-t-2022-7325_11.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Carrera T",
+    "url": "https://www.autoevolution.com/porsche/911-carrera-t/",
+    "start_year": 2017,
+    "end_year": null
+  },
+  {
+    "generation": "PORSCHE 911 Targa 4 GTS",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Targa 4 GTS 3.0L 8AT AWD (480 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-targa-4-gts-2021.html#aeng_porsche-911-targa-4-gts-2021-30l-8at-awd-480-hp",
+    "ENGINE SPECS - 3.0L 8AT AWD (480 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "2981 cm3",
+      "Power": "353 KW @ 6500 RPM\n480 HP @ 6500 RPM\n473 BHP @ 6500 RPM",
+      "Torque": "420 lb-ft @ 2300-5000 RPM\n570 Nm @ 2300-5000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.7 gallons (67.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "191 mph (307 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic PDK"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/35 ZR 20 // 305/30 ZR 21"
+    },
+    "DIMENSIONS": {
+      "Length": "178.5 in (4534 mm)",
+      "Width": "72.9 in (1852 mm)",
+      "Height": "51.1 in (1298 mm)",
+      "Front/rear Track": "62.8/61.3 in (1,595/1,557 mm)",
+      "Wheelbase": "96.5 in (2451 mm)",
+      "Cargo Volume": "4.7 cuFT (133 L)",
+      "Aerodynamics (Cd)": "0.32",
+      "Aerodynamics (frontal area)": "2.09 m2"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3715 lbs (1685 kg)",
+      "Gross Weight Limit": "4597 lbs (2085 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "17.2 mpg US (13.7 L/100Km)",
+      "Highway": "30.5 mpg US (7.7 L/100Km)",
+      "Combined": "23.8 mpg US (9.9 L/100Km)",
+      "CO2 Emissions": "227 g/km"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "CO2 Emissions (Combined)": "257 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-targa-4-gts-2021-7162_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-targa-4-gts-2021-7162_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-targa-4-gts-2021-7162_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-targa-4-gts-2021-7162_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-targa-4-gts-2021-7162_9.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Targa 4 GTS",
+    "url": "https://www.autoevolution.com/porsche/911-targa-4-gts/",
+    "start_year": 2015,
+    "end_year": null
+  },
+  {
+    "generation": "PORSCHE Macan S (95B)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Macan S (95B) 2.9L V6 BiTurbo 7AT (380 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-macan-s-2021.html#aeng_porsche-macan-s-2021-25l-v6-biturbo-7at-380-hp",
+    "ENGINE SPECS - 2.9L V6 BITURBO 7AT (380 HP)": {
+      "Cylinders": "V6",
+      "Power": "279.5 KW @ - RPM\n380 HP @ - RPM\n375 BHP @ - RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "161 mph (259 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Gearbox": "7-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-s-2021-7141_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-s-2021-7141_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-s-2021-7141_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-s-2021-7141_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-macan-s-2021-7141_9.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Macan S",
+    "url": "https://www.autoevolution.com/porsche/macan/",
+    "start_year": 2014,
+    "end_year": null
+  },
+  {
+    "generation": "PORSCHE 911 Carrera GTS",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Carrera GTS 3.8 7AT (430 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-carrera-gts-2014.html#aeng_porsche-911-carrera-gts-2014-38-7at-430-hp",
+    "ENGINE SPECS - 3.8 7AT (430 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3800 cm3",
+      "Power": "316 KW @ 7500 RPM\n430 HP @ 7500 RPM\n424 BHP @ 7500 RPM",
+      "Torque": "325 lb-ft @ 5750 RPM\n441 Nm @ 5750 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "189 mph (304 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic PDK"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/35 ZR 20 || 305/30 ZR 20"
+    },
+    "DIMENSIONS": {
+      "Length": "177.5 in (4509 mm)",
+      "Width": "72.9 in (1852 mm)",
+      "Height": "51 in (1295 mm)",
+      "Wheelbase": "96.5 in (2451 mm)",
+      "Ground Clearance": "4.2 in (107 mm)",
+      "Cargo Volume": "4.4 cuFT (125 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3351 lbs (1520 kg)",
+      "Gross Weight Limit": "4123 lbs (1870 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "19.3 mpg US (12.2 L/100Km)",
+      "Highway": "35.1 mpg US (6.7 L/100Km)",
+      "Combined": "27 mpg US (8.7 L/100Km)",
+      "CO2 Emissions": "202 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-GTS-5309_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-GTS-5309_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-GTS-5309_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-GTS-5309_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-GTS-5309_10.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Carrera GTS",
+    "url": "https://www.autoevolution.com/porsche/911-carrera-gts/",
+    "start_year": 2010,
+    "end_year": 2021
+  },
+  {
+    "generation": "PORSCHE 911 Targa 4 (992)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Targa 4 (992) 3.0L BiTurbo 8AT AWD (385 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-targa-4-2020.html#aeng_porsche-911-targa-4-2020-30l-8at-385-hp",
+    "ENGINE SPECS - 3.0L BITURBO 8AT AWD (385 HP)": {
+      "Cylinders": "L6",
+      "Displacement": "2981 cm3",
+      "Power": "283.2 KW @ 6500 RPM\n385 HP @ 6500 RPM\n380 BHP @ 6500 RPM",
+      "Torque": "332 lb-ft @ 1950-5000 RPM\n450 Nm @ 1950-5000 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.7 gallons (67.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "180 mph (290 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic PDK"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/40 ZR 19 // 295/35 ZR 20"
+    },
+    "DIMENSIONS": {
+      "Length": "177.9 in (4519 mm)",
+      "Width": "72.9 in (1852 mm)",
+      "Height": "51.1 in (1298 mm)",
+      "Front/rear Track": "62.6/61.3 in (1,590/1,557 mm)",
+      "Wheelbase": "96.5 in (2451 mm)",
+      "Cargo Volume": "4.7 cuFT (133 L)",
+      "Aerodynamics (Cd)": "0.29",
+      "Turning circle": "36.7 ft (11.2 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3671 lbs (1665 kg)",
+      "Gross Weight Limit": "4542 lbs (2060 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "18.4 mpg US (12.8 L/100Km)",
+      "Highway": "29.4 mpg US (8 L/100Km)",
+      "Combined": "24 mpg US (9.8 L/100Km)",
+      "CO2 Emissions": "223 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Targa-4-6887_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Targa-4-6887_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Targa-4-6887_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Targa-4-6887_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Targa-4-6887_11.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Targa 4",
+    "url": "https://www.autoevolution.com/porsche/911-targa-4/",
+    "start_year": 2006,
+    "end_year": null
+  },
+  {
+    "generation": "PORSCHE Panamera 4S E-Hybrid (971)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera 4S E-Hybrid (971) 2.9L V6 8AT(560 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-4s-e-hybrid-971-2020.html#aeng_porsche-panamera-4s-e-hybrid-971-2020-29l-v6-8at440-hp",
+    "ENGINE SPECS - 2.9L V6 8AT(560 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2894 cm3",
+      "Power": "323.6 KW @ 5650-6600 RPM\n440 HP @ 5650-6600 RPM\n434 BHP @ 5650-6600 RPM",
+      "Torque": "406 lb-ft @ 2000-5500 RPM\n550 Nm @ 2000-5500 RPM",
+      "Electrical motor power": "100 kw (136 hp)",
+      "Electrical motor torque": "295 lb-ft (400 Nm)",
+      "Total maximum power": "411.9 kw (560 hp)",
+      "Total maximum torque": "553.2 lb-ft (750 Nm)",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Hybrid Gasoline",
+      "Fuel capacity": "21.1 gallons (79.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "185 mph (298 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "8-speed automatic PDK"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/45 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "198.8 in (5050 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "56 in (1422 mm)",
+      "Front/rear Track": "65.2/64.5 in (1,656/1,638 mm)",
+      "Wheelbase": "116.1 in (2949 mm)",
+      "Cargo Volume": "14.2 cuFT (402 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "5071 lbs (2300 kg)",
+      "Gross Weight Limit": "6063 lbs (2750 kg)"
+    },
+    "POWER SYSTEM SPECS": {
+      "Range": "30.4 miles (48.9 km)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "106.9 mpg US (2.2 L/100Km)",
+      "CO2 Emissions": "51 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4S-E-Hybrid--971--6915_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4S-E-Hybrid--971--6915_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4S-E-Hybrid--971--6915_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4S-E-Hybrid--971--6915_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4S-E-Hybrid--971--6915_8.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera 4S E-Hybrid",
+    "url": "https://www.autoevolution.com/porsche/panamera-4s-e-hybrid/",
+    "start_year": 2020,
+    "end_year": null
+  },
+  {
+    "generation": "PORSCHE Cayenne GTS Coupe (PO536)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Cayenne GTS Coupe (PO536) 4.0L V8 8AT AWD (460 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-cayenne-gts-coupe-2020.html#aeng_porsche-cayenne-gts-coupe-2020-40l-v8-8at-awd-460-hp",
+    "ENGINE SPECS - 4.0L V8 8AT AWD (460 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3996 cm3",
+      "Power": "338.3 KW @ 6000-6500 RPM\n460 HP @ 6000-6500 RPM\n454 BHP @ 6000-6500 RPM",
+      "Torque": "457 lb-ft @ 1800-4500 RPM\n620 Nm @ 1800-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "168 mph (270 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic Tiptronic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "194.4 in (4938 mm)",
+      "Width": "78.5 in (1994 mm)",
+      "Height": "65.3 in (1659 mm)",
+      "Front/rear Track": "66.3/66.3 in (1,684/1,684 mm)",
+      "Wheelbase": "114 in (2896 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4795 lbs (2175 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "20.6 mpg US (11.4 L/100Km)",
+      "CO2 Emissions": "260 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-GTS-Coupe-6844_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-GTS-Coupe-6844_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-GTS-Coupe-6844_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-GTS-Coupe-6844_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-GTS-Coupe-6844_1.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Cayenne GTS Coupe",
+    "url": "https://www.autoevolution.com/porsche/cayenne-gts-coupe/",
+    "start_year": 2020,
+    "end_year": null
+  },
+  {
+    "generation": "PORSCHE Panamera 4S (971)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera 4S (971) 2.9 V6 8AT (440 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-4s-2016.html#aeng_porsche-panamera-4s-2016-29-v6-8at-440-hp",
+    "ENGINE SPECS - 2.9 V6 8AT (440 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2894 cm3",
+      "Power": "323.6 KW @ 5650-6600 RPM\n440 HP @ 5650-6600 RPM\n434 BHP @ 5650-6600 RPM",
+      "Torque": "406 lb-ft @ 1750-5500 RPM\n550 Nm @ 1750-5500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "180 mph (290 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic (PDK)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "198.8 in (5050 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "56 in (1422 mm)",
+      "Wheelbase": "116.1 in (2949 mm)",
+      "Cargo Volume": "17.5 cuFT (496 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4123 lbs (1870 kg)",
+      "Gross Weight Limit": "5501 lbs (2495 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "23.1 mpg US (10.2 L/100Km)",
+      "Highway": "34.6 mpg US (6.8 L/100Km)",
+      "Combined": "28.7 mpg US (8.2 L/100Km)",
+      "CO2 Emissions": "186 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4S-5722_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4S-5722_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4S-5722_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4S-5722_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4S-5722_12.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera 4S",
+    "url": "https://www.autoevolution.com/porsche/panamera-4s/",
+    "start_year": 2009,
+    "end_year": 2020
+  },
+  {
+    "generation": "PORSCHE Panamera GTS Sport Turismo (971)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera GTS Sport Turismo (971) 4.0L V8 8AT (480 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-gts-sport-turismo-2020.html#aeng_porsche-panamera-gts-sport-turismo-2020-40l-v8-8at-480-hp",
+    "ENGINE SPECS - 4.0L V8 8AT (480 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3996 cm3",
+      "Power": "353 KW @ 6500 RPM\n480 HP @ 6500 RPM\n473 BHP @ 6500 RPM",
+      "Torque": "457 lb-ft @ 1800-4000 RPM\n620 Nm @ 1800-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "23.8 gallons (90.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "181 mph (291 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "8-speed automatic PDK"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/45 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "198.8 in (5050 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "56 in (1422 mm)",
+      "Front/rear Track": "655.8/64.5 in (16,657/1,638 mm)",
+      "Wheelbase": "116.1 in (2949 mm)",
+      "Cargo Volume": "18.2 cuFT (515 L)",
+      "Aerodynamics (Cd)": "0.33"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4663 lbs (2115 kg)",
+      "Gross Weight Limit": "5765 lbs (2615 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "15.2 mpg US (15.5 L/100Km)",
+      "Highway": "27.7 mpg US (8.5 L/100Km)",
+      "Combined": "21.2 mpg US (11.1 L/100Km)",
+      "CO2 Emissions": "253 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-GTS-Sport-Turismo-6913_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-GTS-Sport-Turismo-6913_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-GTS-Sport-Turismo-6913_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-GTS-Sport-Turismo-6913_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-GTS-Sport-Turismo-6913_5.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera GTS Sport Turismo",
+    "url": "https://www.autoevolution.com/porsche/panamera-gts-sport-turismo/",
+    "start_year": 2018,
+    "end_year": null
+  },
+  {
+    "generation": "PORSCHE 911 Targa 4S (992)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Targa 4S (992) 3.0L BiTurbo 7MT AWD (450 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-targa-4s-2020.html#aeng_porsche-911-targa-4s-2020-30l-7mt-awd-450-hp",
+    "ENGINE SPECS - 3.0L BITURBO 7MT AWD (450 HP)": {
+      "Cylinders": "L6",
+      "Displacement": "2981 cm3",
+      "Power": "331 KW @ 6500 RPM\n450 HP @ 6500 RPM\n444 BHP @ 6500 RPM",
+      "Torque": "391 lb-ft @ 2300-5000 RPM\n530 Nm @ 2300-5000 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.7 gallons (67.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "189 mph (304 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/35 ZR 20 // 305/30 ZR 21"
+    },
+    "DIMENSIONS": {
+      "Length": "177.9 in (4519 mm)",
+      "Width": "72.9 in (1852 mm)",
+      "Height": "51.1 in (1298 mm)",
+      "Front/rear Track": "62.6/61.3 in (1,590/1,557 mm)",
+      "Wheelbase": "96.5 in (2451 mm)",
+      "Cargo Volume": "4.7 cuFT (133 L)",
+      "Aerodynamics (Cd)": "0.3",
+      "Turning circle": "36.7 ft (11.2 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3616 lbs (1640 kg)",
+      "Gross Weight Limit": "4530 lbs (2055 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "15.7 mpg US (15 L/100Km)",
+      "Highway": "30.9 mpg US (7.6 L/100Km)",
+      "Combined": "22.8 mpg US (10.3 L/100Km)",
+      "CO2 Emissions": "235 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Targa-4S-6818_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Targa-4S-6818_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Targa-4S-6818_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Targa-4S-6818_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Targa-4S-6818_6.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Targa 4S",
+    "url": "https://www.autoevolution.com/porsche/911-targa-4s/",
+    "start_year": 2006,
+    "end_year": null
+  },
+  {
+    "generation": "PORSCHE Panamera 4 Sport Turismo (971)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera 4 Sport Turismo (971) 3.0L V6 8AT AWD (330 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-4-sport-turismo-971-2017.html#aeng_porsche-panamera-4-sport-turismo-971-2017-30-v6-8at-330-hp",
+    "ENGINE SPECS - 3.0L V6 8AT AWD (330 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2995 cm3",
+      "Power": "242.7 KW @ 5400-6400 RPM\n330 HP @ 5400-6400 RPM\n325 BHP @ 5400-6400 RPM",
+      "Torque": "332 lb-ft @ 1340-4900 RPM\n450 Nm @ 1340-4900 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "161 mph (259 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic (PDK)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/45 ZR 19 || 295/40 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "198.8 in (5050 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "56.2 in (1427 mm)",
+      "Front/rear Track": "65.8/65 in (1,671/1,651 mm)",
+      "Wheelbase": "116.1 in (2949 mm)",
+      "Ground Clearance": "4.9 in (124 mm)",
+      "Cargo Volume": "18.4 cuFT (521 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4145 lbs (1880 kg)",
+      "Gross Weight Limit": "5622 lbs (2550 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "23.5 mpg US (10 L/100Km)",
+      "Highway": "35.1 mpg US (6.7 L/100Km)",
+      "Combined": "29.8 mpg US (7.9 L/100Km)",
+      "CO2 Emissions": "180 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4-Sport-Turismo--971--5971_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4-Sport-Turismo--971--5971_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4-Sport-Turismo--971--5971_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4-Sport-Turismo--971--5971_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-4-Sport-Turismo--971--5971_1.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera 4 Sport Turismo",
+    "url": "https://www.autoevolution.com/porsche/panamera-4-sport-turismo/",
+    "start_year": 2017,
+    "end_year": 2020
+  },
+  {
+    "generation": "PORSCHE Panamera GTS (971)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera GTS (971) 4.0L V8 8AT RWD (480 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-gts-971-2020.html#aeng_porsche-panamera-gts-971-2020-40l-v8-8at-480-hp",
+    "ENGINE SPECS - 4.0L V8 8AT RWD (480 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3996 cm3",
+      "Power": "353 KW @ 6500 RPM\n480 HP @ 6500 RPM\n473 BHP @ 6500 RPM",
+      "Torque": "457 lb-ft @ 1800-4000 RPM\n620 Nm @ 1800-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "23.8 gallons (90.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "186 mph (299 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/45 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "198.9 in (5052 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "55.8 in (1417 mm)",
+      "Front/rear Track": "65.2/64.5 in (1,656/1,638 mm)",
+      "Wheelbase": "116.1 in (2949 mm)",
+      "Cargo Volume": "17.5 cuFT (496 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4619 lbs (2095 kg)",
+      "Gross Weight Limit": "5699 lbs (2585 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "15.3 mpg US (15.4 L/100Km)",
+      "Highway": "28.7 mpg US (8.2 L/100Km)",
+      "Combined": "21.6 mpg US (10.9 L/100Km)",
+      "CO2 Emissions": "249 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-GTS--971--6924_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-GTS--971--6924_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-GTS--971--6924_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-GTS--971--6924_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-GTS--971--6924_9.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera GTS",
+    "url": "https://www.autoevolution.com/porsche/panamera-gts/",
+    "start_year": 2011,
+    "end_year": null
+  },
+  {
+    "generation": "PORSCHE Panamera 4 E-Hybrid (971)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera 4 E-Hybrid (971) 2.9L V6 8AT AWD (462 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-4-e-hybrid-2016.html#aeng_porsche-4-e-hybrid-2016-29-v6-8at-462-hp",
+    "ENGINE SPECS - 2.9L V6 8AT AWD (462 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2894 cm3",
+      "Power": "242.7 KW @ 5250-6500 RPM\n330 HP @ 5250-6500 RPM\n325 BHP @ 5250-6500 RPM",
+      "Torque": "332 lb-ft @ 1750-5000 RPM\n450 Nm @ 1750-5000 RPM",
+      "Electrical motor power": "100 kw (136 hp)",
+      "Electrical motor torque": "295 lb-ft (400 Nm)",
+      "Total maximum power": "339.8 kw (462 hp)",
+      "Total maximum torque": "516.3 lb-ft (700 Nm)",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "21.1 gallons (79.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "173 mph (278 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic (PDK)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/45 ZR 19 || 295/40 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "198.8 in (5050 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "56 in (1422 mm)",
+      "Front/rear Track": "65.8/65 in (1,671/1,651 mm)",
+      "Wheelbase": "116.1 in (2949 mm)",
+      "Ground Clearance": "5.2 in (132 mm)",
+      "Cargo Volume": "14.3 cuFT (405 L)",
+      "Aerodynamics (Cd)": "0.28"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4784 lbs (2170 kg)",
+      "Gross Weight Limit": "5975 lbs (2710 kg)"
+    },
+    "POWER SYSTEM SPECS": {
+      "Power pack": "Lithium-ion",
+      "Nominal Capacity": "14.1 kWh",
+      "Range": "31.1 miles (50.1 km)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "94.1 mpg US (2.5 L/100Km)",
+      "CO2 Emissions": "56 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-4-E-Hybrid-5788_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-4-E-Hybrid-5788_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-4-E-Hybrid-5788_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-4-E-Hybrid-5788_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-4-E-Hybrid-5788_7.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera 4 E-Hybrid",
+    "url": "https://www.autoevolution.com/porsche/panamera-4-e-hybrid/",
+    "start_year": 2016,
+    "end_year": 2020
+  },
+  {
+    "generation": "PORSCHE Panamera Turbo S E-Hybrid (971)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera Turbo S E-Hybrid (971) 4.0L V8 8AT AWD (680 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-turbo-s-e-hybrid-2017.html#aeng_porsche-panamera-turbo-s-e-hybrid-2017-40-v8-8at-680-hp",
+    "ENGINE SPECS - 4.0L V8 8AT AWD (680 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3996 cm3",
+      "Power": "404.5 KW @ 5750-6000 RPM\n550 HP @ 5750-6000 RPM\n542 BHP @ 5750-6000 RPM",
+      "Torque": "568 lb-ft @ 1960-4500 RPM\n770 Nm @ 1960-4500 RPM",
+      "Electrical motor power": "100 kw (136 hp)",
+      "Electrical motor torque": "295 lb-ft (400 Nm)",
+      "Total maximum power": "500.1 kw (680 hp)",
+      "Total maximum torque": "626.9 lb-ft (850 Nm)",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Hybrid Gasoline",
+      "Fuel capacity": "21.1 gallons (79.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "193 mph (311 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic (PDK)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "275/35 R21 // 325/30 R21"
+    },
+    "DIMENSIONS": {
+      "Length": "204.7 in (5199 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "56.4 in (1433 mm)",
+      "Wheelbase": "122 in (3099 mm)",
+      "Cargo Volume": "14.3 cuFT (405 L)",
+      "Aerodynamics (Cd)": "0.29",
+      "Turning circle (curb to curb)": "37.4 ft (11.4 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "5313 lbs (2410 kg)",
+      "Gross Weight Limit": "6360 lbs (2885 kg)"
+    },
+    "POWER SYSTEM SPECS": {
+      "Power pack": "Lithium-ion",
+      "Nominal Capacity": "14 kWh",
+      "Range": "15.5 miles (24.9 km)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "81.1 mpg US (2.9 L/100Km)",
+      "CO2 Emissions": "66 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S-E-Hybrid-5934_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S-E-Hybrid-5934_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S-E-Hybrid-5934_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S-E-Hybrid-5934_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S-E-Hybrid-5934_7.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera Turbo S E-Hybrid",
+    "url": "https://www.autoevolution.com/porsche/panamera-turbo-s-e-hybrid/",
+    "start_year": 2017,
+    "end_year": 2020
+  },
+  {
+    "generation": "PORSCHE Panamera Turbo S Sport Turismo (971)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera Turbo S Sport Turismo (971) 4.0L V8 8AT (630 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-turbo-s-sport-turismo-2020.html#aeng_porsche-panamera-turbo-s-sport-turismo-2020-40l-v8-8at-630-hp",
+    "ENGINE SPECS - 4.0L V8 8AT (630 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3996 cm3",
+      "Power": "463.4 KW @ 6000 RPM\n630 HP @ 6000 RPM\n621 BHP @ 6000 RPM",
+      "Torque": "605 lb-ft @ 2300-4500 RPM\n820 Nm @ 2300-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "23.8 gallons (90.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "196 mph (315 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "8-speed automatic PDK"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "198.8 in (5050 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "56.4 in (1433 mm)",
+      "Front/rear Track": "65.2/64.4 in (1,656/1,636 mm)",
+      "Wheelbase": "116.1 in (2949 mm)",
+      "Cargo Volume": "17.2 cuFT (487 L)",
+      "Aerodynamics (Cd)": "0.34"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4872 lbs (2210 kg)",
+      "Gross Weight Limit": "5754 lbs (2610 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "15.7 mpg US (15 L/100Km)",
+      "Highway": "26.7 mpg US (8.8 L/100Km)",
+      "Combined": "21.2 mpg US (11.1 L/100Km)",
+      "CO2 Emissions": "253 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S-Sport-Turismo-6912_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S-Sport-Turismo-6912_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S-Sport-Turismo-6912_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S-Sport-Turismo-6912_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S-Sport-Turismo-6912_5.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera Turbo S Sport Turismo",
+    "url": "https://www.autoevolution.com/porsche/panamera-turbo-s-sport-turismo/",
+    "start_year": 2020,
+    "end_year": null
+  },
+  {
+    "generation": "PORSCHE Panamera Turbo (971)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera Turbo (971) 4.0L V8 8AT AWD (550 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-turbo-2016.html#aeng_porsche-panamera-turbo-2016-40-v8-8at-550-hp",
+    "ENGINE SPECS - 4.0L V8 8AT AWD (550 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3996 cm3",
+      "Power": "404.5 KW @ 5750-6000 RPM\n550 HP @ 5750-6000 RPM\n542 BHP @ 5750-6000 RPM",
+      "Torque": "568 lb-ft @ 1960-4500 RPM\n770 Nm @ 1960-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "23.8 gallons (90.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "190 mph (306 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic (PDK)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "198.8 in (5050 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "56.2 in (1427 mm)",
+      "Wheelbase": "116.1 in (2949 mm)",
+      "Cargo Volume": "17.5 cuFT (496 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4398 lbs (1995 kg)",
+      "Gross Weight Limit": "5699 lbs (2585 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "18.2 mpg US (12.9 L/100Km)",
+      "Highway": "32.2 mpg US (7.3 L/100Km)",
+      "Combined": "25 mpg US (9.4 L/100Km)",
+      "CO2 Emissions": "214 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-5724_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-5724_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-5724_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-5724_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-5724_12.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera Turbo",
+    "url": "https://www.autoevolution.com/porsche/panamera-turbo/",
+    "start_year": 2009,
+    "end_year": 2020
+  },
+  {
+    "generation": "2020 Porsche Macan Turbo",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Macan Turbo (95B) 2.9L Biturbo V6 7AT AWD (440 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-macan-turbo-2019.html#aeng_porsche-macan-turbo-2019-29l-v6-7at-awd-440-hp",
+    "ENGINE SPECS - 2.9L BITURBO V6 7AT AWD (440 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2894 cm3",
+      "Power": "323.6 KW @ 5700-6600 RPM\n440 HP @ 5700-6600 RPM\n434 BHP @ 5700-6600 RPM",
+      "Torque": "406 lb-ft @ 1800-5600 RPM\n550 Nm @ 1800-5600 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "168 mph (270 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-automatic speed PDK dual clutch"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/45 R20 104Y // 295/40 R20 106Y"
+    },
+    "DIMENSIONS": {
+      "Length": "184.4 in (4684 mm)",
+      "Width": "82.6 in (2098 mm)",
+      "Height": "63.9 in (1623 mm)",
+      "Front/rear Track": "64.8/65.2 in (1,646/1,656 mm)",
+      "Wheelbase": "110.5 in (2807 mm)",
+      "Ground Clearance": "8.1 in (206 mm)",
+      "Cargo Volume": "17.7 cuFT (501 L)",
+      "Aerodynamics (Cd)": "0.37"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4288 lbs (1945 kg)",
+      "Gross Weight Limit": "5291 lbs (2400 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "24 mpg US (9.8 L/100Km)",
+      "CO2 Emissions": "224 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Macan-Turbo-6651_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Macan-Turbo-6651_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Macan-Turbo-6651_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Macan-Turbo-6651_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Macan-Turbo-6651_11.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Macan Turbo",
+    "url": "https://www.autoevolution.com/porsche/macan-turbo/",
+    "start_year": 2014,
+    "end_year": null
+  },
+  {
+    "generation": "2020 Porsche Cayman GTS 4.0 (982C)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 718 Cayman GTS 4.0 4.0L 6MT (400 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-718-cayman-gts-40-2019.html#aeng_porsche-718-cayman-gts-40-2019-40l-6mt-400-hp",
+    "ENGINE SPECS - 4.0L 6MT (400 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3995 cm3",
+      "Power": "294.2 KW @ 7800 RPM\n400 HP @ 7800 RPM\n395 BHP @ 7800 RPM",
+      "Torque": "310 lb-ft @ 5000-6000 RPM\n420 Nm @ 5000-6000 RPM",
+      "Fuel System": "Direct Fuel Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "182 mph (293 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/35 ZR 20 // 265/35 ZR 20"
+    },
+    "DIMENSIONS": {
+      "Length": "172.4 in (4379 mm)",
+      "Width": "70.9 in (1801 mm)",
+      "Height": "50.1 in (1273 mm)",
+      "Front/rear Track": "60.1/60.4 in (1,527/1,534 mm)",
+      "Wheelbase": "97.4 in (2474 mm)",
+      "Ground Clearance": "3.9 in (99 mm)",
+      "Cargo Volume": "9.7 cuFT (275 L)",
+      "Aerodynamics (Cd)": "0.33"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3097 lbs (1405 kg)",
+      "Gross Weight Limit": "3748 lbs (1700 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "19 mpg US (12.4 L/100Km)",
+      "Highway": "25 mpg US (9.4 L/100Km)",
+      "Combined": "21.8 mpg US (10.8 L/100Km)",
+      "CO2 Emissions": "246 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-GTS-4-0-6729_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-GTS-4-0-6729_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-GTS-4-0-6729_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-GTS-4-0-6729_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-GTS-4-0-6729_6.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 718 Cayman GTS",
+    "url": "https://www.autoevolution.com/porsche/718-cayman-gts/",
+    "start_year": 2017,
+    "end_year": null
+  },
+  {
+    "generation": "2020 Porsche 718 Boxster GTS 4.0",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 718 Boxster GTS 4.0 4.0L 6MT (400 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-718-boxster-gts-40-2019.html#aeng_porsche-718-boxster-gts-40-2019-40l-6mt-400-hp",
+    "ENGINE SPECS - 4.0L 6MT (400 HP)": {
+      "Cylinders": "H6",
+      "Power": "294.2 KW @ 7800 RPM\n400 HP @ 7800 RPM\n395 BHP @ 7800 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "182 mph (293 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/35 ZR 20 // 265/35 ZR 20"
+    },
+    "DIMENSIONS": {
+      "Length": "172.4 in (4379 mm)",
+      "Width": "70.9 in (1801 mm)",
+      "Height": "50.1 in (1273 mm)",
+      "Wheelbase": "97.4 in (2474 mm)",
+      "Cargo Volume": "9.7 cuFT (275 L)",
+      "Aerodynamics (Cd)": "0.33"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "21.8 mpg US (10.8 L/100Km)",
+      "CO2 Emissions": "246 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Boxster-GTS-4-0-6728_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Boxster-GTS-4-0-6728_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Boxster-GTS-4-0-6728_1.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 718 Boxster GTS",
+    "url": "https://www.autoevolution.com/porsche/718-boxster-gts/",
+    "start_year": 2017,
+    "end_year": null
+  },
+  {
+    "generation": "PORSCHE Panamera Turbo S (971)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera Turbo S (971) 4.0L V8 8AT (630 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-turbo-s-971-2020.html#aeng_porsche-panamera-turbo-s-971-2020-40l-v8-8at-630-hp",
+    "ENGINE SPECS - 4.0L V8 8AT (630 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3996 cm3",
+      "Power": "463.4 KW @ 6000 RPM\n630 HP @ 6000 RPM\n621 BHP @ 6000 RPM",
+      "Torque": "605 lb-ft @ 2300-4500 RPM\n820 Nm @ 2300-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "23.8 gallons (90.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "196 mph (315 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "8-speed automatic PDK"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/45 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "198.8 in (5050 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "56.2 in (1427 mm)",
+      "Front/rear Track": "65.2/64.4 in (1,656/1,636 mm)",
+      "Wheelbase": "116.1 in (2949 mm)",
+      "Cargo Volume": "16.3 cuFT (462 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "15.8 mpg US (14.9 L/100Km)",
+      "Highway": "27.7 mpg US (8.5 L/100Km)",
+      "Combined": "21.8 mpg US (10.8 L/100Km)",
+      "CO2 Emissions": "247 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S--971--6914_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S--971--6914_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S--971--6914_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S--971--6914_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-S--971--6914_9.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera Turbo S",
+    "url": "https://www.autoevolution.com/porsche/panamera-turbo-s/",
+    "start_year": 2011,
+    "end_year": null
+  },
+  {
+    "generation": "2016 Porsche 718 Boxster S (982)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 718 Boxster S (982) 2.5L 6MT RWD (350 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-718-boxster-s-2016.html#aeng_porsche-718-boxster-s-2016-25-6mt-350-hp",
+    "ENGINE SPECS - 2.5L 6MT RWD (350 HP)": {
+      "Cylinders": "H4",
+      "Displacement": "2497 cm3",
+      "Power": "257.4 KW @ 6500 RPM\n350 HP @ 6500 RPM\n345 BHP @ 6500 RPM",
+      "Torque": "310 lb-ft @ 1900-4500 RPM\n420 Nm @ 1900-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.3 gallons (54.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "177 mph (285 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/40 ZR 19 || 265/40 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "172.4 in (4379 mm)",
+      "Width": "70.9 in (1801 mm)",
+      "Height": "50.4 in (1280 mm)",
+      "Front/rear Track": "59.6/60.6 in (1,514/1,539 mm)",
+      "Wheelbase": "97.4 in (2474 mm)",
+      "Ground Clearance": "5.2 in (132 mm)",
+      "Cargo Volume": "9.7 cuFT (275 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2987 lbs (1355 kg)",
+      "Gross Weight Limit": "3671 lbs (1665 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "22 mpg US (10.7 L/100Km)",
+      "Highway": "36.2 mpg US (6.5 L/100Km)",
+      "Combined": "29 mpg US (8.1 L/100Km)",
+      "CO2 Emissions": "184 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Boxster-S-5573_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Boxster-S-5573_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Boxster-S-5573_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Boxster-S-5573_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Boxster-S-5573_12.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 718 Boxster S",
+    "url": "https://www.autoevolution.com/porsche/718-boxster-s/",
+    "start_year": 2016,
+    "end_year": null
+  },
+  {
+    "generation": "2016 Porsche 917 Cayman S (982C)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 718 Cayman S (982C) 2.5L 6MT RWD (350 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-718-cayman-s-2016.html#aeng_porsche-718-cayman-s-2016-25-6mt-350-hp",
+    "ENGINE SPECS - 2.5L 6MT RWD (350 HP)": {
+      "Cylinders": "H4",
+      "Displacement": "2497 cm3",
+      "Power": "257.4 KW @ 6500 RPM\n350 HP @ 6500 RPM\n345 BHP @ 6500 RPM",
+      "Torque": "310 lb-ft @ 1900-4500 RPM\n420 Nm @ 1900-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "177 mph (285 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/40 ZR 19 || 265/40 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "172.4 in (4379 mm)",
+      "Width": "70.9 in (1801 mm)",
+      "Height": "51 in (1295 mm)",
+      "Front/rear Track": "59.6/60.6 in (1,514/1,539 mm)",
+      "Wheelbase": "97.4 in (2474 mm)",
+      "Ground Clearance": "5.2 in (132 mm)",
+      "Cargo Volume": "9.7 cuFT (275 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2987 lbs (1355 kg)",
+      "Gross Weight Limit": "3671 lbs (1665 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "22 mpg US (10.7 L/100Km)",
+      "Highway": "36.2 mpg US (6.5 L/100Km)",
+      "Combined": "29 mpg US (8.1 L/100Km)",
+      "CO2 Emissions": "184 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-S-5690_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-S-5690_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-S-5690_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-S-5690_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-718-Cayman-S-5690_7.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 718 Cayman S",
+    "url": "https://www.autoevolution.com/porsche/718-cayman-s/",
+    "start_year": 2016,
+    "end_year": null
+  },
+  {
+    "generation": "2012 Porsche 911 Carrera 4 Cabriolet",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Carrera 4 Cabriolet (991) 3.4L 7AT AWD (350 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-carrera-4-cabriolet-991-2012.html#aeng_porsche-911-carrera-4-cabriolet-991-2012-34l-at-350-hp",
+    "ENGINE SPECS - 3.4L 7AT AWD (350 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3436 cm3",
+      "Power": "257 KW @ 7400 RPM\n350 HP @ 7400 RPM\n345 BHP @ 7400 RPM",
+      "Torque": "288 lb-ft @ 5600 RPM\n390 Nm @ 5600 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "174 mph (280 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed double clutch transmission (Porsche Doppelkupplung - PDK)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/40 R19 || 295/35 R19"
+    },
+    "DIMENSIONS": {
+      "Length": "176.8 in (4491 mm)",
+      "Width": "72.9 in (1852 mm)",
+      "Height": "51.2 in (1300 mm)",
+      "Front/rear Track": "60.3/61.4 in (1,532/1,560 mm)",
+      "Wheelbase": "96.5 in (2451 mm)",
+      "Ground Clearance": "4.6 in (117 mm)",
+      "Cargo Volume": "4.4 cuFT (125 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3351 lbs (1520 kg)",
+      "Gross Weight Limit": "4233 lbs (1920 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "20 mpg US (11.8 L/100Km)",
+      "Highway": "34 mpg US (6.9 L/100Km)",
+      "Combined": "27 mpg US (8.7 L/100Km)",
+      "CO2 Emissions": "205 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE911Carrera4Cabriolet-991--4659_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE911Carrera4Cabriolet-991--4659_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE911Carrera4Cabriolet-991--4659_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE911Carrera4Cabriolet-991--4659_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE911Carrera4Cabriolet-991--4659_5.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Carrera 4 Cabriolet",
+    "url": "https://www.autoevolution.com/porsche/911-carrera-4-cabriolet/",
+    "start_year": 1998,
+    "end_year": 2016
+  },
+  {
+    "generation": "PORSCHE 911 Carrera 4 GTS Cabriolet (991)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Carrera 4 GTS Cabriolet (991) 3.8L 7AT AWD (430 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-carrera-4-gts-cabriolet-2014.html#aeng_porsche-911-carrera-4-gts-cabriolet-2014-38-7at-430-hp",
+    "ENGINE SPECS - 3.8L 7AT AWD (430 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3800 cm3",
+      "Power": "316 KW @ 7500 RPM\n430 HP @ 7500 RPM\n424 BHP @ 7500 RPM",
+      "Torque": "325 lb-ft @ 5750 RPM\n441 Nm @ 5750 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "187 mph (301 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic PDK"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/35 ZR 20 || 305/30 ZR 20"
+    },
+    "DIMENSIONS": {
+      "Length": "59.4 in (1509 mm)",
+      "Width": "72.9 in (1852 mm)",
+      "Height": "50.9 in (1293 mm)",
+      "Wheelbase": "96.5 in (2451 mm)",
+      "Ground Clearance": "4.2 in (107 mm)",
+      "Cargo Volume": "4.4 cuFT (125 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3605 lbs (1635 kg)",
+      "Gross Weight Limit": "4310 lbs (1955 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "18.8 mpg US (12.5 L/100Km)",
+      "Highway": "33.1 mpg US (7.1 L/100Km)",
+      "Combined": "25.6 mpg US (9.2 L/100Km)",
+      "CO2 Emissions": "214 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4-GTS-Cabriolet-5312_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4-GTS-Cabriolet-5312_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4-GTS-Cabriolet-5312_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4-GTS-Cabriolet-5312_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-4-GTS-Cabriolet-5312_7.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Carrera 4 GTS Cabriolet",
+    "url": "https://www.autoevolution.com/porsche/911-carrera-4-gts-cabriolet/",
+    "start_year": 2014,
+    "end_year": 2018
+  },
+  {
+    "generation": "2014 Porsche 911 Carrera GTS Cabriolet",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Carrera GTS Cabriolet 3.8L 7AT RWD (430 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-carrera-gts-cabriolet-2014.html#aeng_porsche-911-carrera-gts-cabriolet-2014-38-7at-430-hp",
+    "ENGINE SPECS - 3.8L 7AT RWD (430 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3800 cm3",
+      "Power": "316 KW @ 7500 RPM\n430 HP @ 7500 RPM\n424 BHP @ 7500 RPM",
+      "Torque": "325 lb-ft @ 5750 RPM\n441 Nm @ 5750 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "188 mph (303 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic PDK"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/35 ZR 20 || 305/30 ZR 20"
+    },
+    "DIMENSIONS": {
+      "Length": "177.5 in (4509 mm)",
+      "Width": "72.9 in (1852 mm)",
+      "Height": "50.9 in (1293 mm)",
+      "Front/rear Track": "60.6/61.4 in (1,539/1,560 mm)",
+      "Wheelbase": "96.5 in (2451 mm)",
+      "Ground Clearance": "4.2 in (107 mm)",
+      "Cargo Volume": "4.4 cuFT (125 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3505 lbs (1590 kg)",
+      "Gross Weight Limit": "4244 lbs (1925 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "19.1 mpg US (12.3 L/100Km)",
+      "Highway": "34.1 mpg US (6.9 L/100Km)",
+      "Combined": "26.4 mpg US (8.9 L/100Km)",
+      "CO2 Emissions": "207 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-GTS-Cabriolet-5310_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-GTS-Cabriolet-5310_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-GTS-Cabriolet-5310_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-GTS-Cabriolet-5310_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-GTS-Cabriolet-5310_8.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Carrera GTS Cabriolet",
+    "url": "https://www.autoevolution.com/porsche/911-carrera-gts-cabriolet/",
+    "start_year": 2010,
+    "end_year": 2016
+  },
+  {
+    "generation": "2019 Porsche Carrera S",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Carrera S (992) 3.0L 7MT RWD (450 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-carrera-s-2019.html#aeng_porsche-911-carrera-s-992-2019-30l-7mt-450-hp",
+    "ENGINE SPECS - 3.0L 7MT RWD (450 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "2981 cm3",
+      "Power": "331 KW @ 6500 RPM\n450 HP @ 6500 RPM\n444 BHP @ 6500 RPM",
+      "Torque": "391 lb-ft @ 2300-6500 RPM\n530 Nm @ 2300-6500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "16.9 gallons (64.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "191 mph (307 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/35 ZR 20 // 305/30 ZR 21"
+    },
+    "DIMENSIONS": {
+      "Length": "177.9 in (4519 mm)",
+      "Width": "79.7 in (2024 mm)",
+      "Height": "51.2 in (1300 mm)",
+      "Front/rear Track": "62.6/61.3 in (1,590/1,557 mm)",
+      "Wheelbase": "96.5 in (2451 mm)",
+      "Cargo Volume": "4.6 cuFT (130 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3428 lbs (1555 kg)",
+      "Gross Weight Limit": "4310 lbs (1955 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16.2 mpg US (14.5 L/100Km)",
+      "Highway": "32.2 mpg US (7.3 L/100Km)",
+      "Combined": "23.5 mpg US (10 L/100Km)",
+      "CO2 Emissions": "227 g/km"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Low": "13.2 mpg US (17.8 L/100Km)",
+      "CO2 Emissions (Low)": "403 g/km",
+      "Medium": "22.8 mpg US (10.3 L/100Km)",
+      "CO2 Emissions (Medium)": "233 g/km",
+      "High": "26.7 mpg US (8.8 L/100Km)",
+      "CO2 Emissions (High)": "199 g/km",
+      "Extra high": "28 mpg US (8.4 L/100Km)",
+      "CO2 Emissions (Extra high)": "190 g/km",
+      "Combined": "23.3 mpg US (10.1 L/100Km)",
+      "CO2 Emissions (Combined)": "229 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-S-6550_17.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-S-6550_18.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-S-6550_19.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-S-6550_20.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-S-6550_21.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Carrera S",
+    "url": "https://www.autoevolution.com/porsche/911-carrera-s/",
+    "start_year": 1995,
+    "end_year": 2024
+  },
+  {
+    "generation": "PORSCHE 911 Carrera S Cabriolet (991)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Carrera S Cabriolet (991) 3.0L 7AT RWD (420 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-carrera-s-cabriolet-2015.html#aeng_porsche-911-carrera-s-cabriolet-2015-30-7at-420-hp",
+    "ENGINE SPECS - 3.0L 7AT RWD (420 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "2981 cm3",
+      "Power": "308.9 KW @ 6500 RPM\n420 HP @ 6500 RPM\n414 BHP @ 6500 RPM",
+      "Torque": "369 lb-ft @ 1700-5000 RPM\n500 Nm @ 1700-5000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "189 mph (304 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.3 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic (PDK)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/35 ZR20 || 295/30 ZR20"
+    },
+    "DIMENSIONS": {
+      "Length": "177.1 in (4498 mm)",
+      "Width": "71.2 in (1808 mm)",
+      "Height": "50.8 in (1290 mm)",
+      "Front/rear Track": "60.7/59.8 in (1,542/1,519 mm)",
+      "Wheelbase": "96.5 in (2451 mm)",
+      "Ground Clearance": "4.3 in (109 mm)",
+      "Cargo Volume": "5.1 cuFT (144 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3373 lbs (1530 kg)",
+      "Gross Weight Limit": "4332 lbs (1965 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "23.1 mpg US (10.2 L/100Km)",
+      "Highway": "36.2 mpg US (6.5 L/100Km)",
+      "Combined": "30.2 mpg US (7.8 L/100Km)",
+      "CO2 Emissions": "178 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-S-Cabriolet-5492_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-S-Cabriolet-5492_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-S-Cabriolet-5492_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-S-Cabriolet-5492_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-S-Cabriolet-5492_5.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Carrera S Cabriolet",
+    "url": "https://www.autoevolution.com/porsche/911-carrera-s-cabriolet/",
+    "start_year": 2005,
+    "end_year": 2018
+  },
+  {
+    "generation": "PORSCHE 911 GT2 (997)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 GT2 (997) 3.6L 6MT (530 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-gt2-997-2007.html#aeng_porsche-911-turbo-997-2007-36-turbo-1",
+    "ENGINE SPECS - 3.6L 6MT (530 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3600 cm3",
+      "Power": "389.8 KW @ 6500 RPM\n529.9 HP @ 6500 RPM\n523 BHP @ 6500 RPM",
+      "Torque": "502 lb-ft @ 2200 RPM\n680 Nm @ 2200 RPM",
+      "Fuel System": "Turbocharged Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "204 mph (328 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/35ZR19 || 305/30ZR19"
+    },
+    "DIMENSIONS": {
+      "Length": "175.2 in (4450 mm)",
+      "Width": "72.9 in (1852 mm)",
+      "Height": "51.2 in (1300 mm)",
+      "Front/rear Track": "58.6/60.9 in (1,488/1,547 mm)",
+      "Wheelbase": "92.5 in (2350 mm)",
+      "Ground Clearance": "4.3 in (109 mm)",
+      "Cargo Volume": "3.7 cuFT (105 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3120 lbs (1415 kg)",
+      "Gross Weight Limit": "3858 lbs (1750 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "12.9 mpg US (18.2 L/100Km)",
+      "Highway": "25.6 mpg US (9.2 L/100Km)",
+      "Combined": "18.8 mpg US (12.5 L/100Km)",
+      "CO2 Emissions": "298 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE911GT2-997--2910_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE911GT2-997--2910_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE911GT2-997--2910_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE911GT2-997--2910_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-GT2--997--2910_9.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 GT2",
+    "url": "https://www.autoevolution.com/porsche/911-gt2/",
+    "start_year": 1995,
+    "end_year": 2009
+  },
+  {
+    "generation": "PORSCHE 911 GT2 RS (991)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 GT2 RS (991) 3.8L 7AT (700 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-gt2-rs-2017.html#aeng_porsche-911-gt2-rs-2017-38-7at-700-hp",
+    "ENGINE SPECS - 3.8L 7AT (700 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3800 cm3",
+      "Power": "514.8 KW @ 7000 RPM\n700 HP @ 7000 RPM\n690 BHP @ 7000 RPM",
+      "Torque": "553 lb-ft @ 2500-4500 RPM\n750 Nm @ 2500-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "211 mph (340 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic (PDK)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/35 ZR 20 || 325/30 ZR 21"
+    },
+    "DIMENSIONS": {
+      "Length": "179.1 in (4549 mm)",
+      "Width": "74 in (1880 mm)",
+      "Height": "51.1 in (1298 mm)",
+      "Front/rear Track": "62.5/61.3 in (1,588/1,557 mm)",
+      "Wheelbase": "96.6 in (2454 mm)",
+      "Ground Clearance": "0.3 in (8 mm)",
+      "Cargo Volume": "4.1 cuFT (116 L)",
+      "Aerodynamics (Cd)": "0.35"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3241 lbs (1470 kg)",
+      "Gross Weight Limit": "4034 lbs (1830 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "13 mpg US (18.1 L/100Km)",
+      "Highway": "28.7 mpg US (8.2 L/100Km)",
+      "Combined": "19.9 mpg US (11.8 L/100Km)",
+      "CO2 Emissions": "269 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-GT2-RS-6048_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-GT2-RS-6048_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-GT2-RS-6048_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-GT2-RS-6048_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-GT2-RS-6048_11.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 GT2 RS",
+    "url": "https://www.autoevolution.com/porsche/911-gt2-rs/",
+    "start_year": 2010,
+    "end_year": 2019
+  },
+  {
+    "generation": "PORSCHE 911 GT3 RS (991.2)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 GT3 RS (991.2) 4.0L 7AT RWD (520 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-gt3-rs-2018.html#aeng_porsche-911-gt3-rs-2018-40-7at-520-hp",
+    "ENGINE SPECS - 4.0L 7AT RWD (520 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3996 cm3",
+      "Power": "382.5 KW @ 8250 RPM\n520 HP @ 8250 RPM\n513 BHP @ 8250 RPM",
+      "Torque": "347 lb-ft @ 6000 RPM\n470 Nm @ 6000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "194 mph (312 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic (PDK)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/35 R20 || 325/30 R21"
+    },
+    "DIMENSIONS": {
+      "Length": "179.4 in (4557 mm)",
+      "Width": "74 in (1880 mm)",
+      "Height": "51.1 in (1298 mm)",
+      "Front/rear Track": "62.5/61.3 in (1,588/1,557 mm)",
+      "Wheelbase": "96.6 in (2454 mm)",
+      "Cargo Volume": "4.4 cuFT (125 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3318 lbs (1505 kg)",
+      "Gross Weight Limit": "3953 lbs (1793 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "17.8 mpg US (13.2 L/100Km)",
+      "Highway": "26.1 mpg US (9 L/100Km)",
+      "Combined": "18.4 mpg US (12.8 L/100Km)",
+      "CO2 Emissions": "291 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-GT3-RS-6254_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-GT3-RS-6254_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-GT3-RS-6254_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-GT3-RS-6254_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-GT3-RS-6254_5.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 GT3 RS",
+    "url": "https://www.autoevolution.com/porsche/911-gt3-rs/",
+    "start_year": 2004,
+    "end_year": 2019
+  },
+  {
+    "generation": "Porsche 911 R (991)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 R 4.0 6MT (500 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-r-2016.html#aeng_porsche-911-r-2016-40-6mt-500-hp",
+    "ENGINE SPECS - 4.0 6MT (500 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3996 cm3",
+      "Power": "367.8 KW @ 8250 RPM\n500 HP @ 8250 RPM\n493 BHP @ 8250 RPM",
+      "Torque": "339 lb-ft @ 6250 RPM\n460 Nm @ 6250 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "201 mph (323 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "178.4 in (4531 mm)",
+      "Height": "50.2 in (1275 mm)",
+      "Wheelbase": "96.7 in (2456 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3020 lbs (1370 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "17.7 mpg US (13.3 L/100Km)",
+      "CO2 Emissions": "308 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-R-5585_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-R-5585_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-R-5585_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-R-5585_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-R-5585_12.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 R",
+    "url": "https://www.autoevolution.com/porsche/911-r/",
+    "start_year": 2016,
+    "end_year": 2019
+  },
+  {
+    "generation": "PORSCHE 911 Sport Classic (911)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Sport Classic (911) 3.8L 6MT RWD (408 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-911-sport-classic-2010.html#aeng_porsche-911-sport-classic-2010-38",
+    "ENGINE SPECS - 3.8L 6MT RWD (408 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3800 cm3",
+      "Power": "300 KW @ 7300 RPM\n408 HP @ 7300 RPM\n402 BHP @ 7300 RPM",
+      "Torque": "310 lb-ft @ 4200-5600 RPM\n420 Nm @ 4200-5600 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "187 mph (301 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/35 ZR 19 || 305/30 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "174.8 in (4440 mm)",
+      "Width": "72.9 in (1852 mm)",
+      "Height": "50.8 in (1290 mm)",
+      "Front/rear Track": "58.7/61 in (1,491/1,549 mm)",
+      "Wheelbase": "92.5 in (2350 mm)",
+      "Ground Clearance": "5.6 in (142 mm)",
+      "Cargo Volume": "11.9 cuFT (337 L)",
+      "Aerodynamics (Cd)": "0.32"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3141.5 lbs (1425 kg)",
+      "Gross Weight Limit": "4034.5 lbs (1830 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "14.8 mpg US (15.9 L/100Km)",
+      "Highway": "30.9 mpg US (7.6 L/100Km)",
+      "Combined": "22.2 mpg US (10.6 L/100Km)",
+      "CO2 Emissions": "250 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Sport-Classic-4152_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Sport-Classic-4152_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Sport-Classic-4152_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Sport-Classic-4152_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Sport-Classic-4152_8.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 911 Sport Classic",
+    "url": "https://www.autoevolution.com/porsche/911-sport-classic/",
+    "start_year": 2010,
+    "end_year": 2012
+  },
+  {
+    "generation": "PORSCHE 968 Turbo S",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 968 Turbo S 3.0L 6MT (305 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-968-turbo-s-1993.html#aeng_porsche-968-turbo-s-1993-30-turbo",
+    "ENGINE SPECS - 3.0L 6MT (305 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2990 cm3",
+      "Power": "224 KW @ 5400 RPM\n305 HP @ 5400 RPM\n300 BHP @ 5400 RPM",
+      "Torque": "369 lb-ft @ 300 RPM\n500 Nm @ 300 RPM",
+      "Fuel System": "Turbocharged Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "175 mph (282 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/40 ZR18 || 265/35 ZR18"
+    },
+    "DIMENSIONS": {
+      "Length": "170.1 in (4321 mm)",
+      "Width": "68.3 in (1735 mm)",
+      "Height": "49.4 in (1255 mm)",
+      "Front/rear Track": "58.2/57.1 in (1,478/1,450 mm)",
+      "Wheelbase": "94.5 in (2400 mm)",
+      "Ground Clearance": "4.1 in (104 mm)",
+      "Cargo Volume": "8.8 cuFT (249 L)",
+      "Aerodynamics (Cd)": "0.34"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3020 lbs (1370 kg)",
+      "Gross Weight Limit": "3748 lbs (1700 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-968-Turbo-S-3025_4.jpeg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-968-Turbo-S-3025_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-968-Turbo-S-3025_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-968-Turbo-S-3025_7.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE 968 Turbo S",
+    "url": "https://www.autoevolution.com/porsche/968-turbo-s/",
+    "start_year": 1993,
+    "end_year": 1994
+  },
+  {
+    "generation": "2012 Porsche Boxster (981)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Boxster (981) 2.7L 6MT RWD (265 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-boxster-981-2012.html#aeng_porsche-boxster-981-2012-27l-manual",
+    "ENGINE SPECS - 2.7L 6MT RWD (265 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "2706 cm3",
+      "Power": "195 KW @ 6700 RPM\n265 HP @ 6700 RPM\n261 BHP @ 6700 RPM",
+      "Torque": "207 lb-ft @ 4500-6500 RPM\n281 Nm @ 4500-6500 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "164 mph (264 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/45 ZR 18 || 265/45 ZR 18"
+    },
+    "DIMENSIONS": {
+      "Length": "172.2 in (4374 mm)",
+      "Width": "70.9 in (1801 mm)",
+      "Height": "50.5 in (1283 mm)",
+      "Front/rear Track": "60.1/60.5 in (1,527/1,537 mm)",
+      "Wheelbase": "97.4 in (2474 mm)",
+      "Ground Clearance": "4.1 in (104 mm)",
+      "Cargo Volume": "9.9 cuFT (280 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2888 lbs (1310 kg)",
+      "Gross Weight Limit": "3627 lbs (1645 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "21 mpg US (11.2 L/100Km)",
+      "Highway": "37 mpg US (6.4 L/100Km)",
+      "Combined": "29 mpg US (8.1 L/100Km)",
+      "CO2 Emissions": "192 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHEBoxster-981--4472_1.jpeg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHEBoxster-981--4472_2.jpeg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHEBoxster-981--4472_3.jpeg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHEBoxster-981--4472_4.jpeg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHEBoxster-981--4472_5.jpeg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Boxster",
+    "url": "https://www.autoevolution.com/porsche/boxster/",
+    "start_year": 1996,
+    "end_year": 2016
+  },
+  {
+    "generation": "2012 Porsche Boxster S (981)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Boxster S (981) 3.4L 6MT RWD (315 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-boxster-s-981-2012.html#aeng_porsche-boxster-s-981-2012-34l-manual",
+    "ENGINE SPECS - 3.4L 6MT RWD (315 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3436 cm3",
+      "Power": "232 KW @ 6700 RPM\n315 HP @ 6700 RPM\n311 BHP @ 6700 RPM",
+      "Torque": "266 lb-ft @ 4500-5800 RPM\n361 Nm @ 4500-5800 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "168 mph (270 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/40 ZR 19 || 265/40 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "172.2 in (4374 mm)",
+      "Width": "70.9 in (1801 mm)",
+      "Height": "50.4 in (1280 mm)",
+      "Front/rear Track": "60.1/60.6 in (1,527/1,539 mm)",
+      "Wheelbase": "97.4 in (2474 mm)",
+      "Ground Clearance": "4.1 in (104 mm)",
+      "Cargo Volume": "9.9 cuFT (280 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2910 lbs (1320 kg)",
+      "Gross Weight Limit": "3649 lbs (1655 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "19 mpg US (12.4 L/100Km)",
+      "Highway": "34 mpg US (6.9 L/100Km)",
+      "Combined": "27 mpg US (8.7 L/100Km)",
+      "CO2 Emissions": "206 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-boxster-981-4474_1.jpeg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-boxster-981-4474_2.jpeg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-boxster-981-4474_3.jpeg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-boxster-981-4474_4.jpeg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-boxster-981-4474_5.jpeg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Boxster S",
+    "url": "https://www.autoevolution.com/porsche/boxster-s/",
+    "start_year": 1999,
+    "end_year": 2016
+  },
+  {
+    "generation": "2016 Porsche Boxster Spyder (981)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Boxster Spyder 3.8L 6MT RWD (375 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-boxster-spyder-2016.html#aeng_porsche-boxster-spyder-2016-38-6mt-375-hp",
+    "ENGINE SPECS - 3.8L 6MT RWD (375 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3800 cm3",
+      "Power": "276 KW @ 6700 RPM\n375 HP @ 6700 RPM\n370 BHP @ 6700 RPM",
+      "Torque": "310 lb-ft @ 4750-6000 RPM\n420 Nm @ 4750-6000 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "180 mph (290 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/35 R20 || 265/35 R20"
+    },
+    "DIMENSIONS": {
+      "Length": "173.8 in (4415 mm)",
+      "Width": "70.9 in (1801 mm)",
+      "Height": "49.7 in (1262 mm)",
+      "Front/rear Track": "60.1/60.6 in (1,527/1,539 mm)",
+      "Wheelbase": "97.4 in (2474 mm)",
+      "Ground Clearance": "3.5 in (89 mm)",
+      "Cargo Volume": "4.6 cuFT (130 L)",
+      "Aerodynamics (Cd)": "0.33"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3064 lbs (1390 kg)",
+      "Gross Weight Limit": "3638 lbs (1650 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16.6 mpg US (14.2 L/100Km)",
+      "Highway": "31.4 mpg US (7.5 L/100Km)",
+      "Combined": "23.8 mpg US (9.9 L/100Km)",
+      "CO2 Emissions": "230 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Boxster-Spyder-5396_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Boxster-Spyder-5396_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Boxster-Spyder-5396_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Boxster-Spyder-5396_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Boxster-Spyder-5396_6.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Boxster Spyder",
+    "url": "https://www.autoevolution.com/porsche/boxster-spyder/",
+    "start_year": 2009,
+    "end_year": 2019
+  },
+  {
+    "generation": "2004 Porsche Carrera GT",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Carrera GT (980) 5.7L V10 (612 HP) 6MT",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-carrera-gt-980-2003.html#aeng_porsche-carrera-gt-2003-57-v10",
+    "ENGINE SPECS - 5.7L V10 (612 HP) 6MT": {
+      "Cylinders": "V10",
+      "Displacement": "5733 cm3",
+      "Power": "450 KW @ 8000 RPM\n612 HP @ 8000 RPM\n603 BHP @ 8000 RPM",
+      "Torque": "435 lb-ft @ 5750 RPM\n590 Nm @ 5750 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "205 mph (330 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6 Speed, manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs (composite)",
+      "Rear": "Ventilated Discs (composite)"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/30 R19Z || 335/30 ZR 20"
+    },
+    "DIMENSIONS": {
+      "Length": "181.6 in (4613 mm)",
+      "Width": "75.6 in (1920 mm)",
+      "Height": "45.7 in (1161 mm)",
+      "Front/rear Track": "63.5/58.9 in (1,613/1,496 mm)",
+      "Wheelbase": "107.5 in (2731 mm)",
+      "Ground Clearance": "3.5 in (89 mm)",
+      "Cargo Volume": "2.7 cuFT (76 L)",
+      "Aerodynamics (Cd)": "0.39"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3042 lbs (1380 kg)",
+      "Gross Weight Limit": "3527 lbs (1600 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "8.4 mpg US (28 L/100Km)",
+      "Highway": "20.1 mpg US (11.7 L/100Km)",
+      "Combined": "13.2 mpg US (17.8 L/100Km)",
+      "CO2 Emissions": "429 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Carrera-GT--980--502_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Carrera-GT--980--502_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Carrera-GT--980--502_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Carrera-GT--980--502_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Carrera-GT--980--502_13.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Carrera GT",
+    "url": "https://www.autoevolution.com/porsche/carrera-gt/",
+    "start_year": 2003,
+    "end_year": 2006
+  },
+  {
+    "generation": "PORSCHE Cayenne S Hybrid (958)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Cayenne S Hybrid (958) 3.0L V6 Hybrid 8AT AWD (385 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-cayenne-s-hybrid-2010.html#aeng_porsche-cayenne-s-hybrid-2010-30-v6-hybrid",
+    "ENGINE SPECS - 3.0L V6 HYBRID 8AT AWD (385 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2995 cm3",
+      "Power": "245 KW @ 5500 RPM\n333 HP @ 5500 RPM\n329 BHP @ 5500 RPM",
+      "Torque": "325 lb-ft @ 3000-5250 RPM\n441 Nm @ 3000-5250 RPM",
+      "Electrical motor power": "41.9 kw (57 hp)",
+      "Electrical motor torque": "221.3 lb-ft (300 Nm)",
+      "Total maximum power": "283.2 kw (385 hp)",
+      "Total maximum torque": "427.8 lb-ft (580 Nm)",
+      "Fuel System": "Supercharged Direct Injection",
+      "Fuel": "Hybrid Gasoline",
+      "Fuel capacity": "22.5 gallons (85.2 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "150 mph (241 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic (Tiptronic S)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/55 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "190.8 in (4846 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "67.1 in (1704 mm)",
+      "Front/rear Track": "65.1/65.7 in (1,654/1,669 mm)",
+      "Wheelbase": "114 in (2896 mm)",
+      "Ground Clearance": "8.46 in (215 mm)",
+      "Cargo Volume": "20.5 / 59.7 cuFT (580 L)",
+      "Aerodynamics (Cd)": "0.36"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "5103.7 lbs (2315 kg)",
+      "Gross Weight Limit": "6415.5 lbs (2910 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "20 mpg US (11.8 L/100Km)",
+      "Highway": "24 mpg US (9.8 L/100Km)",
+      "Combined": "21 mpg US (11.2 L/100Km)",
+      "CO2 Emissions": "193 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECayenneSHybrid-4246_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECayenneSHybrid-4246_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECayenneSHybrid-4246_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECayenneSHybrid-4246_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECayenneSHybrid-4246_5.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Cayenne S Hybrid",
+    "url": "https://www.autoevolution.com/porsche/cayenne-s-hybrid/",
+    "start_year": 2010,
+    "end_year": 2014
+  },
+  {
+    "generation": "PORSCHE Cayenne S TransSyberia (957)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Cayenne S TransSyberia (957) 4.8 V8 6MT (385 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-cayenne-s-transsyberia-2009.html#aeng_porsche-cayenne-s-transsyberia-2009-48",
+    "ENGINE SPECS - 4.8 V8 6MT (385 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "4806 cm3",
+      "Power": "283.2 KW @ 6200 RPM\n385 HP @ 6200 RPM\n380 BHP @ 6200 RPM",
+      "Torque": "369 lb-ft @ 3500 RPM\n500 Nm @ 3500 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "157 mph (253 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "350mm Ventilated Discs",
+      "Rear": "330mm Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/65 R 18 R"
+    },
+    "DIMENSIONS": {
+      "Length": "188.8 in (4796 mm)",
+      "Width": "75.9 in (1928 mm)",
+      "Height": "70.1 in (1781 mm)",
+      "Front/rear Track": "64.8/65.4 in (1,646/1,661 mm)",
+      "Wheelbase": "112.4 in (2855 mm)",
+      "Ground Clearance": "8.5 in (216 mm)",
+      "Cargo Volume": "19.1 cuFT (541 L)",
+      "Aerodynamics (Cd)": "0.35"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "5192 lbs (2355 kg)",
+      "Gross Weight Limit": "6790 lbs (3080 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "10.6 mpg US (22.2 L/100Km)",
+      "Highway": "21.8 mpg US (10.8 L/100Km)",
+      "Combined": "15.8 mpg US (14.9 L/100Km)",
+      "CO2 Emissions": "358 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECayenneSTransSyberia-3863_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-S-TransSyberia-3863_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-S-TransSyberia-3863_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-S-TransSyberia-3863_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-S-TransSyberia-3863_12.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Cayenne S TransSyberia",
+    "url": "https://www.autoevolution.com/porsche/cayenne-s-transsyberia/",
+    "start_year": 2009,
+    "end_year": 2011
+  },
+  {
+    "generation": "Porsche Cayenne Turbo",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Cayenne Turbo (PO536) 4.0L V8 8AT AWD (550 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-cayenne-turbo-2017.html#aeng_porsche-cayenne-turbo-2017-40-v8-8at-550-hp",
+    "ENGINE SPECS - 4.0L V8 8AT AWD (550 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3999 cm3",
+      "Power": "404.5 KW @ 5750-6000 RPM\n550 HP @ 5750-6000 RPM\n542 BHP @ 5750-6000 RPM",
+      "Torque": "568 lb-ft @ 1960-4500 RPM\n770 Nm @ 1960-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "23.8 gallons (90.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "178 mph (286 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic (tiptronic S)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P265/50VR19"
+    },
+    "DIMENSIONS": {
+      "Length": "193.9 in (4925 mm)",
+      "Width": "78.1 in (1984 mm)",
+      "Height": "65.9 in (1674 mm)",
+      "Wheelbase": "114 in (2896 mm)",
+      "Cargo Volume": "26.3 cuFT (745 L)",
+      "Aerodynamics (Cd)": "0.35"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4795 lbs (2175 kg)",
+      "Gross Weight Limit": "6471 lbs (2935 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "14.1 mpg US (16.7 L/100Km)",
+      "Highway": "21 mpg US (11.2 L/100Km)",
+      "Combined": "16.6 mpg US (14.2 L/100Km)",
+      "CO2 Emissions": "334 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-6119_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-6119_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-6119_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-6119_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-6119_7.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Cayenne Turbo",
+    "url": "https://www.autoevolution.com/porsche/cayenne-turbo/",
+    "start_year": 2002,
+    "end_year": 2023
+  },
+  {
+    "generation": "2019 Porsche CCayenne Turbo Coupe",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Cayenne Turbo Coupe (PO536) 4.0L V8 8AT AWD (550 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-cayenne-turbo-coupe-2019.html#aeng_porsche-cayenne-turbo-coupe-2019-40l-v8-8at-550-hp",
+    "ENGINE SPECS - 4.0L V8 8AT AWD (550 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3996 cm3",
+      "Power": "404.5 KW @ 5750-6000 RPM\n550 HP @ 5750-6000 RPM\n542 BHP @ 5750-6000 RPM",
+      "Torque": "568 lb-ft @ 2000-4500 RPM\n770 Nm @ 2000-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "178 mph (286 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-Speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "194.4 in (4938 mm)",
+      "Width": "86.4 in (2195 mm)",
+      "Height": "65.1 in (1654 mm)",
+      "Front/rear Track": "66.4/66.5 in (1,687/1,689 mm)",
+      "Wheelbase": "114 in (2896 mm)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "20.6 mpg US (11.4 L/100Km)",
+      "CO2 Emissions": "261 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-Coupe-6546_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-Coupe-6546_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-Coupe-6546_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-Coupe-6546_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-Coupe-6546_16.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Cayenne Turbo Coupe",
+    "url": "https://www.autoevolution.com/porsche/cayenne-turbo-coupe/",
+    "start_year": 2019,
+    "end_year": 2023
+  },
+  {
+    "generation": "PORSCHE Cayenne Turbo S (958)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Cayenne Turbo S (958) 4.8L V8 8AT AWD (570 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-cayenne-turbo-s-2015.html#aeng_porsche-cayenne-turbo-s-2015-48-v8-8at-570-hp",
+    "ENGINE SPECS - 4.8L V8 8AT AWD (570 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "4806 cm3",
+      "Power": "419 KW @ 6000 RPM\n570 HP @ 6000 RPM\n562 BHP @ 6000 RPM",
+      "Torque": "590 lb-ft @ 2500-4000 RPM\n800 Nm @ 2500-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "26.4 gallons (99.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "176 mph (283 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/50 R19"
+    },
+    "DIMENSIONS": {
+      "Length": "191.1 in (4854 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "67 in (1702 mm)",
+      "Front/rear Track": "64.7/65.2 in (1,643/1,656 mm)",
+      "Wheelbase": "114 in (2896 mm)",
+      "Ground Clearance": "8.5 in (216 mm)",
+      "Cargo Volume": "23.7 cuFT (671 L)",
+      "Aerodynamics (Cd)": "0.36"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4927 lbs (2235 kg)",
+      "Gross Weight Limit": "6393 lbs (2900 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "14.8 mpg US (15.9 L/100Km)",
+      "Highway": "26.4 mpg US (8.9 L/100Km)",
+      "Combined": "20.5 mpg US (11.5 L/100Km)",
+      "CO2 Emissions": "267 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-S-5408_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-S-5408_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-S-5408_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-S-5408_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-S-5408_10.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Cayenne Turbo S",
+    "url": "https://www.autoevolution.com/porsche/cayenne-turbo-s/",
+    "start_year": 2006,
+    "end_year": 2017
+  },
+  {
+    "generation": "2012 Porsche Cayman (981C)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Cayman (981C) 2.7L 6MT (275 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-cayman-981-2012.html#aeng_porsche-cayman-981-2012-27-6mt-275-hp",
+    "ENGINE SPECS - 2.7L 6MT (275 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "2706 cm3",
+      "Power": "202 KW @ 7400 RPM\n275 HP @ 7400 RPM\n271 BHP @ 7400 RPM",
+      "Torque": "214 lb-ft @ 4500-6500 RPM\n290 Nm @ 4500-6500 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "16.9 gallons (64.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "165 mph (266 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/45 R18 || 265/45 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "172.4 in (4379 mm)",
+      "Width": "70.9 in (1801 mm)",
+      "Height": "50.9 in (1293 mm)",
+      "Front/rear Track": "60.1/60.5 in (1,527/1,537 mm)",
+      "Wheelbase": "97.4 in (2474 mm)",
+      "Ground Clearance": "4.3 in (109 mm)",
+      "Cargo Volume": "15 cuFT (425 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2888 lbs (1310 kg)",
+      "Gross Weight Limit": "3649 lbs (1655 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "20.6 mpg US (11.4 L/100Km)",
+      "Highway": "37.3 mpg US (6.3 L/100Km)",
+      "Combined": "28.7 mpg US (8.2 L/100Km)",
+      "CO2 Emissions": "192 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECayman-981--4750_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECayman-981--4750_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECayman-981--4750_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECayman-981--4750_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECayman-981--4750_5.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Cayman",
+    "url": "https://www.autoevolution.com/porsche/cayman/",
+    "start_year": 2006,
+    "end_year": 2016
+  },
+  {
+    "generation": "2010 Porsche Cayman R (987.2C)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Cayman R (987C) 3.4L 6MT RWD (330 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-cayman-r-987-2010.html#aeng_porsche-cayman-r-987-2010-34",
+    "ENGINE SPECS - 3.4L 6MT RWD (330 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3436 cm3",
+      "Power": "243 KW @ 7400 RPM\n330 HP @ 7400 RPM\n326 BHP @ 7400 RPM",
+      "Torque": "273 lb-ft @ 4750 RPM\n370 Nm @ 4750 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.3 gallons (54.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "175 mph (282 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/35 R19 Z || 265/35 R19 Z"
+    },
+    "DIMENSIONS": {
+      "Length": "171.1 in (4346 mm)",
+      "Width": "70.9 in (1801 mm)",
+      "Height": "50.6 in (1285 mm)",
+      "Front/rear Track": "58.7/60.2 in (1,491/1,529 mm)",
+      "Wheelbase": "95 in (2413 mm)",
+      "Ground Clearance": "4.1 in (104 mm)",
+      "Cargo Volume": "1.9 cuFT (54 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2855 lbs (1295 kg)",
+      "Gross Weight Limit": "3572 lbs (1620 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16.6 mpg US (14.2 L/100Km)",
+      "Highway": "33.1 mpg US (7.1 L/100Km)",
+      "Combined": "24.2 mpg US (9.7 L/100Km)",
+      "CO2 Emissions": "228 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECaymanR-987--4323_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECaymanR-987--4323_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECaymanR-987--4323_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECaymanR-987--4323_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHECaymanR-987--4323_5.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Cayman R",
+    "url": "https://www.autoevolution.com/porsche/cayman-r/",
+    "start_year": 2010,
+    "end_year": 2011
+  },
+  {
+    "generation": "2014 Porsche Cayman S (981C)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Cayman S (981C) 3.4L 6MT RWD (325 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-cayman-s-981-2012.html#aeng_porsche-cayman-s-981-2012-34l-6mt-325-hp",
+    "ENGINE SPECS - 3.4L 6MT RWD (325 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3436 cm3",
+      "Power": "239 KW @ 7400 RPM\n325 HP @ 7400 RPM\n321 BHP @ 7400 RPM",
+      "Torque": "273 lb-ft @ 4500-5800 RPM\n370 Nm @ 4500-5800 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "16.9 gallons (64.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "176 mph (283 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/40 R19 || 265/40 R19"
+    },
+    "DIMENSIONS": {
+      "Length": "172.4 in (4379 mm)",
+      "Width": "70.9 in (1801 mm)",
+      "Height": "51 in (1295 mm)",
+      "Front/rear Track": "60.1/60.6 in (1,527/1,539 mm)",
+      "Wheelbase": "97.4 in (2474 mm)",
+      "Ground Clearance": "4.3 in (109 mm)",
+      "Cargo Volume": "15 cuFT (425 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2910 lbs (1320 kg)",
+      "Gross Weight Limit": "3671 lbs (1665 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "19.3 mpg US (12.2 L/100Km)",
+      "Highway": "34.1 mpg US (6.9 L/100Km)",
+      "Combined": "26.7 mpg US (8.8 L/100Km)",
+      "CO2 Emissions": "206 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayman-981-4751_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayman-981-4751_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayman-981-4751_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayman-981-4751_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/porsche-cayman-981-4751_5.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Cayman S",
+    "url": "https://www.autoevolution.com/porsche/cayman-s/",
+    "start_year": 2005,
+    "end_year": 2016
+  },
+  {
+    "generation": "Porsche Macan (Facelift - 2)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Macan (95B) 2.0L 7AT AWD (245 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-macan-2018.html#aeng_porsche-macan-2018-20l-7at-245-hp",
+    "ENGINE SPECS - 2.0L 7AT AWD (245 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1998 cm3",
+      "Power": "180.2 KW @ 5000-6750 RPM\n245 HP @ 5000-6750 RPM\n242 BHP @ 5000-6750 RPM",
+      "Torque": "273 lb-ft @ 1600-4500 RPM\n370 Nm @ 1600-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.2 gallons (65.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "140 mph (225 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/60 R 18 // 255/55 R 18"
+    },
+    "DIMENSIONS": {
+      "Length": "184.9 in (4696 mm)",
+      "Width": "82.6 in (2098 mm)",
+      "Height": "63.9 in (1623 mm)",
+      "Front/rear Track": "65.2/65 in (1,656/1,651 mm)",
+      "Wheelbase": "110.5 in (2807 mm)",
+      "Ground Clearance": "8.1 in (206 mm)",
+      "Cargo Volume": "17.7 cuFT (501 L)",
+      "Aerodynamics (Cd)": "0.35"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3957 lbs (1795 kg)",
+      "Gross Weight Limit": "5534 lbs (2510 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "24.8 mpg US (9.5 L/100Km)",
+      "Highway": "32.2 mpg US (7.3 L/100Km)",
+      "Combined": "29 mpg US (8.1 L/100Km)",
+      "CO2 Emissions": "185 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Macan-6386_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Macan-6386_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Macan-6386_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Macan-6386_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Macan-6386_8.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Macan",
+    "url": "https://www.autoevolution.com/porsche/macan-1/",
+    "start_year": 2014,
+    "end_year": 2024
+  },
+  {
+    "generation": "Porsche Panamera 4S Sport Turismo",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera 4S Sport Turismo (971) 2.9 V6 8AT (440 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-4s-sport-turismo-971-2017.html#aeng_porsche-panamera-4s-sport-turismo-971-2017-29-v6-8at-440-hp",
+    "ENGINE SPECS - 2.9 V6 8AT (440 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2894 cm3",
+      "Power": "323.6 KW @ 5650-6600 RPM\n440 HP @ 5650-6600 RPM\n434 BHP @ 5650-6600 RPM",
+      "Torque": "406 lb-ft @ 1750-5500 RPM\n550 Nm @ 1750-5500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "178 mph (286 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic (PDK)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/45 ZR 19 || 295/40 ZR 19"
+    },
+    "DIMENSIONS": {
+      "Length": "198.8 in (5050 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "56.2 in (1427 mm)",
+      "Front/rear Track": "65.8/65 in (1,671/1,651 mm)",
+      "Wheelbase": "116.1 in (2949 mm)",
+      "Ground Clearance": "5.2 in (132 mm)",
+      "Cargo Volume": "18.4 cuFT (521 L)",
+      "Aerodynamics (Cd)": "0.28"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4222 lbs (1915 kg)",
+      "Gross Weight Limit": "5765 lbs (2615 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "22.6 mpg US (10.4 L/100Km)",
+      "Highway": "34.1 mpg US (6.9 L/100Km)",
+      "Combined": "28.3 mpg US (8.3 L/100Km)",
+      "CO2 Emissions": "189 g/km"
+    },
+    "images": [],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera 4S Sport Turismo",
+    "url": "https://www.autoevolution.com/porsche/panamera-4s-sport-turismo/",
+    "start_year": 2017,
+    "end_year": 2020
+  },
+  {
+    "generation": "PORSCHE Panamera S (970)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera S (970) 3.0 V6 7AT (420 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-s-970-2013.html#aeng_porsche-panamera-s-970-2013-30-v6-7at-420-hp",
+    "ENGINE SPECS - 3.0 V6 7AT (420 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2997 cm3",
+      "Power": "308.9 KW @ 6000 RPM\n420 HP @ 6000 RPM\n414 BHP @ 6000 RPM",
+      "Torque": "384 lb-ft @ 1750 RPM\n520 Nm @ 1750 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "178 mph (286 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "7-speed automatic (PDK)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/50R18 || 275/45R18"
+    },
+    "DIMENSIONS": {
+      "Length": "197.4 in (5014 mm)",
+      "Width": "76 in (1930 mm)",
+      "Height": "55.8 in (1417 mm)",
+      "Front/rear Track": "65.3/65.4 in (1,659/1,661 mm)",
+      "Wheelbase": "115 in (2921 mm)",
+      "Ground Clearance": "5.6 in (142 mm)",
+      "Cargo Volume": "15.7 cuFT (445 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3990 lbs (1810 kg)",
+      "Gross Weight Limit": "5324 lbs (2415 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "19.8 mpg US (11.9 L/100Km)",
+      "Highway": "34.1 mpg US (6.9 L/100Km)",
+      "Combined": "27 mpg US (8.7 L/100Km)",
+      "CO2 Emissions": "204 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-S--970--5785_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-S--970--5785_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-S--970--5785_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-S--970--5785_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-S--970--5785_7.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera S",
+    "url": "https://www.autoevolution.com/porsche/panamera-s/",
+    "start_year": 2009,
+    "end_year": 2016
+  },
+  {
+    "generation": "Porsche Panamera Turbo Sport Turismo",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE Panamera Turbo Sport Turismo (971) 4.0 V8 8AT (550 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-panamera-turbo-sport-turismo-971-2017.html#aeng_porsche-panamera-turbo-sport-turismo-971-2017-40-v8-8at-550-hp",
+    "ENGINE SPECS - 4.0 V8 8AT (550 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "3996 cm3",
+      "Power": "404.5 KW @ 5750-6000 RPM\n550 HP @ 5750-6000 RPM\n542 BHP @ 5750-6000 RPM",
+      "Torque": "568 lb-ft @ 1960-4500 RPM\n770 Nm @ 1960-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "189 mph (304 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic (PDK)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "275/40 ZR 20 || 315/35 ZR 20"
+    },
+    "DIMENSIONS": {
+      "Length": "198.8 in (5050 mm)",
+      "Width": "76.3 in (1938 mm)",
+      "Height": "56.4 in (1433 mm)",
+      "Front/rear Track": "65.2/64.5 in (1,656/1,638 mm)",
+      "Wheelbase": "116.1 in (2949 mm)",
+      "Ground Clearance": "5.4 in (137 mm)",
+      "Cargo Volume": "18.4 cuFT (521 L)",
+      "Aerodynamics (Cd)": "0.28"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4486 lbs (2035 kg)",
+      "Gross Weight Limit": "5930 lbs (2690 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "18 mpg US (13.1 L/100Km)",
+      "Highway": "31.8 mpg US (7.4 L/100Km)",
+      "Combined": "24.8 mpg US (9.5 L/100Km)",
+      "CO2 Emissions": "217 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-Sport-Turismo--971--5976_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-Sport-Turismo--971--5976_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-Sport-Turismo--971--5976_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-Sport-Turismo--971--5976_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-Turbo-Sport-Turismo--971--5976_11.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Panamera Turbo Sport Turismo",
+    "url": "https://www.autoevolution.com/porsche/panamera-turbo-sport-turismo/",
+    "start_year": 2017,
+    "end_year": 2020
+  },
+  {
+    "generation": "Porsche 911 Speedster (991)",
+    "fuel_type": "gasoline",
+    "engine": "PORSCHE 911 Speedster 4.0L 6MT (502 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/porsche-speedster-2019.html#aeng_porsche-911-speedster-2019-40l-6mt-502-hp",
+    "ENGINE SPECS - 4.0L 6MT (502 HP)": {
+      "Cylinders": "H6",
+      "Displacement": "3996 cm3",
+      "Power": "369.2 KW @ 9000 RPM\n502 HP @ 9000 RPM\n495 BHP @ 9000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "192 mph (309 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/35 R20 || 325/30 R21"
+    },
+    "DIMENSIONS": {
+      "Length": "179.4 in (4557 mm)",
+      "Width": "74 in (1880 mm)",
+      "Height": "51.1 in (1298 mm)",
+      "Front/rear Track": "62.5/61.3 in (1,588/1,557 mm)",
+      "Wheelbase": "96.6 in (2454 mm)",
+      "Cargo Volume": "4.4 cuFT (125 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3230 lbs (1465 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Speedster-6566_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Speedster-6566_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Speedster-6566_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Speedster-6566_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Speedster-6566_3.jpg"
+    ],
+    "brand": "PORSCHE",
+    "model": "PORSCHE Speedster",
+    "url": "https://www.autoevolution.com/porsche/speedster-1/",
+    "start_year": 2019,
+    "end_year": 2019
+  }
+]

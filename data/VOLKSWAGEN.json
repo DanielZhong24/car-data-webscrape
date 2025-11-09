@@ -1,0 +1,2870 @@
+[
+  {
+    "generation": "2022 Volkswagen T-Roc",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN T-Roc 1.0L TSI 6MT FWD (110 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-t-roc-2021.html#aeng_volkswagen-t-roc-2021-10l-tsi-6mt-110-hp",
+    "ENGINE SPECS - 1.0L TSI 6MT FWD (110 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "999 cm3",
+      "Power": "80.9 KW @ 5000 RPM\n110 HP @ 5000 RPM\n108 BHP @ 5000 RPM",
+      "Torque": "148 lb-ft @ 2000-3000 RPM\n200 Nm @ 2000-3000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "13.2 gallons (50.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "115 mph (185 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "10.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Disc"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/60 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "166.8 in (4237 mm)",
+      "Width": "71.6 in (1819 mm)",
+      "Height": "62.4 in (1585 mm)",
+      "Front/rear Track": "60.6/60.3 in (1,539/1,532 mm)",
+      "Wheelbase": "102 in (2591 mm)",
+      "Ground Clearance": "6.3 in (160 mm)",
+      "Cargo Volume": "15.7 cuFT (445 L)",
+      "Turning circle": "36.4 ft (11.1 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2703 lbs (1226 kg)",
+      "Gross Weight Limit": "3968 lbs (1800 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "37.9 mpg US (6.2 L/100Km)",
+      "Highway": "51.1 mpg US (4.6 L/100Km)",
+      "Combined": "45.2 mpg US (5.2 L/100Km)",
+      "CO2 Emissions": "118 g/km"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Low": "32.2 mpg US (7.3 L/100Km)",
+      "Medium": "42 mpg US (5.6 L/100Km)",
+      "High": "46.1 mpg US (5.1 L/100Km)",
+      "Extra high": "37.9 mpg US (6.2 L/100Km)",
+      "Combined": "39.9 mpg US (5.9 L/100Km)",
+      "CO2 Emissions (Combined)": "133 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-t-roc-2021-7199_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-t-roc-2021-7199_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-t-roc-2021-7199_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-t-roc-2021-7199_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-t-roc-2021-7199_13.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN T-Roc",
+    "url": "https://www.autoevolution.com/volkswagen/t-roc/",
+    "start_year": 2017,
+    "end_year": null
+  },
+  {
+    "generation": "2020 Volkswagen Golf Variant",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Golf Variant 1.0L TSI 6MT FWD (110 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-golf-variant-2020.html#aeng_volkswagen-golf-variant-2020-10l-tsi-6mt-110-hp",
+    "ENGINE SPECS - 1.0L TSI 6MT FWD (110 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "999 cm3",
+      "Power": "80.9 KW @ 5000 RPM\n110 HP @ 5000 RPM\n108 BHP @ 5000 RPM",
+      "Torque": "148 lb-ft @ 2000-3000 RPM\n200 Nm @ 2000-3000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "11.9 gallons (45.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "126 mph (203 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "10.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/55/R16"
+    },
+    "DIMENSIONS": {
+      "Length": "182.4 in (4633 mm)",
+      "Width": "70.4 in (1788 mm)",
+      "Height": "59 in (1499 mm)",
+      "Front/rear Track": "60.4/59.2 in (1,534/1,504 mm)",
+      "Wheelbase": "105.1 in (2670 mm)",
+      "Cargo Volume": "21.6 cuFT (612 L)",
+      "Turning circle": "36.4 ft (11.1 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2738 lbs (1242 kg)",
+      "Gross Weight Limit": "4079 lbs (1850 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "39.9 mpg US (5.9 L/100Km)",
+      "Highway": "57.4 mpg US (4.1 L/100Km)",
+      "Combined": "49 mpg US (4.8 L/100Km)",
+      "CO2 Emissions": "110 g/km"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Low": "32.2 mpg US (7.3 L/100Km)",
+      "Medium": "42.8 mpg US (5.5 L/100Km)",
+      "High": "49 mpg US (4.8 L/100Km)",
+      "Extra high": "42 mpg US (5.6 L/100Km)",
+      "Combined": "42.8 mpg US (5.5 L/100Km)",
+      "CO2 Emissions (Combined)": "126 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Variant-6925_19.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Variant-6925_20.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Variant-6925_21.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Variant-6925_22.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-golf-variant-2020-6925_33.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Golf Variant",
+    "url": "https://www.autoevolution.com/volkswagen/golf-variant/",
+    "start_year": 1993,
+    "end_year": null
+  },
+  {
+    "generation": "2025 Volkswagen Taos",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Taos 1.4L TSI 8AT FWD (152 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-taos-2024.html#aeng_volkswagen-taos-2024-14l-tsi-8at-fwd",
+    "ENGINE SPECS - 1.4L TSI 8AT FWD (152 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1395 cm3",
+      "Power": "111.9 KW @ 5000-6000 RPM\n152.1 HP @ 5000-6000 RPM\n150 BHP @ 5000-6000 RPM",
+      "Torque": "184 lb-ft @ 1400-3800 RPM\n250 Nm @ 1400-3800 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "13.2 gallons (50.0 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "8-speed automatic Tiptronic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Disc"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/55 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "175.9 in (4468 mm)",
+      "Width": "72.5 in (1842 mm)",
+      "Height": "65.1 in (1654 mm)",
+      "Front/rear Track": "61.8/60.8 in (1,570/1,544 mm)",
+      "Wheelbase": "105.5 in (2680 mm)",
+      "Ground Clearance": "6.5 in (165 mm)",
+      "Cargo Volume": "17.7 cuFT (501 L)",
+      "Aerodynamics (Cd)": "0.32",
+      "Turning circle": "35.1 ft (10.7 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3113 - 3203 lbs (1412 - 1453 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "34.6 mpg US (6.8 L/100Km)",
+      "Highway": "49 mpg US (4.8 L/100Km)",
+      "Combined": "39.2 mpg US (6 L/100Km)",
+      "CO2 Emissions": "139 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-taos-2024-7808_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-taos-2024-7808_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-taos-2024-7808_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-taos-2024-7808_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-taos-2024-7808_8.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Taos",
+    "url": "https://www.autoevolution.com/volkswagen/taos/",
+    "start_year": 2024,
+    "end_year": null
+  },
+  {
+    "generation": "2025 Volkswagen Jetta GLI",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Jetta GLI 2.0L 8AT FWD (231 hp)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-jetta-gli-2024.html#aeng_volkswagen-jetta-gli-2024-20l-8at-fwd-231-hp",
+    "ENGINE SPECS - 2.0L 8AT FWD (231 HP)": {
+      "Cylinders": "L4",
+      "Power": "214.8 KW @ - RPM\n292 HP @ - RPM\n288 BHP @ - RPM",
+      "Torque": "258 lb-ft @ - RPM\n350 Nm @ - RPM",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "8-speed automatic DCT"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-jetta-gli-2024-7766_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-jetta-gli-2024-7766_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-jetta-gli-2024-7766_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-jetta-gli-2024-7766_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-jetta-gli-2024-7766_8.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Jetta GLI",
+    "url": "https://www.autoevolution.com/volkswagen/jetta-gli/",
+    "start_year": 2021,
+    "end_year": null
+  },
+  {
+    "generation": "2025 Volkswagen Golf R Variant",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Golf R Variant 2.0L 4MOTION 7AT AWD (333 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-golf-r-variant-2024.html#aeng_volkswagen-golf-r-variant-2024-20l-4motion-7at-awd-333-hp",
+    "ENGINE SPECS - 2.0L 4MOTION 7AT AWD (333 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1984 cm3",
+      "Power": "244.9 KW @ - RPM\n333 HP @ - RPM\n328 BHP @ - RPM",
+      "Torque": "310 lb-ft @ - RPM\n420 Nm @ - RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic DSG"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-golf-r-variant-2024-7771_19.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-golf-r-variant-2024-7771_20.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-golf-r-variant-2024-7771_21.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-golf-r-variant-2024-7771_22.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-golf-r-variant-2024-7771_23.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Golf R Variant",
+    "url": "https://www.autoevolution.com/volkswagen/golf-r-variant/",
+    "start_year": 2015,
+    "end_year": null
+  },
+  {
+    "generation": "2025 Volkswagen Golf R",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Golf R 2.0L 4MOTION 7AT AWD (333 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-golf-r-2024.html#aeng_volkswagen-golf-r-2024-20l-7at-awd-333-hp",
+    "ENGINE SPECS - 2.0L 4MOTION 7AT AWD (333 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1984 cm3",
+      "Power": "244.9 KW @ - RPM\n333 HP @ - RPM\n328 BHP @ - RPM",
+      "Torque": "310 lb-ft @ - RPM\n420 Nm @ - RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic DSG"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-golf-r-2024-7770_16.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-golf-r-2024-7770_17.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-golf-r-2024-7770_18.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-golf-r-2024-7770_19.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-golf-r-2024-7770_20.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Golf R",
+    "url": "https://www.autoevolution.com/volkswagen/golf-r/",
+    "start_year": 2002,
+    "end_year": null
+  },
+  {
+    "generation": "2024 Volkswagen Atlas",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Atlas 2.0L TSI (273 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-atlas-2023.html#aeng_volkswagen-atlas-2023-20l-tsi-273-hp",
+    "ENGINE SPECS - 2.0L TSI (273 HP)": {
+      "Cylinders": "L4",
+      "Power": "200.6 KW @ - RPM\n272.7 HP @ - RPM\n269 BHP @ - RPM",
+      "Torque": "273 lb-ft @ - RPM\n370 Nm @ - RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-atlas-2023-7415_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-atlas-2023-7415_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-atlas-2023-7415_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-atlas-2023-7415_16.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-atlas-2023-7415_17.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Atlas",
+    "url": "https://www.autoevolution.com/volkswagen/atlas/",
+    "start_year": 2017,
+    "end_year": null
+  },
+  {
+    "generation": "Volkswagen Tiguan",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Tiguan 2.0T TSI 16V 8AT AWD (184 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-tiguan-2021-1.html#aeng_volkswagen-tiguan-2021-20t-tsi-16v-8at-awd184-hp",
+    "ENGINE SPECS - 2.0T TSI 16V 8AT AWD (184 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1984 cm3",
+      "Power": "135.3 KW @ 6000 RPM\n184 HP @ 6000 RPM\n181 BHP @ 6000 RPM",
+      "Torque": "221 lb-ft @ 1900 RPM\n300 Nm @ 1900 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "15.9 gallons (60.2 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Solid Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/65 R17 H"
+    },
+    "DIMENSIONS": {
+      "Length": "186.1 in (4727 mm)",
+      "Width": "72.4 in (1839 mm)",
+      "Height": "66.4 in (1687 mm)",
+      "Front/rear Track": "62.2/61.9 in (1,580/1,572 mm)",
+      "Wheelbase": "109.9 in (2791 mm)",
+      "Ground Clearance": "7.4 in (188 mm)",
+      "Cargo Volume": "12 cuFT (340 L)",
+      "Turning circle": "8.7 ft (2.7 m)",
+      "Turning circle (curb to curb)": "37.7 ft (11.5 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3856 lbs (1749 kg)",
+      "Gross Weight Limit": "5093 lbs (2310 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "22 mpg US (10.7 L/100Km)",
+      "Highway": "29 mpg US (8.1 L/100Km)",
+      "Combined": "25 mpg US (9.4 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-tiguan-2021-1-7165_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-tiguan-2021-1-7165_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-tiguan-2021-1-7165_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-tiguan-2021-1-7165_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-tiguan-2021-1-7165_5.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Tiguan (US)",
+    "url": "https://www.autoevolution.com/volkswagen/tiguan-us/",
+    "start_year": 2021,
+    "end_year": 2023
+  },
+  {
+    "generation": "2024 Volkswagen T-Cross",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN T-Cross 1.0L TSI 5MT FWD (95 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-t-cross-2023.html#aeng_volkswagen-t-cross-2023-10l-tsi-5mt-fwd-95-hp",
+    "ENGINE SPECS - 1.0L TSI 5MT FWD (95 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "999 cm3",
+      "Power": "69.9 KW @ - RPM\n95 HP @ - RPM\n94 BHP @ - RPM",
+      "Torque": "129 lb-ft @ 1600-3000 RPM\n175 Nm @ 1600-3000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "10.6 gallons (40.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "112 mph (180 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "11.2 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Disc"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/60 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "162.5 in (4128 mm)",
+      "Width": "69.3 in (1760 mm)",
+      "Height": "61.9 in (1572 mm)",
+      "Front/rear Track": "60.2/59.4 in (1,529/1,509 mm)",
+      "Wheelbase": "100.4 in (2550 mm)",
+      "Cargo Volume": "16.1 cuFT (456 L)",
+      "Turning circle (curb to curb)": "35.1 ft (10.7 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2765 lbs (1254 kg)",
+      "Gross Weight Limit": "3814 lbs (1730 kg)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Low": "34.1 mpg US (6.9 L/100Km)",
+      "Medium": "43.6 mpg US (5.4 L/100Km)",
+      "High": "48 mpg US (4.9 L/100Km)",
+      "Extra high": "39.9 mpg US (5.9 L/100Km)",
+      "Combined": "42 mpg US (5.6 L/100Km)",
+      "CO2 Emissions (Combined)": "127 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-t-cross-2023-7553_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-t-cross-2023-7553_16.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-t-cross-2023-7553_17.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-t-cross-2023-7553_18.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-t-cross-2023-7553_19.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN T-Cross",
+    "url": "https://www.autoevolution.com/volkswagen/t-cross/",
+    "start_year": 2018,
+    "end_year": null
+  },
+  {
+    "generation": "2022 Volkswagen Multivan",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Multivan (T7) 1.4L eHybrid 7AT FWD (218 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-multivan-t7-2021.html#aeng_volkswagen-multivan-t7-2021-14l-ehybrid-7at-fwd-218-hp",
+    "ENGINE SPECS - 1.4L EHYBRID 7AT FWD (218 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1395 cm3",
+      "Power": "110.3 KW @ 5000-6000 RPM\n150 HP @ 5000-6000 RPM\n148 BHP @ 5000-6000 RPM",
+      "Torque": "184 lb-ft @ 1000-4100 RPM\n250 Nm @ 1000-4100 RPM",
+      "Electrical motor power": "85.3 kw (116 hp)",
+      "Electrical motor torque": "243.4 lb-ft (330 Nm)",
+      "Total maximum power": "160.3 kw (218 hp)",
+      "Total maximum torque": "258.1 lb-ft (350 Nm)",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Hybrid Gasoline",
+      "Fuel capacity": "11.9 gallons (45.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "118 mph (190 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "7-speed automatic DSG"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Disc"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/65 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "195.8 in (4973 mm)",
+      "Width": "76.4 in (1941 mm)",
+      "Height": "75.1 in (1908 mm)",
+      "Wheelbase": "123 in (3124 mm)",
+      "Ground Clearance": "6 in (152 mm)",
+      "Cargo Volume": "60 cuFT (1699 L)",
+      "Turning circle": "39.7 ft (12.1 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4674 - 5016 lbs (2120 - 2275 kg)",
+      "Gross Weight Limit": "6063 lbs (2750 kg)"
+    },
+    "POWER SYSTEM SPECS": {
+      "Power pack": "Lithium-Ion",
+      "Nominal Capacity": "10.4 kWh",
+      "Maximum Capacity": "13 kWh",
+      "Range": "31.1 miles (50.1 km)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "156.8 mpg US (1.5 L/100Km)",
+      "CO2 Emissions": "34 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-multivan-t7-2021-7367_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-multivan-t7-2021-7367_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-multivan-t7-2021-7367_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-multivan-t7-2021-7367_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-multivan-t7-2021-7367_15.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Multivan",
+    "url": "https://www.autoevolution.com/volkswagen/multivan/",
+    "start_year": 2003,
+    "end_year": null
+  },
+  {
+    "generation": "VOLKSWAGEN Polo",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Polo 1.0L TGI 6MT (90 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-polo-2021.html#aeng_volkswagen-polo-2021-10l-tgi-6mt-90-hp",
+    "ENGINE SPECS - 1.0L TGI 6MT (90 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "999 cm3",
+      "Power": "66.2 KW @ - RPM\n90 HP @ - RPM\n89 BHP @ - RPM",
+      "Torque": "118 lb-ft @ 1800-3800 RPM\n160 Nm @ 1800-3800 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "114 mph (183 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "12.3 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "185/65/R15"
+    },
+    "DIMENSIONS": {
+      "Length": "160.4 in (4074 mm)",
+      "Width": "68.9 in (1750 mm)",
+      "Height": "57.1 in (1450 mm)",
+      "Front/rear Track": "59.1/583.9 in (1,501/14,831 mm)",
+      "Wheelbase": "100.5 in (2553 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2712 lbs (1230 kg)",
+      "Gross Weight Limit": "3704 lbs (1680 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-2021-7097_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-2021-7097_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-2021-7097_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-2021-7097_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-2021-7097_12.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Polo 5 Doors",
+    "url": "https://www.autoevolution.com/volkswagen/polo-5-doors/",
+    "start_year": 1994,
+    "end_year": null
+  },
+  {
+    "generation": "2020 Volkswagen T-Roc Cabriolet",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN T-Roc Cabriolet 1.0L TSI 6MT FWD (115 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-t-roc-cabriolet-2019.html#aeng_volkswagen-t-roc-cabriolet-2019-10l-tsi-6mt-115-hp",
+    "ENGINE SPECS - 1.0L TSI 6MT FWD (115 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "999 cm3",
+      "Power": "84.6 KW @ 5000-5500 RPM\n115 HP @ 5000-5500 RPM\n113 BHP @ 5000-5500 RPM",
+      "Torque": "148 lb-ft @ 2000-3500 RPM\n200 Nm @ 2000-3500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "13.2 gallons (50.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "116 mph (187 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "10.3 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/55 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "166.7 in (4234 mm)",
+      "Width": "71.6 in (1819 mm)",
+      "Height": "59.9 in (1521 mm)",
+      "Front/rear Track": "60.9/60.7 in (1,547/1,542 mm)",
+      "Wheelbase": "102.5 in (2604 mm)",
+      "Ground Clearance": "6.3 in (160 mm)",
+      "Cargo Volume": "10 cuFT (283 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3278 lbs (1487 kg)",
+      "Gross Weight Limit": "4079 lbs (1850 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "37.3 mpg US (6.3 L/100Km)",
+      "Highway": "49 mpg US (4.8 L/100Km)",
+      "Combined": "43.6 mpg US (5.4 L/100Km)",
+      "CO2 Emissions": "123 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-T-Roc-Cabriolet-6644_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-T-Roc-Cabriolet-6644_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-T-Roc-Cabriolet-6644_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-T-Roc-Cabriolet-6644_16.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-T-Roc-Cabriolet-6644_17.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN T-Roc Cabriolet",
+    "url": "https://www.autoevolution.com/volkswagen/t-roc-cabriolet/",
+    "start_year": 2019,
+    "end_year": null
+  },
+  {
+    "generation": "2022 Volkswagen Polo GTI",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Polo GTI 2.0L TSI 7AT FWD (207 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-polo-gti-2021.html#aeng_volkswagen-polo-gti-2021-20l-tsi-7at-fwd-207-hp",
+    "ENGINE SPECS - 2.0L TSI 7AT FWD (207 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1984 cm3",
+      "Power": "152.2 KW @ - RPM\n207 HP @ - RPM\n204 BHP @ - RPM",
+      "Torque": "236 lb-ft @ 1500-4500 RPM\n320 Nm @ 1500-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "10.6 gallons (40.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "149 mph (240 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "7-speed automatic DSG"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/45 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "160.4 in (4074 mm)",
+      "Width": "68.9 in (1750 mm)",
+      "Height": "56.3 in (1430 mm)",
+      "Front/rear Track": "59.1/58.4 in (1,501/1,483 mm)",
+      "Wheelbase": "100.4 in (2550 mm)",
+      "Cargo Volume": "12.4 cuFT (351 L)",
+      "Turning circle": "34.8 ft (10.6 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2835 lbs (1286 kg)",
+      "Gross Weight Limit": "3968 lbs (1800 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "31.8 mpg US (7.4 L/100Km)",
+      "Highway": "51.1 mpg US (4.6 L/100Km)",
+      "Combined": "42 mpg US (5.6 L/100Km)",
+      "CO2 Emissions": "128 g/km"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Low": "25 mpg US (9.4 L/100Km)",
+      "Medium": "34.1 mpg US (6.9 L/100Km)",
+      "High": "39.9 mpg US (5.9 L/100Km)",
+      "Extra high": "35.1 mpg US (6.7 L/100Km)",
+      "Combined": "34.6 mpg US (6.8 L/100Km)",
+      "CO2 Emissions (Combined)": "155 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-gti-2021-7525_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-gti-2021-7525_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-gti-2021-7525_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-gti-2021-7525_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-gti-2021-7525_14.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Polo GTI",
+    "url": "https://www.autoevolution.com/volkswagen/polo-gti/",
+    "start_year": 2005,
+    "end_year": null
+  },
+  {
+    "generation": "2019 Volkswagen T-Roc R",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN T-Roc R 2.0L TSI 4MOTION 7AT AWD (300 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-t-roc-r-2019.html#aeng_volkswagen-t-roc-r-2019-20l-tsi-7at-awd-300-hp",
+    "ENGINE SPECS - 2.0L TSI 4MOTION 7AT AWD (300 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1968 cm3",
+      "Power": "220.6 KW @ - RPM\n300 HP @ - RPM\n296 BHP @ - RPM",
+      "Torque": "295 lb-ft @ - RPM\n400 Nm @ - RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "4.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic DSG"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-T-Roc-R-6675_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-T-Roc-R-6675_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-T-Roc-R-6675_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-T-Roc-R-6675_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-T-Roc-R-6675_15.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN T-Roc R",
+    "url": "https://www.autoevolution.com/volkswagen/t-roc-r/",
+    "start_year": 2019,
+    "end_year": null
+  },
+  {
+    "generation": "VOLKSWAGEN Taigo",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Taigo 1.0L TSI 5MT FWD (95 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-taigo-2021.html#aeng_volkswagen-taigo-2021-10l-tsi-5mt-95-hp",
+    "ENGINE SPECS - 1.0L TSI 5MT FWD (95 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "999 cm3",
+      "Power": "69.9 KW @ - RPM\n95 HP @ - RPM\n94 BHP @ - RPM",
+      "Fuel System": "Direct injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Cargo Volume": "15.5 cuFT (439 L)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-taigo-2021-7144_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-taigo-2021-7144_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-taigo-2021-7144_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-taigo-2021-7144_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-taigo-2021-7144_5.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Taigo",
+    "url": "https://www.autoevolution.com/volkswagen/taigo/",
+    "start_year": 2021,
+    "end_year": null
+  },
+  {
+    "generation": "VOLKSWAGEN Arteon Shooting Brake",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Arteon Shooting Brake 2.0L 8AT AWD (218 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-arteon-shooting-brake-2020.html#aeng_volkswagen-arteon-shooting-brake-2020-20l-8at-awd-218-hp",
+    "ENGINE SPECS - 2.0L 8AT AWD (218 HP)": {
+      "Cylinders": "L4",
+      "Power": "160.3 KW @ - RPM\n218 HP @ - RPM\n215 BHP @ - RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Hybrid Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Arteon-Shooting-Brake-6861_22.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Arteon-Shooting-Brake-6861_23.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Arteon-Shooting-Brake-6861_24.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Arteon-Shooting-Brake-6861_25.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Arteon-Shooting-Brake-6861_26.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Arteon Shooting Brake",
+    "url": "https://www.autoevolution.com/volkswagen/arteon-shooting-brake/",
+    "start_year": 2020,
+    "end_year": null
+  },
+  {
+    "generation": "VOLKSWAGEN Nivus",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Nivus 200 TSI 6AT (128 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-nivus-2020.html#aeng_volkswagen-nivus-2020-200-tsi-6at",
+    "ENGINE SPECS - 200 TSI 6AT (128 HP)": {
+      "Cylinders": "L3",
+      "Power": "94 KW @ - RPM\n128 HP @ - RPM\n126 BHP @ - RPM",
+      "Torque": "0 lb-ft @ RPM\n0 Nm @ RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "168 in (4267 mm)",
+      "Width": "58.8 in (1494 mm)",
+      "Height": "58.8 in (1494 mm)",
+      "Ground Clearance": "16.3 in (414 mm)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Nivus-6830_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Nivus-6830_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Nivus-6830_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Nivus-6830_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Nivus-6830_5.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Nivus",
+    "url": "https://www.autoevolution.com/volkswagen/nivus/",
+    "start_year": 2020,
+    "end_year": null
+  },
+  {
+    "generation": "VOLKSWAGEN Tiguan Allspace",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Tiguan Allspace 1.5L TSI 6MT (150 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-tiguan-allspace-2021.html#aeng_volkswagen-tiguan-allspace-2021-15l-tsi-6mt-150-hp",
+    "ENGINE SPECS - 1.5L TSI 6MT (150 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1498 cm3",
+      "Power": "110.3 KW @ 5000-6000 RPM\n150 HP @ 5000-6000 RPM\n148 BHP @ 5000-6000 RPM",
+      "Torque": "184 lb-ft @ 1500-3500 RPM\n250 Nm @ 1500-3500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "15.3 gallons (57.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "125 mph (201 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "10.3 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/50 R19"
+    },
+    "DIMENSIONS": {
+      "Length": "186.1 in (4727 mm)",
+      "Width": "72.4 in (1839 mm)",
+      "Height": "66.4 in (1687 mm)",
+      "Front/rear Track": "62/61.6 in (1,575/1,565 mm)",
+      "Wheelbase": "109.8 in (2789 mm)",
+      "Cargo Volume": "26.8 cuFT (759 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3298 lbs (1496 kg)",
+      "Gross Weight Limit": "4872 lbs (2210 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "35.1 mpg US (6.7 L/100Km)",
+      "Highway": "46.1 mpg US (5.1 L/100Km)",
+      "Combined": "41.3 mpg US (5.7 L/100Km)",
+      "CO2 Emissions": "130 g/km"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Low": "28.7 mpg US (8.2 L/100Km)",
+      "Medium": "36.8 mpg US (6.4 L/100Km)",
+      "High": "40.6 mpg US (5.8 L/100Km)",
+      "Extra high": "33.1 mpg US (7.1 L/100Km)",
+      "Combined": "35.1 mpg US (6.7 L/100Km)",
+      "CO2 Emissions (Combined)": "152 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-tiguan-allspace-2021-7111_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-tiguan-allspace-2021-7111_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-tiguan-allspace-2021-7111_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-tiguan-allspace-2021-7111_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-tiguan-allspace-2021-7111_15.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Tiguan Allspace",
+    "url": "https://www.autoevolution.com/volkswagen/tiguan-allspace/",
+    "start_year": 2017,
+    "end_year": null
+  },
+  {
+    "generation": "VOLKSWAGEN Golf VII Alltrack",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Golf VII Alltrack 1.8L TSI 4MOTION 6AT AWD (180 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-golf-alltrack-2017.html#aeng_volkswagen-golf-alltrack-2017-18-tsi-4motion-6at-180-hp",
+    "ENGINE SPECS - 1.8L TSI 4MOTION 6AT AWD (180 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1798 cm3",
+      "Power": "132.4 KW @ 4500-6200 RPM\n180 HP @ 4500-6200 RPM\n178 BHP @ 4500-6200 RPM",
+      "Torque": "207 lb-ft @ 1350-4500 RPM\n280 Nm @ 1350-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.5 gallons (54.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "135 mph (217 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-speed automatic (DSG)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/45 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "179.8 in (4567 mm)",
+      "Width": "70.8 in (1798 mm)",
+      "Height": "59.6 in (1514 mm)",
+      "Front/rear Track": "60.9/59.7 in (1,547/1,516 mm)",
+      "Wheelbase": "103.5 in (2629 mm)",
+      "Ground Clearance": "6.9 in (175 mm)",
+      "Cargo Volume": "21.4 cuFT (606 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3389 lbs (1537 kg)",
+      "Gross Weight Limit": "4497 lbs (2040 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "28.7 mpg US (8.2 L/100Km)",
+      "Highway": "40.6 mpg US (5.8 L/100Km)",
+      "Combined": "35.1 mpg US (6.7 L/100Km)",
+      "CO2 Emissions": "156 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Alltrack-5908_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Alltrack-5908_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Alltrack-5908_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-VII-Alltrack-5908_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-VII-Alltrack-5908_8.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Golf Alltrack",
+    "url": "https://www.autoevolution.com/volkswagen/golf-alltrack/",
+    "start_year": 2014,
+    "end_year": null
+  },
+  {
+    "generation": "2022 Volkswagen Arteon",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Arteon (US) 2.0L TSI 7AT AWD (304 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-arteon-us-2022.html#aeng_volkswagen-arteon-us-2022-20l-tsi-7at-awd-304-hp",
+    "ENGINE SPECS - 2.0L TSI 7AT AWD (304 HP)": {
+      "Cylinders": "L4",
+      "Power": "223.6 KW @ 5350 RPM\n304 HP @ 5350 RPM\n300 BHP @ 5350 RPM",
+      "Torque": "295 lb-ft @ 2000 RPM\n400 Nm @ 2000 RPM",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.4 gallons (65.9 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic"
+    },
+    "DIMENSIONS": {
+      "Length": "191.5 in (4864 mm)",
+      "Width": "73.7 in (1872 mm)",
+      "Height": "56.8 in (1443 mm)",
+      "Wheelbase": "111.9 in (2842 mm)",
+      "Ground Clearance": "5.1 in (130 mm)",
+      "Cargo Volume": "19.9 cuFT (564 L)",
+      "Aerodynamics (Cd)": "0.29",
+      "Turning circle": "39 ft (11.9 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3935 lbs (1785 kg)",
+      "Gross Weight Limit": "5026 lbs (2280 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-arteon-us-2022-7355_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-arteon-us-2022-7355_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-arteon-us-2022-7355_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-arteon-us-2022-7355_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-arteon-us-2022-7355_9.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Arteon",
+    "url": "https://www.autoevolution.com/volkswagen/arteon/",
+    "start_year": 2017,
+    "end_year": null
+  },
+  {
+    "generation": "2023 Volkswagen Amarok",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Amarok 2.3L TSI 4MOTION 10AT AWD (302 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-amarok-2022.html#aeng_volkswagen-amarok-2022-23l-tsi-4motion-10at-awd-302-hp",
+    "ENGINE SPECS - 2.3L TSI 4MOTION 10AT AWD (302 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2261 cm3",
+      "Power": "222.1 KW @ 5900 RPM\n302 HP @ 5900 RPM\n298 BHP @ 5900 RPM",
+      "Torque": "333 lb-ft @ 3350 RPM\n452 Nm @ 3350 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "21.1 gallons (79.9 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "10-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/65 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "211.1 in (5362 mm)",
+      "Width": "75.5 in (1918 mm)",
+      "Height": "74.2 in (1885 mm)",
+      "Front/rear Track": "63.8/65 in (1,621/1,651 mm)",
+      "Wheelbase": "128.7 in (3269 mm)",
+      "Ground Clearance": "8.5 in (216 mm)",
+      "Turning circle": "42.3 ft (12.9 m)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-amarok-2022-7524_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-amarok-2022-7524_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-amarok-2022-7524_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-amarok-2022-7524_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-amarok-2022-7524_11.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Amarok",
+    "url": "https://www.autoevolution.com/volkswagen/amarok/",
+    "start_year": 2009,
+    "end_year": null
+  },
+  {
+    "generation": "2024 Volkswagen Atlas Cross Sport",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Atlas Cross Sport 2.0L TSI (273 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-atlas-cross-sport-2023.html#aeng_volkswagen-atlas-cross-sport-2023-20l-tsi-273-hp",
+    "ENGINE SPECS - 2.0L TSI (273 HP)": {
+      "Cylinders": "L4",
+      "Power": "200.6 KW @ - RPM\n272.7 HP @ - RPM\n269 BHP @ - RPM",
+      "Torque": "273 lb-ft @ - RPM\n370 Nm @ - RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-atlas-cross-sport-2023-7416_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-atlas-cross-sport-2023-7416_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-atlas-cross-sport-2023-7416_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-atlas-cross-sport-2023-7416_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-atlas-cross-sport-2023-7416_16.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Atlas Cross Sport",
+    "url": "https://www.autoevolution.com/volkswagen/atlas-cross-sport/",
+    "start_year": 2019,
+    "end_year": null
+  },
+  {
+    "generation": "VOLKSWAGEN Caddy",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Caddy TSI (114 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-caddy-2020.html#aeng_volkswagen-caddy-2020-tsi-114-hp",
+    "ENGINE SPECS - TSI (114 HP)": {
+      "Power": "83.8 KW @ - RPM\n114 HP @ - RPM\n112 BHP @ - RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Caddy-6760_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Caddy-6760_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Caddy-6760_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Caddy-6760_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Caddy-6760_14.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Caddy",
+    "url": "https://www.autoevolution.com/volkswagen/caddy/",
+    "start_year": 2005,
+    "end_year": null
+  },
+  {
+    "generation": "Volkswagen Touran",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Touran 1.0L TSI 6MT FWD (116 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-touran-2015.html#aeng_volkswagen-touran-2015-10l-tsi-6mt-116-hp",
+    "ENGINE SPECS - 1.0L TSI 6MT FWD (116 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "999 cm3",
+      "Power": "85.3 KW @ - RPM\n116 HP @ - RPM\n114 BHP @ - RPM",
+      "Torque": "140 lb-ft @ 2000-3500 RPM\n190 Nm @ 2000-3500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "15.3 gallons (57.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "119 mph (192 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "11.3 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/60 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "178.2 in (4526 mm)",
+      "Width": "72 in (1829 mm)",
+      "Height": "65.3 in (1659 mm)",
+      "Front/rear Track": "61.8/60.7 in (1,570/1,542 mm)",
+      "Wheelbase": "109.9 in (2791 mm)",
+      "Ground Clearance": "6.1 in (155 mm)",
+      "Cargo Volume": "29.5 cuFT (835 L)",
+      "Aerodynamics (Cd)": "0.29"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3219 lbs (1460 kg)",
+      "Gross Weight Limit": "4519 lbs (2050 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "35.6 mpg US (6.6 L/100Km)",
+      "Highway": "49 mpg US (4.8 L/100Km)",
+      "Combined": "42.8 mpg US (5.5 L/100Km)",
+      "CO2 Emissions": "125 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Touran-5444_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Touran-5444_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Touran-5444_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Touran-5444_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Touran-5444_8.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Touran",
+    "url": "https://www.autoevolution.com/volkswagen/touran/",
+    "start_year": 2003,
+    "end_year": null
+  },
+  {
+    "generation": "VOLKSWAGEN Ameo",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Ameo 1.0L 5MT FWD (76 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-ameo-2016.html#aeng_volkswagen-ameo-2016-10l-5mt-76-hp",
+    "ENGINE SPECS - 1.0L 5MT FWD (76 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "999 cm3",
+      "Power": "55.9 KW @ 6200 RPM\n76 HP @ 6200 RPM\n75 BHP @ 6200 RPM",
+      "Torque": "70 lb-ft @ 3000-4300 RPM\n95 Nm @ 3000-4300 RPM",
+      "Fuel System": "Multipoint Injection Naturally aspirated",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "11.9 gallons (45.0 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Discs",
+      "Rear": "Drum"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "175/70 R14"
+    },
+    "DIMENSIONS": {
+      "Length": "157.3 in (3995 mm)",
+      "Width": "66.2 in (1681 mm)",
+      "Height": "58.4 in (1483 mm)",
+      "Front/rear Track": "57.5/57.3 in (1,461/1,455 mm)",
+      "Wheelbase": "97.2 in (2469 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2264 - 2315 lbs (1027 - 1050 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "19.4 mpg US (12.1 L/100Km)"
+    },
+    "images": [],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Ameo",
+    "url": "https://www.autoevolution.com/volkswagen/ameo/",
+    "start_year": 2016,
+    "end_year": 2020
+  },
+  {
+    "generation": "2016 Volkswagen Beetle Cabriolet",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Beetle Convertible (A5) 1.2L TSI 6MT FWD (105 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-beetle-convertible-2016.html#aeng_volkswagen-beetle-convertible-a5-2016-12l-tsi-6mt-105-hp",
+    "ENGINE SPECS - 1.2L TSI 6MT FWD (105 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1197 cm3",
+      "Power": "77.2 KW @ 4500-5500 RPM\n105 HP @ 4500-5500 RPM\n104 BHP @ 4500-5500 RPM",
+      "Torque": "129 lb-ft @ 1400-4000 RPM\n175 Nm @ 1400-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.5 gallons (54.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "111 mph (179 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "11.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/60 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "168.8 in (4288 mm)",
+      "Width": "71.9 in (1826 mm)",
+      "Height": "58 in (1473 mm)",
+      "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
+      "Wheelbase": "99.9 in (2537 mm)",
+      "Ground Clearance": "5.4 in (137 mm)",
+      "Cargo Volume": "7.9 cuFT (224 L)",
+      "Turning circle": "35.4 ft (10.8 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2910 lbs (1320 kg)",
+      "Gross Weight Limit": "3946 lbs (1790 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "35.6 mpg US (6.6 L/100Km)",
+      "Highway": "50 mpg US (4.7 L/100Km)",
+      "Combined": "43.6 mpg US (5.4 L/100Km)",
+      "CO2 Emissions": "125 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-beetle-convertible-2016-7265_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-beetle-convertible-2016-7265_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-beetle-convertible-2016-7265_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-beetle-convertible-2016-7265_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-beetle-convertible-2016-7265_15.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Beetle Cabrio",
+    "url": "https://www.autoevolution.com/volkswagen/beetle-cabrio/",
+    "start_year": 2003,
+    "end_year": 2019
+  },
+  {
+    "generation": "VOLKSWAGEN CC",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN CC 1.4L TSI 6MT FWD (160 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-cc-2012.html#aeng_volkswagen-cc-2012-14-tsi-6mt-160-hp",
+    "ENGINE SPECS - 1.4L TSI 6MT FWD (160 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1390 cm3",
+      "Power": "118 KW @ 5800 RPM\n160 HP @ 5800 RPM\n158 BHP @ 5800 RPM",
+      "Torque": "177 lb-ft @ 1500-4500 RPM\n240 Nm @ 1500-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18.5 gallons (70.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "138 mph (222 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/45 R 17 V"
+    },
+    "DIMENSIONS": {
+      "Length": "189.1 in (4803 mm)",
+      "Width": "73 in (1854 mm)",
+      "Height": "55.8 in (1417 mm)",
+      "Front/rear Track": "61.1/61.4 in (1,552/1,560 mm)",
+      "Wheelbase": "106.7 in (2710 mm)",
+      "Ground Clearance": "4.9 in (124 mm)",
+      "Cargo Volume": "18.8 cuFT (532 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3318 lbs (1505 kg)",
+      "Gross Weight Limit": "4299 lbs (1950 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "27 mpg US (8.7 L/100Km)",
+      "Highway": "44.4 mpg US (5.3 L/100Km)",
+      "Combined": "35.6 mpg US (6.6 L/100Km)",
+      "CO2 Emissions": "152 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-CC-4500_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-CC-4500_16.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-CC-4500_17.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-CC-4500_18.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-CC-4500_19.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN CC",
+    "url": "https://www.autoevolution.com/volkswagen/cc/",
+    "start_year": 2012,
+    "end_year": 2017
+  },
+  {
+    "generation": "2016 Volkswagen Cross Up!",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Cross up! 1.0L 5AT FWD (75 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-cross-up-2016.html#aeng_volkswagen-cross-up-2016-10-5at-75-hp",
+    "ENGINE SPECS - 1.0L 5AT FWD (75 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "999 cm3",
+      "Power": "55.2 KW @ 6000 RPM\n75 HP @ 6000 RPM\n74 BHP @ 6000 RPM",
+      "Torque": "70 lb-ft @ 3000 RPM\n95 Nm @ 3000 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "9.2 gallons (34.8 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "104 mph (167 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "15.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "185/50R16"
+    },
+    "DIMENSIONS": {
+      "Length": "142.8 in (3627 mm)",
+      "Width": "75.4 in (1915 mm)",
+      "Height": "60.2 in (1529 mm)",
+      "Front/rear Track": "56.2/56.1 in (1,427/1,425 mm)",
+      "Wheelbase": "95.3 in (2421 mm)",
+      "Ground Clearance": "6.7 in (170 mm)",
+      "Cargo Volume": "10.1 cuFT (286 L)",
+      "Aerodynamics (Cd)": "0.32"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2231 lbs (1012 kg)",
+      "Gross Weight Limit": "2932 lbs (1330 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "46.1 mpg US (5.1 L/100Km)",
+      "Highway": "58.8 mpg US (4 L/100Km)",
+      "Combined": "53.5 mpg US (4.4 L/100Km)",
+      "CO2 Emissions": "102 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Cross-up--5829_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Cross-up--5829_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Cross-up--5829_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Cross-up--5829_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Cross-up--5829_6.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Cross UP!",
+    "url": "https://www.autoevolution.com/volkswagen/cross-up/",
+    "start_year": 2013,
+    "end_year": 2019
+  },
+  {
+    "generation": "VOLKSWAGEN Eos",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Eos 1.4L TSI 6MT FWD (122 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-eos-2011.html#aeng_volkswagen-eos-2011-14-tsi-122-hp",
+    "ENGINE SPECS - 1.4L TSI 6MT FWD (122 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1390 cm3",
+      "Power": "90 KW @ 5000 RPM\n122 HP @ 5000 RPM\n121 BHP @ 5000 RPM",
+      "Torque": "147 lb-ft @ 1500-4000 RPM\n199 Nm @ 1500-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.5 gallons (54.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "123 mph (198 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/55 R 16 H"
+    },
+    "DIMENSIONS": {
+      "Length": "174.1 in (4422 mm)",
+      "Width": "70.5 in (1791 mm)",
+      "Height": "56.9 in (1445 mm)",
+      "Front/rear Track": "60.8/60.9 in (1,544/1,547 mm)",
+      "Wheelbase": "101.5 in (2578 mm)",
+      "Ground Clearance": "5.5 in (140 mm)",
+      "Cargo Volume": "13.4 cuFT (379 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3300.3 lbs (1497 kg)",
+      "Gross Weight Limit": "4232.9 lbs (1920 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "28.3 mpg US (8.3 L/100Km)",
+      "Highway": "44.4 mpg US (5.3 L/100Km)",
+      "Combined": "36.8 mpg US (6.4 L/100Km)",
+      "CO2 Emissions": "149 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENEos-4345_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENEos-4345_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENEos-4345_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENEos-4345_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENEos-4345_5.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Eos",
+    "url": "https://www.autoevolution.com/volkswagen/eos/",
+    "start_year": 2006,
+    "end_year": 2016
+  },
+  {
+    "generation": "VOLKSWAGEN Fox",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Fox 1.2L 5MT FWD (55 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-fox-2005.html#aeng_volkswagen-fox-2004-12",
+    "ENGINE SPECS - 1.2L 5MT FWD (55 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "1198 cm3",
+      "Power": "40.5 KW @ 4750 RPM\n55 HP @ 4750 RPM\n54 BHP @ 4750 RPM",
+      "Torque": "78 lb-ft @ 3000 RPM\n106 Nm @ 3000 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "92 mph (148 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "17.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "185/60R15"
+    },
+    "DIMENSIONS": {
+      "Length": "150.8 in (3830 mm)",
+      "Width": "65.4 in (1661 mm)",
+      "Height": "60.6 in (1539 mm)",
+      "Front/rear Track": "56.3/55.9 in (1,430/1,420 mm)",
+      "Wheelbase": "96.9 in (2461 mm)",
+      "Ground Clearance": "7.1 in (180 mm)",
+      "Cargo Volume": "9.2 cuFT (261 L)",
+      "Aerodynamics (Cd)": "0.32"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2145.1 lbs (973 kg)",
+      "Gross Weight Limit": "3262.8 lbs (1480 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "30.5 mpg US (7.7 L/100Km)",
+      "Highway": "47 mpg US (5 L/100Km)",
+      "Combined": "39.2 mpg US (6 L/100Km)",
+      "CO2 Emissions": "144 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENFox-684_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENFox-684_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENFox-684_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENFox-684_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENFox-684_6.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Fox",
+    "url": "https://www.autoevolution.com/volkswagen/fox/",
+    "start_year": 2005,
+    "end_year": 2009
+  },
+  {
+    "generation": "VOLKSWAGEN Golf VI Cabrio",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Golf VI Cabrio 1.2L TSI BlueMotion 6MT FWD (105 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-golf-cabrio-2015.html#aeng_volkswagen-golf-cabrio-2015-12-tsi-bluemotion-6mt-105-hp",
+    "ENGINE SPECS - 1.2L TSI BLUEMOTION 6MT FWD (105 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1197 cm3",
+      "Power": "78 KW @ 5000 RPM\n106 HP @ 5000 RPM\n105 BHP @ 5000 RPM",
+      "Torque": "129 lb-ft @ 1400-4000 RPM\n175 Nm @ 1400-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.5 gallons (54.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "116 mph (187 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/55 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "167.2 in (4247 mm)",
+      "Width": "70.2 in (1783 mm)",
+      "Height": "56 in (1422 mm)",
+      "Front/rear Track": "60.4/59.4 in (1,534/1,509 mm)",
+      "Wheelbase": "101.5 in (2578 mm)",
+      "Ground Clearance": "5.5 in (140 mm)",
+      "Cargo Volume": "8.8 cuFT (249 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3075 lbs (1395 kg)",
+      "Gross Weight Limit": "4079 lbs (1850 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "37.9 mpg US (6.2 L/100Km)",
+      "Highway": "53.5 mpg US (4.4 L/100Km)",
+      "Combined": "46.1 mpg US (5.1 L/100Km)",
+      "CO2 Emissions": "117 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Cabrio-5441_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Cabrio-5441_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Cabrio-5441_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Cabrio-5441_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Cabrio-5441_8.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Golf Cabrio",
+    "url": "https://www.autoevolution.com/volkswagen/golf-cabrio/",
+    "start_year": 1993,
+    "end_year": 2016
+  },
+  {
+    "generation": "VOLKSWAGEN Golf VI GTI Cabrio",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Golf VI GTI Cabrio 2.0L TSI 6AT FWD (210 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-golf-gti-cabrio-2012.html#aeng_volkswagen-golf-gti-cabrio-2012-20-tsi-6at-210-hp",
+    "ENGINE SPECS - 2.0L TSI 6AT FWD (210 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1984 cm3",
+      "Power": "155 KW @ 5300-6200 RPM\n208 HP @ 5300-6200 RPM\n208 BHP @ 5300-6200 RPM",
+      "Torque": "207 lb-ft @ 1700-5200 RPM\n281 Nm @ 1700-5200 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "146 mph (235 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "7.3 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed automatic (DSG)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/45 R 17 W"
+    },
+    "DIMENSIONS": {
+      "Length": "167.2 in (4247 mm)",
+      "Width": "70.2 in (1783 mm)",
+      "Height": "57.9 in (1471 mm)",
+      "Front/rear Track": "60.4/59.4 in (1,534/1,509 mm)",
+      "Wheelbase": "101.5 in (2578 mm)",
+      "Ground Clearance": "5 in (127 mm)",
+      "Cargo Volume": "8.8 cuFT (249 L)",
+      "Aerodynamics (Cd)": "0.32"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3428 lbs (1555 kg)",
+      "Gross Weight Limit": "4365 lbs (1980 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "22.6 mpg US (10.4 L/100Km)",
+      "Highway": "37.9 mpg US (6.2 L/100Km)",
+      "Combined": "30.5 mpg US (7.7 L/100Km)",
+      "CO2 Emissions": "180 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfGTICabrio-4542_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfGTICabrio-4542_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfGTICabrio-4542_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfGTICabrio-4542_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfGTICabrio-4542_6.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Golf GTI cabrio",
+    "url": "https://www.autoevolution.com/volkswagen/golf-gti-cabrio/",
+    "start_year": 2012,
+    "end_year": 2015
+  },
+  {
+    "generation": "VOLKSWAGEN Golf Plus",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Golf Plus 1.2L TSI 5MT FWD (85 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-golf-plus-2008.html#aeng_volkswagen-golf-plus-2008-12-tsi-5mt-85-hp",
+    "ENGINE SPECS - 1.2L TSI 5MT FWD (85 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1197 cm3",
+      "Power": "62.5 KW @ 4800 RPM\n85 HP @ 4800 RPM\n84 BHP @ 4800 RPM",
+      "Torque": "118 lb-ft @ 1500-3500 RPM\n160 Nm @ 1500-3500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.5 gallons (54.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "109 mph (175 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "13.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/55 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "165.6 in (4206 mm)",
+      "Width": "69.3 in (1760 mm)",
+      "Height": "62.2 in (1580 mm)",
+      "Front/rear Track": "60.7/59.7 in (1,542/1,516 mm)",
+      "Wheelbase": "101.5 in (2578 mm)",
+      "Ground Clearance": "6.7 in (170 mm)",
+      "Cargo Volume": "13.9 cuFT (394 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2987 lbs (1355 kg)",
+      "Gross Weight Limit": "4255 lbs (1930 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "32.7 mpg US (7.2 L/100Km)",
+      "Highway": "48 mpg US (4.9 L/100Km)",
+      "Combined": "40.6 mpg US (5.8 L/100Km)",
+      "CO2 Emissions": "136 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfPlus-3783_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfPlus-3783_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfPlus-3783_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfPlus-3783_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfPlus-3783_9.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Golf Plus",
+    "url": "https://www.autoevolution.com/volkswagen/golf-plus/",
+    "start_year": 2005,
+    "end_year": 2013
+  },
+  {
+    "generation": "VOLKSWAGEN Golf VI R Cabrio",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Golf VI R Cabrio 2.0L TSI 6AT (265 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-golf-r-cabrio-2013.html#aeng_volkswagen-golf-r-cabrio-2013-20-tsi-6at-265-hp",
+    "ENGINE SPECS - 2.0L TSI 6AT (265 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1984 cm3",
+      "Power": "195 KW @ 6000 RPM\n265 HP @ 6000 RPM\n261 BHP @ 6000 RPM",
+      "Torque": "258 lb-ft @ 2500-5000 RPM\n350 Nm @ 2500-5000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed automatic (DSG)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/40 R 18"
+    },
+    "DIMENSIONS": {
+      "Length": "168 in (4267 mm)",
+      "Width": "70.2 in (1783 mm)",
+      "Height": "55.3 in (1405 mm)",
+      "Front/rear Track": "60.4/59.7 in (1,534/1,516 mm)",
+      "Wheelbase": "101.5 in (2578 mm)",
+      "Ground Clearance": "5 in (127 mm)",
+      "Cargo Volume": "8.8 cuFT (249 L)",
+      "Aerodynamics (Cd)": "0.33"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3558 lbs (1614 kg)",
+      "Gross Weight Limit": "4409 lbs (2000 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "21.4 mpg US (11 L/100Km)",
+      "Highway": "36.2 mpg US (6.5 L/100Km)",
+      "Combined": "28.7 mpg US (8.2 L/100Km)",
+      "CO2 Emissions": "190 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfRCabrio-4764_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfRCabrio-4764_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfRCabrio-4764_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfRCabrio-4764_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENGolfRCabrio-4764_6.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Golf R Cabrio",
+    "url": "https://www.autoevolution.com/volkswagen/golf-r-cabrio/",
+    "start_year": 2013,
+    "end_year": 2017
+  },
+  {
+    "generation": "Volkswagen Golf Sportsvan",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Golf Sportsvan 1.0L TSI 5MT (85 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-golf-sportsvan-2017.html#aeng_volkswagen-golf-sportsvan-2017-10-tsi-5mt-85-hp",
+    "ENGINE SPECS - 1.0L TSI 5MT (85 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "999 cm3",
+      "Power": "62.5 KW @ - RPM\n85 HP @ - RPM\n84 BHP @ - RPM",
+      "Torque": "129 lb-ft @ 2000-3000 RPM\n175 Nm @ 2000-3000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "13.2 gallons (50.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "110 mph (177 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "13 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/55 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "171.3 in (4351 mm)",
+      "Width": "71.1 in (1806 mm)",
+      "Height": "63.5 in (1613 mm)",
+      "Front/rear Track": "60.4/59.2 in (1,534/1,504 mm)",
+      "Wheelbase": "105.1 in (2670 mm)",
+      "Cargo Volume": "17.7 cuFT (501 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2943 lbs (1335 kg)",
+      "Gross Weight Limit": "4079 lbs (1850 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "38.6 mpg US (6.1 L/100Km)",
+      "Highway": "53.5 mpg US (4.4 L/100Km)",
+      "Combined": "47 mpg US (5 L/100Km)",
+      "CO2 Emissions": "115 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Sportsvan-6082_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Sportsvan-6082_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Sportsvan-6082_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Sportsvan-6082_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Golf-Sportsvan-6082_8.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Golf Sportsvan",
+    "url": "https://www.autoevolution.com/volkswagen/golf-sportsvan/",
+    "start_year": 2014,
+    "end_year": 2020
+  },
+  {
+    "generation": "VOLKSWAGEN Lavida",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Lavida 1.6L 5MT FWD (105 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-lavida-2008.html#aeng_volkswagen-lavida-2008-16",
+    "ENGINE SPECS - 1.6L 5MT FWD (105 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1598 cm3",
+      "Power": "77 KW @ 5000 RPM\n105 HP @ 5000 RPM\n103 BHP @ 5000 RPM",
+      "Torque": "114 lb-ft @ 3800 RPM\n155 Nm @ 3800 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.5 gallons (54.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "112 mph (180 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "11.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "195/65 R15"
+    },
+    "DIMENSIONS": {
+      "Length": "181.4 in (4608 mm)",
+      "Width": "68.6 in (1742 mm)",
+      "Height": "57.6 in (1463 mm)",
+      "Wheelbase": "102.7 in (2609 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2744.7 lbs (1245 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENLavida-4114_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENLavida-4114_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENLavida-4114_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENLavida-4114_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENLavida-4114_5.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Lavida (China)",
+    "url": "https://www.autoevolution.com/volkswagen/lavida-china/",
+    "start_year": 2008,
+    "end_year": 2012
+  },
+  {
+    "generation": "VOLKSWAGEN Lupo GTI",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Lupo GTI 1.6L 6MT (125 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-lupo-gti-2002.html#aeng_volkswagen-lupo-gti-2002-16",
+    "ENGINE SPECS - 1.6L 6MT (125 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1598 cm3",
+      "Power": "92 KW @ 6500 RPM\n125 HP @ 6500 RPM\n123 BHP @ 6500 RPM",
+      "Torque": "112 lb-ft @ 3000 RPM\n152 Nm @ 3000 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "127.4 mph (205 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/45VR15"
+    },
+    "DIMENSIONS": {
+      "Length": "138.58 in (3520 mm)",
+      "Width": "64.56 in (1640 mm)",
+      "Height": "57.48 in (1460 mm)",
+      "Front/rear Track": "55.9/55.11 in (1,420/1,400 mm)",
+      "Wheelbase": "91.33 in (2320 mm)",
+      "Ground Clearance": "4.7 in (119 mm)",
+      "Cargo Volume": "4.6 cuFT (130 L)",
+      "Aerodynamics (Cd)": "0.34"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2149.5 lbs (975 kg)",
+      "Gross Weight Limit": "2910.1 lbs (1320 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "22.6 mpg US (10.4 L/100Km)",
+      "Highway": "42.8 mpg US (5.5 L/100Km)",
+      "Combined": "32.2 mpg US (7.3 L/100Km)",
+      "CO2 Emissions": "175 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENLupoGTI-1825_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENLupoGTI-1825_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENLupoGTI-1825_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENLupoGTI-1825_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENLupoGTI-1825_1.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Lupo",
+    "url": "https://www.autoevolution.com/volkswagen/lupo/",
+    "start_year": 1998,
+    "end_year": 2005
+  },
+  {
+    "generation": "Volkswagen Passat Alltrack",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Passat Alltrack 2.0L TSI 7AT 4MOTION AWD (272 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-passat-alltrack-2019.html#aeng_volkswagen-passat-alltrack-2019-20l-tsi-7at-272-hp",
+    "ENGINE SPECS - 2.0L TSI 7AT 4MOTION AWD (272 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1984 cm3",
+      "Power": "200.1 KW @ - RPM\n272 HP @ - RPM\n268 BHP @ - RPM",
+      "Torque": "258 lb-ft @ 2000-5400 RPM\n350 Nm @ 2000-5400 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.4 gallons (65.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic DSG"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/55 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "188.2 in (4780 mm)",
+      "Width": "73 in (1854 mm)",
+      "Height": "60.1 in (1527 mm)",
+      "Front/rear Track": "62.2/61.5 in (1,580/1,562 mm)",
+      "Wheelbase": "109.8 in (2789 mm)",
+      "Cargo Volume": "22.6 cuFT (640 L)",
+      "Turning circle (curb to curb)": "38.4 ft (11.7 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3737 lbs (1695 kg)",
+      "Gross Weight Limit": "5049 lbs (2290 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "26.1 mpg US (9 L/100Km)",
+      "Highway": "38.6 mpg US (6.1 L/100Km)",
+      "Combined": "33.1 mpg US (7.1 L/100Km)",
+      "CO2 Emissions": "163 g/km"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Low": "20.1 mpg US (11.7 L/100Km)",
+      "Medium": "28.3 mpg US (8.3 L/100Km)",
+      "High": "32.2 mpg US (7.3 L/100Km)",
+      "Extra high": "29 mpg US (8.1 L/100Km)",
+      "Combined": "28 mpg US (8.4 L/100Km)",
+      "CO2 Emissions (Combined)": "190 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Passat-Alltrack-6496_16.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Passat-Alltrack-6496_17.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Passat-Alltrack-6496_18.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Passat-Alltrack-6496_19.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Passat-Alltrack-6496_20.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Passat Alltrack",
+    "url": "https://www.autoevolution.com/volkswagen/passat-alltrack/",
+    "start_year": 2012,
+    "end_year": 2023
+  },
+  {
+    "generation": "Volkswagen Passat GTE (Facelift)",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Passat GTE 1.4L TSI 6AT FWD (218 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-passat-gte-2019.html#aeng_volkswagen-passat-gte-2019-14l-tsi-6at-218-hp",
+    "ENGINE SPECS - 1.4L TSI 6AT FWD (218 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1395 cm3",
+      "Power": "114.7 KW @ - RPM\n156 HP @ - RPM\n154 BHP @ - RPM",
+      "Torque": "184 lb-ft @ 1500-3500 RPM\n250 Nm @ 1500-3500 RPM",
+      "Electrical motor power": "84.6 kw (115 hp)",
+      "Total maximum power": "160.3 kw (218 hp)",
+      "Total maximum torque": "295 lb-ft (400 Nm)",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Hybrid Gasoline",
+      "Fuel capacity": "13.2 gallons (50.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "138 mph (222 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "7.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed automatic DSG"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/55 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "188 in (4775 mm)",
+      "Width": "72.1 in (1831 mm)",
+      "Height": "58.4 in (1483 mm)",
+      "Front/rear Track": "62.1/61.6 in (1,577/1,565 mm)",
+      "Wheelbase": "109.7 in (2786 mm)",
+      "Cargo Volume": "14.2 cuFT (402 L)",
+      "Turning circle (curb to curb)": "38.4 ft (11.7 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3649 lbs (1655 kg)",
+      "Gross Weight Limit": "4894 lbs (2220 kg)"
+    },
+    "POWER SYSTEM SPECS": {
+      "Power pack": "Lithium-ion",
+      "Nominal Capacity": "13 kWh",
+      "Range": "42.3 miles (68.1 km)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "168 mpg US (1.4 L/100Km)",
+      "CO2 Emissions": "32 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Passat-GTE-6500_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Passat-GTE-6500_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Passat-GTE-6500_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Passat-GTE-6500_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Passat-GTE-6500_8.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Passat GTE",
+    "url": "https://www.autoevolution.com/volkswagen/passat-gte/",
+    "start_year": 2015,
+    "end_year": 2022
+  },
+  {
+    "generation": "VOLKSWAGEN Passat R36",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Passat R36 3.6L V6 6AT AWD (300 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-passat-r36-2008.html#aeng_volkswagen-passat-r36-2008-36-v6",
+    "ENGINE SPECS - 3.6L V6 6AT AWD (300 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3598 cm3",
+      "Power": "220 KW @ 6600 RPM\n300 HP @ 6600 RPM\n295 BHP @ 6600 RPM",
+      "Torque": "258 lb-ft @ 2400-5300 RPM\n350 Nm @ 2400-5300 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-speed automatic (DSG)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/40 R18 Y"
+    },
+    "DIMENSIONS": {
+      "Length": "187.6 in (4765 mm)",
+      "Width": "71.6 in (1819 mm)",
+      "Height": "57.9 in (1471 mm)",
+      "Front/rear Track": "61.1/61 in (1,552/1,549 mm)",
+      "Wheelbase": "106.6 in (2708 mm)",
+      "Ground Clearance": "4.5 in (114 mm)",
+      "Cargo Volume": "15.9 cuFT (450 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3724 lbs (1689 kg)",
+      "Gross Weight Limit": "4850 lbs (2200 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "18.4 mpg US (12.8 L/100Km)",
+      "Highway": "29.4 mpg US (8 L/100Km)",
+      "Combined": "24 mpg US (9.8 L/100Km)",
+      "CO2 Emissions": "227 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPassatR36-4176_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPassatR36-4176_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPassatR36-4176_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPassatR36-4176_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPassatR36-4176_5.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Passat R",
+    "url": "https://www.autoevolution.com/volkswagen/passat-r/",
+    "start_year": 2008,
+    "end_year": 2010
+  },
+  {
+    "generation": "VOLKSWAGEN Phaeton",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Phaeton 3.6L V6 FSI 6AT AWD (280 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-phaeton-2010.html#aeng_volkswagen-phaeton-2010-36-v6",
+    "ENGINE SPECS - 3.6L V6 FSI 6AT AWD (280 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3597 cm3",
+      "Power": "206 KW @ 6300 RPM\n280 HP @ 6300 RPM\n276 BHP @ 6300 RPM",
+      "Torque": "273 lb-ft @ 3500 RPM\n370 Nm @ 3500 RPM",
+      "Fuel System": "Turbocharged direct injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "23.8 gallons (90.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/55 R17 Y"
+    },
+    "DIMENSIONS": {
+      "Length": "199.2/203.9 in (5,060/5,179 mm)",
+      "Width": "74.9 in (1902 mm)",
+      "Height": "57 in (1448 mm)",
+      "Front/rear Track": "64.1/63.5 in (1,628/1,613 mm)",
+      "Wheelbase": "113.4/118.1 in (2,880/3,000 mm)",
+      "Ground Clearance": "5 in (127 mm)",
+      "Cargo Volume": "17.6 cuFT (498 L)",
+      "Aerodynamics (Cd)": "0.31",
+      "Turning circle": "39.4 ft (12.0 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4790 lbs (2173 kg)",
+      "Gross Weight Limit": "5974 lbs (2710 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "14.2 mpg US (16.6 L/100Km)",
+      "Highway": "28 mpg US (8.4 L/100Km)",
+      "Combined": "20.6 mpg US (11.4 L/100Km)",
+      "CO2 Emissions": "265 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPhaeton-4283_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPhaeton-4283_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPhaeton-4283_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPhaeton-4283_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPhaeton-4283_5.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Phaeton",
+    "url": "https://www.autoevolution.com/volkswagen/phaeton/",
+    "start_year": 2002,
+    "end_year": 2016
+  },
+  {
+    "generation": "VOLKSWAGEN Pointer",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Pointer 1.8",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-pointer-1994.html#aeng_volkswagen-pointer-1994-18",
+    "ENGINE SPECS - 1.8": {
+      "Cylinders": "L4",
+      "Displacement": "1781 cm3",
+      "Power": "74 KW @ 5250 RPM\n98 HP @ 5250 RPM\n99 BHP @ 5250 RPM",
+      "Torque": "106 lb-ft @ 3000 RPM\n144 Nm @ 3000 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "104.3 mph (168 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "Manual, 5 Speed"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "195/55 R 15"
+    },
+    "DIMENSIONS": {
+      "Length": "154.76 in (3931 mm)",
+      "Width": "64.76 in (1645 mm)",
+      "Height": "55.66 in (1414 mm)",
+      "Wheelbase": "97.16 in (2468 mm)",
+      "Cargo Volume": "13.7 cuFT (388 L)",
+      "Aerodynamics (Cd)": "0.34"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2339 lbs (1061 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "28.3 mpg US (8.3 L/100Km)",
+      "CO2 Emissions": "195 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPointer-1171_1.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Pointer",
+    "url": "https://www.autoevolution.com/volkswagen/pointer/",
+    "start_year": 1994,
+    "end_year": 1996
+  },
+  {
+    "generation": "2013 Volkswagen Polo BlueGT",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Polo BlueGT 1.4L TSI 6MT FWD (140 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-polo-bluegt-2013.html#aeng_volkswagen-polo-bluegt-2013-14-tsi-6mt-140-hp",
+    "ENGINE SPECS - 1.4L TSI 6MT FWD (140 HP)": {
+      "Cylinders": "4",
+      "Displacement": "1395 cm3",
+      "Power": "103 KW @ 4500 RPM\n140 HP @ 4500 RPM\n138 BHP @ 4500 RPM",
+      "Torque": "184 lb-ft @ 1500-3500 RPM\n249 Nm @ 1500-3500 RPM",
+      "Fuel System": "Direct Fuel Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "130 mph (209 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "7.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6 speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "solid discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/40 R 17 H"
+    },
+    "DIMENSIONS": {
+      "Length": "156.3 in (3970 mm)",
+      "Width": "66.2 in (1681 mm)",
+      "Height": "57.6 in (1463 mm)",
+      "Front/rear Track": "57.6/57.3 in (1,463/1,455 mm)",
+      "Wheelbase": "97.3 in (2471 mm)",
+      "Cargo Volume": "9.9 cuFT (280 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2672 lbs (1212 kg)",
+      "Gross Weight Limit": "3594 lbs (1630 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "40.6 mpg US (5.8 L/100Km)",
+      "Highway": "60.3 mpg US (3.9 L/100Km)",
+      "Combined": "51.1 mpg US (4.6 L/100Km)",
+      "CO2 Emissions": "107 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPoloBlueGT-4808_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPoloBlueGT-4808_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPoloBlueGT-4808_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPoloBlueGT-4808_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPoloBlueGT-4808_5.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Polo BlueGT",
+    "url": "https://www.autoevolution.com/volkswagen/polo-bluegt/",
+    "start_year": 2013,
+    "end_year": 2019
+  },
+  {
+    "generation": "2010 Volkswagen Polo Sedan",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Polo Sedan 1.6 MPI 6AT (105 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-polo-sedan-2010.html#aeng_volkswagen-polo-sedan-2010-16-mpi-6at-105-hp-1",
+    "ENGINE SPECS - 1.6 MPI 6AT (105 HP)": {
+      "Cylinders": "4",
+      "Displacement": "1598 cm3",
+      "Power": "77 KW @ 5250 RPM\n105 HP @ 5250 RPM\n103 BHP @ 5250 RPM",
+      "Torque": "113 lb-ft @ 3800 RPM\n153 Nm @ 3800 RPM",
+      "Fuel System": "multi-point fuel injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "114 mph (183 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "12.3 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed automatic with Tiptronic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Solid Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "185/60 R15"
+    },
+    "DIMENSIONS": {
+      "Length": "172.6 in (4384 mm)",
+      "Width": "66.9 in (1699 mm)",
+      "Height": "57.7 in (1466 mm)",
+      "Front/rear Track": "57.5/59 in (1,461/1,499 mm)",
+      "Wheelbase": "100.5 in (2553 mm)",
+      "Ground Clearance": "6.6 in (168 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2606 lbs (1182 kg)",
+      "Gross Weight Limit": "3814 lbs (1730 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "27.4 mpg US (8.6 L/100Km)",
+      "Highway": "44.4 mpg US (5.3 L/100Km)",
+      "Combined": "36.2 mpg US (6.5 L/100Km)",
+      "CO2 Emissions": "154 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-sedan-5051_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-sedan-5051_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-sedan-5051_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-sedan-5051_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-polo-sedan-5051_5.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Polo Sedan",
+    "url": "https://www.autoevolution.com/volkswagen/polo-sedan/",
+    "start_year": 1996,
+    "end_year": 2022
+  },
+  {
+    "generation": "VOLKSWAGEN Polo Variant",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Polo Variant 1.4L 5MT FWD (75 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-polo-variant-2000.html#aeng_volkswagen-polo-variant-2000-14-75-hp",
+    "ENGINE SPECS - 1.4L 5MT FWD (75 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1390 cm3",
+      "Power": "55 KW @ 5000 RPM\n75 HP @ 5000 RPM\n74 BHP @ 5000 RPM",
+      "Torque": "93 lb-ft @ 3800 RPM\n126 Nm @ 3800 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "11.9 gallons (45.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "103.8 mph (167 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "13.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "185/60TR14"
+    },
+    "DIMENSIONS": {
+      "Length": "163 in (4140 mm)",
+      "Width": "64.6 in (1641 mm)",
+      "Height": "57.5 in (1461 mm)",
+      "Front/rear Track": "56.3/54.7 in (1,430/1,389 mm)",
+      "Wheelbase": "96.1 in (2441 mm)",
+      "Ground Clearance": "5.5 in (140 mm)",
+      "Cargo Volume": "13.8 cuFT (391 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2200.2 lbs (998 kg)",
+      "Gross Weight Limit": "3379.7 lbs (1533 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "28 mpg US (8.4 L/100Km)",
+      "Highway": "43.6 mpg US (5.4 L/100Km)",
+      "Combined": "36.2 mpg US (6.5 L/100Km)",
+      "CO2 Emissions": "156 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPoloVariant-1449_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPoloVariant-1449_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPoloVariant-1449_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENPoloVariant-1449_1.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Polo Variant",
+    "url": "https://www.autoevolution.com/volkswagen/polo-variant/",
+    "start_year": 1997,
+    "end_year": 2001
+  },
+  {
+    "generation": "VOLKSWAGEN Routan",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Routan 3.6L V6 FSI 6AT FWD (283 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-routan-2008.html#aeng_volkswagen-routan-2008-36-v6-fsi",
+    "ENGINE SPECS - 3.6L V6 FSI 6AT FWD (283 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3597 cm3",
+      "Power": "216 KW @ 6000 RPM\n294 HP @ 6000 RPM\n290 BHP @ 6000 RPM",
+      "Torque": "260 lb-ft @ 4400 RPM\n353 Nm @ 4400 RPM",
+      "Fuel System": "Electronic Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "20.5 gallons (77.6 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "112 mph (180 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed automatic, Sequential"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/65 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "202.5 in (5144 mm)",
+      "Width": "76.9 in (1953 mm)",
+      "Height": "68.9 in (1750 mm)",
+      "Front/rear Track": "65/64.8 in (1,651/1,646 mm)",
+      "Wheelbase": "121.2 in (3078 mm)",
+      "Ground Clearance": "5.6 in (142 mm)",
+      "Cargo Volume": "32.7 cuFT (926 L)",
+      "Aerodynamics (Cd)": "0.29"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4497 lbs (2040 kg)",
+      "Gross Weight Limit": "5697 lbs (2584 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "17 mpg US (13.8 L/100Km)",
+      "Highway": "25 mpg US (9.4 L/100Km)",
+      "Combined": "20 mpg US (11.8 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENRoutan-4112_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENRoutan-4112_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENRoutan-4112_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENRoutan-4112_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENRoutan-4112_5.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Routan",
+    "url": "https://www.autoevolution.com/volkswagen/routan/",
+    "start_year": 2008,
+    "end_year": 2013
+  },
+  {
+    "generation": "2014 Volkswagen Scirocco R",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Scirocco R R 2.0L TSI 6AT FWD (280 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-scirocco-r-2014.html#aeng_volkswagen-scirocco-r-2014-20-tsi",
+    "ENGINE SPECS - R 2.0L TSI 6AT FWD (280 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1984 cm3",
+      "Power": "206 KW @ 6000 RPM\n280 HP @ 6000 RPM\n276 BHP @ 6000 RPM",
+      "Torque": "258 lb-ft @ 2500-5000 RPM\n350 Nm @ 2500-5000 RPM",
+      "Fuel System": "Turbocharged direct injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "14.5 gallons (54.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed automatic DSG"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/45 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "167.2 in (4247 mm)",
+      "Width": "71.3 in (1811 mm)",
+      "Height": "55 in (1397 mm)",
+      "Front/rear Track": "61.1/61.5 in (1,552/1,562 mm)",
+      "Wheelbase": "101.5 in (2578 mm)",
+      "Ground Clearance": "4.8 in (122 mm)",
+      "Cargo Volume": "11 cuFT (311 L)",
+      "Aerodynamics (Cd)": "0.34"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3197 lbs (1450 kg)",
+      "Gross Weight Limit": "3968 lbs (1800 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "21.8 mpg US (10.8 L/100Km)",
+      "Highway": "37.9 mpg US (6.2 L/100Km)",
+      "Combined": "29.8 mpg US (7.9 L/100Km)",
+      "CO2 Emissions": "185 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Scirocco-R-5140_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Scirocco-R-5140_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Scirocco-R-5140_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Scirocco-R-5140_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Scirocco-R-5140_8.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Scirocco R",
+    "url": "https://www.autoevolution.com/volkswagen/scirocco-r/",
+    "start_year": 2009,
+    "end_year": 2018
+  },
+  {
+    "generation": "2010 Volkswagen Sharan",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Sharan 1.4L TSI BlueMotion 6MT FWD (150 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-sharan-2010.html#aeng_volkswagen-sharan-2010-14-tsi-bluemotion",
+    "ENGINE SPECS - 1.4L TSI BLUEMOTION 6MT FWD (150 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1390 cm3",
+      "Power": "110 KW @ 5800 RPM\n150 HP @ 5800 RPM\n148 BHP @ 5800 RPM",
+      "Torque": "177 lb-ft @ 1750-4000 RPM\n240 Nm @ 1750-4000 RPM",
+      "Fuel System": "Turbocharged-Supercharged direct injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18.5 gallons (70.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "122.4 mph (197 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "10.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/60 R 16 H"
+    },
+    "DIMENSIONS": {
+      "Length": "191.1 in (4854 mm)",
+      "Width": "75 in (1905 mm)",
+      "Height": "67.7 in (1720 mm)",
+      "Front/rear Track": "61.8/63.7 in (1,570/1,618 mm)",
+      "Wheelbase": "114.9 in (2918 mm)",
+      "Ground Clearance": "6.4 in (163 mm)",
+      "Cargo Volume": "31.3 cuFT (886 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3798.6 lbs (1723 kg)",
+      "Gross Weight Limit": "5048.6 lbs (2290 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "25.6 mpg US (9.2 L/100Km)",
+      "Highway": "38.6 mpg US (6.1 L/100Km)",
+      "Combined": "32.7 mpg US (7.2 L/100Km)",
+      "CO2 Emissions": "167 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENSharan-4344_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENSharan-4344_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENSharan-4344_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENSharan-4344_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENSharan-4344_5.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Sharan",
+    "url": "https://www.autoevolution.com/volkswagen/sharan/",
+    "start_year": 1996,
+    "end_year": 2022
+  },
+  {
+    "generation": "Volkswagen Transporter T6",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Transporter Kombi (T6) 2.0L TSI 4MOTION 7AT AWD (150 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-transporter-kombi-t6-2015.html#aeng_volkswagen-transporter-kombi-t6-2015-20-tsi-4motion-7at-150-hp",
+    "ENGINE SPECS - 2.0L TSI 4MOTION 7AT AWD (150 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1984 cm3",
+      "Power": "150 KW @ 4200-6000 RPM\n204 HP @ 4200-6000 RPM\n201 BHP @ 4200-6000 RPM",
+      "Torque": "258 lb-ft @ 1500-4000 RPM\n350 Nm @ 1500-4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18.5 gallons (70.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "123 mph (198 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "9.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "7-speed automatic (DSG)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/65 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "193.1 in (4905 mm)",
+      "Width": "75 in (1905 mm)",
+      "Height": "77.6 in (1971 mm)",
+      "Front/rear Track": "75/75 in (1,905/1,905 mm)",
+      "Wheelbase": "118.1 in (3000 mm)",
+      "Ground Clearance": "8 in (203 mm)",
+      "Aerodynamics (Cd)": "0.37"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4769 lbs (2163 kg)",
+      "Gross Weight Limit": "6790 lbs (3080 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "19.8 mpg US (11.9 L/100Km)",
+      "Highway": "30.5 mpg US (7.7 L/100Km)",
+      "Combined": "25.6 mpg US (9.2 L/100Km)",
+      "CO2 Emissions": "212 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Transporter-Kombi--T6--5732_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Transporter-Kombi--T6--5732_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Transporter-Kombi--T6--5732_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Transporter-Kombi--T6--5732_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Transporter-Kombi--T6--5732_10.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Transporter Kombi",
+    "url": "https://www.autoevolution.com/volkswagen/transporter-kombi/",
+    "start_year": 2015,
+    "end_year": 2024
+  },
+  {
+    "generation": "2016 Volkswagen up! 3-doors",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN up! 3 doors 1.0 TSI 5MT FWD (90 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-up-3-doors-2016.html#aeng_volkswagen-up-3-doors-2016-10-tsi-5mt-90-hp",
+    "ENGINE SPECS - 1.0 TSI 5MT FWD (90 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "999 cm3",
+      "Power": "66.2 KW @ 5000-5500 RPM\n90 HP @ 5000-5500 RPM\n89 BHP @ 5000-5500 RPM",
+      "Torque": "118 lb-ft @ 1500-3500 RPM\n160 Nm @ 1500-3500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "115 mph (185 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "9.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "165/70 R14"
+    },
+    "DIMENSIONS": {
+      "Length": "141.7 in (3599 mm)",
+      "Width": "64.6 in (1641 mm)",
+      "Height": "59.2 in (1504 mm)",
+      "Front/rear Track": "56.2/56.1 in (1,427/1,425 mm)",
+      "Wheelbase": "94.8 in (2408 mm)",
+      "Cargo Volume": "8.9 cuFT (252 L)",
+      "Aerodynamics (Cd)": "0.32"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2209 lbs (1002 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "38.6 mpg US (6.1 L/100Km)",
+      "Highway": "60.3 mpg US (3.9 L/100Km)",
+      "Combined": "50 mpg US (4.7 L/100Km)",
+      "CO2 Emissions": "108 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-up--3-doors-6217_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-up--3-doors-6217_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-up--3-doors-6217_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-up--3-doors-6217_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-up--3-doors-6217_5.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN up!",
+    "url": "https://www.autoevolution.com/volkswagen/up/",
+    "start_year": 2012,
+    "end_year": 2023
+  },
+  {
+    "generation": "Volkswagen up! GTI",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN up! GTI 1.0 TSI 6MT (115 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-up-gti-2018.html#aeng_volkswagen-up-gti-2018-10-tsi-6mt-115-hp",
+    "ENGINE SPECS - 1.0 TSI 6MT (115 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "999 cm3",
+      "Power": "84.6 KW @ - RPM\n115 HP @ - RPM\n113 BHP @ - RPM",
+      "Torque": "148 lb-ft @ 2000-3500 RPM\n200 Nm @ 2000-3500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "122 mph (196 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "195/40 R 17"
+    },
+    "DIMENSIONS": {
+      "Length": "141.7 in (3599 mm)",
+      "Width": "64.6 in (1641 mm)",
+      "Height": "58.2 in (1478 mm)",
+      "Front/rear Track": "55.6/56.4 in (1,412/1,433 mm)",
+      "Wheelbase": "94.9 in (2410 mm)",
+      "Cargo Volume": "8.9 cuFT (252 L)",
+      "Aerodynamics (Cd)": "0.32"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2359 lbs (1070 kg)",
+      "Gross Weight Limit": "3086 lbs (1400 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "39.2 mpg US (6 L/100Km)",
+      "Highway": "57.4 mpg US (4.1 L/100Km)",
+      "Combined": "49 mpg US (4.8 L/100Km)",
+      "CO2 Emissions": "110 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-up--GTI-6216_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-up--GTI-6216_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-up--GTI-6216_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-up--GTI-6216_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-up--GTI-6216_5.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN up! GTI",
+    "url": "https://www.autoevolution.com/volkswagen/up-gti/",
+    "start_year": 2018,
+    "end_year": 2023
+  },
+  {
+    "generation": "2010 Volkswagen Vento",
+    "fuel_type": "gasoline",
+    "engine": "VOLKSWAGEN Vento 1.6L MPI 5MT FWD (105 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/volkswagen-vento-2010.html#aeng_volkswagen-vento-2010-16-mpi-5mt-105-hp",
+    "ENGINE SPECS - 1.6L MPI 5MT FWD (105 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1598 cm3",
+      "Power": "77 KW @ 5250 RPM\n105 HP @ 5250 RPM\n103 BHP @ 5250 RPM",
+      "Torque": "113 lb-ft @ 3800 RPM\n153 Nm @ 3800 RPM",
+      "Fuel System": "multi-point fuel injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "115 mph (185 km/h)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-manual speed"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "175/70 R14"
+    },
+    "DIMENSIONS": {
+      "Length": "172.6 in (4384 mm)",
+      "Width": "66.9 in (1699 mm)",
+      "Height": "57.7 in (1466 mm)",
+      "Front/rear Track": "57.5/59 in (1,461/1,499 mm)",
+      "Wheelbase": "100.5 in (2553 mm)",
+      "Ground Clearance": "6.6 in (168 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2491 lbs (1130 kg)",
+      "Gross Weight Limit": "3792 lbs (1720 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Vento-5052_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Vento-5052_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Vento-5052_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Vento-5052_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Vento-5052_5.jpg"
+    ],
+    "brand": "VOLKSWAGEN",
+    "model": "VOLKSWAGEN Vento",
+    "url": "https://www.autoevolution.com/volkswagen/vento/",
+    "start_year": 2010,
+    "end_year": 2019
+  }
+]

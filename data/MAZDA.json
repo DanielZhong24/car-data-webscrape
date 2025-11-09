@@ -1,0 +1,1582 @@
+[
+  {
+    "generation": "2026 Mazda CX-5",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA CX-5 2.5L e-Skyactiv (141 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-cx-5-2025.html#aeng_mazda-cx-5-2025-25l-e-skyactiv",
+    "ENGINE SPECS - 2.5L E-SKYACTIV (141 HP)": {
+      "Cylinders": "L4",
+      "Power": "103.7 KW @ - RPM\n141 HP @ - RPM\n139 BHP @ - RPM",
+      "Torque": "176 lb-ft @ - RPM\n238 Nm @ - RPM",
+      "Fuel": "Hybrid Gasoline"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-5-2025-7936_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-5-2025-7936_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-5-2025-7936_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-5-2025-7936_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-5-2025-7936_16.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA CX-5",
+    "url": "https://www.autoevolution.com/mazda/cx-5/",
+    "start_year": 2012,
+    "end_year": null
+  },
+  {
+    "generation": "2018 Mazda CX-3",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA CX-3 2.0L SkYACTIVE-G 6MT (150 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-cx-3-218.html#aeng_mazda-cx-3-218-20l-skyactive-g-148-hp",
+    "ENGINE SPECS - 2.0L SKYACTIVE-G 6MT (150 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1998 cm3",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "119 mph (192 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "168.3 in (4275 mm)",
+      "Width": "69.5 in (1765 mm)",
+      "Height": "60.4 in (1534 mm)",
+      "Front/rear Track": "60/59.8 in (1,524/1,519 mm)",
+      "Wheelbase": "101.2 in (2570 mm)",
+      "Ground Clearance": "6.3 in (160 mm)",
+      "Cargo Volume": "12.4 cuFT (351 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2712 lbs (1230 kg)",
+      "Gross Weight Limit": "3660 lbs (1660 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-3-6298_18.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-3-6298_19.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-3-6298_20.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-3-6298_23.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-3-6298_1.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA CX-3",
+    "url": "https://www.autoevolution.com/mazda/cx-3/",
+    "start_year": 2015,
+    "end_year": 2025
+  },
+  {
+    "generation": "2024 Mazda 2",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA 2 1.5L FWD e-CVT (116 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-2-2023.html#aeng_mazda-2-2023-15l-116-hp",
+    "ENGINE SPECS - 1.5L FWD E-CVT (116 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "1490 cm3",
+      "Power": "67.7 KW @ 5500 RPM\n92 HP @ 5500 RPM\n91 BHP @ 5500 RPM",
+      "Torque": "89 lb-ft @ 3600-4800 RPM\n120 Nm @ 3600-4800 RPM",
+      "Electrical motor power": "59 kw (80 hp)",
+      "Electrical motor torque": "104 lb-ft (141 Nm)",
+      "Total maximum power": "85.3 kw (116 hp)",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Hybrid Gasoline",
+      "Fuel capacity": "9.5 gallons (36.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "109 mph (175 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "e-CVT"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Disc"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "185/65 R15"
+    },
+    "DIMENSIONS": {
+      "Length": "155.1 in (3940 mm)",
+      "Width": "68.7 in (1745 mm)",
+      "Height": "59.1 in (1501 mm)",
+      "Front/rear Track": "60.3/60.2 in (1,532/1,529 mm)",
+      "Wheelbase": "100.8 in (2560 mm)",
+      "Ground Clearance": "5.3 in (135 mm)",
+      "Cargo Volume": "10.1 cuFT (286 L)",
+      "Turning circle (curb to curb)": "34.1 ft (10.4 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2436 - 2480 lbs (1105 - 1125 kg)"
+    },
+    "POWER SYSTEM SPECS": {
+      "Power pack": "Lithium-ion (Li-Ion)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "73.5 mpg US (3.2 L/100Km)",
+      "CO2 Emissions": "73 g/km"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "61.9 mpg US (3.8 L/100Km)",
+      "CO2 Emissions (Combined)": "87 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-2-2023-7597_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-2-2023-7597_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-2-2023-7597_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-2-2023-7597_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-2-2023-7597_7.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA 2 / Demio",
+    "url": "https://www.autoevolution.com/mazda/2-demio/",
+    "start_year": 2002,
+    "end_year": null
+  },
+  {
+    "generation": "MAZDA CX-60",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA CX-60 2.5L Skyactiv PHEV 8AT AWD (328 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-cx-60-2022.html#aeng_mazda-cx-60-2022-25l-skyactiv-phev-8at-awd-328-hp",
+    "ENGINE SPECS - 2.5L SKYACTIV PHEV 8AT AWD (328 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2488 cm3",
+      "Power": "141.2 KW @ 6000 RPM\n192 HP @ 6000 RPM\n189 BHP @ 6000 RPM",
+      "Torque": "193 lb-ft @ - RPM\n261 Nm @ - RPM",
+      "Electrical motor power": "100 kw (136 hp)",
+      "Electrical motor torque": "184.4 lb-ft (250 Nm)",
+      "Total maximum power": "241.2 kw (328 hp)",
+      "Total maximum torque": "368.8 lb-ft (500 Nm)",
+      "Fuel System": "Direct injection Naturally aspirated",
+      "Fuel": "Hybrid Gasoline",
+      "Fuel capacity": "13.2 gallons (50.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "124 mph (200 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "5.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/60 R18 // 235/50 R20"
+    },
+    "DIMENSIONS": {
+      "Length": "186.8 in (4745 mm)",
+      "Width": "74.4 in (1890 mm)",
+      "Height": "65.9 in (1674 mm)",
+      "Front/rear Track": "64.6/64.8 in (1,641/1,646 mm)",
+      "Wheelbase": "2870 in (72898 mm)",
+      "Ground Clearance": "6.7 in (170 mm)",
+      "Cargo Volume": "16.8 cuFT (476 L)",
+      "Turning circle": "35.4 ft (10.8 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4167 - 4568 lbs (1890 - 2072 kg)",
+      "Gross Weight Limit": "5880 lbs (2667 kg)"
+    },
+    "POWER SYSTEM SPECS": {
+      "Power pack": "Lithium-Ion",
+      "Nominal Capacity": "17.8 kWh",
+      "Range": "39.1 miles (62.9 km)"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Combined": "156.8 mpg US (1.5 L/100Km)",
+      "CO2 Emissions (Combined)": "33 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-60-2022-7244_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-60-2022-7244_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-60-2022-7244_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-60-2022-7244_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-60-2022-7244_11.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA CX-60",
+    "url": "https://www.autoevolution.com/mazda/cx-60/",
+    "start_year": 2022,
+    "end_year": null
+  },
+  {
+    "generation": "MAZDA CX-50",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA CX-50 2.5L Skyactiv-G Turbo 6AT AWD (227 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-cx-50-2021.html#aeng_mazda-cx-50-2021-25l-skyactive-g-turbo-6at-awd",
+    "ENGINE SPECS - 2.5L SKYACTIV-G TURBO 6AT AWD (227 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2488 cm3",
+      "Power": "167 KW @ 5000 RPM\n227 HP @ 5000 RPM\n224 BHP @ 5000 RPM",
+      "Torque": "310 lb-ft @ 2000 RPM\n420 Nm @ 2000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "15.9 gallons (60.2 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-automatic speed SKYACTIV-Drive"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/45 R20"
+    },
+    "DIMENSIONS": {
+      "Length": "185.8 in (4719 mm)",
+      "Width": "72.9 in (1852 mm)",
+      "Height": "63.9 in (1623 mm)",
+      "Wheelbase": "110.8 in (2814 mm)",
+      "Ground Clearance": "8.6 in (218 mm)",
+      "Cargo Volume": "31 cuFT (878 L)",
+      "Turning circle": "36.1 ft (11.0 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3907 lbs (1772 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "23.1 mpg US (10.2 L/100Km)",
+      "Highway": "29 mpg US (8.1 L/100Km)",
+      "Combined": "25 mpg US (9.4 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-50-2021-7196_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-50-2021-7196_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-50-2021-7196_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-50-2021-7196_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-50-2021-7196_9.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA CX-50",
+    "url": "https://www.autoevolution.com/mazda/cx-50/",
+    "start_year": 2021,
+    "end_year": null
+  },
+  {
+    "generation": "Mazda CX-30",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA CX-30 2.0L SKYACTIVE 6AT FWD (122 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-cx-30-2019.html#aeng_mazda-cx-30-2019-20l-skyactive-6at-122-hp",
+    "ENGINE SPECS - 2.0L SKYACTIVE 6AT FWD (122 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1998 cm3",
+      "Power": "89.7 KW @ 6000 RPM\n122 HP @ 6000 RPM\n120 BHP @ 6000 RPM",
+      "Torque": "157 lb-ft @ 4000 RPM\n213 Nm @ 4000 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "13.5 gallons (51.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "116 mph (187 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "11.2 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/65R16 // 215/55R18"
+    },
+    "DIMENSIONS": {
+      "Length": "173 in (4394 mm)",
+      "Width": "70.7 in (1796 mm)",
+      "Height": "60.6 in (1539 mm)",
+      "Front/rear Track": "61.6/61.6 in (1,565/1,565 mm)",
+      "Wheelbase": "104.5 in (2654 mm)",
+      "Ground Clearance": "6.9 in (175 mm)",
+      "Cargo Volume": "15.2 cuFT (430 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3166 lbs (1436 kg)",
+      "Gross Weight Limit": "4314 lbs (1957 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "46.1 mpg US (5.1 L/100Km)",
+      "CO2 Emissions": "116 g/km"
+    },
+    "FUEL ECONOMY (WLTP)": {
+      "Low": "34.1 mpg US (6.9 L/100Km)",
+      "Medium": "42.8 mpg US (5.5 L/100Km)",
+      "High": "37.3 mpg US (6.3 L/100Km)",
+      "Extra high": "27 mpg US (8.7 L/100Km)",
+      "Combined": "35.6 mpg US (6.6 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-30-6525_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-30-6525_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-30-6525_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-30-6525_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-30-6525_7.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA CX-30",
+    "url": "https://www.autoevolution.com/mazda/cx-30/",
+    "start_year": 2019,
+    "end_year": null
+  },
+  {
+    "generation": "Mazda 3/Axela Hatchback",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA 3 / Axela Hatchback 2.0L Skyactiv-G 6AT FWD (122 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-mazda-3-2018.html#aeng_mazda-3-axela-hatchback-2018-20l-skyactive-g-6at",
+    "ENGINE SPECS - 2.0L SKYACTIV-G 6AT FWD (122 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1998 cm3",
+      "Power": "89.7 KW @ 6000 RPM\n122 HP @ 6000 RPM\n120 BHP @ 6000 RPM",
+      "Torque": "157 lb-ft @ 4000 RPM\n213 Nm @ 4000 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "13.2 gallons (50.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "122 mph (196 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "10.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/60 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "175.6 in (4460 mm)",
+      "Width": "70.7 in (1796 mm)",
+      "Height": "56.7 in (1440 mm)",
+      "Front/rear Track": "61.8/62.2 in (1,570/1,580 mm)",
+      "Wheelbase": "107.3 in (2725 mm)",
+      "Ground Clearance": "5.3 in (135 mm)",
+      "Cargo Volume": "13.6 cuFT (385 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2864 lbs (1299 kg)",
+      "Gross Weight Limit": "4204 lbs (1907 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "34.6 mpg US (6.8 L/100Km)",
+      "Highway": "42 mpg US (5.6 L/100Km)",
+      "Combined": "42.8 mpg US (5.5 L/100Km)",
+      "CO2 Emissions": "126 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Mazda-3-6445_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Mazda-3-6445_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Mazda-3-6445_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Mazda-3-6445_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Mazda-3-6445_7.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA 3 / Axela Hatchback",
+    "url": "https://www.autoevolution.com/mazda/3-axela-hatchback/",
+    "start_year": 2004,
+    "end_year": null
+  },
+  {
+    "generation": "Mazda 3/Axela Sedan",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA 3 / Axela Sedan 2.0L Skyactiv-G 6AT FWD (122 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-mazda-3-2018-1.html#aeng_mazda-3-axela-sedan-2018-20l-skyactive-g-6at",
+    "ENGINE SPECS - 2.0L SKYACTIV-G 6AT FWD (122 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1998 cm3",
+      "Power": "89.7 KW @ 4000 RPM\n122 HP @ 4000 RPM\n120 BHP @ 4000 RPM",
+      "Torque": "157 lb-ft @ 4000-6500 RPM\n213 Nm @ 4000-6500 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "13.2 gallons (50.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "126 mph (203 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "10.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/60 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "183.5 in (4661 mm)",
+      "Width": "70.7 in (1796 mm)",
+      "Height": "56.9 in (1445 mm)",
+      "Front/rear Track": "61.8/62.2 in (1,570/1,580 mm)",
+      "Wheelbase": "107.3 in (2725 mm)",
+      "Ground Clearance": "5.3 in (135 mm)",
+      "Cargo Volume": "15.9 cuFT (450 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2866 lbs (1300 kg)",
+      "Gross Weight Limit": "4193 lbs (1902 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "33.6 mpg US (7 L/100Km)",
+      "Highway": "51.1 mpg US (4.6 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-3---Axela-Sedan-6446_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-3---Axela-Sedan-6446_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-3---Axela-Sedan-6446_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-3---Axela-Sedan-6446_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-3---Axela-Sedan-6446_9.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA 3 / Axela Sedan",
+    "url": "https://www.autoevolution.com/mazda/3-axela-sedan/",
+    "start_year": 2004,
+    "end_year": null
+  },
+  {
+    "generation": "MAZDA 2",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA 2 1.3L 5MT FWD (75 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-2-2007-1.html#aeng_mazda-2-2008-13",
+    "ENGINE SPECS - 1.3L 5MT FWD (75 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1349 cm3",
+      "Power": "55 KW @ 6000 RPM\n75 HP @ 6000 RPM\n74 BHP @ 6000 RPM",
+      "Torque": "89 lb-ft @ 3500 RPM\n121 Nm @ 3500 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "104.4 mph (168 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "14 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "175/65R14"
+    },
+    "DIMENSIONS": {
+      "Length": "153.5 in (3899 mm)",
+      "Width": "66.9 in (1699 mm)",
+      "Height": "58.2 in (1478 mm)",
+      "Front/rear Track": "58.2/57.4 in (1,478/1,458 mm)",
+      "Wheelbase": "98 in (2489 mm)",
+      "Ground Clearance": "5.9 in (150 mm)",
+      "Cargo Volume": "8.8 cuFT (249 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2050.2 lbs (930 kg)",
+      "Gross Weight Limit": "3262.8 lbs (1480 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "34 mpg US (6.9 L/100Km)",
+      "Highway": "51.1 mpg US (4.6 L/100Km)",
+      "Combined": "43.5 mpg US (5.4 L/100Km)",
+      "CO2 Emissions": "129 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA2-4620_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA2-4620_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA2-4620_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-2-4620_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-2-4620_8.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA 2 / Demio - 3 doors",
+    "url": "https://www.autoevolution.com/mazda/2-demio-3-doors/",
+    "start_year": 2007,
+    "end_year": 2014
+  },
+  {
+    "generation": "MAZDA 2 / Demio - sedan",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA 2 / Demio - sedan 1.3L 5MT FWD (90 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-2-demio-sedan-2008.html#aeng_mazda-2-demio-sedan-2008-13-86-hp",
+    "ENGINE SPECS - 1.3L 5MT FWD (90 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1349 cm3",
+      "Power": "66.2 KW @ 6000 RPM\n90 HP @ 6000 RPM\n89 BHP @ 6000 RPM",
+      "Torque": "89 lb-ft @ 3500 RPM\n120 Nm @ 3500 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "175/65R14"
+    },
+    "DIMENSIONS": {
+      "Length": "167.8 in (4262 mm)",
+      "Width": "66.7 in (1694 mm)",
+      "Height": "58.4 in (1483 mm)",
+      "Front/rear Track": "58.1/57.7 in (1,476/1,466 mm)",
+      "Wheelbase": "98 in (2489 mm)",
+      "Ground Clearance": "6 in (152 mm)",
+      "Cargo Volume": "15.9 cuFT (450 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2205 lbs (1000 kg)",
+      "Gross Weight Limit": "3258 lbs (1478 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "41 mpg US (5.7 L/100Km)",
+      "CO2 Emissions": "138 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA2-Demio-sedan-4621_2.png",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA2-Demio-sedan-4621_3.png",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA2-Demio-sedan-4621_4.png",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA2-Demio-sedan-4621_5.png",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA2-Demio-sedan-4621_6.png"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA 2 / Demio - Sedan",
+    "url": "https://www.autoevolution.com/mazda/2-demio-sedan/",
+    "start_year": 2008,
+    "end_year": 2014
+  },
+  {
+    "generation": "MAZDA 3 MPS / MAZDASPEED3",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA 3 MPS / MAZDASPEED3 2.3L DISI Turbo 6MT FWD (260 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-3-mps-mazdaspeed3-2009.html#aeng_mazda-3-mps-mazdaspeed3-2009-23-disi-turbo-260-hp",
+    "ENGINE SPECS - 2.3L DISI TURBO 6MT FWD (260 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2261 cm3",
+      "Power": "191 KW @ 5500 RPM\n260 HP @ 5500 RPM\n256 BHP @ 5500 RPM",
+      "Torque": "280 lb-ft @ 3000 RPM\n380 Nm @ 3000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "15.9 gallons (60.2 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "155 mph (249 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6.1 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P225/40 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "177.6 in (4511 mm)",
+      "Width": "69.7 in (1770 mm)",
+      "Height": "57.5 in (1461 mm)",
+      "Front/rear Track": "60.4/60 in (1,534/1,524 mm)",
+      "Wheelbase": "103.9 in (2639 mm)",
+      "Ground Clearance": "4.7 in (119 mm)",
+      "Cargo Volume": "17 cuFT (481 L)",
+      "Aerodynamics (Cd)": "0.32"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2998 lbs (1360 kg)",
+      "Gross Weight Limit": "4244 lbs (1925 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "17.8 mpg US (13.2 L/100Km)",
+      "Highway": "31.4 mpg US (7.5 L/100Km)",
+      "Combined": "24.5 mpg US (9.6 L/100Km)",
+      "CO2 Emissions": "224 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA3MPS-MAZDASPEED3-4140_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA3MPS-MAZDASPEED3-4140_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA3MPS-MAZDASPEED3-4140_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA3MPS-MAZDASPEED3-4140_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA3MPS-MAZDASPEED3-4140_5.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA 3 MPS / MAZDASPEED 3",
+    "url": "https://www.autoevolution.com/mazda/3-mps-mazdaspeed-3/",
+    "start_year": 2006,
+    "end_year": 2013
+  },
+  {
+    "generation": "2010 Mazda 5 / Premacy",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA 5 / Premacy 1.8L MZR 6MT FWD (115 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-5-premacy-2010.html#aeng_mazda-5-premacy-2010-18-mzr-6mt-115-hp",
+    "ENGINE SPECS - 1.8L MZR 6MT FWD (115 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1798 cm3",
+      "Power": "85 KW @ 5300 RPM\n116 HP @ 5300 RPM\n114 BHP @ 5300 RPM",
+      "Torque": "122 lb-ft @ 4000 RPM\n165 Nm @ 4000 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "15.9 gallons (60.2 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "113 mph (182 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "12.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Solid Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/50 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "180.5 in (4585 mm)",
+      "Width": "78.3 in (1989 mm)",
+      "Height": "63.6 in (1615 mm)",
+      "Front/rear Track": "60.2/59.8 in (1,529/1,519 mm)",
+      "Wheelbase": "108.3 in (2751 mm)",
+      "Ground Clearance": "5.1 in (130 mm)",
+      "Cargo Volume": "15 cuFT (425 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3241 lbs (1470 kg)",
+      "Gross Weight Limit": "4597 lbs (2085 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "25.3 mpg US (9.3 L/100Km)",
+      "Highway": "39.2 mpg US (6 L/100Km)",
+      "Combined": "32.7 mpg US (7.2 L/100Km)",
+      "CO2 Emissions": "168 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-5---Premacy-4874_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-5---Premacy-4874_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-5---Premacy-4874_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-5---Premacy-4874_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-5---Premacy-4874_5.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA 5 / Premacy",
+    "url": "https://www.autoevolution.com/mazda/5-premacy/",
+    "start_year": 2005,
+    "end_year": 2013
+  },
+  {
+    "generation": "MAZDA 6/Atenza Hatchback",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA 6/Atenza Hatchback 1.8L 16V 5MT FWD (120 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-6-atenza-hatchback-2007.html#aeng_mazda-6-atenza-hatchback-2008-18-16v",
+    "ENGINE SPECS - 1.8L 16V 5MT FWD (120 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1798 cm3",
+      "Power": "88 KW @ 5500 RPM\n120 HP @ 5500 RPM\n118 BHP @ 5500 RPM",
+      "Torque": "122 lb-ft @ 4300 RPM\n165 Nm @ 4300 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "16.9 gallons (64.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "123 mph (198 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "195/65 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "186.4 in (4735 mm)",
+      "Width": "70.7 in (1796 mm)",
+      "Height": "56.7 in (1440 mm)",
+      "Front/rear Track": "61/61 in (1,549/1,549 mm)",
+      "Wheelbase": "107.3 in (2725 mm)",
+      "Ground Clearance": "5.1 in (130 mm)",
+      "Cargo Volume": "17.6 cuFT (498 L)",
+      "Aerodynamics (Cd)": "0.31"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3076 lbs (1395 kg)",
+      "Gross Weight Limit": "4244.6 lbs (1925 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "24.5 mpg US (9.6 L/100Km)",
+      "Highway": "44.4 mpg US (5.3 L/100Km)",
+      "Combined": "34.1 mpg US (6.9 L/100Km)",
+      "CO2 Emissions": "162 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA6-AtenzaHatchback-3542_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA6-AtenzaHatchback-3542_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA6-AtenzaHatchback-3542_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA6-AtenzaHatchback-3542_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA6-AtenzaHatchback-3542_5.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA 6 / Atenza Hatchback",
+    "url": "https://www.autoevolution.com/mazda/6-atenza-hatchback/",
+    "start_year": 2002,
+    "end_year": 2013
+  },
+  {
+    "generation": "2018 Mazda6 (Facelift)",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA 6 / Atenza Sedan 2.0L Skyactiv-Drive 6AT FWD (165 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-6-atenza-sedan-2018.html#aeng_mazda-6-atenza-sedan-2018-20l-skyactiv-drive-6at-165-hp",
+    "ENGINE SPECS - 2.0L SKYACTIV-DRIVE 6AT FWD (165 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1998 cm3",
+      "Power": "121.4 KW @ 6000 RPM\n165 HP @ 6000 RPM\n163 BHP @ 6000 RPM",
+      "Torque": "157 lb-ft @ 4000 RPM\n213 Nm @ 4000 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "16.4 gallons (62.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "130 mph (209 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "10.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P225/45 R19"
+    },
+    "DIMENSIONS": {
+      "Length": "192.7 in (4895 mm)",
+      "Width": "72.4 in (1839 mm)",
+      "Height": "57.1 in (1450 mm)",
+      "Front/rear Track": "62.4x62.0 in (1585 mm)",
+      "Wheelbase": "111.4 in (2830 mm)",
+      "Ground Clearance": "6.5 in (165 mm)",
+      "Cargo Volume": "17 cuFT (481 L)",
+      "Turning circle (curb to curb)": "36.7 ft (11.2 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3137 - 3278 lbs (1423 - 1487 kg)",
+      "Gross Weight Limit": "4511 lbs (2046 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "32.2 mpg US (7.3 L/100Km)",
+      "Highway": "43.6 mpg US (5.4 L/100Km)",
+      "Combined": "37.9 mpg US (6.2 L/100Km)",
+      "CO2 Emissions": "141 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-6---Atenza-Sedan-6186_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-6---Atenza-Sedan-6186_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-6---Atenza-Sedan-6186_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-6---Atenza-Sedan-6186_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-6---Atenza-Sedan-6186_11.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA 6 / Atenza Sedan",
+    "url": "https://www.autoevolution.com/mazda/6-atenza-sedan/",
+    "start_year": 2002,
+    "end_year": 2019
+  },
+  {
+    "generation": "Mazda6/Atenza Wagon",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA 6 / Atenza Wagon 2.0L SKYACTIV-G 6AT FWD (165 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-6-atenza-wagon-2015.html#aeng_mazda-6-atenza-wagon-2015-20-skyactiv-g-6at-165-hp",
+    "ENGINE SPECS - 2.0L SKYACTIV-G 6AT FWD (165 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1998 cm3",
+      "Power": "122 KW @ 6000 RPM\n166 HP @ 6000 RPM\n164 BHP @ 6000 RPM",
+      "Torque": "155 lb-ft @ 4000 RPM\n210 Nm @ 4000 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "16.4 gallons (62.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "128 mph (206 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "10.2 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/55 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "189.2 in (4806 mm)",
+      "Width": "72.4 in (1839 mm)",
+      "Height": "58.3 in (1481 mm)",
+      "Front/rear Track": "62.4/62 in (1,585/1,575 mm)",
+      "Wheelbase": "108.3 in (2751 mm)",
+      "Ground Clearance": "0.3 in (8 mm)",
+      "Cargo Volume": "18.4 cuFT (521 L)",
+      "Aerodynamics (Cd)": "0.28"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3120 lbs (1415 kg)",
+      "Gross Weight Limit": "4453 lbs (2020 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "30.5 mpg US (7.7 L/100Km)",
+      "Highway": "47 mpg US (5 L/100Km)",
+      "Combined": "39.2 mpg US (6 L/100Km)",
+      "CO2 Emissions": "139 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-6---Atenza-Wagon-5388_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-6---Atenza-Wagon-5388_16.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-6---Atenza-Wagon-5388_17.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-6---Atenza-Wagon-5388_18.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-6---Atenza-Wagon-5388_19.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA 6 / Atenza Wagon",
+    "url": "https://www.autoevolution.com/mazda/6-atenza-wagon/",
+    "start_year": 2002,
+    "end_year": 2018
+  },
+  {
+    "generation": "MAZDA B Series / Bravo Dual Cab",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA B Series / Bravo Dual Cab 2.3L 5MT RWD (143 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-b-series-bravo-dual-cab-1999.html#aeng_mazda-b-series-bravo-dual-cab-1999-23",
+    "ENGINE SPECS - 2.3L 5MT RWD (143 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2260 cm3",
+      "Power": "106 KW @ 5250 RPM\n144 HP @ 5250 RPM\n142 BHP @ 5250 RPM",
+      "Torque": "154 lb-ft @ 3750 RPM\n209 Nm @ 3750 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18.5 gallons (70.0 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "5-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P225/70 R15"
+    },
+    "DIMENSIONS": {
+      "Length": "197 in (5004 mm)",
+      "Width": "66.7 in (1694 mm)",
+      "Height": "68.5 in (1740 mm)",
+      "Front/rear Track": "58.6/57.3 in (1,488/1,455 mm)",
+      "Wheelbase": "118.1 in (3000 mm)",
+      "Ground Clearance": "6.7 in (170 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2999 lbs (1360 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDABSeries-BravoDualCab-316_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDABSeries-BravoDualCab-316_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDABSeries-BravoDualCab-316_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDABSeries-BravoDualCab-316_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDABSeries-BravoDualCab-316_6.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA B Series / Bravo Dual Cab",
+    "url": "https://www.autoevolution.com/mazda/b-series-bravo-dual-cab/",
+    "start_year": 1999,
+    "end_year": 2006
+  },
+  {
+    "generation": "MAZDA B Series / Bravo Freestyle Cab",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA B Series / Bravo Freestyle Cab 2.3L 5MT RWD (143 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-b-series-bravo-freestyle-cab-1999.html#aeng_mazda-b-series-bravo-freestyle-cab-1999-23",
+    "ENGINE SPECS - 2.3L 5MT RWD (143 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2260 cm3",
+      "Power": "106 KW @ 5250 RPM\n144 HP @ 5250 RPM\n142 BHP @ 5250 RPM",
+      "Torque": "154 lb-ft @ 3750 RPM\n209 Nm @ 3750 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18.5 gallons (70.0 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "5-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/70 R15"
+    },
+    "DIMENSIONS": {
+      "Length": "197 in (5004 mm)",
+      "Width": "66.7 in (1694 mm)",
+      "Height": "68.5 in (1740 mm)",
+      "Front/rear Track": "58.6/57.3 in (1,488/1,455 mm)",
+      "Wheelbase": "118.1 in (3000 mm)",
+      "Ground Clearance": "6.7 in (170 mm)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDABSeries-BravoFreestyleCab-317_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDABSeries-BravoFreestyleCab-317_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDABSeries-BravoFreestyleCab-317_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDABSeries-BravoFreestyleCab-317_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDABSeries-BravoFreestyleCab-317_6.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA B Series / Bravo Freestyle Cab",
+    "url": "https://www.autoevolution.com/mazda/b-series-bravo-freestyle-cab/",
+    "start_year": 1999,
+    "end_year": 2006
+  },
+  {
+    "generation": "2008 Mazda Biante",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA Biante 2.0L 2WD 5AT (150 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-biante-2008.html#aeng_mazda-biante-2008-20-2wd-5at-150-hp",
+    "ENGINE SPECS - 2.0L 2WD 5AT (150 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1997 cm3",
+      "Power": "110 KW @ 6200 RPM\n150 HP @ 6200 RPM\n148 BHP @ 6200 RPM",
+      "Torque": "140 lb-ft @ 4500 RPM\n190 Nm @ 4500 RPM",
+      "Fuel System": "multi-point fuel injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5 speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Solid Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/60R16"
+    },
+    "DIMENSIONS": {
+      "Length": "185.6 in (4714 mm)",
+      "Width": "69.7 in (1770 mm)",
+      "Height": "72.2 in (1834 mm)",
+      "Front/rear Track": "60.2/59.6 in (1,529/1,514 mm)",
+      "Wheelbase": "112.2 in (2850 mm)",
+      "Cargo Volume": "9 cuFT (255 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3677 lbs (1668 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Biante-5060_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Biante-5060_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Biante-5060_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Biante-5060_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Biante-5060_13.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA Biante",
+    "url": "https://www.autoevolution.com/mazda/biante/",
+    "start_year": 2008,
+    "end_year": 2018
+  },
+  {
+    "generation": "MAZDA BT-50",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA BT-50 2.5L 5MT 4x2 (166 HP) Double Cab",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-bt-50-2011.html#aeng_mazda-bt-50-2011-25-5mt-4x2-166-hp-double-cab",
+    "ENGINE SPECS - 2.5L 5MT 4X2 (166 HP) DOUBLE CAB": {
+      "Cylinders": "L4",
+      "Displacement": "2488 cm3",
+      "Power": "122.1 KW @ 5500 RPM\n166 HP @ 5500 RPM\n164 BHP @ 5500 RPM",
+      "Torque": "166 lb-ft @ 4500 RPM\n225 Nm @ 4500 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "21.1 gallons (79.9 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "5-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/70 R16C"
+    },
+    "DIMENSIONS": {
+      "Length": "211.5 in (5372 mm)",
+      "Width": "73 in (1854 mm)",
+      "Height": "71.5 in (1816 mm)",
+      "Wheelbase": "126.8 in (3221 mm)",
+      "Ground Clearance": "9.1 in (231 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4114 lbs (1866 kg)",
+      "Gross Weight Limit": "7055 lbs (3200 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-BT-50-5748_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-BT-50-5748_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-BT-50-5748_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-BT-50-5748_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-BT-50-5748_15.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA BT-50",
+    "url": "https://www.autoevolution.com/mazda/bt-50/",
+    "start_year": 2006,
+    "end_year": 2020
+  },
+  {
+    "generation": "MAZDA CX-7",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA CX-7 2.3L DISI 6MT AWD (260 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-cx-7-2009.html#aeng_mazda-cx-7-2009-23-disi-260-hp",
+    "ENGINE SPECS - 2.3L DISI 6MT AWD (260 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2261 cm3",
+      "Power": "191.2 KW @ 5500 RPM\n260 HP @ 5500 RPM\n256 BHP @ 5500 RPM",
+      "Torque": "280 lb-ft @ 3000 RPM\n380 Nm @ 3000 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18.2 gallons (68.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "131 mph (211 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P235/60 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "184.3 in (4681 mm)",
+      "Width": "73.7 in (1872 mm)",
+      "Height": "64.8 in (1646 mm)",
+      "Front/rear Track": "63.7/63.5 in (1,618/1,613 mm)",
+      "Wheelbase": "108.3 in (2751 mm)",
+      "Ground Clearance": "8.2 in (208 mm)",
+      "Cargo Volume": "16.1 cuFT (456 L)",
+      "Aerodynamics (Cd)": "0.34",
+      "Turning circle": "51.8 ft (15.8 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3836 lbs (1740 kg)",
+      "Gross Weight Limit": "5073 lbs (2301 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16.8 mpg US (14 L/100Km)",
+      "Highway": "28 mpg US (8.4 L/100Km)",
+      "Combined": "22.6 mpg US (10.4 L/100Km)",
+      "CO2 Emissions": "243 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDACX-7-3894_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDACX-7-3894_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDACX-7-3894_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDACX-7-3894_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDACX-7-3894_5.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA CX-7",
+    "url": "https://www.autoevolution.com/mazda/cx-7/",
+    "start_year": 2007,
+    "end_year": 2012
+  },
+  {
+    "generation": "Mazda CX-8 (KG)",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA CX-8 2.5T SKYACTIV-G 6AT AWD (230 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-cx-8-2017.html#aeng_mazda-cx-8-2017-25t-skyactiv-g-6at-awd-230-hp",
+    "ENGINE SPECS - 2.5T SKYACTIV-G 6AT AWD (230 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2488 cm3",
+      "Power": "169.2 KW @ 4250 RPM\n230 HP @ 4250 RPM\n227 BHP @ 4250 RPM",
+      "Torque": "310 lb-ft @ 2000 RPM\n420 Nm @ 2000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "19.5 gallons (73.8 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/65 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "192.9 in (4900 mm)",
+      "Width": "72.4 in (1839 mm)",
+      "Height": "68.1 in (1730 mm)",
+      "Front/rear Track": "62.8/63 in (1,595/1,600 mm)",
+      "Wheelbase": "115.4 in (2931 mm)",
+      "Ground Clearance": "7.9 in (201 mm)",
+      "Cargo Volume": "8.4 cuFT (238 L)",
+      "Turning circle (curb to curb)": "38.1 ft (11.6 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4145 - 4189 lbs (1880 - 1900 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "28.3 mpg US (8.3 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-8-6127_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-8-6127_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-8-6127_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-8-6127_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-CX-8-6127_13.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA CX-8",
+    "url": "https://www.autoevolution.com/mazda/cx-8/",
+    "start_year": 2017,
+    "end_year": 2023
+  },
+  {
+    "generation": "2016 Mazda CX-9",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA CX-9 2.5L SKYACTIV-G 6AT AWD (250 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-cx-9-2016-1.html#aeng_mazda-cx-9-2016-25l-skyactiv-g-6at-awd-250-hp",
+    "ENGINE SPECS - 2.5L SKYACTIV-G 6AT AWD (250 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2488 cm3",
+      "Power": "183.9 KW @ 5000 RPM\n250 HP @ 5000 RPM\n247 BHP @ 5000 RPM",
+      "Torque": "229 lb-ft @ 2000 RPM\n310 Nm @ 2000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "19 gallons (71.9 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/60 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "199.4 in (5065 mm)",
+      "Width": "77.5 in (1969 mm)",
+      "Height": "67.6 in (1717 mm)",
+      "Front/rear Track": "65.3/65.2 in (1,659/1,656 mm)",
+      "Wheelbase": "115.4 in (2931 mm)",
+      "Ground Clearance": "8.5 in (216 mm)",
+      "Cargo Volume": "14.4 cuFT (408 L)",
+      "Turning circle (curb to curb)": "38.7 ft (11.8 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4341 lbs (1969 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "20.5 mpg US (11.5 L/100Km)",
+      "Highway": "26.4 mpg US (8.9 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-9-2016-1-6969_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-9-2016-1-6969_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-9-2016-1-6969_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-9-2016-1-6969_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/mazda-cx-9-2016-1-6969_14.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA CX-9",
+    "url": "https://www.autoevolution.com/mazda/cx-9/",
+    "start_year": 2007,
+    "end_year": 2024
+  },
+  {
+    "generation": "2012 Mazda Flair",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA Flair 660cc 2WD 5MT (52 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-flair-2012.html#aeng_mazda-flair-2012-660cc-2wd-5mt-52-hp",
+    "ENGINE SPECS - 660CC 2WD 5MT (52 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "658 cm3",
+      "Power": "38 KW @ 6000 RPM\n52 HP @ 6000 RPM\n51 BHP @ 6000 RPM",
+      "Torque": "46 lb-ft @ 4000 RPM\n62 Nm @ 4000 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-Speed, Manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "155/65 R14"
+    },
+    "DIMENSIONS": {
+      "Length": "133.7 in (3396 mm)",
+      "Width": "58.1 in (1476 mm)",
+      "Height": "64.6 in (1641 mm)",
+      "Front/rear Track": "51/49.8 in (1,295/1,265 mm)",
+      "Wheelbase": "95.5 in (2426 mm)",
+      "Ground Clearance": "6.1 in (155 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "1653 lbs (750 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "60.3 mpg US (3.9 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Flair-5081_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Flair-5081_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Flair-5081_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Flair-5081_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Flair-5081_15.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA Flair",
+    "url": "https://www.autoevolution.com/mazda/flair/",
+    "start_year": 2012,
+    "end_year": 2017
+  },
+  {
+    "generation": "MAZDA Flairwagon",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA Flairwagon 660 Turbo AWD (64 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-flairwagon-2012.html#aeng_mazda-flairwagon-2012-660-turbo-awd-64-hp",
+    "ENGINE SPECS - 660 TURBO AWD (64 HP)": {
+      "Cylinders": "L3",
+      "Displacement": "658 cm3",
+      "Power": "47 KW @ 6000 RPM\n64 HP @ 6000 RPM\n63 BHP @ 6000 RPM",
+      "Torque": "70 lb-ft @ 3000 RPM\n95 Nm @ 3000 RPM",
+      "Fuel System": "MPI",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "continuously variable transmission (CVT)"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "165/55R14"
+    },
+    "DIMENSIONS": {
+      "Length": "133.7 in (3396 mm)",
+      "Width": "58.1 in (1476 mm)",
+      "Height": "68.3 in (1735 mm)",
+      "Wheelbase": "94.5 in (2400 mm)",
+      "Ground Clearance": "5.9 in (150 mm)",
+      "Aerodynamics (Cd)": "0.658"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2205 lbs (1000 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Combined": "41 mpg US (5.7 L/100Km)",
+      "CO2 Emissions": "135 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDAFlairwagon-4644_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDAFlairwagon-4644_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDAFlairwagon-4644_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDAFlairwagon-4644_4.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA Flairwagon",
+    "url": "https://www.autoevolution.com/mazda/flairwagon/",
+    "start_year": 2012,
+    "end_year": 2013
+  },
+  {
+    "generation": "MAZDA RX-8",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA RX-8 1.3L 4AT RWD (212 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-rx-8-2008.html#aeng_mazda-rx-8-2008-13-212-hp",
+    "ENGINE SPECS - 1.3L 4AT RWD (212 HP)": {
+      "Cylinders": "2-rotor rotary",
+      "Displacement": "1308 cm3",
+      "Power": "155.9 KW @ 7500 RPM\n212 HP @ 7500 RPM\n209 BHP @ 7500 RPM",
+      "Torque": "159 lb-ft @ 5500 RPM\n216 Nm @ 5500 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "137 mph (220 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "7.5 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "4-Speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Ventilated discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/45 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "175.6 in (4460 mm)",
+      "Width": "69.7 in (1770 mm)",
+      "Height": "52.8 in (1341 mm)",
+      "Front/rear Track": "59.1/59.3 in (1,501/1,506 mm)",
+      "Wheelbase": "106.4 in (2703 mm)",
+      "Ground Clearance": "4.7 in (119 mm)",
+      "Cargo Volume": "7.6 cuFT (215 L)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3111 lbs (1411 kg)",
+      "Gross Weight Limit": "3858 lbs (1750 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16 mpg US (14.7 L/100Km)",
+      "Highway": "23 mpg US (10.2 L/100Km)",
+      "CO2 Emissions": "258 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDARX-8-3714_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDARX-8-3714_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDARX-8-3714_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDARX-8-3714_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDARX-8-3714_5.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA RX-8",
+    "url": "https://www.autoevolution.com/mazda/rx-8/",
+    "start_year": 2003,
+    "end_year": 2012
+  },
+  {
+    "generation": "2009 Mazda Tribute Hybrid",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA Tribute 2.5L 5MT FWD (171 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-tribute-2008.html#aeng_mazda-tribute-2008-25",
+    "ENGINE SPECS - 2.5L 5MT FWD (171 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2488 cm3",
+      "Power": "128 KW @ 6000 RPM\n174 HP @ 6000 RPM\n172 BHP @ 6000 RPM",
+      "Torque": "171 lb-ft @ 4500 RPM\n232 Nm @ 4500 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.4 gallons (65.9 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed Manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/70 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "174.9 in (4442 mm)",
+      "Width": "71.1 in (1806 mm)",
+      "Height": "67.9 in (1725 mm)",
+      "Front/rear Track": "60.7/60.2 in (1,542/1,529 mm)",
+      "Wheelbase": "103.1 in (2619 mm)",
+      "Ground Clearance": "8.4 in (213 mm)",
+      "Cargo Volume": "31.4 cuFT (889 L)",
+      "Aerodynamics (Cd)": "0.36",
+      "Turning circle": "36.7 ft (11.2 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3272 lbs (1484 kg)",
+      "Gross Weight Limit": "4320 lbs (1960 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "22 mpg US (10.7 L/100Km)",
+      "Highway": "28 mpg US (8.4 L/100Km)",
+      "Combined": "24 mpg US (9.8 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDATribute-4163_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDATribute-4163_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDATribute-4163_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDATribute-4163_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDATribute-4163_5.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA Tribute",
+    "url": "https://www.autoevolution.com/mazda/tribute/",
+    "start_year": 2001,
+    "end_year": 2011
+  },
+  {
+    "generation": "2004 Mazda Verisa",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA Verisa 1.5L 4AT AWD (113 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-verisa-2004.html#aeng_mazda-verisa-2004-15-e-4wd-4at",
+    "ENGINE SPECS - 1.5L 4AT AWD (113 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1498 cm3",
+      "Power": "83 KW @ 6000 RPM\n113 HP @ 6000 RPM\n111 BHP @ 6000 RPM",
+      "Torque": "103 lb-ft @ 4000 RPM\n140 Nm @ 4000 RPM",
+      "Fuel System": "Mutlipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "11.9 gallons (45.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "112 mph (180 km/h)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "4-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Disc",
+      "Rear": "Drum"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "175/65R14"
+    },
+    "DIMENSIONS": {
+      "Length": "156.5 in (3975 mm)",
+      "Width": "66.7 in (1694 mm)",
+      "Height": "60.2 in (1529 mm)",
+      "Front/rear Track": "58.1/57.1 in (1,476/1,450 mm)",
+      "Wheelbase": "98 in (2489 mm)",
+      "Ground Clearance": "6.1 in (155 mm)",
+      "Cargo Volume": "11.8 cuFT (334 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2579 lbs (1170 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "Highway": "Infinity mpg US (0 L/100Km)",
+      "Combined": "35.6 mpg US (6.6 L/100Km)",
+      "CO2 Emissions": "141 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Verisa-5042_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Verisa-5042_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Verisa-5042_3.png",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Verisa-5042_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-Verisa-5042_8.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA Verisa",
+    "url": "https://www.autoevolution.com/mazda/verisa/",
+    "start_year": 2004,
+    "end_year": 2015
+  },
+  {
+    "generation": "MAZDA Xedos 9",
+    "fuel_type": "gasoline",
+    "engine": "MAZDA Xedos 9 2.5L V6 4AT FWD (167 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/mazda-xedos-9-2001.html#aeng_mazda-xedos-9-2001-25-v6",
+    "ENGINE SPECS - 2.5L V6 4AT FWD (167 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2497 cm3",
+      "Power": "120 KW @ 6000 RPM\n163 HP @ 6000 RPM\n161 BHP @ 6000 RPM",
+      "Torque": "156 lb-ft @ 5000 RPM\n212 Nm @ 5000 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18 gallons (68.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "128.6 mph (207 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "11 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "4-Speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/55R16"
+    },
+    "DIMENSIONS": {
+      "Length": "192.1 in (4879 mm)",
+      "Width": "69.6 in (1768 mm)",
+      "Height": "55.1 in (1400 mm)",
+      "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
+      "Wheelbase": "108.2 in (2748 mm)",
+      "Cargo Volume": "14.7 cuFT (416 L)",
+      "Aerodynamics (Cd)": "0.29"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3240.7 lbs (1470 kg)",
+      "Gross Weight Limit": "4310 lbs (1955 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "15.5 mpg US (15.2 L/100Km)",
+      "Highway": "29 mpg US (8.1 L/100Km)",
+      "Combined": "21.9 mpg US (10.7 L/100Km)",
+      "CO2 Emissions": "258 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDAXedos9-3550_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDAXedos9-3550_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDAXedos9-3550_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDAXedos9-3550_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/MAZDAXedos9-3550_7.jpg"
+    ],
+    "brand": "MAZDA",
+    "model": "MAZDA Xedos 9",
+    "url": "https://www.autoevolution.com/mazda/xedos-9/",
+    "start_year": 1993,
+    "end_year": 2002
+  }
+]

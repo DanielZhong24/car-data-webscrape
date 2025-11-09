@@ -1,0 +1,877 @@
+[
+  {
+    "generation": "2025 Acura MDX Type S",
+    "fuel_type": "gasoline",
+    "engine": "ACURA MDX Type S 3.0L V6 10 AT AWD (355 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-mdx-2024.html#aeng_acura-mdx-type-s-2024-30l-v6-10-at-awd-355-hp",
+    "ENGINE SPECS - 3.0L V6 10 AT AWD (355 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2997 cm3",
+      "Power": "261.1 KW @ 5500 RPM\n355 HP @ 5500 RPM\n350 BHP @ 5500 RPM",
+      "Torque": "354 lb-ft @ 1400-5000 RPM\n480 Nm @ 1400-5000 RPM",
+      "Fuel System": "Direct Injection Twin turbo",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18.5 gallons (70.0 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "10-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Disc"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "275/40 R21"
+    },
+    "DIMENSIONS": {
+      "Length": "198.4 in (5039 mm)",
+      "Width": "78.7 in (1999 mm)",
+      "Height": "67.1 in (1704 mm)",
+      "Front/rear Track": "67.7/67.7 in (1,720/1,720 mm)",
+      "Wheelbase": "113.8 in (2891 mm)",
+      "Ground Clearance": "6.7 in (170 mm)",
+      "Turning circle": "40.4 ft (12.3 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4776 lbs (2166 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "17 mpg US (13.8 L/100Km)",
+      "Highway": "21 mpg US (11.2 L/100Km)",
+      "Combined": "19 mpg US (12.4 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-mdx-2024-7718_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-mdx-2024-7718_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-mdx-2024-7718_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-mdx-2024-7718_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-mdx-2024-7718_8.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA MDX",
+    "url": "https://www.autoevolution.com/acura/mdx/",
+    "start_year": 2001,
+    "end_year": null
+  },
+  {
+    "generation": "2025 Acura ADX",
+    "fuel_type": "gasoline",
+    "engine": "ACURA ADX 1.5L VTEC CVT FWD",
+    "engine_url": "https://www.autoevolution.com/cars/acura-adx-20245.html#aeng_acura-adx-20245-15l-vtec-cvt-fwd",
+    "ENGINE SPECS - 1.5L VTEC CVT FWD": {
+      "Cylinders": "L4",
+      "Displacement": "1498 cm3",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "CVT"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated discs",
+      "Rear": "Ventilated discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/55 R18"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-adx-20245-7829_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-adx-20245-7829_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-adx-20245-7829_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-adx-20245-7829_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-adx-20245-7829_15.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA ADX",
+    "url": "https://www.autoevolution.com/acura/adx/",
+    "start_year": 2024,
+    "end_year": null
+  },
+  {
+    "generation": "ACURA RDX",
+    "fuel_type": "gasoline",
+    "engine": "ACURA RDX 2.0L VTEC 10AT (272 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-rdx-2021.html#aeng_acura-rdx-2021-20l-vtec-10at-272-hp",
+    "ENGINE SPECS - 2.0L VTEC 10AT (272 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1996 cm3",
+      "Power": "200.1 KW @ 6500 RPM\n272 HP @ 6500 RPM\n268 BHP @ 6500 RPM",
+      "Torque": "280 lb-ft @ 1600-4500 RPM\n380 Nm @ 1600-4500 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.2 gallons (65.1 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "10-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Solid Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "235/55 R19"
+    },
+    "DIMENSIONS": {
+      "Length": "187.4 in (4760 mm)",
+      "Width": "74.8 in (1900 mm)",
+      "Height": "65.7 in (1669 mm)",
+      "Front/rear Track": "64.2/64.7 in (1,631/1,643 mm)",
+      "Wheelbase": "108.3 in (2751 mm)",
+      "Ground Clearance": "8.2 in (208 mm)",
+      "Cargo Volume": "29.5 cuFT (835 L)",
+      "Turning circle": "39 ft (11.9 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3788 lbs (1718 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "22 mpg US (10.7 L/100Km)",
+      "Highway": "28 mpg US (8.4 L/100Km)",
+      "Combined": "24 mpg US (9.8 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-rdx-2021-7172_20.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-rdx-2021-7172_21.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-rdx-2021-7172_22.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-rdx-2021-7172_23.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-rdx-2021-7172_24.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA RDX",
+    "url": "https://www.autoevolution.com/acura/rdx/",
+    "start_year": 2006,
+    "end_year": null
+  },
+  {
+    "generation": "ACURA TLX",
+    "fuel_type": "gasoline",
+    "engine": "ACURA TLX 2.0L 10AT RWD (272 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-tlx-2020.html#aeng_acura-tlx-2020-20l-10at-272-hp",
+    "ENGINE SPECS - 2.0L 10AT RWD (272 HP)": {
+      "Cylinders": "L4",
+      "Power": "200.1 KW @ - RPM\n272 HP @ - RPM\n268 BHP @ - RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "10-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "194.6 in (4943 mm)",
+      "Width": "75.2 in (1910 mm)",
+      "Height": "56.4 in (1433 mm)",
+      "Front/rear Track": "64.0x64.6 in (1626 mm)",
+      "Wheelbase": "113 in (2870 mm)",
+      "Cargo Volume": "13.5 cuFT (382 L)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-TLX-6828_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-TLX-6828_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-TLX-6828_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-TLX-6828_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-TLX-6828_14.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA TLX",
+    "url": "https://www.autoevolution.com/acura/tlx/",
+    "start_year": 2015,
+    "end_year": null
+  },
+  {
+    "generation": "ACURA ZDX",
+    "fuel_type": "gasoline",
+    "engine": "ACURA ZDX 3.7L V6 VTEC 6AT AWD (300 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-zdx-2009.html#aeng_acura-zdx-2009-37-v6-vtec-300-hp",
+    "ENGINE SPECS - 3.7L V6 VTEC 6AT AWD (300 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3664 cm3",
+      "Power": "221 KW @ 6300 RPM\n300 HP @ 6300 RPM\n296 BHP @ 6300 RPM",
+      "Torque": "270 lb-ft @ 4500 RPM\n366 Nm @ 4500 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "21 gallons (79.5 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "130 mph (209 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "255/50 R19"
+    },
+    "DIMENSIONS": {
+      "Length": "192.4 in (4887 mm)",
+      "Width": "85.6 in (2174 mm)",
+      "Height": "62.8 in (1595 mm)",
+      "Front/rear Track": "67.7/67.7 in (1,720/1,720 mm)",
+      "Wheelbase": "108.3 in (2751 mm)",
+      "Ground Clearance": "7.9 in (201 mm)",
+      "Cargo Volume": "27.5 cuFT (779 L)",
+      "Aerodynamics (Cd)": "0.34"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4451 lbs (2019 kg)",
+      "Gross Weight Limit": "5456 lbs (2475 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16 mpg US (14.7 L/100Km)",
+      "Highway": "23 mpg US (10.2 L/100Km)",
+      "Combined": "19 mpg US (12.4 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURAZDX-4065_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURAZDX-4065_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURAZDX-4065_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURAZDX-4065_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURAZDX-4065_5.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA ZDX",
+    "url": "https://www.autoevolution.com/acura/zdx/",
+    "start_year": 2009,
+    "end_year": null
+  },
+  {
+    "generation": "ACURA CL",
+    "fuel_type": "gasoline",
+    "engine": "ACURA CL 3.2L 5AT FWD (225 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-cl-2001.html#aeng_acura-cl-2001-32",
+    "ENGINE SPECS - 3.2L 5AT FWD (225 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3210 cm3",
+      "Power": "168 KW @ 5600 RPM\n228 HP @ 5600 RPM\n225 BHP @ 5600 RPM",
+      "Torque": "217 lb-ft @ 4700 RPM\n294 Nm @ 4700 RPM",
+      "Fuel System": "Electronic Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.2 gallons (65.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "136.7 mph (220 km/h)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P205/60 R16 91V"
+    },
+    "DIMENSIONS": {
+      "Length": "192 in (4877 mm)",
+      "Width": "70.6 in (1793 mm)",
+      "Height": "55.5 in (1410 mm)",
+      "Front/rear Track": "61.1/61 in (1,552/1,549 mm)",
+      "Wheelbase": "106.9 in (2715 mm)",
+      "Ground Clearance": "6.2 in (157 mm)",
+      "Cargo Volume": "13.6 cuFT (385 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3470 lbs (1574 kg)",
+      "Gross Weight Limit": "4024.1 lbs (1825 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "17 mpg US (13.8 L/100Km)",
+      "Highway": "27 mpg US (8.7 L/100Km)",
+      "Combined": "21 mpg US (11.2 L/100Km)",
+      "CO2 Emissions": "267 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURACL-1244_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURACL-1244_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURACL-1244_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURACL-1244_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURACL-1244_7.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA CL",
+    "url": "https://www.autoevolution.com/acura/cl/",
+    "start_year": 1997,
+    "end_year": 2004
+  },
+  {
+    "generation": "ACURA CSX",
+    "fuel_type": "gasoline",
+    "engine": "ACURA CSX 2.0L 16V 5AT (157 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-csx-2009.html#aeng_acura-csx-2009-20l-16v-5at-157-hp",
+    "ENGINE SPECS - 2.0L 16V 5AT (157 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1998 cm3",
+      "Power": "115.5 KW @ 6000 RPM\n157 HP @ 6000 RPM\n155 BHP @ 6000 RPM",
+      "Torque": "139 lb-ft @ 4500 RPM\n188 Nm @ 4500 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "13.2 gallons (50.0 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/55R16"
+    },
+    "DIMENSIONS": {
+      "Length": "178.9 in (4544 mm)",
+      "Width": "69 in (1753 mm)",
+      "Height": "56.5 in (1435 mm)",
+      "Front/rear Track": "59/60.2 in (1,499/1,529 mm)",
+      "Wheelbase": "106.3 in (2700 mm)",
+      "Cargo Volume": "12 cuFT (340 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2844 lbs (1290 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "24.8 mpg US (9.5 L/100Km)",
+      "Highway": "36.2 mpg US (6.5 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-csx-2009-7077_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-csx-2009-7077_2.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA CSX",
+    "url": "https://www.autoevolution.com/acura/csx/",
+    "start_year": 2005,
+    "end_year": 2011
+  },
+  {
+    "generation": "ACURA EL",
+    "fuel_type": "gasoline",
+    "engine": "ACURA EL 1.6L 16V 5MT (107 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-el-1997.html#aeng_acura-el-1997-16l-16v-5mt-107-hp",
+    "ENGINE SPECS - 1.6L 16V 5MT (107 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1590 cm3",
+      "Power": "78.7 KW @ 6200 RPM\n107 HP @ 6200 RPM\n106 BHP @ 6200 RPM",
+      "Torque": "103 lb-ft @ 4600 RPM\n139 Nm @ 4600 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "11.9 gallons (45.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "109 mph (175 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "9.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "175/70 R13"
+    },
+    "DIMENSIONS": {
+      "Length": "176.4 in (4481 mm)",
+      "Width": "67.1 in (1704 mm)",
+      "Height": "54.9 in (1394 mm)",
+      "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
+      "Wheelbase": "103.1 in (2619 mm)",
+      "Cargo Volume": "13.2 cuFT (374 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2524 lbs (1145 kg)",
+      "Gross Weight Limit": "3638 lbs (1650 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "33.1 mpg US (7.1 L/100Km)",
+      "Highway": "37.9 mpg US (6.2 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-el-1997-7078_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-el-1997-7078_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-el-1997-7078_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-el-1997-7078_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-el-1997-7078_5.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA EL",
+    "url": "https://www.autoevolution.com/acura/el/",
+    "start_year": 1997,
+    "end_year": 2000
+  },
+  {
+    "generation": "2019 Acura ILX (Facelit)",
+    "fuel_type": "gasoline",
+    "engine": "ACURA ILX 2.4L 16V i-VTEC 8AT FWD (201 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-ilx-2018.html#aeng_acura-ilx-2018-24l-16v-i-vtec-8at-201-hp",
+    "ENGINE SPECS - 2.4L 16V I-VTEC 8AT FWD (201 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2354 cm3",
+      "Power": "147.8 KW @ 6800 RPM\n201 HP @ 6800 RPM\n198 BHP @ 6800 RPM",
+      "Torque": "180 lb-ft @ 3800 RPM\n244 Nm @ 3800 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "138 mph (222 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "8-Speed automatic DCT"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P215/45 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "181.9 in (4620 mm)",
+      "Width": "70.6 in (1793 mm)",
+      "Height": "55.6 in (1412 mm)",
+      "Front/rear Track": "59.4/60.2 in (1,509/1,529 mm)",
+      "Wheelbase": "105.1 in (2670 mm)",
+      "Ground Clearance": "5.3 in (135 mm)",
+      "Cargo Volume": "12.3 cuFT (348 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3093 lbs (1403 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "24 mpg US (9.8 L/100Km)",
+      "Highway": "34.1 mpg US (6.9 L/100Km)",
+      "Combined": "28 mpg US (8.4 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-ILX-6403_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-ILX-6403_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-ILX-6403_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-ILX-6403_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-ILX-6403_9.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA ILX",
+    "url": "https://www.autoevolution.com/acura/ilx/",
+    "start_year": 2012,
+    "end_year": 2022
+  },
+  {
+    "generation": "ACURA RL",
+    "fuel_type": "gasoline",
+    "engine": "ACURA RL 3.7L V6 VTEC AWD 5AT (300 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-rl-2008.html#aeng_acura-rl-2008-37-v6-vtec",
+    "ENGINE SPECS - 3.7L V6 VTEC AWD 5AT (300 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3664 cm3",
+      "Power": "224 KW @ 6300 RPM\n305 HP @ 6300 RPM\n300 BHP @ 6300 RPM",
+      "Torque": "271 lb-ft @ 5000 RPM\n367 Nm @ 5000 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "19.3 gallons (73.1 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "5-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/45 R18"
+    },
+    "DIMENSIONS": {
+      "Length": "195.8 in (4973 mm)",
+      "Width": "72.7 in (1847 mm)",
+      "Height": "57.2 in (1453 mm)",
+      "Front/rear Track": "62/62.4 in (1,575/1,585 mm)",
+      "Wheelbase": "110.2 in (2799 mm)",
+      "Ground Clearance": "5.7 in (145 mm)",
+      "Cargo Volume": "13.1 cuFT (371 L)",
+      "Aerodynamics (Cd)": "0.3",
+      "Turning circle": "39.7 ft (12.1 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4083 lbs (1852 kg)",
+      "Gross Weight Limit": "5082 lbs (2305 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16 mpg US (14.7 L/100Km)",
+      "Highway": "22 mpg US (10.7 L/100Km)",
+      "Combined": "19 mpg US (12.4 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-RL-4019_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-RL-4019_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-RL-4019_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-RL-4019_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-RL-4019_10.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA RL",
+    "url": "https://www.autoevolution.com/acura/rl/",
+    "start_year": 2004,
+    "end_year": 2012
+  },
+  {
+    "generation": "2018 Acura RLX",
+    "fuel_type": "gasoline",
+    "engine": "ACURA RLX 3.5L V6 10AT (310 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-rlx-2017.html#aeng_acura-rlx-2017-35-v6-10at-310-hp",
+    "ENGINE SPECS - 3.5L V6 10AT (310 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3471 cm3",
+      "Power": "231.2 KW @ 6500 RPM\n314 HP @ 6500 RPM\n310 BHP @ 6500 RPM",
+      "Torque": "272 lb-ft @ 4500 RPM\n369 Nm @ 4500 RPM",
+      "Fuel System": "Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18.5 gallons (70.0 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "10-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/40 R19"
+    },
+    "DIMENSIONS": {
+      "Length": "198.1 in (5032 mm)",
+      "Width": "74.4 in (1890 mm)",
+      "Height": "57.7 in (1466 mm)",
+      "Front/rear Track": "64.3/64.2 in (1,633/1,631 mm)",
+      "Wheelbase": "112.2 in (2850 mm)",
+      "Ground Clearance": "4.5 in (114 mm)",
+      "Cargo Volume": "14.9 cuFT (422 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3977 lbs (1804 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "20 mpg US (11.8 L/100Km)",
+      "Highway": "30 mpg US (7.8 L/100Km)",
+      "Combined": "23 mpg US (10.2 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-RLX-6079_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-RLX-6079_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-RLX-6079_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-RLX-6079_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-RLX-6079_7.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA RLX",
+    "url": "https://www.autoevolution.com/acura/rlx/",
+    "start_year": 2013,
+    "end_year": 2020
+  },
+  {
+    "generation": "ACURA RSX",
+    "fuel_type": "gasoline",
+    "engine": "ACURA RSX 2.0L 5AT (160 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-rsx-2005.html#aeng_acura-rsx-2005-20",
+    "ENGINE SPECS - 2.0L 5AT (160 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1998 cm3",
+      "Power": "114 KW @ 6500 RPM\n160 HP @ 6500 RPM\n153 BHP @ 6500 RPM",
+      "Torque": "141 lb-ft @ 4000 RPM\n191 Nm @ 4000 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "130 mph (209 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P205/55R16"
+    },
+    "DIMENSIONS": {
+      "Length": "172.4 in (4379 mm)",
+      "Width": "67.9 in (1725 mm)",
+      "Height": "54.9 in (1394 mm)",
+      "Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
+      "Wheelbase": "101.2 in (2570 mm)",
+      "Ground Clearance": "6 in (152 mm)",
+      "Cargo Volume": "16 cuFT (453 L)",
+      "Aerodynamics (Cd)": "0.33"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2734 lbs (1240 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "27 mpg US (8.7 L/100Km)",
+      "Highway": "34 mpg US (6.9 L/100Km)",
+      "Combined": "29.5 mpg US (8 L/100Km)",
+      "CO2 Emissions": "189 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURARSX-9_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURARSX-9_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURARSX-9_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURARSX-9_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURARSX-9_4.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA RSX",
+    "url": "https://www.autoevolution.com/acura/rsx/",
+    "start_year": 2002,
+    "end_year": 2006
+  },
+  {
+    "generation": "ACURA RSX TYPE-S",
+    "fuel_type": "gasoline",
+    "engine": "ACURA RSX TYPE-S 2.0L 5AT FWD (160 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-rsx-type-s-2005.html#aeng_acura-rsx-type-s-2005-20l-5at-160-hp",
+    "ENGINE SPECS - 2.0L 5AT FWD (160 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1998 cm3",
+      "Power": "117.7 KW @ 4000 RPM\n160 HP @ 4000 RPM\n158 BHP @ 4000 RPM",
+      "Torque": "141 lb-ft @ - RPM\n191 Nm @ - RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "118 mph (190 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "11 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P215/45R17"
+    },
+    "DIMENSIONS": {
+      "Length": "172.4 in (4379 mm)",
+      "Width": "67.9 in (1725 mm)",
+      "Height": "54.9 in (1394 mm)",
+      "Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
+      "Wheelbase": "101.2 in (2570 mm)",
+      "Ground Clearance": "5.9 in (150 mm)",
+      "Cargo Volume": "16 cuFT (453 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2822 lbs (1280 kg)",
+      "Gross Weight Limit": "3968 lbs (1800 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "23 mpg US (10.2 L/100Km)",
+      "Highway": "31 mpg US (7.6 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURARSXTYPE-S-3726_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURARSXTYPE-S-3726_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURARSXTYPE-S-3726_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURARSXTYPE-S-3726_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURARSXTYPE-S-3726_5.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA RSX TYPE-S",
+    "url": "https://www.autoevolution.com/acura/rsx-type-s/",
+    "start_year": 2005,
+    "end_year": 2006
+  },
+  {
+    "generation": "ACURA SLX",
+    "fuel_type": "gasoline",
+    "engine": "ACURA SLX 3.5L V6 4AT AWD (216 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-slx-1997.html#aeng_acura-slx-1997-35-v6",
+    "ENGINE SPECS - 3.5L V6 4AT AWD (216 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3493 cm3",
+      "Power": "159 KW @ 5400 RPM\n216 HP @ 5400 RPM\n213 BHP @ 5400 RPM",
+      "Torque": "230 lb-ft @ 3000 RPM\n312 Nm @ 3000 RPM",
+      "Fuel System": "Electronic Fuel Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "22.5 gallons (85.2 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "111.9 mph (180 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "11.8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "4-Speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P245/70R16"
+    },
+    "DIMENSIONS": {
+      "Length": "187.8 in (4770 mm)",
+      "Width": "72.2 in (1834 mm)",
+      "Height": "72.2 in (1834 mm)",
+      "Front/rear Track": "59.6/59.8 in (1,514/1,519 mm)",
+      "Wheelbase": "108.7 in (2761 mm)",
+      "Ground Clearance": "8.3 in (211 mm)",
+      "Cargo Volume": "43.7 cuFT (1237 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4615 lbs (2093 kg)",
+      "Gross Weight Limit": "5510 lbs (2499 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "15 mpg US (15.7 L/100Km)",
+      "Highway": "19 mpg US (12.4 L/100Km)",
+      "Combined": "16.8 mpg US (14 L/100Km)",
+      "CO2 Emissions": "333 g/km"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURASLX-1441_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURASLX-1441_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURASLX-1441_1.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA SLX",
+    "url": "https://www.autoevolution.com/acura/slx/",
+    "start_year": 1996,
+    "end_year": 1999
+  },
+  {
+    "generation": "ACURA TL",
+    "fuel_type": "gasoline",
+    "engine": "ACURA TL 3.5L V6 VTEC FWD 5AT (280 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-tl-2008.html#aeng_acura-tl-2008-35-v6-vtec",
+    "ENGINE SPECS - 3.5L V6 VTEC FWD 5AT (280 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3471 cm3",
+      "Power": "209 KW @ 6200 RPM\n284 HP @ 6200 RPM\n280 BHP @ 6200 RPM",
+      "Torque": "254 lb-ft @ 5000 RPM\n344 Nm @ 5000 RPM",
+      "Fuel System": "Multipoint Fuel Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "17.1 gallons (64.7 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/50 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "195.3 in (4961 mm)",
+      "Width": "74 in (1880 mm)",
+      "Height": "57.2 in (1453 mm)",
+      "Front/rear Track": "63.2/63.8 in (1,605/1,621 mm)",
+      "Wheelbase": "109.3 in (2776 mm)",
+      "Ground Clearance": "5.9 in (150 mm)",
+      "Cargo Volume": "13.1 cuFT (371 L)",
+      "Aerodynamics (Cd)": "0.29",
+      "Turning circle": "39.7 ft (12.1 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3708 lbs (1682 kg)",
+      "Gross Weight Limit": "4696 lbs (2130 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "18 mpg US (13.1 L/100Km)",
+      "Highway": "26 mpg US (9 L/100Km)",
+      "Combined": "22 mpg US (10.7 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-TL-4020_23.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-TL-4020_24.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-TL-4020_25.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-TL-4020_26.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ACURA-TL-4020_27.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA TL",
+    "url": "https://www.autoevolution.com/acura/tl/",
+    "start_year": 1995,
+    "end_year": 2014
+  },
+  {
+    "generation": "ACURA TSX Sport Wagon",
+    "fuel_type": "gasoline",
+    "engine": "ACURA TSX Sport Wagon 2.4L 5AT (201 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/acura-sport-wagon-2010.html#aeng_acura-sport-wagon-2010-24l-5at-201-hp",
+    "ENGINE SPECS - 2.4L 5AT (201 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2354 cm3",
+      "Power": "147.8 KW @ 7000 RPM\n201 HP @ 7000 RPM\n198 BHP @ 7000 RPM",
+      "Torque": "170 lb-ft @ 4300 RPM\n230 Nm @ 4300 RPM",
+      "Fuel System": "Direct injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18.5 gallons (70.0 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P225/50 R17 93V"
+    },
+    "DIMENSIONS": {
+      "Length": "189.2 in (4806 mm)",
+      "Width": "72.4 in (1839 mm)",
+      "Height": "57.9 in (1471 mm)",
+      "Front/rear Track": "62.2/62.2 in (1,580/1,580 mm)",
+      "Wheelbase": "106.5 in (2705 mm)",
+      "Cargo Volume": "31.5 cuFT (892 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3585 lbs (1626 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "22 mpg US (10.7 L/100Km)",
+      "Highway": "30.2 mpg US (7.8 L/100Km)",
+      "Combined": "25 mpg US (9.4 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-sport-wagon-2010-7079_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-sport-wagon-2010-7079_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-sport-wagon-2010-7079_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-sport-wagon-2010-7079_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/acura-sport-wagon-2010-7079_12.jpg"
+    ],
+    "brand": "ACURA",
+    "model": "ACURA TSX",
+    "url": "https://www.autoevolution.com/acura/tsx/",
+    "start_year": 2003,
+    "end_year": 2014
+  }
+]

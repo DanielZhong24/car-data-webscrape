@@ -1,0 +1,1051 @@
+[
+  {
+    "generation": "2023 Dodge Challenger SRT Demon 170",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Challenger SRT Demon 170 6.2L V8 8AT RWD (1039 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-challenger-srt-demon-170-2023.html#aeng_dodge-challenger-srt-demon-170-2023-62l-v8-8at-rwd",
+    "ENGINE SPECS - 6.2L V8 8AT RWD (1039 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "6166 cm3",
+      "Power": "671.1 KW @ 6500 RPM\n912 HP @ 6500 RPM\n900 BHP @ 6500 RPM",
+      "Torque": "810 lb-ft @ 4200 RPM\n1098 Nm @ 4200 RPM",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "215 mph (346 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "1.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/55 R18 // 315/50 R17"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/dodge-challenger-srt-demon-170-2023-7458_22.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/dodge-challenger-srt-demon-170-2023-7458_23.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/dodge-challenger-srt-demon-170-2023-7458_24.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/dodge-challenger-srt-demon-170-2023-7458_25.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/dodge-challenger-srt-demon-170-2023-7458_26.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Challenger SRT",
+    "url": "https://www.autoevolution.com/dodge/challenger-srt/",
+    "start_year": 2009,
+    "end_year": null
+  },
+  {
+    "generation": "2023 Dodge Hornet",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Hornet GT 2.0L 9AT AWD (272 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-hornet-2022.html#aeng_dodge-hornet-2022-gt-20l-9at-awd",
+    "ENGINE SPECS - GT 2.0L 9AT AWD (272 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1995 cm3",
+      "Power": "199.8 KW @ - RPM\n271.7 HP @ - RPM\n268 BHP @ - RPM",
+      "Torque": "295 lb-ft @ - RPM\n400 Nm @ - RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "13.5 gallons (51.1 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "140 mph (225 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "6.7 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "9-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "178.3 in (4529 mm)",
+      "Width": "82 in (2083 mm)",
+      "Height": "63.8 in (1621 mm)",
+      "Wheelbase": "103.8 in (2637 mm)",
+      "Ground Clearance": "8 in (203 mm)",
+      "Cargo Volume": "27 cuFT (765 L)",
+      "Turning circle": "38 ft (11.6 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3527 lbs (1600 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/dodge-hptnet-2022-7298_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/dodge-hptnet-2022-7298_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/dodge-hptnet-2022-7298_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/dodge-hptnet-2022-7298_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/dodge-hptnet-2022-7298_5.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Hornet",
+    "url": "https://www.autoevolution.com/dodge/hornet/",
+    "start_year": 2022,
+    "end_year": null
+  },
+  {
+    "generation": "DODGE Durango",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Durango 3.5L V6 8AT RWD (293 HP) Single exhaust",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-durango-2020.html#aeng_dodge-durango-2020-35l-v6-8at-293-hp",
+    "ENGINE SPECS - 3.5L V6 8AT RWD (293 HP) SINGLE EXHAUST": {
+      "Cylinders": "V6",
+      "Displacement": "3604 cm3",
+      "Power": "215.5 KW @ 6400 RPM\n293 HP @ 6400 RPM\n289 BHP @ 6400 RPM",
+      "Torque": "260 lb-ft @ 4000 RPM\n353 Nm @ 4000 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "24.6 gallons (93.1 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Solid Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P265/60R18"
+    },
+    "DIMENSIONS": {
+      "Length": "200.8 in (5100 mm)",
+      "Width": "75.8 in (1925 mm)",
+      "Height": "70.1 in (1781 mm)",
+      "Front/rear Track": "63.9/64.1 in (1,623/1,628 mm)",
+      "Wheelbase": "119.8 in (3043 mm)",
+      "Ground Clearance": "8.1 in (206 mm)",
+      "Cargo Volume": "17.2 cuFT (487 L)",
+      "Aerodynamics (Cd)": "0.36",
+      "Turning circle (curb to curb)": "41 ft (12.5 m)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4691 lbs (2128 kg)",
+      "Gross Weight Limit": "6579 lbs (2984 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Durango-6871_19.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Durango-6871_20.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Durango-6871_21.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Durango-6871_22.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Durango-6871_23.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Durango",
+    "url": "https://www.autoevolution.com/dodge/durango/",
+    "start_year": 1997,
+    "end_year": null
+  },
+  {
+    "generation": "DODGE Durango SRT",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Durango SRT 6.4L V8 HEMI 8AT (475 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-durango-srt-2020.html#aeng_dodge-durango-srt-2020-64l-v8-hemi-8at-475-hp",
+    "ENGINE SPECS - 6.4L V8 HEMI 8AT (475 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "6417 cm3",
+      "Power": "349.4 KW @ 6000 RPM\n475 HP @ 6000 RPM\n469 BHP @ 6000 RPM",
+      "Torque": "470 lb-ft @ 4300 RPM\n637 Nm @ 4300 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "24.6 gallons (93.1 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Solid Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "200.1 in (5083 mm)",
+      "Width": "75.7 in (1923 mm)",
+      "Height": "70.5 in (1791 mm)",
+      "Front/rear Track": "63.9/64.1 in (1,623/1,628 mm)",
+      "Wheelbase": "119.8 in (3043 mm)",
+      "Ground Clearance": "8.1 in (206 mm)",
+      "Aerodynamics (Cd)": "0.3"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Durango-SRT-6872_21.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Durango-SRT-6872_22.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Durango-SRT-6872_23.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Durango-SRT-6872_24.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Durango-SRT-6872_25.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Durango SRT",
+    "url": "https://www.autoevolution.com/dodge/durango-srt/",
+    "start_year": 2017,
+    "end_year": null
+  },
+  {
+    "generation": "DODGE Charger SRT Hellcat Widebody",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Charger SRT Hellcat Widebody 6.2L V8 8AT RWD (707 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-charger-srt-hellcat-2019.html#aeng_dodge-charger-srt-hellcat-widebody-2019-62l-v8-8at-707-hp",
+    "ENGINE SPECS - 6.2L V8 8AT RWD (707 HP)": {
+      "Cylinders": "V8",
+      "Displacement": "6200 cm3",
+      "Power": "520 KW @ 6000 RPM\n707 HP @ 6000 RPM\n697 BHP @ 6000 RPM",
+      "Torque": "650 lb-ft @ 4800 RPM\n881 Nm @ 4800 RPM",
+      "Fuel System": "Turbocharged Direct Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18.5 gallons (70.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "196 mph (315 km/h)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "8-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "305/35 ZR20"
+    },
+    "DIMENSIONS": {
+      "Length": "201 in (5105 mm)",
+      "Width": "78.3 in (1989 mm)",
+      "Height": "57.6 in (1463 mm)",
+      "Front/rear Track": "65.6/65.3 in (1,666/1,659 mm)",
+      "Wheelbase": "120 in (3048 mm)",
+      "Ground Clearance": "4.5 in (114 mm)",
+      "Cargo Volume": "16.5 cuFT (467 L)",
+      "Aerodynamics (Cd)": "0.381"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4586 lbs (2080 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "12 mpg US (19.6 L/100Km)",
+      "Highway": "21 mpg US (11.2 L/100Km)",
+      "Combined": "15 mpg US (15.7 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Charger-SRT-Hellcat-6611_14.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Charger-SRT-Hellcat-6611_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Charger-SRT-Hellcat-6611_16.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Charger-SRT-Hellcat-6611_17.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Charger-SRT-Hellcat-6611_18.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Charger SRT",
+    "url": "https://www.autoevolution.com/dodge/charger-srt/",
+    "start_year": 2006,
+    "end_year": null
+  },
+  {
+    "generation": "2011 Dodge Avenger",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Avenger 2.4L 4AT FWD (175 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-avenger-2010.html#aeng_dodge-avenger-2010-24-4at-175-hp",
+    "ENGINE SPECS - 2.4L 4AT FWD (175 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2360 cm3",
+      "Power": "128.7 KW @ 6000 RPM\n175 HP @ 6000 RPM\n173 BHP @ 6000 RPM",
+      "Torque": "166 lb-ft @ 4400 RPM\n225 Nm @ 4400 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "16.9 gallons (64.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "130 mph (209 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "10.4 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "4-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/55 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "192.6 in (4892 mm)",
+      "Width": "72.8 in (1849 mm)",
+      "Height": "58.4 in (1483 mm)",
+      "Front/rear Track": "61.7/62.8 in (1,567/1,595 mm)",
+      "Wheelbase": "108.9 in (2766 mm)",
+      "Ground Clearance": "5.7 in (145 mm)",
+      "Cargo Volume": "13.5 cuFT (382 L)",
+      "Aerodynamics (Cd)": "0.32"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3395 lbs (1540 kg)",
+      "Gross Weight Limit": "4630 lbs (2100 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "21 mpg US (11.2 L/100Km)",
+      "Highway": "30 mpg US (7.8 L/100Km)",
+      "Combined": "24 mpg US (9.8 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Avenger-5650_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Avenger-5650_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Avenger-5650_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Avenger-5650_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Avenger-5650_10.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Avenger",
+    "url": "https://www.autoevolution.com/dodge/avenger/",
+    "start_year": 2007,
+    "end_year": 2014
+  },
+  {
+    "generation": "2007 Dodge Caliber",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Caliber 1.8L 5MT FWD (150 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-caliber-2006.html#aeng_dodge-caliber-2006-18",
+    "ENGINE SPECS - 1.8L 5MT FWD (150 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1798 cm3",
+      "Power": "110 KW @ 6500 RPM\n150 HP @ 6500 RPM\n148 BHP @ 6500 RPM",
+      "Torque": "125 lb-ft @ 5200 RPM\n169 Nm @ 5200 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "13.7 gallons (51.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "114 mph (183 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "11.9 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/60 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "173.8 in (4415 mm)",
+      "Width": "68.8 in (1748 mm)",
+      "Height": "60.4 in (1534 mm)",
+      "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
+      "Wheelbase": "103.7 in (2634 mm)",
+      "Ground Clearance": "8.2 in (208 mm)",
+      "Cargo Volume": "12.4 cuFT (351 L)",
+      "Aerodynamics (Cd)": "0.37"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2910 lbs (1320 kg)",
+      "Gross Weight Limit": "4167 lbs (1890 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "24.5 mpg US (9.6 L/100Km)",
+      "Highway": "39.2 mpg US (6 L/100Km)",
+      "Combined": "32.2 mpg US (7.3 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGECaliber-2296_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGECaliber-2296_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGECaliber-2296_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGECaliber-2296_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGECaliber-2296_5.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Caliber",
+    "url": "https://www.autoevolution.com/dodge/caliber/",
+    "start_year": 2006,
+    "end_year": 2011
+  },
+  {
+    "generation": "2007 Dodge Caliber SRT4",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Caliber SRT4 2.4L Turbo 6MT FWD (290 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-caliber-srt4-2007.html#aeng_dodge-caliber-srt4-2007-24-6mt-290-hp",
+    "ENGINE SPECS - 2.4L TURBO 6MT FWD (290 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2360 cm3",
+      "Power": "213.3 KW @ 5700-6400 RPM\n290 HP @ 5700-6400 RPM\n286 BHP @ 5700-6400 RPM",
+      "Torque": "265 lb-ft @ 2000-5000 RPM\n359 Nm @ 2000-5000 RPM",
+      "Fuel System": "Turbocharged Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "6-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/60 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "173.8 in (4415 mm)",
+      "Width": "68.8 in (1748 mm)",
+      "Height": "60.4 in (1534 mm)",
+      "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
+      "Wheelbase": "103.7 in (2634 mm)",
+      "Ground Clearance": "6.9 in (175 mm)",
+      "Cargo Volume": "12.4 cuFT (351 L)",
+      "Aerodynamics (Cd)": "0.39"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3190 lbs (1447 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "21 mpg US (11.2 L/100Km)",
+      "Highway": "26 mpg US (9 L/100Km)",
+      "Combined": "26 mpg US (9 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGECaliberSRT4-2297_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGECaliberSRT4-2297_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGECaliberSRT4-2297_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGECaliberSRT4-2297_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Caliber-SRT4-2297_5.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Caliber SRT4",
+    "url": "https://www.autoevolution.com/dodge/caliber-srt4/",
+    "start_year": 2007,
+    "end_year": 2009
+  },
+  {
+    "generation": "1997 Dodge Dakota Standard Cab",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Dakota 2.5L 5MT AWD (120 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-dakota-1996.html#aeng_dodge-dakota-1996-25",
+    "ENGINE SPECS - 2.5L 5MT AWD (120 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2458 cm3",
+      "Power": "88 KW @ 5200 RPM\n120 HP @ 5200 RPM\n118 BHP @ 5200 RPM",
+      "Torque": "148 lb-ft @ 3250 RPM\n201 Nm @ 3250 RPM",
+      "Fuel System": "Electonic Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "5-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Discs",
+      "Rear": "Discs"
+    },
+    "DIMENSIONS": {
+      "Length": "215.1 in (5464 mm)",
+      "Width": "71.5 in (1816 mm)",
+      "Height": "65.3 in (1659 mm)",
+      "Wheelbase": "123.9 in (3147 mm)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3556 lbs (1613 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "20 mpg US (11.8 L/100Km)",
+      "Highway": "25 mpg US (9.4 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEDakota-1108_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEDakota-1108_3.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Dakota",
+    "url": "https://www.autoevolution.com/dodge/dakota/",
+    "start_year": 1996,
+    "end_year": 2004
+  },
+  {
+    "generation": "2005 Dodge Dakota Club Cab",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Dakota Club Cab 3.7L V6 6MT AWD (213 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-dakota-club-cab-2004.html#aeng_dodge-dakota-club-cab-2004-37",
+    "ENGINE SPECS - 3.7L V6 6MT AWD (213 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3701 cm3",
+      "Power": "157 KW @ 5200 RPM\n213 HP @ 5200 RPM\n211 BHP @ 5200 RPM",
+      "Torque": "235 lb-ft @ 3600 RPM\n319 Nm @ 3600 RPM",
+      "Fuel System": "Electronic Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "6-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/70SR16"
+    },
+    "DIMENSIONS": {
+      "Length": "218.8 in (5558 mm)",
+      "Width": "71.7 in (1821 mm)",
+      "Height": "68.6 in (1742 mm)",
+      "Front/rear Track": "62.8/62.9 in (1,595/1,598 mm)",
+      "Wheelbase": "131.2 in (3332 mm)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16 mpg US (14.7 L/100Km)",
+      "Highway": "22 mpg US (10.7 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEDakotaClubCab-148_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEDakotaClubCab-148_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEDakotaClubCab-148_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEDakotaClubCab-148_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEDakotaClubCab-148_5.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Dakota Club Cab",
+    "url": "https://www.autoevolution.com/dodge/dakota-club-cab/",
+    "start_year": 2004,
+    "end_year": 2011
+  },
+  {
+    "generation": "2005 Dodge Dakota Quad Cab",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Dakota Quad Cab 3.7L V6 6MT RWD (213 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-dakota-quad-cab-2004.html#aeng_dodge-dakota-quad-cab-2004-37",
+    "ENGINE SPECS - 3.7L V6 6MT RWD (213 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3701 cm3",
+      "Power": "157 KW @ 5200 RPM\n213 HP @ 5200 RPM\n211 BHP @ 5200 RPM",
+      "Torque": "235 lb-ft @ 3600 RPM\n319 Nm @ 3600 RPM",
+      "Fuel System": "Electronic Injection",
+      "Fuel": "Gasoline"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "112 mph (180 km/h)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "6-Speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/70SR16"
+    },
+    "DIMENSIONS": {
+      "Length": "218.8 in (5558 mm)",
+      "Width": "71.7 in (1821 mm)",
+      "Height": "68.7 in (1745 mm)",
+      "Front/rear Track": "62.8/62.9 in (1,595/1,598 mm)",
+      "Wheelbase": "131.3 in (3335 mm)",
+      "Ground Clearance": "9.9 in (251 mm)",
+      "Cargo Volume": "38.1 cuFT (1079 L)"
+    },
+    "WEIGHT SPECS": {
+      "Gross Weight Limit": "7055 lbs (3200 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "16 mpg US (14.7 L/100Km)",
+      "Highway": "22 mpg US (10.7 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEDakotaQuadCab-147_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEDakotaQuadCab-147_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEDakotaQuadCab-147_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEDakotaQuadCab-147_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Dakota-Quad-Cab-147_8.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Dakota Quad Cab",
+    "url": "https://www.autoevolution.com/dodge/dakota-quad-cab/",
+    "start_year": 2004,
+    "end_year": 2011
+  },
+  {
+    "generation": "DODGE Dart",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Dart 1.4L Turbo 6AT (162 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-dart-2012.html#aeng_dodge-dart-2012-14-turbo-6at-162-hp",
+    "ENGINE SPECS - 1.4L TURBO 6AT (162 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1368 cm3",
+      "Power": "119 KW @ 5500 RPM\n162 HP @ 5500 RPM\n160 BHP @ 5500 RPM",
+      "Torque": "184 lb-ft @ 2500-4000 RPM\n249 Nm @ 2500-4000 RPM",
+      "Fuel System": "Sequential, multi-port, electronic, returnles",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "15.9 gallons (60.2 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "SIX-SPEED DUAL DRY CLUTCH TRANMISSION"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "solid discs"
+    },
+    "DIMENSIONS": {
+      "Length": "183.9 in (4671 mm)",
+      "Width": "72 in (1829 mm)",
+      "Height": "57.7 in (1466 mm)",
+      "Front/rear Track": "61.7/61.6 in (1,567/1,565 mm)",
+      "Wheelbase": "106.4 in (2703 mm)",
+      "Cargo Volume": "13.1 cuFT (371 L)",
+      "Aerodynamics (Cd)": "0.285"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3242 lbs (1471 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "27 mpg US (8.7 L/100Km)",
+      "Highway": "37 mpg US (6.4 L/100Km)",
+      "Combined": "31 mpg US (7.6 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Dart-4463_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Dart-4463_11.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Dart-4463_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Dart-4463_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Dart-4463_17.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Dart",
+    "url": "https://www.autoevolution.com/dodge/dart/",
+    "start_year": 2012,
+    "end_year": 2014
+  },
+  {
+    "generation": "2015 Dodge Journey",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Journey 2.4L DOHC 4AT FWD (173 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-journey-2014.html#aeng_dodge-journey-2014-24-dohc-4at-173-hp",
+    "ENGINE SPECS - 2.4L DOHC 4AT FWD (173 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2360 cm3",
+      "Power": "129 KW @ 6000 RPM\n175 HP @ 6000 RPM\n173 BHP @ 6000 RPM",
+      "Torque": "166 lb-ft @ 4000 RPM\n225 Nm @ 4000 RPM",
+      "Fuel System": "Multipoint Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "4-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "P 225/65 R 17"
+    },
+    "DIMENSIONS": {
+      "Length": "192.4 in (4887 mm)",
+      "Width": "72.2 in (1834 mm)",
+      "Height": "66.6 in (1692 mm)",
+      "Front/rear Track": "61.9/62.3 in (1,572/1,582 mm)",
+      "Wheelbase": "113.8 in (2891 mm)",
+      "Ground Clearance": "7.3 in (185 mm)",
+      "Cargo Volume": "39.6 cuFT (1121 L)",
+      "Aerodynamics (Cd)": "0.36"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3825 lbs (1735 kg)",
+      "Gross Weight Limit": "5004 lbs (2270 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "19 mpg US (12.4 L/100Km)",
+      "Highway": "26 mpg US (9 L/100Km)",
+      "Combined": "22 mpg US (10.7 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Journey-5101_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Journey-5101_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Journey-5101_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Journey-5101_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Journey-5101_6.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Journey",
+    "url": "https://www.autoevolution.com/dodge/journey/",
+    "start_year": 2008,
+    "end_year": 2020
+  },
+  {
+    "generation": "DODGE Magnum",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Magnum 2.7L V6 4AT FWD (194 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-magnum-2007.html#aeng_dodge-magnum-2007-27-v6",
+    "ENGINE SPECS - 2.7L V6 4AT FWD (194 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "2736 cm3",
+      "Power": "142 KW @ 6400 RPM\n193 HP @ 6400 RPM\n190 BHP @ 6400 RPM",
+      "Torque": "190 lb-ft @ 4000 RPM\n258 Nm @ 4000 RPM",
+      "Fuel System": "Electronic Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18 gallons (68.1 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "4-speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "215/65/R17"
+    },
+    "DIMENSIONS": {
+      "Length": "197.7 in (5022 mm)",
+      "Width": "74.1 in (1882 mm)",
+      "Height": "58.3 in (1481 mm)",
+      "Front/rear Track": "63/63.1 in (1,600/1,603 mm)",
+      "Wheelbase": "120 in (3048 mm)",
+      "Cargo Volume": "71.1 cuFT (2013 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3858.8 lbs (1750 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "21 mpg US (11.2 L/100Km)",
+      "Highway": "28 mpg US (8.4 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEMagnum-3720_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Magnum-3720_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Magnum-3720_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Magnum-3720_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Magnum-3720_11.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Magnum",
+    "url": "https://www.autoevolution.com/dodge/magnum/",
+    "start_year": 2004,
+    "end_year": 2008
+  },
+  {
+    "generation": "DODGE Magnum SRT8",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Magnum SRT8 6.1",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-magnum-srt8-2007.html#aeng_dodge-magnum-srt8-2007-61",
+    "ENGINE SPECS - 6.1": {
+      "Cylinders": "V8",
+      "Displacement": "6059 cm3",
+      "Power": "318 KW @ 6000 RPM\n432 HP @ 6000 RPM\n426 BHP @ 6000 RPM",
+      "Torque": "420 lb-ft @ 4800 RPM\n569 Nm @ 4800 RPM",
+      "Fuel System": "Electronic Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "All Wheel Drive",
+      "Gearbox": "Sequential, 5 Speed"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Ventilated Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "245/45 R20"
+    },
+    "DIMENSIONS": {
+      "Length": "197.7 in (5022 mm)",
+      "Width": "74.1 in (1882 mm)",
+      "Height": "57.9 in (1471 mm)",
+      "Front/rear Track": "63/63.1 in (1,600/1,603 mm)",
+      "Wheelbase": "120 in (3048 mm)",
+      "Cargo Volume": "71.1 cuFT (2013 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "4260.1 lbs (1932 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEMagnumSRT8-3721_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEMagnumSRT8-3721_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEMagnumSRT8-3721_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEMagnumSRT8-3721_1.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Magnum SRT8",
+    "url": "https://www.autoevolution.com/dodge/magnum-srt8/",
+    "start_year": 2005,
+    "end_year": 2008
+  },
+  {
+    "generation": "DODGE Neon",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Neon 2.0L 5MT FWD (152 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-neon-2003.html#aeng_dodge-neon-2003-20-152-hp",
+    "ENGINE SPECS - 2.0L 5MT FWD (152 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "1995 cm3",
+      "Power": "112 KW @ 6600 RPM\n152 HP @ 6600 RPM\n150 BHP @ 6600 RPM",
+      "Torque": "135 lb-ft @ 4800 RPM\n183 Nm @ 4800 RPM",
+      "Fuel System": "Electronic Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "12.4 gallons (46.9 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "111.9 mph (180 km/h)",
+      "Acceleration 0-62 Mph (0-100 kph)": "8 s"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "5-speed manual"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "185/60 R15"
+    },
+    "DIMENSIONS": {
+      "Length": "174.4 in (4430 mm)",
+      "Width": "67.4 in (1712 mm)",
+      "Height": "55.9 in (1420 mm)",
+      "Front/rear Track": "58/58.1 in (1,473/1,476 mm)",
+      "Wheelbase": "105 in (2667 mm)",
+      "Cargo Volume": "13 cuFT (368 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "2626.2 lbs (1191 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "27 mpg US (8.7 L/100Km)",
+      "Highway": "33.1 mpg US (7.1 L/100Km)",
+      "Combined": "30.5 mpg US (7.7 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGENeon-2280_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGENeon-2280_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGENeon-2280_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Neon-2280_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Neon-2280_6.png"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Neon",
+    "url": "https://www.autoevolution.com/dodge/neon/",
+    "start_year": 1994,
+    "end_year": 2005
+  },
+  {
+    "generation": "DODGE Nitro",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Nitro 3.7L V6 4AT RWD (213 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-nitro-2006.html#aeng_dodge-nitro-2006-37l-4at-213-hp",
+    "ENGINE SPECS - 3.7L V6 4AT RWD (213 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3700 cm3",
+      "Power": "157 KW @ 5200 RPM\n213 HP @ 5200 RPM\n211 BHP @ 5200 RPM",
+      "Torque": "235 lb-ft @ 4000 RPM\n319 Nm @ 4000 RPM",
+      "Fuel System": "Electronic Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "18.5 gallons (70.0 L)"
+    },
+    "PERFORMANCE SPECS": {
+      "Top Speed": "112 mph (180 km/h)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "4-Speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "225/75 R16"
+    },
+    "DIMENSIONS": {
+      "Length": "178.9 in (4544 mm)",
+      "Width": "73.1 in (1857 mm)",
+      "Height": "69.9 in (1775 mm)",
+      "Front/rear Track": "61/61 in (1,549/1,549 mm)",
+      "Wheelbase": "108.8 in (2764 mm)",
+      "Ground Clearance": "8.7 in (221 mm)",
+      "Cargo Volume": "42 cuFT (1189 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3933.7 lbs (1784 kg)",
+      "Gross Weight Limit": "5600 lbs (2540 kg)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGENitro-2298_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGENitro-2298_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGENitro-2298_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGENitro-2298_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGENitro-2298_5.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Nitro",
+    "url": "https://www.autoevolution.com/dodge/nitro/",
+    "start_year": 2006,
+    "end_year": 2012
+  },
+  {
+    "generation": "2009 Dodge Ram 1500",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Ram 1500 3.7L V6 4AT RWD (215 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-ram-1500-2009.html#aeng_dodge-ram-1500-2009-37-v6",
+    "ENGINE SPECS - 3.7L V6 4AT RWD (215 HP)": {
+      "Cylinders": "V6",
+      "Displacement": "3701 cm3",
+      "Power": "156 KW @ 5200 RPM\n212 HP @ 5200 RPM\n209 BHP @ 5200 RPM",
+      "Torque": "235 lb-ft @ 4000 RPM\n319 Nm @ 4000 RPM",
+      "Fuel System": "Sequential Multi-port Injection",
+      "Fuel": "Gasoline",
+      "Fuel capacity": "34.9 gallons (132.1 L)"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Rear Wheel Drive",
+      "Gearbox": "4-Speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Discs"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "265/70 R17"
+    },
+    "DIMENSIONS": {
+      "Length": "229 in (5817 mm)",
+      "Width": "79.4 in (2017 mm)",
+      "Height": "75.7 in (1923 mm)",
+      "Front/rear Track": "67.8/67.5 in (1,722/1,715 mm)",
+      "Wheelbase": "140.6 in (3571 mm)",
+      "Ground Clearance": "9 in (229 mm)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "14 mpg US (16.8 L/100Km)",
+      "Highway": "20 mpg US (11.8 L/100Km)",
+      "Combined": "17 mpg US (13.8 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGERam1500-4121_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGERam1500-4121_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGERam1500-4121_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGERam1500-4121_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGERam1500-4121_5.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Ram",
+    "url": "https://www.autoevolution.com/dodge/ram/",
+    "start_year": 1993,
+    "end_year": 2013
+  },
+  {
+    "generation": "DODGE Stratus",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Stratus 2.4l 4AT (152 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-stratus-2001.html#aeng_dodge-stratus-2003-24",
+    "ENGINE SPECS - 2.4L 4AT (152 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2429 cm3",
+      "Power": "112 KW @ 5500 RPM\n152 HP @ 5500 RPM\n150 BHP @ 5500 RPM",
+      "Torque": "161 lb-ft @ 4200 RPM\n218 Nm @ 4200 RPM",
+      "Fuel System": "Electronic Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "Automatic, 4 Speed"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/60R16 91T"
+    },
+    "DIMENSIONS": {
+      "Length": "191.2 in (4856 mm)",
+      "Width": "70.6 in (1793 mm)",
+      "Height": "54.9 in (1394 mm)",
+      "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
+      "Wheelbase": "108 in (2743 mm)",
+      "Cargo Volume": "15.9 cuFT (450 L)"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3135.5 lbs (1422 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "22 mpg US (10.7 L/100Km)",
+      "Highway": "30.2 mpg US (7.8 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEStratus-140_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEStratus-140_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Stratus-140_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Stratus-140_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGE-Stratus-140_5.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Stratus",
+    "url": "https://www.autoevolution.com/dodge/stratus/",
+    "start_year": 1994,
+    "end_year": 2005
+  },
+  {
+    "generation": "DODGE Stratus Coupe",
+    "fuel_type": "gasoline",
+    "engine": "DODGE Stratus Coupe 2.4L 4AT FWD (141 HP)",
+    "engine_url": "https://www.autoevolution.com/cars/dodge-stratus-coupe-2001.html#aeng_dodge-stratus-coupe-2001-24l-4at-141-hp",
+    "ENGINE SPECS - 2.4L 4AT FWD (141 HP)": {
+      "Cylinders": "L4",
+      "Displacement": "2429 cm3",
+      "Power": "104 KW @ 5500 RPM\n141 HP @ 5500 RPM\n139 BHP @ 5500 RPM",
+      "Torque": "155 lb-ft @ 4000 RPM\n210 Nm @ 4000 RPM",
+      "Fuel System": "Electronic Injection",
+      "Fuel": "Gasoline"
+    },
+    "TRANSMISSION SPECS": {
+      "Drive Type": "Front Wheel Drive",
+      "Gearbox": "4 speed automatic"
+    },
+    "BRAKES SPECS": {
+      "Front": "Ventilated Discs",
+      "Rear": "Drums"
+    },
+    "TIRES SPECS": {
+      "Tire Size": "205/60 HR16"
+    },
+    "DIMENSIONS": {
+      "Length": "190.9 in (4849 mm)",
+      "Width": "70.3 in (1786 mm)",
+      "Height": "53.9 in (1369 mm)",
+      "Front/rear Track": "59.4 in (1509 mm)",
+      "Wheelbase": "103.7 in (2634 mm)",
+      "Ground Clearance": "5.9 in (150 mm)",
+      "Cargo Volume": "16.2 cuFT (459 L)",
+      "Aerodynamics (Cd)": "0.36"
+    },
+    "WEIGHT SPECS": {
+      "Unladen Weight": "3133 lbs (1421 kg)"
+    },
+    "FUEL ECONOMY (NEDC)": {
+      "City": "21 mpg US (11.2 L/100Km)",
+      "Highway": "28 mpg US (8.4 L/100Km)"
+    },
+    "images": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEStratusCoupe-141_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEStratusCoupe-141_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEStratusCoupe-141_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEStratusCoupe-141_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DODGEStratusCoupe-141_6.jpg"
+    ],
+    "brand": "DODGE",
+    "model": "DODGE Stratus Coupe",
+    "url": "https://www.autoevolution.com/dodge/stratus-coupe/",
+    "start_year": 2001,
+    "end_year": 2005
+  }
+]
