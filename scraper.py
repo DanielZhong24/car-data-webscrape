@@ -5,16 +5,34 @@ from multiprocessing import Pool
 import re
 import time
 import json
+import logging
+import os
 
-brands = ["BMW"]
+# ------------------------
+# CONFIG
+# ------------------------
+brands = ["NISSAN","PORSCHE"]
+OUTPUT_DIR = "data"
+LOG_FILE = "scraper.log"
+
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# Setup logging
+logging.basicConfig(
+    filename=LOG_FILE,
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s"
+)
+
+# ------------------------
+# FUNCTIONS
+# ------------------------
 
 def extract_engine_details(driver, engine_url):
     driver.get(engine_url)
-    time.sleep(1)  # simple wait for page to load
-
+    time.sleep(1)
     details = {}
 
-    # --- Grab tables ---
     try:
         tables = driver.find_elements(By.CSS_SELECTOR, "div.enginedata.engine-inline table.techdata")
         for table in tables:
@@ -25,7 +43,7 @@ def extract_engine_details(driver, engine_url):
 
             rows = table.find_elements(By.TAG_NAME, "tr")
             table_data = {}
-            for row in rows[1:]:  # skip title row
+            for row in rows[1:]:
                 try:
                     th = row.find_element(By.CSS_SELECTOR, "td:nth-child(1)").text.strip().rstrip(":")
                     td = row.find_element(By.CSS_SELECTOR, "td:nth-child(2)").text.strip()
@@ -36,13 +54,13 @@ def extract_engine_details(driver, engine_url):
             if table_data:
                 details[title] = table_data
     except Exception as e:
-        print(f"[WARN] Failed to extract tables from {engine_url}: {e}")
+        logging.warning(f"Failed to extract tables from {engine_url}: {e}")
 
-    # --- Grab up to 5 images ---
+    # Grab up to 5 images
     try:
         gallery_json = driver.find_element(By.ID, "schema-gallery-data").get_attribute("innerHTML")
         urls = re.findall(r'"contentUrl":"(https://[^"]+)"', gallery_json)
-        details["images"] = urls[:5]  # limit to 5
+        details["images"] = urls[:5]
     except:
         details["images"] = []
 
@@ -84,6 +102,7 @@ def extract_gasoline_engines(driver):
     return results
 
 def scrape_brand(brand):
+    logging.info(f"Starting scrape for {brand}")
     options = Options()
     options.add_argument("--headless")
     driver = webdriver.Firefox(options=options)
@@ -93,7 +112,7 @@ def scrape_brand(brand):
         brand_el = driver.find_element(By.XPATH, f"//a[@title='{brand}']")
         brand_link = brand_el.get_attribute("href")
     except Exception as e:
-        print(f"[ERROR] Could not find brand {brand}: {e}")
+        logging.error(f"Could not find brand {brand}: {e}")
         driver.quit()
         return []
 
@@ -114,11 +133,8 @@ def scrape_brand(brand):
 
             years_text = block.find_element(By.XPATH, ".//span[contains(text(), '-')]").text.strip()
             match = re.findall(r"(\d{4})", years_text)
-            if match:
-                start_year = int(match[0])
-                end_year = int(match[1]) if len(match) > 1 else None
-            else:
-                start_year = end_year = None
+            start_year = int(match[0]) if match else None
+            end_year = int(match[1]) if len(match) > 1 else None
 
             if start_year and start_year >= 1993:
                 models_data.append({
@@ -131,7 +147,7 @@ def scrape_brand(brand):
         except:
             continue
 
-    print(f"[{brand}] Found {len(models_data)} gasoline models.")
+    logging.info(f"[{brand}] Found {len(models_data)} gasoline models.")
 
     all_engines = []
     for m in models_data:
@@ -143,19 +159,26 @@ def scrape_brand(brand):
                 e.update(m)
                 all_engines.append(e)
         except Exception as e:
-            print(f"[WARN] Failed model {m['model']} ({brand}): {e}")
+            logging.warning(f"Failed model {m['model']} ({brand}): {e}")
             continue
 
     driver.quit()
+
+    # Save results to JSON
+    output_path = os.path.join(OUTPUT_DIR, f"{brand.upper()}.json")
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(all_engines, f, indent=2, ensure_ascii=False)
+
+    logging.info(f"Finished scrape for {brand}, saved {len(all_engines)} engines to {output_path}")
     return all_engines
 
+# ------------------------
+# MAIN
+# ------------------------
 if __name__ == "__main__":
     with Pool(processes=3) as pool:
         all_results = pool.map(scrape_brand, brands)
 
-    # Flatten results
+    # Flatten results if needed
     all_data = [item for sublist in all_results for item in sublist]
-
-    # Print results
-    for r in all_data:
-        print(r)
+    logging.info(f"Scraping complete. Total engines scraped: {len(all_data)}")
