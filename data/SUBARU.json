@@ -4,7 +4,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Outback 2.4L CVT AWD (263 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-outback-2025.html#aeng_subaru-outback-2025-24l-cvt-awd-263-hp",
-    "ENGINE SPECS - 2.4L CVT AWD (263 HP)": {
+    "engine_specs": {
       "Cylinders": "H4",
       "Displacement": "2387 cm3",
       "Power": "193.9 KW @ 5600 RPM\n263.6 HP @ 5600 RPM\n260 BHP @ 5600 RPM",
@@ -12,7 +12,7 @@
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "Lineartronic CVT includes 8-speed manual mode and steering wheel paddle shift switches"
     },
@@ -34,7 +34,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Outback Wilderness 2.5L CVT AWD (263 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-outback-wilderness-2025.html#aeng_subaru-outback-wilderness-2025-25l-cvt-awd-263-hp",
-    "ENGINE SPECS - 2.5L CVT AWD (263 HP)": {
+    "engine_specs": {
       "Cylinders": "B4",
       "Displacement": "2498 cm3",
       "Power": "193.9 KW @ - RPM\n263.6 HP @ - RPM\n260 BHP @ - RPM",
@@ -42,11 +42,11 @@
       "Fuel System": "Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "Lineartronic CVT includes 8-speed manual mode and steering wheel paddle shift switches"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Ground Clearance": "9.5 in (241 mm)"
     },
     "images": [
@@ -67,12 +67,12 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Forester Hybrid 2.5L CVT AWD (182 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-forester-hybrid-2025.html#aeng_subaru-forester-hybrid-2025-25l-cvt-awd",
-    "ENGINE SPECS - 2.5L CVT AWD (182 HP)": {
+    "engine_specs": {
       "Cylinders": "B4",
       "Power": "134.2 KW @ - RPM\n182 HP @ - RPM\n180 BHP @ - RPM",
       "Fuel": "Hybrid Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT"
     },
@@ -94,7 +94,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Ascent 2.4L CVT AWD (260 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-ascent-2022.html#aeng_subaru-ascent-2022-24l-cvt-awd-260-hp",
-    "ENGINE SPECS - 2.4L CVT AWD (260 HP)": {
+    "engine_specs": {
       "Power": "191.2 KW @ - RPM\n260 HP @ - RPM\n256 BHP @ - RPM",
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
@@ -117,18 +117,18 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Impreza 5 doors 2.0L CVT AWD (152 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-impreza-5-doors-2022.html#aeng_subaru-impreza-5-doors-2022-20l-cvt-awd-152-hp",
-    "ENGINE SPECS - 2.0L CVT AWD (152 HP)": {
+    "engine_specs": {
       "Cylinders": "B4",
       "Power": "111.8 KW @ - RPM\n152 HP @ - RPM\n150 BHP @ - RPM",
       "Torque": "145 lb-ft @ - RPM\n197 Nm @ - RPM",
       "Fuel System": "Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Disc"
     },
@@ -150,18 +150,18 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Legacy 2.4L CVT AWD (260 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-legacy-2022.html#aeng_subaru-legacy-2022-24l-cvt-awd-260-hp",
-    "ENGINE SPECS - 2.4L CVT AWD (260 HP)": {
+    "engine_specs": {
       "Cylinders": "B4",
       "Power": "191.2 KW @ - RPM\n260 HP @ - RPM\n256 BHP @ - RPM",
       "Torque": "277 lb-ft @ - RPM\n376 Nm @ - RPM",
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
@@ -183,7 +183,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU BRZ 2.4L 6AT RWD (231 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-brz-2021.html#aeng_subaru-brz-2021-24l-6at-228-hp",
-    "ENGINE SPECS - 2.4L 6AT RWD (231 HP)": {
+    "engine_specs": {
       "Cylinders": "B4",
       "Displacement": "2487 cm3",
       "Power": "170 KW @ 7000 RPM\n231 HP @ 7000 RPM\n228 BHP @ 7000 RPM",
@@ -192,18 +192,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "13.2 gallons (50.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-automatic speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/45 R17 87W Premium"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "167.9 in (4265 mm)",
       "Width": "69.9 in (1775 mm)",
       "Height": "51.6 in (1311 mm)",
@@ -213,10 +213,10 @@
       "Aerodynamics (Cd)": "0.29",
       "Turning circle": "35.4 ft (10.8 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2840 lbs (1288 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "24 mpg US (9.8 L/100Km)",
       "Highway": "33 mpg US (7.1 L/100Km)",
       "Combined": "27 mpg US (8.7 L/100Km)"
@@ -239,25 +239,25 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU WRX 2.4L 6MT AWD (271 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-wrx-2021.html#aeng_subaru-wrx-2021-24l-6mt-awd-271-hp",
-    "ENGINE SPECS - 2.4L 6MT AWD (271 HP)": {
+    "engine_specs": {
       "Cylinders": "B4",
       "Power": "199.3 KW @ - RPM\n271 HP @ - RPM\n267 BHP @ - RPM",
       "Torque": "258 lb-ft @ - RPM\n350 Nm @ - RPM",
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/40R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "193.8 in (4923 mm)",
       "Width": "71.9 in (1826 mm)",
       "Height": "57.8 in (1468 mm)",
@@ -281,7 +281,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Baja 2.5L 4AT AWD (165 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-baja-2003.html#aeng_subaru-baja-2003-25-4at-165-hp",
-    "ENGINE SPECS - 2.5L 4AT AWD (165 HP)": {
+    "engine_specs": {
       "Cylinders": "B4",
       "Displacement": "2457 cm3",
       "Power": "121 KW @ 5600 RPM\n165 HP @ 5600 RPM\n162 BHP @ 5600 RPM",
@@ -290,18 +290,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "17.2 gallons (65.1 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/60 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "193.3 in (4910 mm)",
       "Width": "70.1 in (1781 mm)",
       "Height": "65.1 in (1654 mm)",
@@ -311,10 +311,10 @@
       "Cargo Volume": "17.7 cuFT (501 L)",
       "Aerodynamics (Cd)": "0.36"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3545 lbs (1608 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "21 mpg US (11.2 L/100Km)",
       "Highway": "28 mpg US (8.4 L/100Km)"
     },
@@ -336,7 +336,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Exiga 2.5i CVT (167 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-exiga-2008.html#aeng_subaru-exiga-2008-25i-cvt-167-hp",
-    "ENGINE SPECS - 2.5I CVT (167 HP)": {
+    "engine_specs": {
       "Cylinders": "B4",
       "Displacement": "2457 cm3",
       "Power": "123 KW @ 5600 RPM\n167 HP @ 5600 RPM\n165 BHP @ 5600 RPM",
@@ -349,18 +349,18 @@
       "Top Speed": "119 mph (192 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "Continuously variable transmission (CVT)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/60 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "186.6 in (4740 mm)",
       "Width": "69.9 in (1775 mm)",
       "Height": "65.4 in (1661 mm)",
@@ -387,7 +387,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Impreza WRX STi 2.5 Turbo 6MT AWD (300 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-impreza-wrx-sti-2008.html#aeng_subaru-impreza-wrx-sti-2008-25-turbo",
-    "ENGINE SPECS - 2.5 TURBO 6MT AWD (300 HP)": {
+    "engine_specs": {
       "Cylinders": "B4",
       "Displacement": "2457 cm3",
       "Power": "221 KW @ 6000 RPM\n300 HP @ 6000 RPM\n296 BHP @ 6000 RPM",
@@ -399,18 +399,18 @@
       "Top Speed": "155.3 mph (250 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "6-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/40 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "174 in (4420 mm)",
       "Width": "70.8 in (1798 mm)",
       "Height": "58.2 in (1478 mm)",
@@ -420,11 +420,11 @@
       "Cargo Volume": "10.6 cuFT (300 L)",
       "Aerodynamics (Cd)": "0.36"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3317.9 lbs (1505 kg)",
       "Gross Weight Limit": "4365.1 lbs (1980 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17 mpg US (13.8 L/100Km)",
       "Highway": "28.6 mpg US (8.2 L/100Km)",
       "Combined": "22.8 mpg US (10.3 L/100Km)",
@@ -448,7 +448,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Legacy Wagon 2.0L 6MT AWD (150 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-legacy-wagon-2009.html#aeng_subaru-legacy-wagon-2009-20i",
-    "ENGINE SPECS - 2.0L 6MT AWD (150 HP)": {
+    "engine_specs": {
       "Cylinders": "H4",
       "Displacement": "1994 cm3",
       "Power": "110 KW @ 6000 RPM\n150 HP @ 6000 RPM\n148 BHP @ 6000 RPM",
@@ -475,7 +475,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Levorg 1.6L CVT AWD (170 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-levorg-2014.html#aeng_subaru-levorg-2014-16-cvt-170-hp",
-    "ENGINE SPECS - 1.6L CVT AWD (170 HP)": {
+    "engine_specs": {
       "Cylinders": "H4",
       "Displacement": "1600 cm3",
       "Power": "125.1 KW @ 4800 RPM\n170 HP @ 4800 RPM\n168 BHP @ 4800 RPM",
@@ -487,18 +487,18 @@
       "Top Speed": "130 mph (209 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT (Lineartronic)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/45 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184.6 in (4689 mm)",
       "Width": "70.1 in (1781 mm)",
       "Height": "58.7 in (1491 mm)",
@@ -508,11 +508,11 @@
       "Cargo Volume": "18.4 cuFT (521 L)",
       "Aerodynamics (Cd)": "0.26"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3457 lbs (1568 kg)",
       "Gross Weight Limit": "4453 lbs (2020 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "27.7 mpg US (8.5 L/100Km)",
       "Highway": "37.3 mpg US (6.3 L/100Km)",
       "Combined": "33.1 mpg US (7.1 L/100Km)",
@@ -536,7 +536,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Liberty Sedan 2.5i CVT AWD (170 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-liberty-sedan-2008.html#aeng_subaru-liberty-sedan-2008-25i-cvt-170-hp",
-    "ENGINE SPECS - 2.5I CVT AWD (170 HP)": {
+    "engine_specs": {
       "Cylinders": "B4",
       "Displacement": "2498 cm3",
       "Power": "127 KW @ 5600 RPM\n173 HP @ 5600 RPM\n170 BHP @ 5600 RPM",
@@ -549,18 +549,18 @@
       "Top Speed": "130 mph (209 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "10.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/50 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "186.8 in (4745 mm)",
       "Width": "70.1 in (1781 mm)",
       "Height": "59.3 in (1506 mm)",
@@ -569,10 +569,10 @@
       "Ground Clearance": "5.9 in (150 mm)",
       "Cargo Volume": "16.8 cuFT (476 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3172 lbs (1439 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "21.6 mpg US (10.9 L/100Km)",
       "Highway": "38.6 mpg US (6.1 L/100Km)",
       "Combined": "29.8 mpg US (7.9 L/100Km)",
@@ -596,7 +596,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU R1 0.7L CVT AWD (45 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-r1-2005.html#aeng_subaru-r1-2005-07l-cvt-awd-45-hp",
-    "ENGINE SPECS - 0.7L CVT AWD (45 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "658 cm3",
       "Power": "33 KW @ 6000 RPM\n45 HP @ 6000 RPM\n44 BHP @ 6000 RPM",
@@ -607,18 +607,18 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "87 mph (140 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT Transmission"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "155/60 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "129.3 in (3284 mm)",
       "Width": "58.1 in (1476 mm)",
       "Height": "59.4 in (1509 mm)",
@@ -626,11 +626,11 @@
       "Wheelbase": "86.4 in (2195 mm)",
       "Ground Clearance": "6.3 in (160 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "1764 lbs (800 kg)",
       "Gross Weight Limit": "2249.1 lbs (1020 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "56.5 mpg US (4.2 L/100Km)",
       "CO2 Emissions": "97.5 g/km"
     },
@@ -652,7 +652,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Stella 0.7 CVT (54 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-stella-2006.html#aeng_subaru-stella-2006-07",
-    "ENGINE SPECS - 0.7 CVT (54 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "658 cm3",
       "Power": "39 KW @ 6400 RPM\n54 HP @ 6400 RPM\n52 BHP @ 6400 RPM",
@@ -660,26 +660,26 @@
       "Fuel System": "Electronic Fuel Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "CVT Transmission"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "133.7 in (3396 mm)",
       "Width": "58.1 in (1476 mm)",
       "Height": "64.8 in (1646 mm)",
       "Front/rear Track": "51/50.6 in (1,295/1,285 mm)",
       "Wheelbase": "92.9 in (2360 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "1896 lbs (860 kg)",
       "Gross Weight Limit": "2381.4 lbs (1080 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "53.5 mpg US (4.4 L/100Km)",
       "CO2 Emissions": "104.7 g/km"
     },
@@ -701,7 +701,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Trezia 1.3L 6MT FWD (99 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-trezia-2010.html#aeng_subaru-trezia-2010-13i-6mt-99-hp",
-    "ENGINE SPECS - 1.3L 6MT FWD (99 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1329 cm3",
       "Power": "73 KW @ 6000 RPM\n99 HP @ 6000 RPM\n98 BHP @ 6000 RPM",
@@ -714,18 +714,18 @@
       "Top Speed": "111 mph (179 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/60R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "157.3 in (3995 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "62.8 in (1595 mm)",
@@ -734,11 +734,11 @@
       "Ground Clearance": "5.5 in (140 mm)",
       "Cargo Volume": "15.1 cuFT (428 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2601 lbs (1180 kg)",
       "Gross Weight Limit": "3318 lbs (1505 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "34.6 mpg US (6.8 L/100Km)",
       "Highway": "49 mpg US (4.8 L/100Km)",
       "Combined": "43.6 mpg US (5.4 L/100Km)",
@@ -762,7 +762,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU Tribeca 3.6L 5AT AWD (260 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-tribeca-2007.html#aeng_subaru-tribeca-2007-36",
-    "ENGINE SPECS - 3.6L 5AT AWD (260 HP)": {
+    "engine_specs": {
       "Cylinders": "B6",
       "Displacement": "3630 cm3",
       "Power": "191 KW @ 6000 RPM\n260 HP @ 6000 RPM\n256 BHP @ 6000 RPM",
@@ -775,18 +775,18 @@
       "Top Speed": "128.6 mph (207 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/55 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "191.3 in (4859 mm)",
       "Width": "74 in (1880 mm)",
       "Height": "66.1 in (1679 mm)",
@@ -796,10 +796,10 @@
       "Cargo Volume": "8.3 cuFT (235 L)",
       "Aerodynamics (Cd)": "0.38"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4146.8 lbs (1881 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14.5 mpg US (16.2 L/100Km)",
       "Highway": "26.1 mpg US (9 L/100Km)",
       "Combined": "20.2 mpg US (11.6 L/100Km)",
@@ -823,7 +823,7 @@
     "fuel_type": "gasoline",
     "engine": "SUBARU XV 1.6i 5MT AWD (114 HP)",
     "engine_url": "https://www.autoevolution.com/cars/subaru-xv-2012.html#aeng_subaru-xv-2012-16i",
-    "ENGINE SPECS - 1.6I 5MT AWD (114 HP)": {
+    "engine_specs": {
       "Cylinders": "H4",
       "Displacement": "1600 cm3",
       "Power": "84 KW @ 5600 RPM\n114 HP @ 5600 RPM\n113 BHP @ 5600 RPM",
@@ -836,18 +836,18 @@
       "Top Speed": "111 mph (179 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/55 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "175.2 in (4450 mm)",
       "Width": "70.1 in (1781 mm)",
       "Height": "61.8 in (1570 mm)",
@@ -857,10 +857,10 @@
       "Cargo Volume": "10.9 cuFT (309 L)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3020 lbs (1370 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "29.4 mpg US (8 L/100Km)",
       "Highway": "40.6 mpg US (5.8 L/100Km)",
       "Combined": "36.2 mpg US (6.5 L/100Km)",

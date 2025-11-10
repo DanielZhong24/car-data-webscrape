@@ -4,7 +4,7 @@
     "fuel_type": "gasoline",
     "engine": "BUGATTI Chiron Super Sport 300+ 8.0L W16 7AT (1600 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bugatti-chiron-super-sport-300-2020.html#aeng_bugatti-chiron-super-sport-300-2020-80l-w16-7at-1600-hp",
-    "ENGINE SPECS - 8.0L W16 7AT (1600 HP)": {
+    "engine_specs": {
       "Cylinders": "W16",
       "Displacement": "7993 cm3",
       "Power": "1176.8 KW @ - RPM\n1600 HP @ - RPM\n1578 BHP @ - RPM",
@@ -16,18 +16,18 @@
       "Top Speed": "261 mph (420 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic (DSG)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P285/30ZR20 // P285/30ZR20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "178.9 in (4544 mm)",
       "Width": "80.2 in (2037 mm)",
       "Height": "47.7 in (1212 mm)",
@@ -52,7 +52,7 @@
     "fuel_type": "gasoline",
     "engine": "BUGATTI Bolide 8.0L W16 7AT AWD (1850 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bugatti-bolide-2022.html#aeng_bugatti-bolide-2022-80l-w16-7at-awd-1850-hp",
-    "ENGINE SPECS - 8.0L W16 7AT AWD (1850 HP)": {
+    "engine_specs": {
       "Cylinders": "W16",
       "Displacement": "7993 cm3",
       "Power": "1360.7 KW @ 7000 RPM\n1850 HP @ 7000 RPM\n1825 BHP @ 7000 RPM",
@@ -63,22 +63,22 @@
     "PERFORMANCE SPECS": {
       "Acceleration 0-62 Mph (0-100 kph)": "2.17 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic DSG"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "187.2 in (4755 mm)",
       "Width": "78.7 in (1999 mm)",
       "Height": "39.2 in (996 mm)",
       "Wheelbase": "108.3 in (2751 mm)",
       "Ground Clearance": "2.8 in (71 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2734 lbs (1240 kg)"
     },
     "images": [
@@ -99,7 +99,7 @@
     "fuel_type": "gasoline",
     "engine": "BUGATTI Centodieci 8.0L W16 7AT (1600 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bugatti-centodieci-2019.html#aeng_bugatti-centodieci-2019-80l-w16-7at-1600-hp",
-    "ENGINE SPECS - 8.0L W16 7AT (1600 HP)": {
+    "engine_specs": {
       "Cylinders": "W16",
       "Power": "1176.8 KW @ 7000 RPM\n1600 HP @ 7000 RPM\n1578 BHP @ 7000 RPM",
       "Fuel System": "Turbocharged Direct Injection",
@@ -109,15 +109,15 @@
       "Top Speed": "236 mph (380 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-automatic speed dual clutch"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Gross Weight Limit": "4356 lbs (1976 kg)"
     },
     "images": [
@@ -138,7 +138,7 @@
     "fuel_type": "gasoline",
     "engine": "BUGATTI Divo 8.0L W16 AWD (1500 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bugatti-divo-2018.html#aeng_bugatti-divo-2018-80l-w16-1500-hp",
-    "ENGINE SPECS - 8.0L W16 AWD (1500 HP)": {
+    "engine_specs": {
       "Cylinders": "W16",
       "Displacement": "7993 cm3",
       "Power": "1103.2 KW @ 6700 RPM\n1500 HP @ 6700 RPM\n1479 BHP @ 6700 RPM",
@@ -150,25 +150,25 @@
       "Top Speed": "236 mph (380 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic (DSG)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P285/30ZR20 || P285/30ZR20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "178.9 in (4544 mm)",
       "Width": "80.2 in (2037 mm)",
       "Height": "47.7 in (1212 mm)",
       "Wheelbase": "106.7 in (2710 mm)",
       "Ground Clearance": "3.54 in (90 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4323 lbs (1961 kg)"
     },
     "images": [
@@ -189,7 +189,7 @@
     "fuel_type": "gasoline",
     "engine": "BUGATTI La Voiture Noire 8.0L (1500 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bugatti-la-voiture-noire-2019.html#aeng_bugatti-la-voiture-noire-2019-80l-1500-hp",
-    "ENGINE SPECS - 8.0L (1500 HP)": {
+    "engine_specs": {
       "Power": "1103.2 KW @ - RPM\n1500 HP @ - RPM\n1479 BHP @ - RPM",
       "Torque": "1180 lb-ft @ - RPM\n1600 Nm @ - RPM",
       "Fuel System": "Turbocharge Direct Injection",
@@ -198,7 +198,7 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "261 mph (420 km/h)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
@@ -220,7 +220,7 @@
     "fuel_type": "gasoline",
     "engine": "BUGATTI Veyron Grand Sport Vitesse 8.0 W16 7AT (1200 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bugatti-grand-sport-vitesse-2012.html#aeng_bugatti-grand-sport-vitesse-2012-80-w16-7at-1200-hp",
-    "ENGINE SPECS - 8.0 W16 7AT (1200 HP)": {
+    "engine_specs": {
       "Cylinders": "16",
       "Displacement": "7993 cm3",
       "Power": "883 KW @ 6400 RPM\n1200 HP @ 6400 RPM\n1184 BHP @ 6400 RPM",
@@ -232,27 +232,27 @@
       "Top Speed": "255 mph (410 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs 400 mm",
       "Rear": "Ventilated discs 380 mm"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265-680 ZR 500A 99Y / 365-710 ZR 540A 108Y"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "175.7 in (4463 mm)",
       "Width": "78.7 in (1999 mm)",
       "Height": "46.9 in (1191 mm)",
       "Wheelbase": "106.7 in (2710 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4387 lbs (1990 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "6.3 mpg US (37.3 L/100Km)",
       "Highway": "15.8 mpg US (14.9 L/100Km)",
       "Combined": "10.2 mpg US (23.1 L/100Km)",

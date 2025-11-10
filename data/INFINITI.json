@@ -4,7 +4,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI QX60 2.0L 9AT AWD (271 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-qx60-2025.html#aeng_infiniti-qx60-2025-20l-9at-awd-271-hp",
-    "ENGINE SPECS - 2.0L 9AT AWD (271 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1997 cm3",
       "Power": "199.8 KW @ 5600 RPM\n272 HP @ 5600 RPM\n268 BHP @ 5600 RPM",
@@ -12,15 +12,15 @@
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "198.1 in (5032 mm)",
       "Width": "86 in (2184 mm)",
       "Front/rear Track": "66.9 / 66.9 in (1,699/1,699 mm)",
@@ -29,7 +29,7 @@
       "Cargo Volume": "14.5 cuFT (411 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4669 lbs (2118 kg)",
       "Gross Weight Limit": "6603 lbs (2995 kg)"
     },
@@ -51,7 +51,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI QX80 3.5L V6 Twin-Turbo 9AT AWD (456 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-qx80-2024.html#aeng_infiniti-qx80-2024-35l-v6-twin-turbo-9at-awd-450-hp0",
-    "ENGINE SPECS - 3.5L V6 TWIN-TURBO 9AT AWD (456 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3492 cm3",
       "Power": "335.6 KW @ 5600 RPM\n456.2 HP @ 5600 RPM\n450 BHP @ 5600 RPM",
@@ -60,18 +60,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "23.5 gallons (89.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/60 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "211.2 in (5364 mm)",
       "Width": "83.3 in (2116 mm)",
       "Height": "76.6 in (1946 mm)",
@@ -81,7 +81,7 @@
       "Cargo Volume": "22 cuFT (623 L)",
       "Aerodynamics (Cd)": "0.37"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "15 mpg US (15.7 L/100Km)",
       "Highway": "19 mpg US (12.4 L/100Km)",
       "Combined": "17 mpg US (13.8 L/100Km)"
@@ -104,18 +104,18 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI QX55 2.0L CVT (268 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-qx55-2021.html#aeng_infiniti-qx55-2021-20l-cvt-268-hp",
-    "ENGINE SPECS - 2.0L CVT (268 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Power": "197.1 KW @ 5600 RPM\n268 HP @ 5600 RPM\n264 BHP @ 5600 RPM",
       "Torque": "280 lb-ft @ 4400 RPM\n380 Nm @ 4400 RPM",
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
@@ -137,7 +137,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI QX50 2.0L CVT AWD (268 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-qx50-2020.html#aeng_infiniti-qx50-2020-20l-cvt-awd-268-hp",
-    "ENGINE SPECS - 2.0L CVT AWD (268 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1997 cm3",
       "Power": "197.1 KW @ 5600-6000 RPM\n268 HP @ 5600-6000 RPM\n264 BHP @ 5600-6000 RPM",
@@ -146,15 +146,15 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "16 gallons (60.6 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT Xtronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184.7 in (4691 mm)",
       "Width": "74.9 in (1902 mm)",
       "Height": "66 in (1676 mm)",
@@ -165,11 +165,11 @@
       "Aerodynamics (Cd)": "0.32",
       "Turning circle (curb to curb)": "36.4 ft (11.1 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3968 lbs (1800 kg)",
       "Gross Weight Limit": "5075 lbs (2302 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "22 mpg US (10.7 L/100Km)",
       "Highway": "28 mpg US (8.4 L/100Km)",
       "Combined": "25 mpg US (9.4 L/100Km)"
@@ -192,7 +192,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI EX37 3.7L V6 7AT AWD (325 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-ex-2013.html#aeng_infiniti-ex37-2013-37l-v6-7at-awd-325-hp",
-    "ENGINE SPECS - 3.7L V6 7AT AWD (325 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3696 cm3",
       "Power": "239 KW @ 7000 RPM\n325 HP @ 7000 RPM\n321 BHP @ 7000 RPM",
@@ -201,18 +201,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "21.1 gallons (79.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/55R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "182.2 in (4628 mm)",
       "Width": "71 in (1803 mm)",
       "Height": "62.6 in (1590 mm)",
@@ -222,11 +222,11 @@
       "Cargo Volume": "18.6 cuFT (527 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4017 lbs (1822 kg)",
       "Gross Weight Limit": "5024 lbs (2279 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17 mpg US (13.8 L/100Km)",
       "Highway": "25 mpg US (9.4 L/100Km)"
     },
@@ -248,7 +248,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI FX 35 AWD 7AT (303 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-fx-2008.html#aeng_infiniti-fx-2008-35-awd-7at-303-hp",
-    "ENGINE SPECS - 35 AWD 7AT (303 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3498 cm3",
       "Power": "223 KW @ 6800 RPM\n303 HP @ 6800 RPM\n299 BHP @ 6800 RPM",
@@ -257,18 +257,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "23.8 gallons (90.1 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed, automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/60R18 109V"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "191.3 in (4859 mm)",
       "Width": "75.9 in (1928 mm)",
       "Height": "66.1 in (1679 mm)",
@@ -278,11 +278,11 @@
       "Cargo Volume": "24.8 cuFT (702 L)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "5287 lbs (2398 kg)",
       "Gross Weight Limit": "5,301 lbs (2 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16 mpg US (14.7 L/100Km)",
       "Highway": "21 mpg US (11.2 L/100Km)"
     },
@@ -304,7 +304,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI IPL G Convertible 3.7L V6 7AT (343 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-ipl-g-convertible-2012.html#aeng_infiniti-ipl-g-convertible-2013-37l-v6",
-    "ENGINE SPECS - 3.7L V6 7AT (343 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3696 cm3",
       "Power": "256 KW @ 7400 RPM\n348 HP @ 7400 RPM\n343 BHP @ 7400 RPM",
@@ -316,18 +316,18 @@
       "Top Speed": "167 mph (269 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "6.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/45R19 || P245/40R19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "183.3 in (4656 mm)",
       "Width": "72.9 in (1852 mm)",
       "Height": "55.1 in (1400 mm)",
@@ -337,11 +337,11 @@
       "Cargo Volume": "10.33 cuFT (293 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4189 lbs (1900 kg)",
       "Gross Weight Limit": "5079 lbs (2304 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17 mpg US (13.8 L/100Km)",
       "Highway": "25 mpg US (9.4 L/100Km)",
       "Combined": "20 mpg US (11.8 L/100Km)"
@@ -364,7 +364,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI IPL G Coupe 3.7L V6 6MT (348 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-ipl-g-coupe-2011.html#aeng_infiniti-ipl-g-coupe-2011-37l-v6-348-hp",
-    "ENGINE SPECS - 3.7L V6 6MT (348 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3696 cm3",
       "Power": "260 KW @ 7400 RPM\n348 HP @ 7400 RPM\n349 BHP @ 7400 RPM",
@@ -376,18 +376,18 @@
       "Top Speed": "168 mph (270 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Power-assisted vented disc, 4-piston opposed calipers",
       "Rear": "Power-assisted vented disc, 2-piston opposed calipers"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P225/45WR19 || P245/40WR19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "185.1 in (4702 mm)",
       "Width": "71.8 in (1824 mm)",
       "Height": "54.9 in (1394 mm)",
@@ -397,11 +397,11 @@
       "Cargo Volume": "7.4 cuFT (210 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3727 lbs (1691 kg)",
       "Gross Weight Limit": "4656 lbs (2112 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17 mpg US (13.8 L/100Km)",
       "Highway": "25 mpg US (9.4 L/100Km)",
       "Combined": "19 mpg US (12.4 L/100Km)"
@@ -424,7 +424,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI G Sedan 3.6L V6 7AT AWD (328 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-g-sedan-2013.html#aeng_infiniti-g-sedan-2013-36-v6-7at-awd-332-hp",
-    "ENGINE SPECS - 3.6L V6 7AT AWD (328 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3696 cm3",
       "Power": "244 KW @ 7000 RPM\n332 HP @ 7000 RPM\n327 BHP @ 7000 RPM",
@@ -432,18 +432,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated disc"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/55 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "187.9 in (4773 mm)",
       "Width": "69.8 in (1773 mm)",
       "Height": "57.2 in (1453 mm)",
@@ -453,11 +453,11 @@
       "Cargo Volume": "13.5 cuFT (382 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3792 lbs (1720 kg)",
       "Gross Weight Limit": "4846 lbs (2198 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "18 mpg US (13.1 L/100Km)",
       "Highway": "25 mpg US (9.4 L/100Km)",
       "Combined": "20 mpg US (11.8 L/100Km)"
@@ -480,7 +480,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI G35 Sedan 3.5L V6 5AT AWD (309 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-g35-sedan-2006.html#aeng_infiniti-g35-sedan-2006-35l-v6-5at-awd-309-hp",
-    "ENGINE SPECS - 3.5L V6 5AT AWD (309 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3498 cm3",
       "Power": "227.3 KW @ 6800 RPM\n309 HP @ 6800 RPM\n305 BHP @ 6800 RPM",
@@ -489,18 +489,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "20.1 gallons (76.1 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/55/R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "187 in (4750 mm)",
       "Width": "69.8 in (1773 mm)",
       "Height": "57.2 in (1453 mm)",
@@ -510,11 +510,11 @@
       "Cargo Volume": "14 cuFT (396 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3792 lbs (1720 kg)",
       "Gross Weight Limit": "4788 lbs (2172 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19 mpg US (12.4 L/100Km)",
       "Highway": "25 mpg US (9.4 L/100Km)"
     },
@@ -536,7 +536,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI G35 Coupe 3.5L V6 5AT RWD (284 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-g35-coupe-2002.html#aeng_infiniti-g35-2002-35-298-hp",
-    "ENGINE SPECS - 3.5L V6 5AT RWD (284 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3498 cm3",
       "Power": "208.9 KW @ 6200 RPM\n284 HP @ 6200 RPM\n280 BHP @ 6200 RPM",
@@ -549,18 +549,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/45 R18 // 245/45 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "182.2 in (4628 mm)",
       "Width": "71.5 in (1816 mm)",
       "Height": "54.8 in (1392 mm)",
@@ -569,11 +569,11 @@
       "Ground Clearance": "6 in (152 mm)",
       "Aerodynamics (Cd)": "0.28"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3527 lbs (1600 kg)",
       "Gross Weight Limit": "4360 lbs (1978 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19 mpg US (12.4 L/100Km)",
       "Highway": "25.8 mpg US (9.1 L/100Km)"
     },
@@ -595,7 +595,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI I30/I35 3.0L V6 4AT FWD (227 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-i30i35-1999.html#aeng_infiniti-i30i35-1999-30",
-    "ENGINE SPECS - 3.0L V6 4AT FWD (227 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "2988 cm3",
       "Power": "167 KW @ 6400 RPM\n227 HP @ 6400 RPM\n224 BHP @ 6400 RPM",
@@ -608,18 +608,18 @@
       "Top Speed": "130 mph (209 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "8.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/55 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "194.1 in (4930 mm)",
       "Width": "70.1 in (1781 mm)",
       "Height": "56.5 in (1435 mm)",
@@ -628,11 +628,11 @@
       "Ground Clearance": "6.3 in (160 mm)",
       "Cargo Volume": "18.2 cuFT (515 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3153.2 lbs (1430 kg)",
       "Gross Weight Limit": "4443.1 lbs (2015 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14.7 mpg US (16 L/100Km)",
       "Highway": "29.4 mpg US (8 L/100Km)",
       "Combined": "23.5 mpg US (10 L/100Km)",
@@ -656,7 +656,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI J30 3.0L V6 4AT (213 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-j30-1993.html#aeng_infiniti-j30-1993-30",
-    "ENGINE SPECS - 3.0L V6 4AT (213 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "2960 cm3",
       "Power": "157 KW @ 6400 RPM\n213 HP @ 6400 RPM\n211 BHP @ 6400 RPM",
@@ -668,18 +668,18 @@
       "Top Speed": "127 mph (204 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "8.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "4-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/60 HR 15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "191.3 in (4859 mm)",
       "Width": "69.7 in (1770 mm)",
       "Height": "54.7 in (1389 mm)",
@@ -689,10 +689,10 @@
       "Cargo Volume": "10.1 cuFT (286 L)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3530 lbs (1601 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16 mpg US (14.7 L/100Km)",
       "Highway": "21 mpg US (11.2 L/100Km)",
       "Combined": "18 mpg US (13.1 L/100Km)",
@@ -715,7 +715,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI JX 3.5L V6 CVT (265 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-jx-2012.html#aeng_infiniti-jx-2012-35l-v6",
-    "ENGINE SPECS - 3.5L V6 CVT (265 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3498 cm3",
       "Power": "198 KW @ 6400 RPM\n269 HP @ 6400 RPM\n266 BHP @ 6400 RPM",
@@ -726,18 +726,18 @@
     "PERFORMANCE SPECS": {
       "Acceleration 0-62 Mph (0-100 kph)": "9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "Continuously Variable Transmission (CVT)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "12.6 x 1.10 in Ventilated Discs",
       "Rear": "12.13 x 0.63 in Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/65R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "196.4 in (4989 mm)",
       "Width": "77.2 in (1961 mm)",
       "Height": "67.8 in (1722 mm)",
@@ -747,11 +747,11 @@
       "Cargo Volume": "15.8 cuFT (447 L)",
       "Aerodynamics (Cd)": "0.34"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4419 lbs (2004 kg)",
       "Gross Weight Limit": "5937 lbs (2693 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "18 mpg US (13.1 L/100Km)",
       "Highway": "23 mpg US (10.2 L/100Km)",
       "Combined": "20 mpg US (11.8 L/100Km)"
@@ -774,7 +774,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI M Sedan 35h V6 7AT RWD (364 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-m-sedan-2010.html#aeng_infiniti-m-sedan-2010-35h-7at-364-hp",
-    "ENGINE SPECS - 35H V6 7AT RWD (364 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3498 cm3",
       "Power": "225 KW @ 6800 RPM\n306 HP @ 6800 RPM\n302 BHP @ 6800 RPM",
@@ -788,18 +788,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/50 R 18 W"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "194.7 in (4945 mm)",
       "Width": "72.6 in (1844 mm)",
       "Height": "59.1 in (1501 mm)",
@@ -810,11 +810,11 @@
       "Aerodynamics (Cd)": "0.26",
       "Turning circle": "36.7 ft (11.2 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4136 lbs (1876 kg)",
       "Gross Weight Limit": "5512 lbs (2500 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "26.1 mpg US (9 L/100Km)",
       "Highway": "42 mpg US (5.6 L/100Km)",
       "Combined": "34.1 mpg US (6.9 L/100Km)",
@@ -838,7 +838,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI Q40 3.7L V6 7AT AWD (328 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-q40-2014.html#aeng_infiniti-q40-2014-37-v6-7at-awd-328-hp",
-    "ENGINE SPECS - 3.7L V6 7AT AWD (328 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3696 cm3",
       "Power": "244.6 KW @ 7000 RPM\n332.5 HP @ 7000 RPM\n328 BHP @ 7000 RPM",
@@ -846,18 +846,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/55 R 17 95V"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "186.3 in (4732 mm)",
       "Width": "68.2 in (1732 mm)",
       "Height": "57.2 in (1453 mm)",
@@ -867,11 +867,11 @@
       "Cargo Volume": "13.6 cuFT (385 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3821 lbs (1733 kg)",
       "Gross Weight Limit": "4846 lbs (2198 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "18 mpg US (13.1 L/100Km)",
       "Highway": "25 mpg US (9.4 L/100Km)",
       "Combined": "20 mpg US (11.8 L/100Km)"
@@ -894,7 +894,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI Q50 2.0L 7AT AWD (208 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-q50-2018.html#aeng_infiniti-q50-2018-20l-7at-awd-208-hp",
-    "ENGINE SPECS - 2.0L 7AT AWD (208 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1991 cm3",
       "Power": "153 KW @ 5500 RPM\n208 HP @ 5500 RPM\n205 BHP @ 5500 RPM",
@@ -903,18 +903,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "19.5 gallons (73.8 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/50R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "189.6 in (4816 mm)",
       "Width": "71.8 in (1824 mm)",
       "Height": "57.2 in (1453 mm)",
@@ -923,11 +923,11 @@
       "Ground Clearance": "5.2 in (132 mm)",
       "Aerodynamics (Cd)": "0.26"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3803 lbs (1725 kg)",
       "Gross Weight Limit": "4940 lbs (2241 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "22 mpg US (10.7 L/100Km)",
       "Highway": "28 mpg US (8.4 L/100Km)",
       "Combined": "24 mpg US (9.8 L/100Km)"
@@ -950,7 +950,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI Q60 2.0L 7AT AWD (208 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-q60-2018.html#aeng_infiniti-q60-2018-20l-7at-awd-208-hp",
-    "ENGINE SPECS - 2.0L 7AT AWD (208 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1991 cm3",
       "Power": "153 KW @ 5500 RPM\n208 HP @ 5500 RPM\n205 BHP @ 5500 RPM",
@@ -959,18 +959,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "20.1 gallons (76.1 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/40 R19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184.4 in (4684 mm)",
       "Width": "72.8 in (1849 mm)",
       "Height": "54.9 in (1394 mm)",
@@ -979,11 +979,11 @@
       "Cargo Volume": "8.7 cuFT (246 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3895 lbs (1767 kg)",
       "Gross Weight Limit": "4894 lbs (2220 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "21 mpg US (11.2 L/100Km)",
       "Highway": "28 mpg US (8.4 L/100Km)",
       "Combined": "24 mpg US (9.8 L/100Km)",
@@ -1007,7 +1007,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI Q60 Convertible 3.7L V6 VVEL 6MT RWD (329 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-q60-convertible-2013.html#aeng_infiniti-q60-convertible-2013-37-v6-6mt-329-hp",
-    "ENGINE SPECS - 3.7L V6 VVEL 6MT RWD (329 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3696 cm3",
       "Power": "242 KW @ 7200 RPM\n329 HP @ 7200 RPM\n325 BHP @ 7200 RPM",
@@ -1019,18 +1019,18 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "155 mph (249 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/40 R19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184 in (4674 mm)",
       "Width": "72.9 in (1852 mm)",
       "Height": "55.1 in (1400 mm)",
@@ -1040,10 +1040,10 @@
       "Cargo Volume": "11.8 cuFT (334 L)",
       "Aerodynamics (Cd)": "0.31"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4149 lbs (1882 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16 mpg US (14.7 L/100Km)",
       "Highway": "24 mpg US (9.8 L/100Km)",
       "Combined": "19 mpg US (12.4 L/100Km)"
@@ -1066,7 +1066,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI Q70 3.7L V6 7AT AWD (334 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-q70-2013.html#aeng_infiniti-q70-2013-37-v6-7at-awd-334-hp",
-    "ENGINE SPECS - 3.7L V6 7AT AWD (334 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3696 cm3",
       "Power": "245 KW @ 7000 RPM\n333 HP @ 7000 RPM\n329 BHP @ 7000 RPM",
@@ -1075,18 +1075,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "19.5 gallons (73.8 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated discs 330 x 20"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/50 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "194.7 in (4945 mm)",
       "Width": "72.6 in (1844 mm)",
       "Height": "59.1 in (1501 mm)",
@@ -1095,10 +1095,10 @@
       "Cargo Volume": "14.9 cuFT (422 L)",
       "Aerodynamics (Cd)": "0.27"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4030 lbs (1828 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17 mpg US (13.8 L/100Km)",
       "Highway": "24 mpg US (9.8 L/100Km)"
     },
@@ -1120,7 +1120,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI QX 5.6L V8 2WD (400 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-qx-2010.html#aeng_infiniti-qx-2010-56l-v8-2wd-400-hp",
-    "ENGINE SPECS - 5.6L V8 2WD (400 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "5552 cm3",
       "Power": "294 KW @ 5800 RPM\n400 HP @ 5800 RPM\n394 BHP @ 5800 RPM",
@@ -1128,18 +1128,18 @@
       "Fuel System": "Direct Injection Gasoline",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed, Automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/50 R22 or 275/60 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "208.3 in (5291 mm)",
       "Width": "79.9 in (2029 mm)",
       "Height": "75.8 in (1925 mm)",
@@ -1149,11 +1149,11 @@
       "Cargo Volume": "16.6 cuFT (470 L)",
       "Aerodynamics (Cd)": "0.36"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "5595 lbs (2538 kg)",
       "Gross Weight Limit": "7300 lbs (3311 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14 mpg US (16.8 L/100Km)",
       "Highway": "20 mpg US (11.8 L/100Km)"
     },
@@ -1175,7 +1175,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI QX30 2.0L 7AT AWD (208 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-qx30-2017.html#aeng_infiniti-qx30-2017-20l-7at-awd-208-hp",
-    "ENGINE SPECS - 2.0L 7AT AWD (208 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1991 cm3",
       "Power": "153 KW @ 5500 RPM\n208 HP @ 5500 RPM\n205 BHP @ 5500 RPM",
@@ -1183,18 +1183,18 @@
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/50R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "174.2 in (4425 mm)",
       "Width": "71.1 in (1806 mm)",
       "Height": "58.9 in (1496 mm)",
@@ -1204,7 +1204,7 @@
       "Cargo Volume": "13 cuFT (368 L)",
       "Aerodynamics (Cd)": "0.34"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3475 lbs (1576 kg)",
       "Gross Weight Limit": "4387 lbs (1990 kg)"
     },
@@ -1226,7 +1226,7 @@
     "fuel_type": "gasoline",
     "engine": "INFINITI QX70 3.7L V6 7AT AWD (325 HP)",
     "engine_url": "https://www.autoevolution.com/cars/infiniti-qx70-2017.html#aeng_infiniti-qx70-2017-37l-v6-7at-325-hp",
-    "ENGINE SPECS - 3.7L V6 7AT AWD (325 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3696 cm3",
       "Power": "239 KW @ 7000 RPM\n325 HP @ 7000 RPM\n321 BHP @ 7000 RPM",
@@ -1234,15 +1234,15 @@
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "191.3 in (4859 mm)",
       "Width": "75.9 in (1928 mm)",
       "Height": "65 in (1651 mm)",
@@ -1252,11 +1252,11 @@
       "Cargo Volume": "24.8 cuFT (702 L)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4321 lbs (1960 kg)",
       "Gross Weight Limit": "5519 lbs (2503 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16 mpg US (14.7 L/100Km)",
       "Highway": "22 mpg US (10.7 L/100Km)",
       "Combined": "18 mpg US (13.1 L/100Km)"

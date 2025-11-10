@@ -4,7 +4,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Kuga 1.5L EcoBoost 6MT FWD (150 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-kuga-2024.html#aeng_ford-kuga-2024-15l-ecoboost-6mt-fwd-150-hp",
-    "ENGINE SPECS - 1.5L ECOBOOST 6MT FWD (150 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "1497 cm3",
       "Power": "110.3 KW @ 6000 RPM\n150 HP @ 6000 RPM\n148 BHP @ 6000 RPM",
@@ -12,18 +12,18 @@
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-manual speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/65 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "181.3 in (4605 mm)",
       "Width": "74.1 in (1882 mm)",
       "Height": "66.1 in (1679 mm)",
@@ -50,7 +50,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Expedition 3.5L EcoBoost V6 10AT RWD (406 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-expedition-2024.html#aeng_ford-expedition-2024-35l-ecoboost-v6-10at-rwd-406-hp",
-    "ENGINE SPECS - 3.5L ECOBOOST V6 10AT RWD (406 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Power": "298.3 KW @ 5200 RPM\n405.5 HP @ 5200 RPM\n400 BHP @ 5200 RPM",
       "Torque": "480 lb-ft @ 3300 RPM\n651 Nm @ 3300 RPM",
@@ -58,11 +58,11 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "23.2 gallons (87.8 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "P265/70R18 all-terrain"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "209.9 in (5331 mm)",
       "Width": "80 in (2032 mm)",
       "Height": "78.1 in (1984 mm)",
@@ -70,7 +70,7 @@
       "Wheelbase": "122.5 in (3112 mm)",
       "Ground Clearance": "8.7 in (221 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "5404 lbs (2451 kg)",
       "Gross Weight Limit": "6100 lbs (2767 kg)"
     },
@@ -92,7 +92,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Explorer 2.3L EcoBoost 10AT RWD (304 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-explorer-2024.html#aeng_ford-explorer-2024-23l-ecoboost-10at-rwd-304-hp",
-    "ENGINE SPECS - 2.3L ECOBOOST 10AT RWD (304 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2261 cm3",
       "Power": "223.7 KW @ - RPM\n304.2 HP @ - RPM\n300 BHP @ - RPM",
@@ -100,14 +100,14 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "17.9 gallons (67.8 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "10-speed automatic"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P255/65R18 All-Season (A/S) BSW"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "198.7 in (5047 mm)",
       "Width": "78.9 in (2004 mm)",
       "Height": "69.6 in (1768 mm)",
@@ -116,7 +116,7 @@
       "Ground Clearance": "7.6 in (193 mm)",
       "Cargo Volume": "16.3 cuFT (462 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4303 lbs (1952 kg)"
     },
     "images": [
@@ -137,7 +137,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD E-Tourneo Courier 1.0L EcoBoost 6MT FWD (125 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-e-tourneo-courier-2023.html#aeng_ford-e-tourneo-courier-2023-10l-ecoboost-6mt-fwd-125-hp",
-    "ENGINE SPECS - 1.0L ECOBOOST 6MT FWD (125 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "998 cm3",
       "Power": "91.9 KW @ 6000 RPM\n125 HP @ 6000 RPM\n123 BHP @ 6000 RPM",
@@ -146,18 +146,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "11.9 gallons (45.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Drum"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/65 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "170.7 in (4336 mm)",
       "Width": "73.9 in (1877 mm)",
       "Height": "71.5 in (1816 mm)",
@@ -167,7 +167,7 @@
       "Cargo Volume": "20.1 cuFT (569 L)",
       "Turning circle (curb to curb)": "35.1 ft (10.7 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3344 lbs (1517 kg)",
       "Gross Weight Limit": "4409 lbs (2000 kg)"
     },
@@ -197,7 +197,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Everest 2.5L TDCi 5MT FWD (143 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-everest-2007.html#aeng_ford-everest-2007-25-tdci",
-    "ENGINE SPECS - 2.5L TDCI 5MT FWD (143 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2499 cm3",
       "Power": "105 KW @ 3500 RPM\n143 HP @ 3500 RPM\n141 BHP @ 3500 RPM",
@@ -206,22 +206,22 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "21.1 gallons (79.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "196.8 in (4999 mm)",
       "Width": "70.4 in (1788 mm)",
       "Height": "72.2 in (1834 mm)",
       "Front/rear Track": "58.1/57.9 in (1,476/1,471 mm)",
       "Wheelbase": "112.6 in (2860 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4132.2 lbs (1874 kg)"
     },
     "images": [
@@ -242,7 +242,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Focus ST 2.3L EcoBoost 6MT FWD (280 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-focus-st-2021.html#aeng_ford-focus-st-2021-23l-ecoboost-6mt-280-hp",
-    "ENGINE SPECS - 2.3L ECOBOOST 6MT FWD (280 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2261 cm3",
       "Power": "205.9 KW @ 5500 RPM\n280 HP @ 5500 RPM\n276 BHP @ 5500 RPM",
@@ -255,18 +255,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/40 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "173 in (4394 mm)",
       "Width": "72.8 in (1849 mm)",
       "Height": "57.2 in (1453 mm)",
@@ -275,11 +275,11 @@
       "Ground Clearance": "4.7 in (119 mm)",
       "Cargo Volume": "12.6 cuFT (357 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3333 lbs (1512 kg)",
       "Gross Weight Limit": "4453 lbs (2020 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "30.2 mpg US (7.8 L/100Km)",
       "CO2 Emissions": "180 g/km"
     },
@@ -301,7 +301,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Ranger (US) 2.3L EcoBoost 10AT AWD (274 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-ranger-us-2023.html#aeng_ford-ranger-us-2023-23l-ecoboost-10at-awd-274-hp",
-    "ENGINE SPECS - 2.3L ECOBOOST 10AT AWD (274 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2300 cm3",
       "Power": "201.3 KW @ - RPM\n273.7 HP @ - RPM\n270 BHP @ - RPM",
@@ -310,18 +310,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "18.8 gallons (71.2 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "10-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/70R17 A/T BSW"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "210.6 in (5349 mm)",
       "Width": "86.7 in (2202 mm)",
       "Height": "74.4 in (1890 mm)",
@@ -331,7 +331,7 @@
       "Cargo Volume": "43.5 cuFT (1232 L)",
       "Turning circle (curb to curb)": "42.5 ft (13.0 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4415 lbs (2003 kg)",
       "Gross Weight Limit": "7500 lbs (3402 kg)"
     },
@@ -353,7 +353,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Focus Active Wagon 2.3L EcoBoost 6MT FWD (280 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-focus-active-wagon-2021.html#aeng_ford-focus-active-wagon-2021-23l-ecoboost-6mt-280-hp",
-    "ENGINE SPECS - 2.3L ECOBOOST 6MT FWD (280 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2261 cm3",
       "Power": "205.9 KW @ 5500 RPM\n280 HP @ 5500 RPM\n276 BHP @ 5500 RPM",
@@ -366,18 +366,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/40 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184.1 in (4676 mm)",
       "Width": "72.8 in (1849 mm)",
       "Height": "58.6 in (1488 mm)",
@@ -386,11 +386,11 @@
       "Ground Clearance": "4.6 in (117 mm)",
       "Cargo Volume": "20.9 cuFT (592 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3411 lbs (1547 kg)",
       "Gross Weight Limit": "4564 lbs (2070 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "28.3 mpg US (8.3 L/100Km)",
       "CO2 Emissions": "189 g/km"
     },
@@ -412,7 +412,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Focus 1.0L EcoBoost 6MT FWD (100 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-focus-2021.html#aeng_ford-focus-2021-10l-ecoboost-6mt-100-hp",
-    "ENGINE SPECS - 1.0L ECOBOOST 6MT FWD (100 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "999 cm3",
       "Power": "73.5 KW @ 4500-6000 RPM\n100 HP @ 4500-6000 RPM\n99 BHP @ 4500-6000 RPM",
@@ -425,18 +425,18 @@
       "Top Speed": "116 mph (187 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Disc"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/60 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "172.5 in (4382 mm)",
       "Width": "71.9 in (1826 mm)",
       "Height": "57.9 in (1471 mm)",
@@ -445,7 +445,7 @@
       "Cargo Volume": "13.8 cuFT (391 L)",
       "Turning circle": "36.1 ft (11.0 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2767 lbs (1255 kg)",
       "Gross Weight Limit": "4178 lbs (1895 kg)"
     },
@@ -475,18 +475,18 @@
     "fuel_type": "gasoline",
     "engine": "FORD F-150 Raptor 3.5L EcoBoost V6 10AT",
     "engine_url": "https://www.autoevolution.com/cars/ford-f-150-raptor-2021.html#aeng_ford-f-150-raptor-2021-35l-ecoboost-v6-10at",
-    "ENGINE SPECS - 3.5L ECOBOOST V6 10AT": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3490 cm3",
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline",
       "Fuel capacity": "36 gallons (136.3 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "10-speed automatic"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "232.6 in (5908 mm)",
       "Width": "96 in (2438 mm)",
       "Height": "79.8 in (2027 mm)",
@@ -513,7 +513,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Maverick 2.0L EcoBoost 8AT (250 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-maverick-2021.html#aeng_ford-maverick-2021-20l-ecoboost-8at-250-hp",
-    "ENGINE SPECS - 2.0L ECOBOOST 8AT (250 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1999 cm3",
       "Power": "183.9 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
@@ -525,18 +525,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "16.5 gallons (62.5 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/65/R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "199.7 in (5072 mm)",
       "Width": "77.9 in (1979 mm)",
       "Height": "68.7 in (1745 mm)",
@@ -544,7 +544,7 @@
       "Wheelbase": "121.1 in (3076 mm)",
       "Ground Clearance": "8.3 in (211 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3731 lbs (1692 kg)"
     },
     "POWER SYSTEM SPECS": {
@@ -568,7 +568,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Super Duty Lariat Tremor 7.3L V8 (430 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-super-duty-lariat-tremor-2021.html#aeng_ford-super-duty-lariat-tremor-2021-73l-v8-430-hp",
-    "ENGINE SPECS - 7.3L V8 (430 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Power": "316.3 KW @ - RPM\n430 HP @ - RPM\n424 BHP @ - RPM",
       "Torque": "475 lb-ft @ - RPM\n644 Nm @ - RPM",
@@ -592,7 +592,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Mustang Mach 1 5.0L V8 10AT RWD (460 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-mach-1-2020.html#aeng_ford-mach-1-2020-50l-v8-10at-460-hp",
-    "ENGINE SPECS - 5.0L V8 10AT RWD (460 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Power": "338.3 KW @ 7500 RPM\n460 HP @ 7500 RPM\n454 BHP @ 7500 RPM",
       "Torque": "390 lb-ft @ 4600 RPM\n529 Nm @ 4600 RPM",
@@ -602,11 +602,11 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "166 mph (267 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "10-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
@@ -628,17 +628,17 @@
     "fuel_type": "gasoline",
     "engine": "FORD F-150 Tremor 3.5L V6 EcoBoost 10 AT AWD (450 HP) (",
     "engine_url": "https://www.autoevolution.com/cars/ford-f-150-tremor-2020.html#aeng_ford-f-150-tremor-2020-35l-v6-ecoboost-10-at-awd-450-hp",
-    "ENGINE SPECS - 3.5L V6 ECOBOOST 10 AT AWD (450 HP) (": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Power": "257.4 KW @ - RPM\n350 HP @ - RPM\n345 BHP @ - RPM",
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "10-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
@@ -660,7 +660,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Puma ST 1.5L EcoBoost 6MT FWD (200 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-puma-st-2020.html#aeng_ford-puma-st-2020-15l-ecoboost-6mt-200-hp",
-    "ENGINE SPECS - 1.5L ECOBOOST 6MT FWD (200 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "1497 cm3",
       "Power": "147.1 KW @ 6000 RPM\n200 HP @ 6000 RPM\n197 BHP @ 6000 RPM",
@@ -673,18 +673,18 @@
       "Top Speed": "137 mph (220 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "6.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Drum"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/40 R19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "166.4 in (4227 mm)",
       "Width": "71.1 in (1806 mm)",
       "Height": "60.4 in (1534 mm)",
@@ -693,11 +693,11 @@
       "Ground Clearance": "5.2 in (132 mm)",
       "Cargo Volume": "16.1 cuFT (456 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2994 lbs (1358 kg)",
       "Gross Weight Limit": "4001 lbs (1815 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "30.9 mpg US (7.6 L/100Km)",
       "Highway": "47 mpg US (5 L/100Km)",
       "Combined": "39.2 mpg US (6 L/100Km)",
@@ -725,7 +725,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD GT 3.5L V6 7AT (660 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-gt-2019.html#aeng_ford-gt-2019-35l-v6-7at-660-hp",
-    "ENGINE SPECS - 3.5L V6 7AT (660 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3497 cm3",
       "Power": "485.4 KW @ 6250 RPM\n660 HP @ 6250 RPM\n651 BHP @ 6250 RPM",
@@ -738,18 +738,18 @@
       "Top Speed": "216 mph (348 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 R20 // 325/30 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "188.9 in (4798 mm)",
       "Width": "83.2 in (2113 mm)",
       "Height": "43.7 in (1110 mm)",
@@ -760,7 +760,7 @@
       "Aerodynamics (Cd)": "0.388",
       "Aerodynamics (frontal area)": "1.78 m2"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3053 lbs (1385 kg)"
     },
     "images": [
@@ -781,7 +781,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Galaxy 1.5L EcoBoost 6MT FWD (160 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-galaxy-2019.html#aeng_ford-galaxy-2019-15l-ecoboost-6mt-160-hp",
-    "ENGINE SPECS - 1.5L ECOBOOST 6MT FWD (160 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1498 cm3",
       "Power": "117.7 KW @ 6000 RPM\n160 HP @ 6000 RPM\n158 BHP @ 6000 RPM",
@@ -790,18 +790,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "18.5 gallons (70.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/55 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "190.9 in (4849 mm)",
       "Width": "84.1 in (2136 mm)",
       "Height": "68.8 in (1748 mm)",
@@ -811,11 +811,11 @@
       "Turning circle (curb to curb)": "38.1 ft (11.6 m)",
       "Turning circle (wall to wall)": "39.4 ft (12.0 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3765 lbs (1708 kg)",
       "Gross Weight Limit": "5534 lbs (2510 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "32.7 mpg US (7.2 L/100Km)",
       "Highway": "44.4 mpg US (5.3 L/100Km)",
       "Combined": "39.2 mpg US (6 L/100Km)",
@@ -839,7 +839,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD S-Max 1.5L EcoBoost 6MT FWD (160 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-s-max-2015.html#aeng_ford-s-max-2014-15-ecoboost-6mt-160-hp",
-    "ENGINE SPECS - 1.5L ECOBOOST 6MT FWD (160 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1498 cm3",
       "Power": "118 KW @ 6000 RPM\n160 HP @ 6000 RPM\n158 BHP @ 6000 RPM",
@@ -852,18 +852,18 @@
       "Top Speed": "124 mph (200 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "9.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/55 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "188.8 in (4796 mm)",
       "Width": "75.4 in (1915 mm)",
       "Height": "65.2 in (1656 mm)",
@@ -873,11 +873,11 @@
       "Cargo Volume": "24.7 cuFT (699 L)",
       "Aerodynamics (Cd)": "0.31"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3627 lbs (1645 kg)",
       "Gross Weight Limit": "5401 lbs (2450 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "29.4 mpg US (8 L/100Km)",
       "Highway": "42 mpg US (5.6 L/100Km)",
       "Combined": "36.2 mpg US (6.5 L/100Km)",
@@ -901,7 +901,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Figo 1.2L Ti-VCT 5MT FWD (96 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-figo-2018.html#aeng_ford-figo-2018-12l-5mt-96-hp",
-    "ENGINE SPECS - 1.2L TI-VCT 5MT FWD (96 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1194 cm3",
       "Power": "70.6 KW @ 6500 RPM\n96 HP @ 6500 RPM\n95 BHP @ 6500 RPM",
@@ -910,24 +910,24 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "11.1 gallons (42.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "175/65 R14"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "155.2 in (3942 mm)",
       "Width": "67.1 in (1704 mm)",
       "Height": "60 in (1524 mm)",
       "Wheelbase": "98 in (2489 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2240 - 2277 lbs (1016 - 1033 kg)"
     },
     "images": [
@@ -948,7 +948,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD F-150 SuperCab 3.5L V6 EcoBoost 6AT (4x2)",
     "engine_url": "https://www.autoevolution.com/cars/ford-f-150-super-cab-2012.html#aeng_ford-f-150-super-cab-2012-35-v6-ecoboost-6at-4x2",
-    "ENGINE SPECS - 3.5L V6 ECOBOOST 6AT (4X2)": {
+    "engine_specs": {
       "Cylinders": "6",
       "Displacement": "3498 cm3",
       "Power": "268 KW @ 5000 RPM\n365 HP @ 5000 RPM\n359 BHP @ 5000 RPM",
@@ -956,26 +956,26 @@
       "Fuel System": "High Pressure Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "231.9 in (5890 mm)",
       "Width": "79.2 in (2012 mm)",
       "Height": "75.2 in (1910 mm)",
       "Front/rear Track": "67/67 in (1,702/1,702 mm)",
       "Wheelbase": "144.5 in (3670 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "5203 lbs (2360 kg)",
       "Gross Weight Limit": "7050 lbs (3198 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16 mpg US (14.7 L/100Km)",
       "Highway": "22 mpg US (10.7 L/100Km)",
       "Combined": "18 mpg US (13.1 L/100Km)"
@@ -998,7 +998,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Puma 1.0L EcoBoost 6MT FWD (125 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-puma-2019.html#aeng_ford-puma-2019-10l-ecoboost-6mt-125-hp",
-    "ENGINE SPECS - 1.0L ECOBOOST 6MT FWD (125 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "999 cm3",
       "Power": "91.9 KW @ 6000 RPM\n125 HP @ 6000 RPM\n123 BHP @ 6000 RPM",
@@ -1011,29 +1011,29 @@
       "Top Speed": "119 mph (192 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "10 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/55 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "164.8 in (4186 mm)",
       "Width": "71.1 in (1806 mm)",
       "Height": "60.5 in (1537 mm)",
       "Wheelbase": "101.9 in (2588 mm)",
       "Cargo Volume": "18.5 cuFT (524 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2657 lbs (1205 kg)",
       "Gross Weight Limit": "3891 lbs (1765 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "43.6 mpg US (5.4 L/100Km)",
       "Highway": "58.8 mpg US (4 L/100Km)",
       "Combined": "52.3 mpg US (4.5 L/100Km)",
@@ -1057,7 +1057,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD B-Max 1.0L EcoBoost 5MT FWD (100 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-b-max-2012.html#aeng_ford-b-max-2012-10-ecoboost-100-hp",
-    "ENGINE SPECS - 1.0L ECOBOOST 5MT FWD (100 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "999 cm3",
       "Power": "74 KW @ 6000 RPM\n101 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
@@ -1070,18 +1070,18 @@
       "Top Speed": "109 mph (175 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/60 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "159.8 in (4059 mm)",
       "Width": "61 in (1549 mm)",
       "Height": "63 in (1600 mm)",
@@ -1091,11 +1091,11 @@
       "Cargo Volume": "11.2 cuFT (317 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2820 lbs (1279 kg)",
       "Gross Weight Limit": "3880 lbs (1760 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "39 mpg US (6 L/100Km)",
       "Highway": "55 mpg US (4.3 L/100Km)",
       "Combined": "48 mpg US (4.9 L/100Km)",
@@ -1119,7 +1119,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD C-Max 1.0L EcoBoost 6MT FWD (100 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-c-max-2014.html#aeng_ford-c-max-2014-10-ecoboost-6mt-100-hp",
-    "ENGINE SPECS - 1.0L ECOBOOST 6MT FWD (100 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "999 cm3",
       "Power": "74 KW @ 6000 RPM\n101 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
@@ -1132,18 +1132,18 @@
       "Top Speed": "108 mph (174 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "278mm Ventilated Discs",
       "Rear": "280mm Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/55 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "172.4 in (4379 mm)",
       "Width": "72 in (1829 mm)",
       "Height": "63.4 in (1610 mm)",
@@ -1153,11 +1153,11 @@
       "Cargo Volume": "16.6 cuFT (470 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3067 lbs (1391 kg)",
       "Gross Weight Limit": "4189 lbs (1900 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "37.9 mpg US (6.2 L/100Km)",
       "Highway": "52.3 mpg US (4.5 L/100Km)",
       "Combined": "46.1 mpg US (5.1 L/100Km)",
@@ -1181,7 +1181,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Mondeo Sedan 1.6i 5MT FWD (90 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-mondeo-sedan-1997.html#aeng_ford-contourmondeo-1997-16i-90-hp",
-    "ENGINE SPECS - 1.6I 5MT FWD (90 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1598 cm3",
       "Power": "66 KW @ 5250 RPM\n90 HP @ 5250 RPM\n89 BHP @ 5250 RPM",
@@ -1194,18 +1194,18 @@
       "Top Speed": "111.8 mph (180 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/65/R14"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.5 in (4559 mm)",
       "Width": "68.9 in (1750 mm)",
       "Height": "53.9 in (1369 mm)",
@@ -1214,11 +1214,11 @@
       "Ground Clearance": "4.7 in (119 mm)",
       "Cargo Volume": "16.5 cuFT (467 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2663.2 lbs (1208 kg)",
       "Gross Weight Limit": "3924.2 lbs (1780 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "22 mpg US (10.7 L/100Km)",
       "Highway": "40.6 mpg US (5.8 L/100Km)",
       "Combined": "30.9 mpg US (7.6 L/100Km)",
@@ -1242,7 +1242,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Cougar 2.0i 5MT (130 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-cougar-1998.html#aeng_ford-cougar-1998-20i",
-    "ENGINE SPECS - 2.0I 5MT (130 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "96 KW @ 5600 RPM\n130 HP @ 5600 RPM\n129 BHP @ 5600 RPM",
@@ -1254,18 +1254,18 @@
       "Top Speed": "129.9 mph (209 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "10.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/50VR16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "185 in (4699 mm)",
       "Width": "69.7 in (1770 mm)",
       "Height": "52 in (1321 mm)",
@@ -1275,11 +1275,11 @@
       "Cargo Volume": "12.3 cuFT (348 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2846.2 lbs (1291 kg)",
       "Gross Weight Limit": "3714.8 lbs (1685 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "20.1 mpg US (11.7 L/100Km)",
       "Highway": "37.3 mpg US (6.3 L/100Km)",
       "Combined": "28.3 mpg US (8.3 L/100Km)",
@@ -1303,7 +1303,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Crown Victoria 4.6L V8 4AT RWD (218 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-crown-victoria-1998.html#aeng_ford-crown-victoria-1998-46-218-hp",
-    "ENGINE SPECS - 4.6L V8 4AT RWD (218 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4601 cm3",
       "Power": "160 KW @ 4500 RPM\n218 HP @ 4500 RPM\n215 BHP @ 4500 RPM",
@@ -1315,29 +1315,29 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "110 mph (177 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "4-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/60 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "212 in (5385 mm)",
       "Width": "78.2 in (1986 mm)",
       "Height": "56.8 in (1443 mm)",
       "Front/rear Track": "63.4/65.3 in (1,610/1,659 mm)",
       "Wheelbase": "114.7 in (2913 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3926 lbs (1781 kg)",
       "Gross Weight Limit": "5018 lbs (2276 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17 mpg US (13.8 L/100Km)",
       "Highway": "25 mpg US (9.4 L/100Km)"
     },
@@ -1359,7 +1359,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Econovan 2.0 5MT (97 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-econovan-1999.html#aeng_ford-econovan-1999-20",
-    "ENGINE SPECS - 2.0 5MT (97 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "71 KW @ 4800 RPM\n97 HP @ 4800 RPM\n95 BHP @ 4800 RPM",
@@ -1367,29 +1367,29 @@
       "Fuel System": "Electronic Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/80R15 103/101L LT"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184.6 in (4689 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "78 in (1981 mm)",
       "Front/rear Track": "57.1/51.4 in (1,450/1,306 mm)",
       "Wheelbase": "102.4 in (2601 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3373.7 lbs (1530 kg)",
       "Gross Weight Limit": "6306.3 lbs (2860 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "31.8 mpg US (7.4 L/100Km)",
       "CO2 Emissions": "176 g/km"
     },
@@ -1408,7 +1408,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD EcoSport 1.0L EcoBoost 6AT FWD (123 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-ecosport-2017.html#aeng_ford-ecosport-2017-16-ecoboost-6at-123-hp",
-    "ENGINE SPECS - 1.0L ECOBOOST 6AT FWD (123 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "999 cm3",
       "Power": "91.9 KW @ 6000 RPM\n125 HP @ 6000 RPM\n123 BHP @ 6000 RPM",
@@ -1421,18 +1421,18 @@
       "Top Speed": "112 mph (180 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/60 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "161.3 in (4097 mm)",
       "Width": "69.5 in (1765 mm)",
       "Height": "65.1 in (1654 mm)",
@@ -1441,11 +1441,11 @@
       "Ground Clearance": "7.5 in (191 mm)",
       "Cargo Volume": "20.9 cuFT (592 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2919 lbs (1324 kg)",
       "Gross Weight Limit": "3913 lbs (1775 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "27 mpg US (8.7 L/100Km)",
       "Highway": "29 mpg US (8.1 L/100Km)",
       "Combined": "25 mpg US (9.4 L/100Km)"
@@ -1468,7 +1468,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD EDGE 2.7L V6 EcoBoost 8AT AWD (335 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-edge-2018.html#aeng_ford-edge-2018-27l-v6-ecoboost-8at-awd-335-hp",
-    "ENGINE SPECS - 2.7L V6 ECOBOOST 8AT AWD (335 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "2688 cm3",
       "Power": "246.4 KW @ 5550 RPM\n335 HP @ 5550 RPM\n330 BHP @ 5550 RPM",
@@ -1476,18 +1476,18 @@
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/50 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "188.1 in (4778 mm)",
       "Width": "75.9 in (1928 mm)",
       "Height": "68.6 in (1742 mm)",
@@ -1495,10 +1495,10 @@
       "Wheelbase": "112.2 in (2850 mm)",
       "Cargo Volume": "39.2 cuFT (1110 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Gross Weight Limit": "3911 lbs (1774 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19 mpg US (12.4 L/100Km)",
       "Highway": "26.1 mpg US (9 L/100Km)",
       "Combined": "21 mpg US (11.2 L/100Km)"
@@ -1521,7 +1521,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Edge ST 2.7 V6 8AT (335 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-edge-st-2018.html#aeng_ford-edge-st-2018-27-v6-8at-335-hp",
-    "ENGINE SPECS - 2.7 V6 8AT (335 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "2694 cm3",
       "Power": "249.8 KW @ - RPM\n339.6 HP @ - RPM\n335 BHP @ - RPM",
@@ -1529,11 +1529,11 @@
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
@@ -1555,7 +1555,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Escort 4 Doors 1.4i (71 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-escort-4-doors-1995.html#aeng_ford-escort-4-doors-1995-14i-71-hp",
-    "ENGINE SPECS - 1.4I (71 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1392 cm3",
       "Power": "52 KW @ 5600 RPM\n71 HP @ 5600 RPM\n70 BHP @ 5600 RPM",
@@ -1567,18 +1567,18 @@
       "Top Speed": "105 mph (169 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "14.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "Manual, 5 Speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "175/70TR13"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "168.9 in (4290 mm)",
       "Width": "66.1 in (1679 mm)",
       "Height": "53.1 in (1349 mm)",
@@ -1588,11 +1588,11 @@
       "Cargo Volume": "17.3 cuFT (490 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2215.6 lbs (1005 kg)",
       "Gross Weight Limit": "3527.4 lbs (1600 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19.9 mpg US (11.8 L/100Km)",
       "Highway": "34.6 mpg US (6.8 L/100Km)",
       "Combined": "27 mpg US (8.7 L/100Km)",
@@ -1614,7 +1614,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Escort Cabrio 1.4i 5MT (75 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-escort-cabrio-1995.html#aeng_ford-escort-cabrio-1995-14i",
-    "ENGINE SPECS - 1.4I 5MT (75 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1392 cm3",
       "Power": "55 KW @ 5500 RPM\n75 HP @ 5500 RPM\n74 BHP @ 5500 RPM",
@@ -1627,18 +1627,18 @@
       "Top Speed": "105 mph (169 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "14.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "175/65 R13"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "163 in (4140 mm)",
       "Width": "66.1 in (1679 mm)",
       "Height": "55.1 in (1400 mm)",
@@ -1646,11 +1646,11 @@
       "Wheelbase": "99.2 in (2520 mm)",
       "Cargo Volume": "9.4 cuFT (266 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2387.6 lbs (1083 kg)",
       "Gross Weight Limit": "3417.2 lbs (1550 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "29.4 mpg US (8 L/100Km)",
       "CO2 Emissions": "190 g/km"
     },
@@ -1669,7 +1669,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Escort Wagon 1.4i 5MT FWD (71 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-escort-wagon-1995.html#aeng_ford-escort-wagon-1995-14i-71-hp",
-    "ENGINE SPECS - 1.4I 5MT FWD (71 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1392 cm3",
       "Power": "52 KW @ 5600 RPM\n71 HP @ 5600 RPM\n70 BHP @ 5600 RPM",
@@ -1682,18 +1682,18 @@
       "Top Speed": "105 mph (169 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "15 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "175/70 R13"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "169.3 in (4300 mm)",
       "Width": "66.1 in (1679 mm)",
       "Height": "53.5 in (1359 mm)",
@@ -1702,11 +1702,11 @@
       "Ground Clearance": "5.5 in (140 mm)",
       "Cargo Volume": "16.2 cuFT (459 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2303.8 lbs (1045 kg)",
       "Gross Weight Limit": "3582.5 lbs (1625 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19.9 mpg US (11.8 L/100Km)",
       "Highway": "34.6 mpg US (6.8 L/100Km)",
       "Combined": "27 mpg US (8.7 L/100Km)",
@@ -1729,7 +1729,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Excursion 5.4L V8 4AT AWD (256 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-excursion-2000.html#aeng_ford-excursion-2000-54",
-    "ENGINE SPECS - 5.4L V8 4AT AWD (256 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "5408 cm3",
       "Power": "188 KW @ 4500 RPM\n256 HP @ 4500 RPM\n252 BHP @ 4500 RPM",
@@ -1738,18 +1738,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "44.1 gallons (166.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "4-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/75 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "226.4 in (5751 mm)",
       "Width": "79.9 in (2029 mm)",
       "Height": "77.4 in (1966 mm)",
@@ -1758,7 +1758,7 @@
       "Ground Clearance": "8.3 in (211 mm)",
       "Cargo Volume": "145.1 cuFT (4109 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "6681.2 lbs (3031 kg)",
       "Gross Weight Limit": "8601.7 lbs (3902 kg)"
     },
@@ -1780,7 +1780,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Explorer Sport 4.0L 5MT (203 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-explorer-sport-2001.html#aeng_ford-explorer-sport-2001-40",
-    "ENGINE SPECS - 4.0L 5MT (203 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "4015 cm3",
       "Power": "149 KW @ 5250 RPM\n203 HP @ 5250 RPM\n200 BHP @ 5250 RPM",
@@ -1788,25 +1788,25 @@
       "Fuel System": "Electronic Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/70R 16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "180.4 in (4582 mm)",
       "Width": "70.2 in (1783 mm)",
       "Height": "68.4 in (1737 mm)",
       "Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
       "Wheelbase": "101.8 in (2586 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3898.4 lbs (1768 kg)",
       "Gross Weight Limit": "4820.1 lbs (2186 kg)"
     },
@@ -1828,7 +1828,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Explorer Sport Trac 4.0L V6 5AT RWD (209 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-explorer-sport-trac-2006.html#aeng_ford-explorer-sport-trac-2006-40",
-    "ENGINE SPECS - 4.0L V6 5AT RWD (209 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "4009 cm3",
       "Power": "154 KW @ 5100 RPM\n209 HP @ 5100 RPM\n207 BHP @ 5100 RPM",
@@ -1836,25 +1836,25 @@
       "Fuel System": "Electronic Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/70R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "210.2 in (5339 mm)",
       "Width": "73.7 in (1872 mm)",
       "Height": "71.9 in (1826 mm)",
       "Front/rear Track": "60.9/61.8 in (1,547/1,570 mm)",
       "Wheelbase": "130.5 in (3315 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4518 lbs (2049 kg)"
     },
     "images": [
@@ -1875,7 +1875,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD F-150 Regular Cab 3.5L V6 EcoBoost 6AT (4x2)",
     "engine_url": "https://www.autoevolution.com/cars/ford-f-150-regular-cab-2012.html#aeng_ford-f-150-regular-cab-2012-35-v6-ecoboost-6at-4x2",
-    "ENGINE SPECS - 3.5L V6 ECOBOOST 6AT (4X2)": {
+    "engine_specs": {
       "Cylinders": "6",
       "Displacement": "3499 cm3",
       "Power": "272 KW @ 5000 RPM\n370 HP @ 5000 RPM\n365 BHP @ 5000 RPM",
@@ -1883,26 +1883,26 @@
       "Fuel System": "High Pressure Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "213.2 in (5415 mm)",
       "Width": "79.2 in (2012 mm)",
       "Height": "74.8 in (1900 mm)",
       "Front/rear Track": "67/67 in (1,702/1,702 mm)",
       "Wheelbase": "125.9 in (3198 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "5073 lbs (2301 kg)",
       "Gross Weight Limit": "6650 lbs (3016 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16 mpg US (14.7 L/100Km)",
       "Highway": "22 mpg US (10.7 L/100Km)",
       "Combined": "18 mpg US (13.1 L/100Km)"
@@ -1925,7 +1925,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Fiesta Sedan 1.0L EcoBoost 5MT FWD (123 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-fiesta-sedan-2011.html#aeng_ford-fiesta-sedan-2011-10-ecoboost-5mt-123-hp",
-    "ENGINE SPECS - 1.0L ECOBOOST 5MT FWD (123 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "998 cm3",
       "Power": "92 KW @ 6000 RPM\n125 HP @ 6000 RPM\n123 BHP @ 6000 RPM",
@@ -1934,18 +1934,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "11.9 gallons (45.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/50 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "173.6 in (4409 mm)",
       "Width": "67.8 in (1722 mm)",
       "Height": "58 in (1473 mm)",
@@ -1955,7 +1955,7 @@
       "Cargo Volume": "12.8 cuFT (362 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "31 mpg US (7.6 L/100Km)",
       "Highway": "43 mpg US (5.5 L/100Km)",
       "Combined": "36 mpg US (6.5 L/100Km)"
@@ -1978,7 +1978,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Fiesta ST 3 doors 1.5L EcoBoost 6MT (200 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-fiesta-st-3-doors-2018.html#aeng_ford-fiesta-st-3-doors-2018-15l-ecoboost-6mt-200-hp",
-    "ENGINE SPECS - 1.5L ECOBOOST 6MT (200 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "1497 cm3",
       "Power": "147.1 KW @ 6000 RPM\n200 HP @ 6000 RPM\n197 BHP @ 6000 RPM",
@@ -1991,18 +1991,18 @@
       "Top Speed": "144 mph (232 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/45 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "160.2 in (4069 mm)",
       "Width": "68.3 in (1735 mm)",
       "Height": "57.8 in (1468 mm)",
@@ -2011,11 +2011,11 @@
       "Aerodynamics (Cd)": "0.34",
       "Turning circle (curb to curb)": "36.1 ft (11.0 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2617 lbs (1187 kg)",
       "Gross Weight Limit": "3605 lbs (1635 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "30.9 mpg US (7.6 L/100Km)",
       "Highway": "46.1 mpg US (5.1 L/100Km)",
       "Combined": "39.2 mpg US (6 L/100Km)",
@@ -2039,7 +2039,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Five Hundred 3.0L V6 5AT AWD (203 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-five-hundred-2004.html#aeng_ford-five-hundred-2004-30",
-    "ENGINE SPECS - 3.0L V6 5AT AWD (203 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "2967 cm3",
       "Power": "149 KW @ 5650 RPM\n203 HP @ 5650 RPM\n200 BHP @ 5650 RPM",
@@ -2051,18 +2051,18 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "124 mph (200 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P215/60 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "200.7 in (5098 mm)",
       "Width": "73.7 in (1872 mm)",
       "Height": "60.1 in (1527 mm)",
@@ -2071,10 +2071,10 @@
       "Ground Clearance": "5.1 in (130 mm)",
       "Cargo Volume": "21.2 cuFT (600 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3642 lbs (1652 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "CO2 Emissions": "127 g/km"
     },
     "images": [
@@ -2095,7 +2095,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Flex 3.5L EcoBoost AWD 6AT (365 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-flex-2012.html#aeng_ford-flex-2012-35-ecoboost-awd-6at-365-hp",
-    "ENGINE SPECS - 3.5L ECOBOOST AWD 6AT (365 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3496 cm3",
       "Power": "268 KW @ 5500 RPM\n364 HP @ 5500 RPM\n359 BHP @ 5500 RPM",
@@ -2104,18 +2104,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "18.8 gallons (71.2 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "6-automatic speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/60R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "201.8 in (5126 mm)",
       "Width": "75.9 in (1928 mm)",
       "Height": "69.3 in (1760 mm)",
@@ -2123,10 +2123,10 @@
       "Wheelbase": "117.9 in (2995 mm)",
       "Cargo Volume": "43.2 cuFT (1223 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4828 lbs (2190 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16 mpg US (14.7 L/100Km)",
       "Highway": "23 mpg US (10.2 L/100Km)",
       "Combined": "18 mpg US (13.1 L/100Km)"
@@ -2149,7 +2149,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Focus 3 Doors 1.4L 16V 5MT FWD (80 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-focus-3-doors-2008.html#aeng_ford-focus-3-doors-2008-14-16v",
-    "ENGINE SPECS - 1.4L 16V 5MT FWD (80 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1388 cm3",
       "Power": "59 KW @ 5700 RPM\n80 HP @ 5700 RPM\n79 BHP @ 5700 RPM",
@@ -2162,18 +2162,18 @@
       "Top Speed": "101.9 mph (164 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "14.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/55 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "170.8 in (4338 mm)",
       "Width": "72.4 in (1839 mm)",
       "Height": "59 in (1499 mm)",
@@ -2181,11 +2181,11 @@
       "Wheelbase": "103.9 in (2639 mm)",
       "Cargo Volume": "14 cuFT (396 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2489 lbs (1129 kg)",
       "Gross Weight Limit": "3858 lbs (1750 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "27 mpg US (8.7 L/100Km)",
       "Highway": "43.5 mpg US (5.4 L/100Km)",
       "Combined": "35.6 mpg US (6.6 L/100Km)",
@@ -2209,7 +2209,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Focus CC 1.6L 16V 5MT FWD (100)",
     "engine_url": "https://www.autoevolution.com/cars/ford-focus-cc-2008.html#aeng_ford-focus-cc-2008-16-16v",
-    "ENGINE SPECS - 1.6L 16V 5MT FWD (100)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1596 cm3",
       "Power": "74 KW @ 5500 RPM\n101 HP @ 5500 RPM\n99 BHP @ 5500 RPM",
@@ -2222,18 +2222,18 @@
       "Top Speed": "113 mph (182 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/55R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "177.5 in (4509 mm)",
       "Width": "72 in (1829 mm)",
       "Height": "57.4 in (1458 mm)",
@@ -2241,11 +2241,11 @@
       "Wheelbase": "103.9 in (2639 mm)",
       "Cargo Volume": "8.7 cuFT (246 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3082 lbs (1398 kg)",
       "Gross Weight Limit": "4122.6 lbs (1870 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "25 mpg US (9.4 L/100Km)",
       "Highway": "40.5 mpg US (5.8 L/100Km)",
       "Combined": "33.1 mpg US (7.1 L/100Km)",
@@ -2269,7 +2269,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Focus RS 2.3L EcoBoost 6MT AWD (350 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-focus-rs-2016.html#aeng_ford-focus-rs-2016-23-ecoboost-6mt-350-hp",
-    "ENGINE SPECS - 2.3L ECOBOOST 6MT AWD (350 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2261 cm3",
       "Power": "257 KW @ 6000 RPM\n350 HP @ 6000 RPM\n345 BHP @ 6000 RPM",
@@ -2281,18 +2281,18 @@
       "Top Speed": "165 mph (266 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/35 ZR 19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "172.8 in (4389 mm)",
       "Width": "71.8 in (1824 mm)",
       "Height": "58 in (1473 mm)",
@@ -2302,11 +2302,11 @@
       "Cargo Volume": "9.2 cuFT (261 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3139 lbs (1424 kg)",
       "Gross Weight Limit": "4464 lbs (2025 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "23.5 mpg US (10 L/100Km)",
       "Highway": "37.3 mpg US (6.3 L/100Km)",
       "Combined": "30.5 mpg US (7.7 L/100Km)",
@@ -2330,7 +2330,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Focus Sedan 1.0L EcoBoost 5MT FWD (100 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-focus-sedan-2014.html#aeng_ford-focus-sedan-2014-10-ecoboost-5mt-100-hp",
-    "ENGINE SPECS - 1.0L ECOBOOST 5MT FWD (100 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "998 cm3",
       "Power": "74 KW @ 6000 RPM\n101 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
@@ -2343,18 +2343,18 @@
       "Top Speed": "115 mph (185 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/55-R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "178.5 in (4534 mm)",
       "Width": "73.1 in (1857 mm)",
       "Height": "58.4 in (1483 mm)",
@@ -2364,11 +2364,11 @@
       "Cargo Volume": "13.2 cuFT (374 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2873 lbs (1303 kg)",
       "Gross Weight Limit": "4189 lbs (1900 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "30.2 mpg US (7.8 L/100Km)",
       "Highway": "42 mpg US (5.6 L/100Km)",
       "Combined": "24 mpg US (9.8 L/100Km)",
@@ -2392,7 +2392,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Focus ST Estate 2.0L GTDI EcoBoost 6MT (250 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-focus-st-estate-2012.html#aeng_ford-focus-st-estate-2012-20-gtdi-ecoboost-250-hp",
-    "ENGINE SPECS - 2.0L GTDI ECOBOOST 6MT (250 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1999 cm3",
       "Power": "184 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
@@ -2404,18 +2404,18 @@
       "Top Speed": "154 mph (248 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/40 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.6 in (4562 mm)",
       "Width": "71.8 in (1824 mm)",
       "Height": "58.5 in (1486 mm)",
@@ -2425,10 +2425,10 @@
       "Cargo Volume": "16.8 cuFT (476 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3042 lbs (1380 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "26.7 mpg US (8.8 L/100Km)",
       "Highway": "41.3 mpg US (5.7 L/100Km)",
       "Combined": "34.6 mpg US (6.8 L/100Km)",
@@ -2452,7 +2452,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Focus Coupe 2.0L 5MT FWD (140 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-focus-coupe-2007.html#aeng_ford-focus-coupe-2007-20",
-    "ENGINE SPECS - 2.0L 5MT FWD (140 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1999 cm3",
       "Power": "102.9 KW @ 6000 RPM\n140 HP @ 6000 RPM\n138 BHP @ 6000 RPM",
@@ -2464,18 +2464,18 @@
       "Top Speed": "120 mph (193 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "9.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P195/60R15 BSW"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "175 in (4445 mm)",
       "Width": "67.9 in (1725 mm)",
       "Height": "58.6 in (1488 mm)",
@@ -2484,11 +2484,11 @@
       "Ground Clearance": "5.7 in (145 mm)",
       "Cargo Volume": "13.8 cuFT (391 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2923 lbs (1326 kg)",
       "Gross Weight Limit": "3913 lbs (1775 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "24 mpg US (9.8 L/100Km)",
       "Highway": "35 mpg US (6.7 L/100Km)"
     },
@@ -2510,7 +2510,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Freestar 3.9L V6 4AT FWD (194 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-freestar-2003.html#aeng_ford-freestar-2003-39",
-    "ENGINE SPECS - 3.9L V6 4AT FWD (194 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3802 cm3",
       "Power": "142 KW @ 4750 RPM\n193 HP @ 4750 RPM\n190 BHP @ 4750 RPM",
@@ -2519,18 +2519,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "25.9 gallons (98.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/60 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "201 in (5105 mm)",
       "Width": "76.6 in (1946 mm)",
       "Height": "68.8 in (1748 mm)",
@@ -2538,7 +2538,7 @@
       "Wheelbase": "120.8 in (3068 mm)",
       "Cargo Volume": "129.4 cuFT (3664 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4275.5 lbs (1939 kg)"
     },
     "images": [
@@ -2559,7 +2559,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Freestyle 3.0L V6 24V CVT AWD (206 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-freestyle-2004.html#aeng_ford-freestyle-2004-30-v6-24v-cvt-awd-206-hp",
-    "ENGINE SPECS - 3.0L V6 24V CVT AWD (206 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "2967 cm3",
       "Power": "149.3 KW @ 5650 RPM\n203 HP @ 5650 RPM\n200 BHP @ 5650 RPM",
@@ -2571,18 +2571,18 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "112 mph (180 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/60 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "199.8 in (5075 mm)",
       "Width": "74.4 in (1890 mm)",
       "Height": "65.9 in (1674 mm)",
@@ -2591,11 +2591,11 @@
       "Ground Clearance": "5.5 in (140 mm)",
       "Cargo Volume": "22.3 cuFT (631 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4112 lbs (1865 kg)",
       "Gross Weight Limit": "4630 lbs (2100 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19 mpg US (12.4 L/100Km)",
       "Highway": "27 mpg US (8.7 L/100Km)",
       "Combined": "22.9 mpg US (10.3 L/100Km)",
@@ -2619,7 +2619,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Fusion European 1.4L 5MT FWD (80 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-fusion-european-2005.html#aeng_ford-fusion-european-2005-14",
-    "ENGINE SPECS - 1.4L 5MT FWD (80 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1388 cm3",
       "Power": "58 KW @ 5700 RPM\n79 HP @ 5700 RPM\n78 BHP @ 5700 RPM",
@@ -2632,18 +2632,18 @@
       "Top Speed": "101.3 mph (163 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/60 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "158.3 in (4021 mm)",
       "Width": "67.7 in (1720 mm)",
       "Height": "60.2 in (1529 mm)",
@@ -2653,11 +2653,11 @@
       "Cargo Volume": "11.9 cuFT (337 L)",
       "Turning circle": "33.8 ft (10.3 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2358.9 lbs (1070 kg)",
       "Gross Weight Limit": "3538.4 lbs (1605 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "27.7 mpg US (8.5 L/100Km)",
       "Highway": "44.4 mpg US (5.3 L/100Km)",
       "Combined": "38.2 mpg US (6.2 L/100Km)",
@@ -2681,7 +2681,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Fusion 1.5L EcoBoost 6AT FWD (181 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-fusion-2018.html#aeng_ford-fusion-2018-15l-ecoboost-6at-181-hp",
-    "ENGINE SPECS - 1.5L ECOBOOST 6AT FWD (181 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1507 cm3",
       "Power": "133.1 KW @ 6000 RPM\n181 HP @ 6000 RPM\n178 BHP @ 6000 RPM",
@@ -2694,18 +2694,18 @@
       "Top Speed": "133 mph (214 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "9.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/50 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "191.8 in (4872 mm)",
       "Width": "83.5 in (2121 mm)",
       "Height": "58.1 in (1476 mm)",
@@ -2715,10 +2715,10 @@
       "Cargo Volume": "16 cuFT (453 L)",
       "Turning circle (curb to curb)": "37.6 ft (11.5 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3472 lbs (1575 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "23 mpg US (10.2 L/100Km)",
       "Highway": "34 mpg US (6.9 L/100Km)",
       "Combined": "27 mpg US (8.7 L/100Km)"
@@ -2741,7 +2741,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Grand C-Max 1.0L EcoBoost 6MT FWD (100 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-grand-c-max-2011.html#aeng_ford-grand-c-max-2011-10-ecoboost-100-hp",
-    "ENGINE SPECS - 1.0L ECOBOOST 6MT FWD (100 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "999 cm3",
       "Power": "74 KW @ 6000 RPM\n101 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
@@ -2754,18 +2754,18 @@
       "Top Speed": "107 mph (172 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/55 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "172.4 in (4379 mm)",
       "Width": "72 in (1829 mm)",
       "Height": "64 in (1626 mm)",
@@ -2775,11 +2775,11 @@
       "Cargo Volume": "15.3 cuFT (433 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3292 lbs (1493 kg)",
       "Gross Weight Limit": "4740 lbs (2150 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "37 mpg US (6.4 L/100Km)",
       "Highway": "51 mpg US (4.6 L/100Km)",
       "Combined": "45 mpg US (5.2 L/100Km)",
@@ -2803,7 +2803,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Ka 1.2L 5MT FWD (69 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-ka-2008.html#aeng_ford-ka-2008-12",
-    "ENGINE SPECS - 1.2L 5MT FWD (69 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1242 cm3",
       "Power": "51 KW @ 5500 RPM\n69 HP @ 5500 RPM\n68 BHP @ 5500 RPM",
@@ -2816,18 +2816,18 @@
       "Top Speed": "98.7 mph (159 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/50 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "142.5 in (3620 mm)",
       "Width": "65.2 in (1656 mm)",
       "Height": "59.2 in (1504 mm)",
@@ -2837,11 +2837,11 @@
       "Cargo Volume": "7.9 cuFT (224 L)",
       "Aerodynamics (Cd)": "0.34"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "1851.8 lbs (840 kg)",
       "Gross Weight Limit": "2910.1 lbs (1320 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "37.3 mpg US (6.3 L/100Km)",
       "Highway": "53.4 mpg US (4.4 L/100Km)",
       "Combined": "46.1 mpg US (5.1 L/100Km)",
@@ -2865,7 +2865,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Ka+ 1.2 Ti-VCT 5MT FWD (70 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-ka-2018.html#aeng_ford-ka-2018-12-ti-vct-5mt-71-hp",
-    "ENGINE SPECS - 1.2 TI-VCT 5MT FWD (70 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1194 cm3",
       "Power": "51.5 KW @ 5500-6500 RPM\n70 HP @ 5500-6500 RPM\n69 BHP @ 5500-6500 RPM",
@@ -2873,25 +2873,25 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/55 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "155.2 in (3942 mm)",
       "Width": "67.1 in (1704 mm)",
       "Height": "60 in (1524 mm)",
       "Wheelbase": "98 in (2489 mm)",
       "Cargo Volume": "9.5 cuFT (269 L)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "37.3 mpg US (6.3 L/100Km)",
       "Highway": "53.5 mpg US (4.4 L/100Km)",
       "Combined": "46.1 mpg US (5.1 L/100Km)",
@@ -2915,7 +2915,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Ka+ Active 1.2L Ti-VCT 5MT FWD (86 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-ka-active-2018.html#aeng_ford-ka-active-2018-12-ti-vct-5mt-86-hp",
-    "ENGINE SPECS - 1.2L TI-VCT 5MT FWD (86 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1194 cm3",
       "Power": "63.2 KW @ 5500-6500 RPM\n86 HP @ 5500-6500 RPM\n85 BHP @ 5500-6500 RPM",
@@ -2927,25 +2927,25 @@
       "Top Speed": "105 mph (169 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/60 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "155.7 in (3955 mm)",
       "Width": "68.6 in (1742 mm)",
       "Height": "61.1 in (1552 mm)",
       "Wheelbase": "98 in (2489 mm)",
       "Cargo Volume": "9.5 cuFT (269 L)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "38.6 mpg US (6.1 L/100Km)",
       "Highway": "53.5 mpg US (4.4 L/100Km)",
       "Combined": "47 mpg US (5 L/100Km)",
@@ -2969,7 +2969,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Maverick LWB 2.4i 5MT AWD (118 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-maverick-lwb-1996.html#aeng_ford-maverick-lwb-1996-24i",
-    "ENGINE SPECS - 2.4I 5MT AWD (118 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2389 cm3",
       "Power": "87 KW @ 4800 RPM\n118 HP @ 4800 RPM\n117 BHP @ 4800 RPM",
@@ -2982,18 +2982,18 @@
       "Top Speed": "99.4 mph (160 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "14.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/75/R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "183.5 in (4661 mm)",
       "Width": "69.3 in (1760 mm)",
       "Height": "72.8 in (1849 mm)",
@@ -3002,11 +3002,11 @@
       "Ground Clearance": "7.9 in (201 mm)",
       "Cargo Volume": "4 cuFT (113 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3825 lbs (1735 kg)",
       "Gross Weight Limit": "5533.6 lbs (2510 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14.9 mpg US (15.8 L/100Km)",
       "Highway": "22.8 mpg US (10.3 L/100Km)",
       "Combined": "19.1 mpg US (12.3 L/100Km)",
@@ -3028,7 +3028,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Maverick SWB 2.4i 5MT AWD (116 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-maverick-swb-1996.html#aeng_ford-maverick-swb-1996-24i",
-    "ENGINE SPECS - 2.4I 5MT AWD (116 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2389 cm3",
       "Power": "85 KW @ 4800 RPM\n116 HP @ 4800 RPM\n114 BHP @ 4800 RPM",
@@ -3041,18 +3041,18 @@
       "Top Speed": "99.4 mph (160 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/75/R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "164.6 in (4181 mm)",
       "Width": "69.3 in (1760 mm)",
       "Height": "72 in (1829 mm)",
@@ -3061,11 +3061,11 @@
       "Ground Clearance": "7.9 in (201 mm)",
       "Cargo Volume": "11.8 cuFT (334 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3538.4 lbs (1605 kg)",
       "Gross Weight Limit": "5533.6 lbs (2510 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "15.5 mpg US (15.2 L/100Km)",
       "Highway": "23.3 mpg US (10.1 L/100Km)",
       "Combined": "19.8 mpg US (11.9 L/100Km)",
@@ -3087,7 +3087,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Mondeo Hatchback 1.0L EcoBoost 6MT FWD (125 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-mondeo-hatchback-2014.html#aeng_ford-mondeo-hatchback-2014-10-ecoboost-6mt-125-hp",
-    "ENGINE SPECS - 1.0L ECOBOOST 6MT FWD (125 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "999 cm3",
       "Power": "91.9 KW @ 6000 RPM\n125 HP @ 6000 RPM\n123 BHP @ 6000 RPM",
@@ -3100,18 +3100,18 @@
       "Top Speed": "124 mph (200 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/60 R16 H"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "191.8 in (4872 mm)",
       "Width": "72.9 in (1852 mm)",
       "Height": "58.3 in (1481 mm)",
@@ -3121,11 +3121,11 @@
       "Cargo Volume": "19.4 cuFT (549 L)",
       "Aerodynamics (Cd)": "0.27"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3042 lbs (1380 kg)",
       "Gross Weight Limit": "4696 lbs (2130 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "37.3 mpg US (6.3 L/100Km)",
       "Highway": "53.5 mpg US (4.4 L/100Km)",
       "Combined": "46.1 mpg US (5.1 L/100Km)",
@@ -3149,7 +3149,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Mondeo Sedan 1.5L EcoBoost 6AT FWD (160 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-mondeo-sedan-2015.html#aeng_ford-mondeo-sedan-2015-15-ecoboost-6at-160-hp",
-    "ENGINE SPECS - 1.5L ECOBOOST 6AT FWD (160 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1498 cm3",
       "Power": "118 KW @ 5700 RPM\n160 HP @ 5700 RPM\n158 BHP @ 5700 RPM",
@@ -3162,18 +3162,18 @@
       "Top Speed": "133 mph (214 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "9.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/50 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "191.8 in (4872 mm)",
       "Width": "72.9 in (1852 mm)",
       "Height": "58.3 in (1481 mm)",
@@ -3182,11 +3182,11 @@
       "Ground Clearance": "5 in (127 mm)",
       "Cargo Volume": "19.4 cuFT (549 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3318 lbs (1505 kg)",
       "Gross Weight Limit": "4828 lbs (2190 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "27 mpg US (8.7 L/100Km)",
       "Highway": "48 mpg US (4.9 L/100Km)",
       "Combined": "37.3 mpg US (6.3 L/100Km)",
@@ -3210,7 +3210,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Mondeo Wagon 1.5L EcoBoost 6AT FWD (165 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-mondeo-wagon-2018.html#aeng_ford-mondeo-wagon-2018-15l-ecoboost-6at-165-hp",
-    "ENGINE SPECS - 1.5L ECOBOOST 6AT FWD (165 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Power": "121.4 KW @ 5500 RPM\n165 HP @ 5500 RPM\n163 BHP @ 5500 RPM",
       "Torque": "179 lb-ft @ 1600-4000 RPM\n242 Nm @ 1600-4000 RPM",
@@ -3222,29 +3222,29 @@
       "Top Speed": "129 mph (208 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "11.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/60 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "191.7 in (4869 mm)",
       "Width": "83.5 in (2121 mm)",
       "Height": "59.1 in (1501 mm)",
       "Cargo Volume": "25.8 cuFT (731 L)",
       "Turning circle (curb to curb)": "40.7 ft (12.4 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3426 lbs (1554 kg)",
       "Gross Weight Limit": "5049 lbs (2290 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "23.5 mpg US (10 L/100Km)",
       "Highway": "39.2 mpg US (6 L/100Km)",
       "Combined": "31.4 mpg US (7.5 L/100Km)",
@@ -3268,7 +3268,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Probe 2.0L 5MT FWD (116 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-probe-1994.html#aeng_ford-probe-1994-20",
-    "ENGINE SPECS - 2.0L 5MT FWD (116 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1991 cm3",
       "Power": "85 KW @ 5500 RPM\n116 HP @ 5500 RPM\n114 BHP @ 5500 RPM",
@@ -3280,18 +3280,18 @@
       "Top Speed": "126.8 mph (204 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "10.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/55VR15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "180.3 in (4580 mm)",
       "Width": "70.1 in (1781 mm)",
       "Height": "51.6 in (1311 mm)",
@@ -3301,11 +3301,11 @@
       "Cargo Volume": "12.7 cuFT (360 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2689.6 lbs (1220 kg)",
       "Gross Weight Limit": "3571.5 lbs (1620 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "30.2 mpg US (7.8 L/100Km)",
       "CO2 Emissions": "186 g/km"
     },
@@ -3327,7 +3327,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Ranger Regular Cab 2.3L 5AT (143 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-ranger-regular-cab-2008.html#aeng_ford-ranger-regular-cab-2008-23-5at-143-hp",
-    "ENGINE SPECS - 2.3L 5AT (143 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2294 cm3",
       "Power": "107 KW @ 5250 RPM\n145 HP @ 5250 RPM\n143 BHP @ 5250 RPM",
@@ -3340,18 +3340,18 @@
       "Top Speed": "106 mph (171 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P225/70 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "189.4 in (4811 mm)",
       "Width": "69.3 in (1760 mm)",
       "Height": "66.2 in (1681 mm)",
@@ -3361,11 +3361,11 @@
       "Cargo Volume": "37.4 cuFT (1059 L)",
       "Aerodynamics (Cd)": "0.4"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3135 lbs (1422 kg)",
       "Gross Weight Limit": "4380 lbs (1987 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19 mpg US (12.4 L/100Km)",
       "Highway": "24 mpg US (9.8 L/100Km)",
       "Combined": "21 mpg US (11.2 L/100Km)"
@@ -3388,7 +3388,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Ranger Super Cab 2.3L 5AT (143 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-ranger-super-cab-2008.html#aeng_ford-ranger-super-cab-2008-23-5at-143-hp",
-    "ENGINE SPECS - 2.3L 5AT (143 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2294 cm3",
       "Power": "107 KW @ 5250 RPM\n145 HP @ 5250 RPM\n143 BHP @ 5250 RPM",
@@ -3397,18 +3397,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "18.5 gallons (70.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P225/70 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "203. 6 in (5156 mm)",
       "Width": "69.4 in (1763 mm)",
       "Height": "67.7 in (1720 mm)",
@@ -3418,11 +3418,11 @@
       "Cargo Volume": "37.4 cuFT (1059 L)",
       "Aerodynamics (Cd)": "0.4"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3042 lbs (1380 kg)",
       "Gross Weight Limit": "4760 lbs (2159 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19 mpg US (12.4 L/100Km)",
       "Highway": "24 mpg US (9.8 L/100Km)",
       "Combined": "21 mpg US (11.2 L/100Km)"
@@ -3445,7 +3445,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Raptor Ranger 2.3L EcoBoost 10AT (270 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-raptor-2018.html#aeng_ford-raptor-ranger-2018-23l-ecoboost",
-    "ENGINE SPECS - 2.3L ECOBOOST 10AT (270 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2300 cm3",
       "Power": "159.6 KW @ 375500 RPM\n217 HP @ 375500 RPM\n214 BHP @ 375500 RPM",
@@ -3453,18 +3453,18 @@
       "Fuel System": "Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "10-Speed automatic, paddle-shift gearbox"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "285/70 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "212.5 in (5398 mm)",
       "Width": "85.8 in (2179 mm)",
       "Height": "73.7 in (1872 mm)",
@@ -3491,7 +3491,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD SportKa 1.6L 5MT (95 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-sportka-2003.html#aeng_ford-sportka-2003-16",
-    "ENGINE SPECS - 1.6L 5MT (95 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1597 cm3",
       "Power": "70 KW @ 5500 RPM\n95 HP @ 5500 RPM\n94 BHP @ 5500 RPM",
@@ -3503,18 +3503,18 @@
       "Top Speed": "108.1 mph (174 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/45 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "143.7 in (3650 mm)",
       "Width": "64.6 in (1641 mm)",
       "Height": "56.5 in (1435 mm)",
@@ -3523,11 +3523,11 @@
       "Cargo Volume": "25.3 cuFT (716 L)",
       "Aerodynamics (Cd)": "0.36"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2059.5 lbs (934 kg)",
       "Gross Weight Limit": "2866.5 lbs (1300 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "22.6 mpg US (10.4 L/100Km)",
       "Highway": "39.2 mpg US (6 L/100Km)",
       "Combined": "31 mpg US (7.6 L/100Km)",
@@ -3551,7 +3551,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD StreetKa 1.6",
     "engine_url": "https://www.autoevolution.com/cars/ford-streetka-2003.html#aeng_ford-streetka-2003-16",
-    "ENGINE SPECS - 1.6": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1597 cm3",
       "Power": "70 KW @ 5500 RPM\n95 HP @ 5500 RPM\n94 BHP @ 5500 RPM",
@@ -3563,18 +3563,18 @@
       "Top Speed": "107.5 mph (173 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "Manual, 5 Speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/45 R 16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "143.7 in (3650 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "52.6 in (1336 mm)",
@@ -3584,11 +3584,11 @@
       "Cargo Volume": "7.5 cuFT (212 L)",
       "Aerodynamics (Cd)": "0.4"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2339.5 lbs (1061 kg)",
       "Gross Weight Limit": "2833.4 lbs (1285 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "22.2 mpg US (10.6 L/100Km)",
       "Highway": "36.8 mpg US (6.4 L/100Km)",
       "Combined": "29.8 mpg US (7.9 L/100Km)",
@@ -3612,7 +3612,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Taurus 2.0L EcoBoost 6AT FWD (240 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-taurus-2012.html#aeng_ford-taurus-2012-20l-ecoboost",
-    "ENGINE SPECS - 2.0L ECOBOOST 6AT FWD (240 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1999 cm3",
       "Power": "179 KW @ 5500 RPM\n243 HP @ 5500 RPM\n240 BHP @ 5500 RPM",
@@ -3621,18 +3621,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "19 gallons (71.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/60 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "202.9 in (5154 mm)",
       "Width": "76.2 in (1935 mm)",
       "Height": "60.7 in (1542 mm)",
@@ -3642,10 +3642,10 @@
       "Cargo Volume": "20.1 cuFT (569 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4015 lbs (1821 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "22 mpg US (10.7 L/100Km)",
       "Highway": "31.8 mpg US (7.4 L/100Km)",
       "Combined": "26 mpg US (9 L/100Km)"
@@ -3668,7 +3668,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Taurus SHO 3.5L V6 EcoBoost 6AT AWD (365 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-taurus-sho-2009.html#aeng_ford-taurus-sho-2009-35-v6-ecoboost",
-    "ENGINE SPECS - 3.5L V6 ECOBOOST 6AT AWD (365 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3496 cm3",
       "Power": "272 KW @ 5500 RPM\n370 HP @ 5500 RPM\n365 BHP @ 5500 RPM",
@@ -3681,18 +3681,18 @@
       "Top Speed": "133 mph (214 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "6.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/45 R19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "202.9 in (5154 mm)",
       "Width": "76.2 in (1935 mm)",
       "Height": "60.7 in (1542 mm)",
@@ -3702,11 +3702,11 @@
       "Cargo Volume": "20.1 cuFT (569 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4367 lbs (1981 kg)",
       "Gross Weight Limit": "5470 lbs (2481 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14.7 mpg US (16 L/100Km)",
       "Highway": "24.8 mpg US (9.5 L/100Km)",
       "Combined": "22.6 mpg US (10.4 L/100Km)"
@@ -3729,7 +3729,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Taurus Wagon 3.0L V6 4AT (155 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-taurus-wagon-1999.html#aeng_ford-taurus-wagon-1999-30-154-hp",
-    "ENGINE SPECS - 3.0L V6 4AT (155 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "2983 cm3",
       "Power": "114 KW @ 5800 RPM\n155 HP @ 5800 RPM\n153 BHP @ 5800 RPM",
@@ -3741,18 +3741,18 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "111.9 mph (180 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/60R 16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "197.7 in (5022 mm)",
       "Width": "73 in (1854 mm)",
       "Height": "57.8 in (1468 mm)",
@@ -3760,10 +3760,10 @@
       "Wheelbase": "108.5 in (2756 mm)",
       "Cargo Volume": "80.6 cuFT (2282 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3497.1 lbs (1586 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19 mpg US (12.4 L/100Km)",
       "Highway": "28 mpg US (8.4 L/100Km)"
     },
@@ -3785,7 +3785,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Taurus X 3.5L V6 6AT (260 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-taurus-x-2007.html#aeng_ford-taurus-x-2007-35",
-    "ENGINE SPECS - 3.5L V6 6AT (260 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3496 cm3",
       "Power": "191.2 KW @ 6250 RPM\n260 HP @ 6250 RPM\n256 BHP @ 6250 RPM",
@@ -3797,18 +3797,18 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "115 mph (185 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/60 R 17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "200.3 in (5088 mm)",
       "Width": "74.9 in (1902 mm)",
       "Height": "67.4 in (1712 mm)",
@@ -3817,10 +3817,10 @@
       "Ground Clearance": "5.1 in (130 mm)",
       "Cargo Volume": "15.8 cuFT (447 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4033 lbs (1829 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "15 mpg US (15.7 L/100Km)",
       "Highway": "22 mpg US (10.7 L/100Km)"
     },
@@ -3842,7 +3842,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Territory (China) 1.5L EcoBoost 6MT FWD (140 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-territory-china-2018.html#aeng_ford-territory-china-2018-15l-ecoboost-6mt-140-hp",
-    "ENGINE SPECS - 1.5L ECOBOOST 6MT FWD (140 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1490 cm3",
       "Power": "103 KW @ 4500-5200 RPM\n140 HP @ 4500-5200 RPM\n138 BHP @ 4500-5200 RPM",
@@ -3851,18 +3851,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "13.7 gallons (51.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/65 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "180.3 in (4580 mm)",
       "Width": "76.2 in (1935 mm)",
       "Height": "65.9 in (1674 mm)",
@@ -3870,10 +3870,10 @@
       "Wheelbase": "106.9 in (2715 mm)",
       "Cargo Volume": "14.8 cuFT (419 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3351 lbs (1520 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "35.1 mpg US (6.7 L/100Km)"
     },
     "images": [
@@ -3894,15 +3894,15 @@
     "fuel_type": "gasoline",
     "engine": "FORD TRANSIT/TOURNEO CONNECT (7-SEATS) 2.0L",
     "engine_url": "https://www.autoevolution.com/cars/ford-transit-connect-2018.html#aeng_ford-transit-tourneo-connect-7-seats-2018-20",
-    "ENGINE SPECS - 2.0L": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Fuel System": "Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Highway": "30 mpg US (7.8 L/100Km)"
     },
     "images": [
@@ -3923,7 +3923,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Transit Connect Wagon 2.0L GDI 8AT (150 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-transit-connect-wagon-2018.html#aeng_ford-transit-connect-wagon-2018-20l-8at",
-    "ENGINE SPECS - 2.0L GDI 8AT (150 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1999 cm3",
       "Power": "110.3 KW @ 6200 RPM\n150 HP @ 6200 RPM\n148 BHP @ 6200 RPM",
@@ -3932,14 +3932,14 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "15.8 gallons (59.8 L)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/55R16 97H A/S"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "190 in (4826 mm)",
       "Width": "84.1 in (2136 mm)",
       "Height": "71.6 in (1819 mm)",
@@ -3948,11 +3948,11 @@
       "Cargo Volume": "60.1 cuFT (1702 L)",
       "Turning circle (curb to curb)": "38.3 ft (11.7 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4019 lbs (1823 kg)",
       "Gross Weight Limit": "5450 lbs (2472 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "24 mpg US (9.8 L/100Km)",
       "Highway": "29 mpg US (8.1 L/100Km)",
       "Combined": "26 mpg US (9 L/100Km)"
@@ -3975,7 +3975,7 @@
     "fuel_type": "gasoline",
     "engine": "FORD Windstar 3.0L V6 4AT FWD (152 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ford-windstar-1998.html#aeng_ford-windstar-1998-30l-v6-4at-152-hp",
-    "ENGINE SPECS - 3.0L V6 4AT FWD (152 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "2998 cm3",
       "Power": "111.8 KW @ 5000 RPM\n152 HP @ 5000 RPM\n150 BHP @ 5000 RPM",
@@ -3988,18 +3988,18 @@
       "Top Speed": "112 mph (180 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/60R 15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "201.5 in (5118 mm)",
       "Width": "75.2 in (1910 mm)",
       "Height": "65.2 in (1656 mm)",
@@ -4009,11 +4009,11 @@
       "Cargo Volume": "144.4 cuFT (4089 L)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3990 lbs (1810 kg)",
       "Gross Weight Limit": "5379 lbs (2440 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17 mpg US (13.8 L/100Km)",
       "Highway": "23.1 mpg US (10.2 L/100Km)"
     },

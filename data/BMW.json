@@ -4,7 +4,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M3 CS Touring 3.0L 8AT AWD (550 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m3-cs-touring-2025.html#aeng_bmw-m3-cs-touring-2025-30l-8at-awd-550-hp",
-    "ENGINE SPECS - 3.0L 8AT AWD (550 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2993 cm3",
       "Power": "404.5 KW @ 6250 RPM\n550 HP @ 6250 RPM\n542 BHP @ 6250 RPM",
@@ -17,18 +17,18 @@
       "Top Speed": "186 mph (299 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic M Steptronic with Drivelogic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/35 ZR19 100Y XL // 285/30 ZR20 99Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "188.8 in (4796 mm)",
       "Width": "75.5 in (1918 mm)",
       "Height": "57 in (1448 mm)",
@@ -38,7 +38,7 @@
       "Cargo Volume": "17.7 cuFT (501 L)",
       "Turning circle": "41.3 ft (12.6 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4079 lbs (1850 kg)",
       "Gross Weight Limit": "5137 lbs (2330 kg)"
     },
@@ -64,7 +64,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW X4 M (F98) M Competition 3.0L xDrive 8AT AWD (510 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-x4-m-f98-2021.html#aeng_bmw-x4-m-f98-2021-m-competition-30l-xdrive-8at-awd-510-hp",
-    "ENGINE SPECS - M COMPETITION 3.0L XDRIVE 8AT AWD (510 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2993 cm3",
       "Power": "375.1 KW @ 6250 RPM\n510 HP @ 6250 RPM\n503 BHP @ 6250 RPM",
@@ -77,18 +77,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-Speed M Steptronic transmission with Drivelogic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/40 ZR21 102Y XL // 265/40 ZR21 105Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "187.2 in (4755 mm)",
       "Width": "75.9 in (1928 mm)",
       "Height": "63.8 in (1621 mm)",
@@ -98,7 +98,7 @@
       "Aerodynamics (Cd)": "0.36",
       "Turning circle": "41.3 ft (12.6 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4597 lbs (2085 kg)",
       "Gross Weight Limit": "5512 lbs (2500 kg)"
     },
@@ -124,7 +124,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 4 Series Coupe 420i 8AT RWD (184 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-4-series-coupe-2024.html#aeng_bmw-4-series-coupe-2024-420i-8at-rwd-184-hp",
-    "ENGINE SPECS - 420I 8AT RWD (184 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "135.3 KW @ 5000-6500 RPM\n184 HP @ 5000-6500 RPM\n181 BHP @ 5000-6500 RPM",
@@ -137,18 +137,18 @@
       "Top Speed": "149 mph (240 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "7.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic Steptronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/50 R17 98Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "187.7 in (4768 mm)",
       "Width": "72.9 in (1852 mm)",
       "Height": "54.4 in (1382 mm)",
@@ -160,7 +160,7 @@
       "Aerodynamics (frontal area)": "2.19 m2",
       "Turning circle": "37.4 ft (11.4 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3362 lbs (1525 kg)",
       "Gross Weight Limit": "4442 lbs (2015 kg)"
     },
@@ -186,7 +186,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 2-Series Gran Coupe 228 xDrive 7AT AWD (241 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-2-series-gran-coupe-2024.html#aeng_bmw-2-series-gran-coupe-2024-228-xdrive-7at-awd-241-hp",
-    "ENGINE SPECS - 228 XDRIVE 7AT AWD (241 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "177.3 KW @ 4500-6500 RPM\n241 HP @ 4500-6500 RPM\n238 BHP @ 4500-6500 RPM",
@@ -198,18 +198,18 @@
       "Top Speed": "130 mph (209 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic Steptronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/45 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179 in (4547 mm)",
       "Width": "70.9 in (1801 mm)",
       "Height": "56.9 in (1445 mm)",
@@ -219,7 +219,7 @@
       "Cargo Volume": "15.2 cuFT (430 L)",
       "Turning circle": "38.4 ft (11.7 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3534 lbs (1603 kg)",
       "Gross Weight Limit": "4575 lbs (2075 kg)"
     },
@@ -241,7 +241,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 4 Series Gran Coupe 420i 8AT RWD (184 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-4-series-gran-coupe-2024.html#aeng_bmw-4-series-gran-coupe-2024-420i-8at-rwd-184-hp",
-    "ENGINE SPECS - 420I 8AT RWD (184 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "135.3 KW @ 5000-6500 RPM\n184 HP @ 5000-6500 RPM\n181 BHP @ 5000-6500 RPM",
@@ -252,11 +252,11 @@
     "PERFORMANCE SPECS": {
       "Acceleration 0-62 Mph (0-100 kph)": "7.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic Steptronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
@@ -282,7 +282,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 4-Series Convertible 420i 8AT RWD (184 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-4-series-convertible-2024.html#aeng_bmw-4-series-convertible-2024-420i-8at-rwd-184-hp",
-    "ENGINE SPECS - 420I 8AT RWD (184 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "135.3 KW @ 5000-6500 RPM\n184 HP @ 5000-6500 RPM\n181 BHP @ 5000-6500 RPM",
@@ -295,18 +295,18 @@
       "Top Speed": "147 mph (237 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic Steptronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/50 R17 98Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "187.7 in (4768 mm)",
       "Width": "72.9 in (1852 mm)",
       "Height": "54.5 in (1384 mm)",
@@ -318,7 +318,7 @@
       "Aerodynamics (frontal area)": "2.19 m2",
       "Turning circle": "37.4 ft (11.4 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3726 lbs (1690 kg)",
       "Gross Weight Limit": "4817 lbs (2185 kg)"
     },
@@ -344,7 +344,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M2 3.0L 6MT RWD (480 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m2-2024.html#aeng_bmw-m2-2024-30l-6mt-rwd-480-hp",
-    "ENGINE SPECS - 3.0L 6MT RWD (480 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2993 cm3",
       "Power": "353 KW @ 6250 RPM\n480 HP @ 6250 RPM\n473 BHP @ 6250 RPM",
@@ -357,18 +357,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-manual speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/35 ZR19 100Y XL // 285/30 ZR20 99Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "180.3 in (4580 mm)",
       "Width": "74.3 in (1887 mm)",
       "Height": "55.2 in (1402 mm)",
@@ -379,7 +379,7 @@
       "Aerodynamics (Cd)": "0.34",
       "Aerodynamics (frontal area)": "2.28 m2"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3759 - 3924 lbs (1705 - 1780 kg)",
       "Gross Weight Limit": "4751 lbs (2155 kg)"
     },
@@ -405,7 +405,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M4 Convertible Competition 3.0L M xDrive 8AT AWD (530 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m4-convertible-2024.html#aeng_bmw-m4-convertible-2024-competition-30l-m-xdrive-8at-awd-530-hp",
-    "ENGINE SPECS - COMPETITION 3.0L M XDRIVE 8AT AWD (530 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2993 cm3",
       "Power": "389.8 KW @ 6250 RPM\n530 HP @ 6250 RPM\n523 BHP @ 6250 RPM",
@@ -418,18 +418,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic M Steptronic with Drivelogic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/35 ZR19 100 Y XL // 285/30 ZR20 99Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "189 in (4801 mm)",
       "Width": "74.3 in (1887 mm)",
       "Height": "55.1 in (1400 mm)",
@@ -441,7 +441,7 @@
       "Aerodynamics (frontal area)": "2.29 m2",
       "Turning circle": "41.3 ft (12.6 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4244 lbs (1925 kg)",
       "Gross Weight Limit": "5170 lbs (2345 kg)"
     },
@@ -467,7 +467,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M4 CS 3.0L 8AT RWD (550 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m4-cs-2024.html#aeng_bmw-m4-cs-2024-30l-8at-rwd-550-hp",
-    "ENGINE SPECS - 3.0L 8AT RWD (550 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2993 cm3",
       "Power": "404.5 KW @ 6250 RPM\n550 HP @ 6250 RPM\n542 BHP @ 6250 RPM",
@@ -480,18 +480,18 @@
       "Top Speed": "188 mph (303 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic M Steptronic with Drivelogic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/35 ZR19 100Y XL // 285/30 ZR20 99Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "189 in (4801 mm)",
       "Width": "75.5 in (1918 mm)",
       "Height": "55.1 in (1400 mm)",
@@ -500,7 +500,7 @@
       "Ground Clearance": "4.8 in (122 mm)",
       "Cargo Volume": "15.5 cuFT (439 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3880 lbs (1760 kg)",
       "Gross Weight Limit": "4828 lbs (2190 kg)"
     },
@@ -526,7 +526,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M3 Touring Competition M xDrive 8AT AWD (530 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m3-touring-2024.html#aeng_bmw-m3-touring-2024-competition-m-xdrive-8at-awd-530-hp",
-    "ENGINE SPECS - COMPETITION M XDRIVE 8AT AWD (530 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2993 cm3",
       "Power": "389.8 KW @ 6250 RPM\n530 HP @ 6250 RPM\n523 BHP @ 6250 RPM",
@@ -539,18 +539,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic M Steptronic with Drivelogic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/35 ZR19 100Y XL // 285/30 ZR20 99Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "189 in (4801 mm)",
       "Width": "74.9 in (1902 mm)",
       "Height": "56.9 in (1445 mm)",
@@ -561,7 +561,7 @@
       "Aerodynamics (Cd)": "0.36",
       "Turning circle": "41.3 ft (12.6 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4112 lbs (1865 kg)",
       "Gross Weight Limit": "5225 lbs (2370 kg)"
     },
@@ -587,7 +587,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW X3 30e xDrive 8AT AWD (299 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-x3-2024.html#aeng_bmw-x3-2024-30e-xdrive-8at-awd-299-hp",
-    "ENGINE SPECS - 30E XDRIVE 8AT AWD (299 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "139.7 KW @ 4400-6500 RPM\n190 HP @ 4400-6500 RPM\n187 BHP @ 4400-6500 RPM",
@@ -605,18 +605,18 @@
       "Top speed (electrical)": "87 mph (140 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "6.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic Steptronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/50 R19 105Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "187.2 in (4755 mm)",
       "Width": "75.6 in (1920 mm)",
       "Height": "65.4 in (1661 mm)",
@@ -643,7 +643,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M3 Sedan 3.0L 6MT RWD (480 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m3-sedan-2024.html#aeng_bmw-m3-sedan-2024-30l-6mt-rwd-480-hp",
-    "ENGINE SPECS - 3.0L 6MT RWD (480 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2993 cm3",
       "Power": "353 KW @ 6250 RPM\n480 HP @ 6250 RPM\n473 BHP @ 6250 RPM",
@@ -656,18 +656,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-manual speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/40 ZR18 103Y XL // 285/35 ZR19 103Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "188.7 in (4793 mm)",
       "Width": "74.9 in (1902 mm)",
       "Height": "56.6 in (1438 mm)",
@@ -700,7 +700,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW X3 M (F97) M Competition 3.0L xDrive 8AT AWD (510 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-x3-m-2021.html#aeng_bmw-x3-m-2021-m-competition-30l-xdrive-8at-awd-510-hp",
-    "ENGINE SPECS - M COMPETITION 3.0L XDRIVE 8AT AWD (510 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2993 cm3",
       "Power": "375.1 KW @ 6250 RPM\n510 HP @ 6250 RPM\n503 BHP @ 6250 RPM",
@@ -713,18 +713,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-Speed M Steptronic transmission with Drivelogic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/40 ZR21 102Y X // 265/40 ZR21 105Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "185.7 in (4717 mm)",
       "Width": "74.7 in (1897 mm)",
       "Height": "65.7 in (1669 mm)",
@@ -734,7 +734,7 @@
       "Aerodynamics (Cd)": "0.36",
       "Turning circle": "41.3 ft (12.6 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4597 lbs (2085 kg)",
       "Gross Weight Limit": "5512 lbs (2500 kg)"
     },
@@ -760,7 +760,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M4 Coupe 3.0L 6MT RWD (480 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m4-coupe-2024.html#aeng_bmw-m4-coupe-2024-30l-6mt-rwd-480-hp",
-    "ENGINE SPECS - 3.0L 6MT RWD (480 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2993 cm3",
       "Power": "353 KW @ 6250 RPM\n480 HP @ 6250 RPM\n473 BHP @ 6250 RPM",
@@ -773,18 +773,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-manual speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/40 ZR18 103Y XL // 285/35 ZR19 103Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "189 in (4801 mm)",
       "Width": "74.3 in (1887 mm)",
       "Height": "55 in (1397 mm)",
@@ -796,7 +796,7 @@
       "Aerodynamics (frontal area)": "2.29 m2",
       "Turning circle": "40 ft (12.2 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3748 lbs (1700 kg)",
       "Gross Weight Limit": "4751 lbs (2155 kg)"
     },
@@ -822,7 +822,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 1 Series M135 xDrive 7AT AWD (300 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-1-series-2024.html#aeng_bmw-1-series-2024-m15-xdrive-7at-awd-300-hp",
-    "ENGINE SPECS - M135 XDRIVE 7AT AWD (300 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "220.6 KW @ 5750-6500 RPM\n300 HP @ 5750-6500 RPM\n296 BHP @ 5750-6500 RPM",
@@ -835,18 +835,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "7-speed automatic Steptronic DCT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/45 R18 95Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "171.7 in (4361 mm)",
       "Width": "70.9 in (1801 mm)",
       "Height": "57.4 in (1458 mm)",
@@ -857,7 +857,7 @@
       "Aerodynamics (Cd)": "0.27",
       "Turning circle": "38.4 ft (11.7 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3417 - 3583 lbs (1550 - 1625 kg)",
       "Gross Weight Limit": "4630 lbs (2100 kg)"
     },
@@ -883,7 +883,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW X2 M35i xDrive 7AT AWD (300 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-x2-2023.html#aeng_bmw-x2-2023-m35i-xdrive-7at-awd-300-hp",
-    "ENGINE SPECS - M35I XDRIVE 7AT AWD (300 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "220.6 KW @ 5750-6500 RPM\n300 HP @ 5750-6500 RPM\n296 BHP @ 5750-6500 RPM",
@@ -896,18 +896,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic Steptronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/40 R20 99Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.8 in (4567 mm)",
       "Width": "72.6 in (1844 mm)",
       "Height": "62 in (1575 mm)",
@@ -918,7 +918,7 @@
       "Aerodynamics (Cd)": "0.27",
       "Turning circle": "38.4 ft (11.7 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3902 lbs (1770 kg)",
       "Gross Weight Limit": "5004 lbs (2270 kg)"
     },
@@ -944,11 +944,11 @@
     "fuel_type": "gasoline",
     "engine": "BMW X6 M50i 8AT AWD (530 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-x6-2019.html#aeng_bmw-x6-2019-m50i-8at-awd-530-hp",
-    "ENGINE SPECS - M50I 8AT AWD (530 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4395 cm3",
       "Power": "389.8 KW @ 5500 RPM\n530 HP @ 5500 RPM\n523 BHP @ 5500 RPM",
-      "Torque": "553 lb-ft @ 1800 – 4600 RPM\n750 Nm @ 1800 – 4600 RPM",
+      "Torque": "553 lb-ft @ 1800 \u2013 4600 RPM\n750 Nm @ 1800 \u2013 4600 RPM",
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline",
       "Fuel capacity": "21.9 gallons (82.9 L)"
@@ -957,18 +957,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic Steptronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/40 R21 107Y XL // 315/35 R21 111Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "194.3 in (4935 mm)",
       "Width": "78.9 in (2004 mm)",
       "Height": "66.8 in (1697 mm)",
@@ -978,11 +978,11 @@
       "Cargo Volume": "20.5 cuFT (580 L)",
       "Aerodynamics (Cd)": "0.34"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "5093 lbs (2310 kg)",
       "Gross Weight Limit": "6559 lbs (2975 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16.6 mpg US (14.2 L/100Km)",
       "Highway": "27.7 mpg US (8.5 L/100Km)",
       "Combined": "22 mpg US (10.7 L/100Km)",
@@ -1006,7 +1006,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW X5 xDrive50e 8AT AWD (490 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-x5-2023.html#aeng_bmw-x5-2023-xdrive50e-8at-awd-490-hp",
-    "ENGINE SPECS - XDRIVE50E 8AT AWD (490 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2998 cm3",
       "Power": "230.2 KW @ 5000-6500 RPM\n313 HP @ 5000-6500 RPM\n309 BHP @ 5000-6500 RPM",
@@ -1032,7 +1032,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW X6 M (G06) 4.4L V8 8AT AWD (600 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-x6-m-g06-2019.html#aeng_bmw-x6-m-g06-2019-44l-v8-8at-awd-600-hp",
-    "ENGINE SPECS - 4.4L V8 8AT AWD (600 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4395 cm3",
       "Power": "441.3 KW @ 6000 RPM\n600 HP @ 6000 RPM\n592 BHP @ 6000 RPM",
@@ -1045,18 +1045,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic M Steptronic with Drivelogic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "295/35 ZR21 107Y XL // 315/35 ZR21 111Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "194.5 in (4940 mm)",
       "Width": "79.5 in (2019 mm)",
       "Height": "66.6 in (1692 mm)",
@@ -1066,11 +1066,11 @@
       "Cargo Volume": "20.5 cuFT (580 L)",
       "Aerodynamics (Cd)": "0.37"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "5060 lbs (2295 kg)",
       "Gross Weight Limit": "6614 lbs (3000 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "13.4 mpg US (17.6 L/100Km)",
       "Highway": "23.5 mpg US (10 L/100Km)",
       "Combined": "18.5 mpg US (12.7 L/100Km)",
@@ -1094,7 +1094,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW X5 M (G05) 4.4L V8 8AT AWD (600 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-x5-m-2019.html#aeng_bmw-x5-m-2019-44l-v8-8at-awd-600-hp",
-    "ENGINE SPECS - 4.4L V8 8AT AWD (600 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4395 cm3",
       "Power": "441.3 KW @ 6000 RPM\n600 HP @ 6000 RPM\n592 BHP @ 6000 RPM",
@@ -1107,18 +1107,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic M Steptronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "295/35 ZR21 107Y XL // 315/35 ZR21 111Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "194.4 in (4938 mm)",
       "Width": "79.3 in (2014 mm)",
       "Height": "68.8 in (1748 mm)",
@@ -1128,11 +1128,11 @@
       "Cargo Volume": "23 cuFT (651 L)",
       "Aerodynamics (Cd)": "0.38"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "5093 lbs (2310 kg)",
       "Gross Weight Limit": "6614 lbs (3000 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "13.7 mpg US (17.2 L/100Km)",
       "Highway": "21.4 mpg US (11 L/100Km)",
       "Combined": "18.1 mpg US (13 L/100Km)",
@@ -1156,7 +1156,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 8 Series Convertible 840i xDrive",
     "engine_url": "https://www.autoevolution.com/cars/bmw-8-series-convertible-2022.html#aeng_bmw-8-series-convertible-2022-840i-xdrive",
-    "ENGINE SPECS - 840I XDRIVE": {
+    "engine_specs": {
       "Fuel": "Gasoline"
     },
     "images": [
@@ -1177,7 +1177,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M8 Convertible V8 xDrive AWD 8AT (625 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m8-convertible-2022.html#aeng_bmw-m8-convertible-2022-v8-xdrive-awd-8at-625-hp",
-    "ENGINE SPECS - V8 XDRIVE AWD 8AT (625 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4395 cm3",
       "Power": "459.7 KW @ 6000 RPM\n625 HP @ 6000 RPM\n616 BHP @ 6000 RPM",
@@ -1190,18 +1190,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic M Steptronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/35 ZR20 102Y XL // 285/35 ZR20 104Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "191.6 in (4867 mm)",
       "Width": "75.1 in (1908 mm)",
       "Height": "53.3 in (1354 mm)",
@@ -1213,11 +1213,11 @@
       "Aerodynamics (frontal area)": "2.25 m2",
       "Turning circle": "40 ft (12.2 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4464 lbs (2025 kg)",
       "Gross Weight Limit": "5379 lbs (2440 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "13.9 mpg US (16.9 L/100Km)",
       "Highway": "28.7 mpg US (8.2 L/100Km)",
       "Combined": "20.3 mpg US (11.6 L/100Km)",
@@ -1245,7 +1245,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M8 Gran Coupe V8 AWD 8AT (625 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m8-gran-coupe-2022.html#aeng_bmw-m8-gran-coupe-2022-v8-awd-8at-625-hp",
-    "ENGINE SPECS - V8 AWD 8AT (625 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4395 cm3",
       "Power": "459.7 KW @ 6000 RPM\n625 HP @ 6000 RPM\n616 BHP @ 6000 RPM",
@@ -1258,18 +1258,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic M Steptronic with Drivelogic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/35 ZR20 102Y XL // 285/35 ZR20 104Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "200.7 in (5098 mm)",
       "Width": "76.5 in (1943 mm)",
       "Height": "55.9 in (1420 mm)",
@@ -1281,11 +1281,11 @@
       "Aerodynamics (frontal area)": "2.25 m2",
       "Turning circle": "42.3 ft (12.9 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4398 lbs (1995 kg)",
       "Gross Weight Limit": "5379 lbs (2440 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14 mpg US (16.8 L/100Km)",
       "Highway": "29 mpg US (8.1 L/100Km)",
       "Combined": "20.8 mpg US (11.3 L/100Km)",
@@ -1313,7 +1313,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M8 Coupe Competition 4.4L V8 xDrive AWD 8AT (625 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m8-coupe-2022.html#aeng_bmw-m8-coupe-2022-v8-xdrive-awd-8at-625-hp",
-    "ENGINE SPECS - COMPETITION 4.4L V8 XDRIVE AWD 8AT (625 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4395 cm3",
       "Power": "459.7 KW @ 6000 RPM\n625 HP @ 6000 RPM\n616 BHP @ 6000 RPM",
@@ -1326,18 +1326,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic M Steptronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/35 ZR20 102Y XL // 285/35 ZR20 104Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "192 in (4877 mm)",
       "Width": "75.1 in (1908 mm)",
       "Height": "53.6 in (1361 mm)",
@@ -1348,11 +1348,11 @@
       "Aerodynamics (Cd)": "0.33",
       "Turning circle": "40 ft (12.2 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4189 lbs (1900 kg)",
       "Gross Weight Limit": "5258 lbs (2385 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14 mpg US (16.8 L/100Km)",
       "Highway": "29.4 mpg US (8 L/100Km)",
       "Combined": "21 mpg US (11.2 L/100Km)",
@@ -1380,7 +1380,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW X1 M35i xDrive 7AT AWD (300 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-x1-2022.html#aeng_bmw-x1-2022-m35i-xdrive-7at-awd-300-hp",
-    "ENGINE SPECS - M35I XDRIVE 7AT AWD (300 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "220.6 KW @ 5750-6500 RPM\n300 HP @ 5750-6500 RPM\n296 BHP @ 5750-6500 RPM",
@@ -1393,18 +1393,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic DCT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/45 R19 102Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "177.4 in (4506 mm)",
       "Width": "72.6 in (1844 mm)",
       "Height": "63.9 in (1623 mm)",
@@ -1415,7 +1415,7 @@
       "Aerodynamics (Cd)": "0.27",
       "Aerodynamics (frontal area)": "2.5 m2"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3671 lbs (1665 kg)",
       "Gross Weight Limit": "4938 lbs (2240 kg)"
     },
@@ -1441,7 +1441,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 8 Series Coupe 840i xDrive AWD (333 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-8-series-coupe-2022.html#aeng_bmw-8-series-coupe-2022-840i",
-    "ENGINE SPECS - 840I XDRIVE AWD (333 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Power": "244.9 KW @ - RPM\n333 HP @ - RPM\n328 BHP @ - RPM",
       "Fuel": "Gasoline"
@@ -1464,7 +1464,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW X7 (G07) M50i V8 xDrive 8AT AWD (530 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-x7-2018.html#aeng_bmw-x7-g07-2018-m50i-xdrive-8at-530-hp",
-    "ENGINE SPECS - M50I V8 XDRIVE 8AT AWD (530 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Power": "389.8 KW @ 5500-6000 RPM\n530 HP @ 5500-6000 RPM\n523 BHP @ 5500-6000 RPM",
       "Torque": "553 lb-ft @ 1800-4600 RPM\n750 Nm @ 1800-4600 RPM",
@@ -1476,18 +1476,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic Steptronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/50 R20 113W XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "202.8 in (5151 mm)",
       "Width": "78.7 in (1999 mm)",
       "Height": "71.1 in (1806 mm)",
@@ -1497,11 +1497,11 @@
       "Cargo Volume": "11.5 cuFT (326 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "5423 lbs (2460 kg)",
       "Gross Weight Limit": "7253 lbs (3290 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "22 mpg US (10.7 L/100Km)",
       "CO2 Emissions": "243 g/km"
     },
@@ -1523,7 +1523,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 2 Series Active Tourer 218i 7AT (136 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-2-series-active-tourer-2021.html#aeng_bmw-2-series-active-tourer-2021-218i-7at-136-hp",
-    "ENGINE SPECS - 218I 7AT (136 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "1499 cm3",
       "Power": "100 KW @ 4400-6500 RPM\n136 HP @ 4400-6500 RPM\n134 BHP @ 4400-6500 RPM",
@@ -1536,18 +1536,18 @@
       "Top Speed": "133 mph (214 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "7-speed automatic DCT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/65 R16 95W"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "172.7 in (4387 mm)",
       "Width": "71.8 in (1824 mm)",
       "Height": "62 in (1575 mm)",
@@ -1558,7 +1558,7 @@
       "Aerodynamics (Cd)": "0.26",
       "Turning circle": "37.4 ft (11.4 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3406 lbs (1545 kg)",
       "Gross Weight Limit": "4442 lbs (2015 kg)"
     },
@@ -1584,7 +1584,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW X4 20i xDrive 8AT AWD (184 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-x4-2018.html#aeng_bmw-x4-2018-xdrive20i-8at-184-hp",
-    "ENGINE SPECS - 20I XDRIVE 8AT AWD (184 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "135.3 KW @ 5000-6500 RPM\n184 HP @ 5000-6500 RPM\n181 BHP @ 5000-6500 RPM",
@@ -1597,18 +1597,18 @@
       "Top Speed": "134 mph (216 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "8.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic (Steptronic)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/60 R18 104W XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "187.1 in (4752 mm)",
       "Width": "75.5 in (1918 mm)",
       "Height": "63.8 in (1621 mm)",
@@ -1618,11 +1618,11 @@
       "Cargo Volume": "18.5 cuFT (524 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3957 lbs (1795 kg)",
       "Gross Weight Limit": "5291 lbs (2400 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "26.7 mpg US (8.8 L/100Km)",
       "Highway": "36.2 mpg US (6.5 L/100Km)",
       "Combined": "32.2 mpg US (7.3 L/100Km)",
@@ -1642,11 +1642,11 @@
     "end_year": null
   },
   {
-    "generation": "2022 BMW 2 Series Coupé (G42)",
+    "generation": "2022 BMW 2 Series Coup\u00e9 (G42)",
     "fuel_type": "gasoline",
     "engine": "BMW 2 Series Coupe (G42) 220i 8AT RWD (184 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-2-series-coupe-2021.html#aeng_bmw-2-series-coupe-2021-220i-8at-184-hp",
-    "ENGINE SPECS - 220I 8AT RWD (184 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "135.3 KW @ 5000-6500 RPM\n184 HP @ 5000-6500 RPM\n181 BHP @ 5000-6500 RPM",
@@ -1659,18 +1659,18 @@
       "Top Speed": "147 mph (237 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "7.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic Steptronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/50 R17 98Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.4 in (4557 mm)",
       "Width": "72.4 in (1839 mm)",
       "Height": "54.7 in (1389 mm)",
@@ -1680,7 +1680,7 @@
       "Cargo Volume": "13.8 cuFT (391 L)",
       "Aerodynamics (Cd)": "0.26"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3450 lbs (1565 kg)",
       "Gross Weight Limit": "4332 lbs (1965 kg)"
     },
@@ -1706,7 +1706,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M2 CS (G87) 3.0L 8AT RWD (530 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m2-cs-2025.html#aeng_bmw-m2-cs-2025-30l-8at-rwd-530-hp0",
-    "ENGINE SPECS - 3.0L 8AT RWD (530 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2993 cm3",
       "Power": "389.8 KW @ 6250 RPM\n530 HP @ 6250 RPM\n523 BHP @ 6250 RPM",
@@ -1719,18 +1719,18 @@
       "Top Speed": "188 mph (303 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic M Steptronic with Drivelogic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/35 ZR19 // 285/30 ZR20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "180.6 in (4587 mm)",
       "Width": "74.3 in (1887 mm)",
       "Height": "54.9 in (1394 mm)",
@@ -1740,7 +1740,7 @@
       "Cargo Volume": "13.8 cuFT (391 L)",
       "Turning circle": "39 ft (11.9 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3748 lbs (1700 kg)",
       "Gross Weight Limit": "4685 lbs (2125 kg)"
     },
@@ -1766,7 +1766,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 6 Series Gran Turismo (G32) 630i 8AT RWD (258 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-6-series-gran-turismo-2017.html#aeng_bmw-6-series-gran-turismo-2017-630i-8at-258-hp",
-    "ENGINE SPECS - 630I 8AT RWD (258 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "189.8 KW @ 5000-6500 RPM\n258 HP @ 5000-6500 RPM\n255 BHP @ 5000-6500 RPM",
@@ -1779,18 +1779,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "6.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic (Steptronic)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/60 R17 99Y"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "200.4 in (5090 mm)",
       "Width": "74.9 in (1902 mm)",
       "Height": "60.6 in (1539 mm)",
@@ -1800,11 +1800,11 @@
       "Cargo Volume": "21.5 cuFT (609 L)",
       "Aerodynamics (Cd)": "0.26"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3957 lbs (1795 kg)",
       "Gross Weight Limit": "5247 lbs (2380 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "30.2 mpg US (7.8 L/100Km)",
       "Highway": "44.4 mpg US (5.3 L/100Km)",
       "Combined": "37.9 mpg US (6.2 L/100Km)",
@@ -1828,7 +1828,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 8 Series Gran Coupe (G16) 840i 8AT RWD (340 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-8-series-gran-coupe-2019.html#aeng_bmw-8-series-gran-coupe-2019-840i-8at-340-hp",
-    "ENGINE SPECS - 840I 8AT RWD (340 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2998 cm3",
       "Power": "250.1 KW @ 5000-6500 RPM\n340 HP @ 5000-6500 RPM\n335 BHP @ 5000-6500 RPM",
@@ -1841,18 +1841,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic Steptronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/45 R18 100Y XL // 275/40 R18 103Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "200.1 in (5083 mm)",
       "Width": "76.1 in (1933 mm)",
       "Height": "55.4 in (1407 mm)",
@@ -1862,11 +1862,11 @@
       "Cargo Volume": "15.5 cuFT (439 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4134 lbs (1875 kg)",
       "Gross Weight Limit": "5368 lbs (2435 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "25.3 mpg US (9.3 L/100Km)",
       "Highway": "36.2 mpg US (6.5 L/100Km)",
       "Combined": "31.4 mpg US (7.5 L/100Km)",
@@ -1890,7 +1890,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW Z4 M40i 8AT RWD (340 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-z4-2024.html#aeng_bmw-z4-2024-m40i-8at-rwd-340-hp",
-    "ENGINE SPECS - M40I 8AT RWD (340 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2998 cm3",
       "Power": "250.1 KW @ 5000-6500 RPM\n340 HP @ 5000-6500 RPM\n335 BHP @ 5000-6500 RPM",
@@ -1903,18 +1903,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic Steptronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/40 ZR18 95Y// 275/40 ZR18 99Y"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "170.2 in (4323 mm)",
       "Width": "73.4 in (1864 mm)",
       "Height": "51.3 in (1303 mm)",
@@ -1926,7 +1926,7 @@
       "Aerodynamics (frontal area)": "2.07 m2",
       "Turning circle": "36.1 ft (11.0 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3417 lbs (1550 kg)",
       "Gross Weight Limit": "4101 lbs (1860 kg)"
     },
@@ -1952,7 +1952,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 1 Series 3 doors (F21) LCI 116i 6MT RWD (109 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-1-series-3-doors-f20-lci-2017.html#aeng_bmw-1-series-3-doors-f20-lci-2017-116i-6mt-109-hp",
-    "ENGINE SPECS - 116I 6MT RWD (109 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "1499 cm3",
       "Power": "80.2 KW @ 4250 RPM\n109 HP @ 4250 RPM\n108 BHP @ 4250 RPM",
@@ -1965,18 +1965,18 @@
       "Top Speed": "121 mph (195 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/55 R16 87H"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "170.4 in (4328 mm)",
       "Width": "69.5 in (1765 mm)",
       "Height": "55.9 in (1420 mm)",
@@ -1986,11 +1986,11 @@
       "Cargo Volume": "12.7 cuFT (360 L)",
       "Aerodynamics (Cd)": "0.31"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3031 lbs (1375 kg)",
       "Gross Weight Limit": "4112 lbs (1865 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "37.3 mpg US (6.3 L/100Km)",
       "Highway": "56 mpg US (4.2 L/100Km)",
       "Combined": "47 mpg US (5 L/100Km)",
@@ -2014,7 +2014,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 1 Series Cabriolet (E88) 118i 6MT RWD (143 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-1-series-cabriolet-e88-2010.html#aeng_bmw-1-series-cabriolet-e88-2010-118i",
-    "ENGINE SPECS - 118I 6MT RWD (143 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1995 cm3",
       "Power": "105 KW @ 6000 RPM\n143 HP @ 6000 RPM\n141 BHP @ 6000 RPM",
@@ -2027,18 +2027,18 @@
       "Top Speed": "130.5 mph (210 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "9.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/55 R16 87H"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "171.7 in (4361 mm)",
       "Width": "68.8 in (1748 mm)",
       "Height": "55.6 in (1412 mm)",
@@ -2048,11 +2048,11 @@
       "Cargo Volume": "9.18 cuFT (260 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3130.6 lbs (1420 kg)",
       "Gross Weight Limit": "4100.6 lbs (1860 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "28 mpg US (8.4 L/100Km)",
       "Highway": "43.6 mpg US (5.4 L/100Km)",
       "Combined": "36.2 mpg US (6.5 L/100Km)",
@@ -2076,7 +2076,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 1 Series Coupe (E82) 120i 6AT RWD (170 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-1-series-coupe-e82-2010.html#aeng_bmw-1-series-coupe-e82-2010-120i-6at-170-hp",
-    "ENGINE SPECS - 120I 6AT RWD (170 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1995 cm3",
       "Power": "125 KW @ 6700 RPM\n170 HP @ 6700 RPM\n168 BHP @ 6700 RPM",
@@ -2089,18 +2089,18 @@
       "Top Speed": "138 mph (222 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "8.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/55 R16 87V"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "171.7 in (4361 mm)",
       "Width": "68.8 in (1748 mm)",
       "Height": "56 in (1422 mm)",
@@ -2110,11 +2110,11 @@
       "Cargo Volume": "13.06 cuFT (370 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3075 lbs (1395 kg)",
       "Gross Weight Limit": "3880 lbs (1760 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "26.4 mpg US (8.9 L/100Km)",
       "Highway": "44.4 mpg US (5.3 L/100Km)",
       "Combined": "35.6 mpg US (6.6 L/100Km)",
@@ -2138,7 +2138,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 1 Series M Coupe (E82) 3.0L 6MT RWD (340 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-1-series-m-coupe-e82-2010.html#aeng_bmw-1-series-m-coupe-e82-2010-30",
-    "ENGINE SPECS - 3.0L 6MT RWD (340 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2979 cm3",
       "Power": "250 KW @ 5900 RPM\n340 HP @ 5900 RPM\n335 BHP @ 5900 RPM",
@@ -2150,18 +2150,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35R19 93Y XL || 265/35R19 98Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "172.4 in (4379 mm)",
       "Width": "71 in (1803 mm)",
       "Height": "55.9 in (1420 mm)",
@@ -2171,11 +2171,11 @@
       "Cargo Volume": "13.06 cuFT (370 L)",
       "Aerodynamics (Cd)": "0.37"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3295.9 lbs (1495 kg)",
       "Gross Weight Limit": "4188.8 lbs (1900 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17.3 mpg US (13.6 L/100Km)",
       "Highway": "32.2 mpg US (7.3 L/100Km)",
       "Combined": "24.5 mpg US (9.6 L/100Km)",
@@ -2199,7 +2199,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 1 Series Sedan (F52) 118i 8AT RWD (136 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-1-series-sedan-f52-2017.html#aeng_bmw-1-series-sedan-f52-2017-118i-6at-136-hp",
-    "ENGINE SPECS - 118I 8AT RWD (136 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "1499 cm3",
       "Power": "100 KW @ 4400-6000 RPM\n136 HP @ 4400-6000 RPM\n134 BHP @ 4400-6000 RPM",
@@ -2212,25 +2212,25 @@
       "Top Speed": "132 mph (212 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "9.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "8-speed automatic (Steptronic)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "175.4 in (4455 mm)",
       "Width": "71 in (1803 mm)",
       "Height": "56.9 in (1445 mm)",
       "Wheelbase": "105.1 in (2670 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2987 lbs (1355 kg)",
       "Gross Weight Limit": "4090 lbs (1855 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "33.1 mpg US (7.1 L/100Km)",
       "Highway": "48 mpg US (4.9 L/100Km)",
       "Combined": "42.8 mpg US (5.5 L/100Km)",
@@ -2254,7 +2254,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 2 Series Convertible (F23) LCI 218i 6MT RWD (136 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-2-series-convertible-f23-lci-2017.html#aeng_bmw-2-series-convertible-f23-lci-2017-218i-6mt-136-hp",
-    "ENGINE SPECS - 218I 6MT RWD (136 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1499 cm3",
       "Power": "100 KW @ 4400 RPM\n136 HP @ 4400 RPM\n134 BHP @ 4400 RPM",
@@ -2267,18 +2267,18 @@
       "Top Speed": "129 mph (208 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "9.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/55 R16 91H"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "174.5 in (4432 mm)",
       "Width": "69.8 in (1773 mm)",
       "Height": "55.6 in (1412 mm)",
@@ -2288,11 +2288,11 @@
       "Cargo Volume": "9.9 cuFT (280 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3472 lbs (1575 kg)",
       "Gross Weight Limit": "4332 lbs (1965 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "34.1 mpg US (6.9 L/100Km)",
       "Highway": "50 mpg US (4.7 L/100Km)",
       "Combined": "42.8 mpg US (5.5 L/100Km)",
@@ -2316,7 +2316,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 2 Series Gran Tourer (F46) 216i 6MT (109 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-2-series-gran-tourer-f45-2018.html#aeng_bmw-2-series-gran-tourer-f45-2018-216i-6mt-109-hp",
-    "ENGINE SPECS - 216I 6MT (109 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "1499 cm3",
       "Power": "80.2 KW @ 4100-6500 RPM\n109 HP @ 4100-6500 RPM\n108 BHP @ 4100-6500 RPM",
@@ -2329,18 +2329,18 @@
       "Top Speed": "117 mph (188 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "11.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/60 R16 96V"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.8 in (4567 mm)",
       "Width": "70.9 in (1801 mm)",
       "Height": "63.3 in (1608 mm)",
@@ -2350,11 +2350,11 @@
       "Cargo Volume": "22.8 cuFT (646 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3274 lbs (1485 kg)",
       "Gross Weight Limit": "4530 lbs (2055 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "31.8 mpg US (7.4 L/100Km)",
       "Highway": "44.4 mpg US (5.3 L/100Km)",
       "Combined": "38.6 mpg US (6.1 L/100Km)",
@@ -2378,7 +2378,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 3 Series Compact (E46) 316ti 5AT RWD (116 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-3-series-compact-e46-2001.html#aeng_bmw-3-series-compact-e46-2001-316ti-5at-116-hp",
-    "ENGINE SPECS - 316TI 5AT RWD (116 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1796 cm3",
       "Power": "85.3 KW @ 5500 RPM\n116 HP @ 5500 RPM\n114 BHP @ 5500 RPM",
@@ -2391,18 +2391,18 @@
       "Top Speed": "122 mph (196 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "11.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "5-speed automatic (Steptronic)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/65 R15 91 H"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "167.8 in (4262 mm)",
       "Width": "68.9 in (1750 mm)",
       "Height": "55.4 in (1407 mm)",
@@ -2412,11 +2412,11 @@
       "Cargo Volume": "10.9 cuFT (309 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2943 lbs (1335 kg)",
       "Gross Weight Limit": "4045 lbs (1835 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "22.2 mpg US (10.6 L/100Km)",
       "Highway": "37.9 mpg US (6.2 L/100Km)",
       "Combined": "30.2 mpg US (7.8 L/100Km)"
@@ -2439,7 +2439,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 3 Series Gran Turismo LCI (F34) 320i 6MT RWD (184 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-3-series-gran-turismo-lci-f34-2016.html#aeng_bmw-3-series-gran-turismo-lci-f34-2016-320i-6mt-184-hp",
-    "ENGINE SPECS - 320I 6MT RWD (184 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "135.3 KW @ 5000 RPM\n184 HP @ 5000 RPM\n181 BHP @ 5000 RPM",
@@ -2452,18 +2452,18 @@
       "Top Speed": "143 mph (230 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/55 R17 97V"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "189.9 in (4823 mm)",
       "Width": "72 in (1829 mm)",
       "Height": "59.4 in (1509 mm)",
@@ -2473,11 +2473,11 @@
       "Cargo Volume": "18.4 cuFT (521 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3483 lbs (1580 kg)",
       "Gross Weight Limit": "4751 lbs (2155 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "29 mpg US (8.1 L/100Km)",
       "Highway": "43.6 mpg US (5.4 L/100Km)",
       "Combined": "36.8 mpg US (6.4 L/100Km)",
@@ -2501,7 +2501,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 5 Series Gran Turismo LCI 535i 8AT RWD (306 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-5-series-gran-turismo-lci-2013.html#aeng_bmw-5-series-gran-turismo-2013-535i-306-hp",
-    "ENGINE SPECS - 535I 8AT RWD (306 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2979 cm3",
       "Power": "225 KW @ 5800 RPM\n306 HP @ 5800 RPM\n302 BHP @ 5800 RPM",
@@ -2514,18 +2514,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "6.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed, Automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/50 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "196.7 in (4996 mm)",
       "Width": "74.8 in (1900 mm)",
       "Height": "61.3 in (1557 mm)",
@@ -2535,11 +2535,11 @@
       "Cargo Volume": "15.5 cuFT (439 L)",
       "Aerodynamics (Cd)": "0.31"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4442.3 lbs (2015 kg)",
       "Gross Weight Limit": "5831.2 lbs (2645 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19.1 mpg US (12.3 L/100Km)",
       "Highway": "34 mpg US (6.9 L/100Km)",
       "Combined": "26.4 mpg US (8.9 L/100Km)",
@@ -2563,7 +2563,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 6 Series Convertible LCI (F12) 640i 8AT RWD (320 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-6-series-convertible-lci-f12-2015.html#aeng_bmw-6-series-convertible-lci-f12-2015-640i-8at-320-hp",
-    "ENGINE SPECS - 640I 8AT RWD (320 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2979 cm3",
       "Power": "236 KW @ 5800-6000 RPM\n320 HP @ 5800-6000 RPM\n316 BHP @ 5800-6000 RPM",
@@ -2575,18 +2575,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic (Steptronic)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/55 R17 97Y"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "192.7 in (4895 mm)",
       "Width": "74.6 in (1895 mm)",
       "Height": "53.7 in (1364 mm)",
@@ -2596,11 +2596,11 @@
       "Cargo Volume": "10.6 cuFT (300 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4012 lbs (1820 kg)",
       "Gross Weight Limit": "5126 lbs (2325 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "22.2 mpg US (10.6 L/100Km)",
       "Highway": "40.6 mpg US (5.8 L/100Km)",
       "Combined": "30.9 mpg US (7.6 L/100Km)",
@@ -2624,7 +2624,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW 6 Series Gran Coupe LCI (F06) 640i 8AT RWD (320 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-6-series-gran-coupe-lci-f06-2015.html#aeng_bmw-6-series-gran-coupe-lci-f06-2015-640i-8at-320-hp",
-    "ENGINE SPECS - 640I 8AT RWD (320 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2979 cm3",
       "Power": "236 KW @ 5800-6000 RPM\n321 HP @ 5800-6000 RPM\n316 BHP @ 5800-6000 RPM",
@@ -2637,18 +2637,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic (Steptronic)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/55 R17 97Y"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "197.1 in (5006 mm)",
       "Width": "74.6 in (1895 mm)",
       "Height": "54.8 in (1392 mm)",
@@ -2658,11 +2658,11 @@
       "Cargo Volume": "16.2 cuFT (459 L)",
       "Aerodynamics (Cd)": "0.28"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3858 lbs (1750 kg)",
       "Gross Weight Limit": "5203 lbs (2360 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "22.6 mpg US (10.4 L/100Km)",
       "Highway": "40.6 mpg US (5.8 L/100Km)",
       "Combined": "31.4 mpg US (7.5 L/100Km)",
@@ -2686,7 +2686,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M3 Cabriolet (E93) 4.0L V8 6MT RWD (420 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m3-cabriolet-e93-2008.html#aeng_bmw-m3-cabriolet-e93-2008-40-v8",
-    "ENGINE SPECS - 4.0L V8 6MT RWD (420 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3999 cm3",
       "Power": "309 KW @ 8300 RPM\n420 HP @ 8300 RPM\n414 BHP @ 8300 RPM",
@@ -2699,18 +2699,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-manual speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/40 ZR18 // 265/40 ZR18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "180.3 in (4580 mm)",
       "Width": "70 in (1778 mm)",
       "Height": "54.3 in (1379 mm)",
@@ -2720,11 +2720,11 @@
       "Aerodynamics (Cd)": "0.32",
       "Turning circle (curb to curb)": "38.4 ft (11.7 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3990 lbs (1810 kg)",
       "Gross Weight Limit": "5027 lbs (2280 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "13.1 mpg US (18 L/100Km)",
       "Highway": "24.2 mpg US (9.7 L/100Km)",
       "Combined": "18.5 mpg US (12.7 L/100Km)",
@@ -2748,7 +2748,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M4 GTS (F82) 3.0L 7AT (500 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m4-gts-f82-2015.html#aeng_bmw-m4-gts-f82-2015-30-7at-500-hp",
-    "ENGINE SPECS - 3.0L 7AT (500 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2979 cm3",
       "Power": "367.8 KW @ 6250 RPM\n500 HP @ 6250 RPM\n493 BHP @ 6250 RPM",
@@ -2761,18 +2761,18 @@
       "Top Speed": "190 mph (306 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/35 ZR19 98Y || 285/30 ZR20 99Y"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184.6 in (4689 mm)",
       "Width": "73.6 in (1869 mm)",
       "Height": "54.3 in (1379 mm)",
@@ -2782,11 +2782,11 @@
       "Cargo Volume": "15.7 cuFT (445 L)",
       "Aerodynamics (Cd)": "0.34"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3329 lbs (1510 kg)",
       "Gross Weight Limit": "4189 lbs (1900 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "21 mpg US (11.2 L/100Km)",
       "Highway": "33.6 mpg US (7 L/100Km)",
       "Combined": "27.7 mpg US (8.5 L/100Km)",
@@ -2810,7 +2810,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M6 Cabrio LCI 4.4L V8 7AT (560 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m6-cabrio-lci-2014.html#aeng_bmw-m6-cabrio-lci-2014-44-v8-7at-560-hp",
-    "ENGINE SPECS - 4.4L V8 7AT (560 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4395 cm3",
       "Power": "412 KW @ 6000-7000 RPM\n560 HP @ 6000-7000 RPM\n553 BHP @ 6000-7000 RPM",
@@ -2823,18 +2823,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated disc"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/40 R19 102Y || 295/35 R19 104Y"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "192.8 in (4897 mm)",
       "Width": "74.8 in (1900 mm)",
       "Height": "53.9 in (1369 mm)",
@@ -2844,11 +2844,11 @@
       "Cargo Volume": "12.4 cuFT (351 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4365 lbs (1980 kg)",
       "Gross Weight Limit": "5313 lbs (2410 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16.6 mpg US (14.2 L/100Km)",
       "Highway": "29.8 mpg US (7.9 L/100Km)",
       "Combined": "22.8 mpg US (10.3 L/100Km)",
@@ -2872,11 +2872,11 @@
     "fuel_type": "gasoline",
     "engine": "BMW M6 Gran Coupe (F06) 4.4L V8 (560 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m6-gran-coupe-f06-2013.html#aeng_bmw-m6-gran-coupe-2013-44l-v8-560-hp",
-    "ENGINE SPECS - 4.4L V8 (560 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4395 cm3",
       "Power": "412 KW @ 6000 RPM\n560 HP @ 6000 RPM\n553 BHP @ 6000 RPM",
-      "Torque": "502 lb-ft @ 1500–5750 RPM\n681 Nm @ 1500–5750 RPM",
+      "Torque": "502 lb-ft @ 1500\u20135750 RPM\n681 Nm @ 1500\u20135750 RPM",
       "Fuel System": "M TwinPower Turbo technology with cross-bank exhaust manifold, Twin Scroll Twin Turbo technology, High Precision Direct Petrol Injection, VALVETRONIC and Double-Vanos",
       "Fuel": "Gasoline",
       "Fuel capacity": "21.1 gallons (79.9 L)"
@@ -2885,18 +2885,18 @@
       "Top Speed": "190 mph (306 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed M Double Clutch Transmission with Drivelogic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs 400 x 36mm",
       "Rear": "Ventilated Disc 396 x 24 mm"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/35 R20 // 295/30 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "197.3 in (5011 mm)",
       "Width": "74.8 in (1900 mm)",
       "Height": "54.8 in (1392 mm)",
@@ -2906,11 +2906,11 @@
       "Cargo Volume": "15.2 cuFT (430 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4134 lbs (1875 kg)",
       "Gross Weight Limit": "5313 lbs (2410 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17 mpg US (13.8 L/100Km)",
       "Highway": "31 mpg US (7.6 L/100Km)",
       "Combined": "24 mpg US (9.8 L/100Km)",
@@ -2934,7 +2934,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M Coupe (E36) 3.2L 5MT (321 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m-coupe-e36-1998.html#aeng_bmw-m-coupe-e36-1999-32-321-hp",
-    "ENGINE SPECS - 3.2L 5MT (321 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "3201 cm3",
       "Power": "236 KW @ 7400 RPM\n321 HP @ 7400 RPM\n316 BHP @ 7400 RPM",
@@ -2946,18 +2946,18 @@
       "Top Speed": "155.3 mph (250 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/45 ZR17 // 245/40 ZR17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "158.5 in (4026 mm)",
       "Width": "68.5 in (1740 mm)",
       "Height": "50.4 in (1280 mm)",
@@ -2967,11 +2967,11 @@
       "Cargo Volume": "7.4 cuFT (210 L)",
       "Aerodynamics (Cd)": "0.37"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3064 lbs (1390 kg)",
       "Gross Weight Limit": "3659.7 lbs (1660 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14.2 mpg US (16.6 L/100Km)",
       "Highway": "29.8 mpg US (7.9 L/100Km)",
       "Combined": "21.2 mpg US (11.1 L/100Km)",
@@ -2995,7 +2995,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW M Roadster (E36) 3.2L 5MT RWD (325 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-m-roadster-e36-1997.html#aeng_bmw-m-roadster-1999-32-325-hp",
-    "ENGINE SPECS - 3.2L 5MT RWD (325 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "3246 cm3",
       "Power": "239 KW @ 7400 RPM\n325 HP @ 7400 RPM\n321 BHP @ 7400 RPM",
@@ -3007,18 +3007,18 @@
       "Top Speed": "155.3 mph (250 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "Fata: 225/45 ZR17 - Spate: 245/40 ZR17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "158.5 in (4026 mm)",
       "Width": "68.5 in (1740 mm)",
       "Height": "50.7 in (1288 mm)",
@@ -3028,11 +3028,11 @@
       "Cargo Volume": "5.8 cuFT (164 L)",
       "Aerodynamics (Cd)": "0.37"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2976.2 lbs (1350 kg)",
       "Gross Weight Limit": "3527.4 lbs (1600 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14.2 mpg US (16.6 L/100Km)",
       "Highway": "29.8 mpg US (7.9 L/100Km)",
       "Combined": "21.2 mpg US (11.1 L/100Km)"
@@ -3055,7 +3055,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW Z4 M Coupe (E86) 3.2L 6MT RWD (343 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-z4-m-coupe-e86-2006.html#aeng_bmw-z4-m-coupe-2006-32",
-    "ENGINE SPECS - 3.2L 6MT RWD (343 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "3246 cm3",
       "Power": "252 KW @ 7900 RPM\n343 HP @ 7900 RPM\n338 BHP @ 7900 RPM",
@@ -3067,18 +3067,18 @@
       "Top Speed": "155.3 mph (250 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/45 ZR18 // 255/40 ZR18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "161.9 in (4112 mm)",
       "Width": "70.1 in (1781 mm)",
       "Height": "50.7 in (1288 mm)",
@@ -3088,11 +3088,11 @@
       "Cargo Volume": "10.5 cuFT (297 L)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3296.5 lbs (1495 kg)",
       "Gross Weight Limit": "3814.7 lbs (1730 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "12.9 mpg US (18.2 L/100Km)",
       "Highway": "27.4 mpg US (8.6 L/100Km)",
       "Combined": "19.4 mpg US (12.1 L/100Km)",
@@ -3116,7 +3116,7 @@
     "fuel_type": "gasoline",
     "engine": "BMW Z8 Roadster (E52) 4.9l V8 6MT (400 HP)",
     "engine_url": "https://www.autoevolution.com/cars/bmw-z8-roadster-e52-2000.html#aeng_bmw-z8-roadster-e52-2000-49-v8",
-    "ENGINE SPECS - 4.9L V8 6MT (400 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4941 cm3",
       "Power": "294 KW @ 6600 RPM\n400 HP @ 6600 RPM\n394 BHP @ 6600 RPM",
@@ -3128,18 +3128,18 @@
       "Top Speed": "155.3 mph (250 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "Manual, 6 Speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "Front: 245/45 R18W - Rear: 275/40 R18W - Rear"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "173.2 in (4399 mm)",
       "Width": "72 in (1829 mm)",
       "Height": "51.9 in (1318 mm)",
@@ -3147,11 +3147,11 @@
       "Wheelbase": "98.6 in (2504 mm)",
       "Cargo Volume": "7.2 cuFT (204 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3505.3 lbs (1590 kg)",
       "Gross Weight Limit": "4188.8 lbs (1900 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "11.1 mpg US (21.2 L/100Km)",
       "Highway": "22.2 mpg US (10.6 L/100Km)",
       "Combined": "16.2 mpg US (14.5 L/100Km)",

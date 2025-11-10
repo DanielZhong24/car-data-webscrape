@@ -4,7 +4,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA HR-V 2.0L 16V CVT FWD (160 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-hr-v-2025.html#aeng_honda-hr-v-2025-20l-16v-cvt-fwd-160-hp",
-    "ENGINE SPECS - 2.0L 16V CVT FWD (160 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1996 cm3",
       "Power": "117.8 KW @ 6500 RPM\n160.2 HP @ 6500 RPM\n158 BHP @ 6500 RPM",
@@ -13,18 +13,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "14 gallons (53.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215 / 60R17 96H"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.8 in (4567 mm)",
       "Width": "72.4 in (1839 mm)",
       "Height": "63.4 in (1610 mm)",
@@ -32,7 +32,7 @@
       "Wheelbase": "104.5 in (2654 mm)",
       "Turning circle (curb to curb)": "35.1 ft (10.7 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3159 lbs (1433 kg)"
     },
     "images": [
@@ -53,25 +53,25 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Civic Si Sedan US 1.5L VTEC 6MT FWD (203 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-civic-si-sedan-us-2024.html#aeng_honda-civic-si-sedan-us-2024-15l-vtec-6mt-fwd",
-    "ENGINE SPECS - 1.5L VTEC 6MT FWD (203 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Power": "149.1 KW @ - RPM\n203 HP @ - RPM\n200 BHP @ - RPM",
       "Torque": "192 lb-ft @ - RPM\n260 Nm @ - RPM",
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-manual speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/40 R18"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "27 mpg US (8.7 L/100Km)",
       "Highway": "37 mpg US (6.4 L/100Km)",
       "Combined": "31 mpg US (7.6 L/100Km)"
@@ -94,16 +94,16 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Odyssey V6 10AT FWD (284 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-odyssey-2024.html#aeng_honda-odyssey-2024-v6-10at-fwd-284-hp",
-    "ENGINE SPECS - V6 10AT FWD (284 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Power": "208.8 KW @ 6000 RPM\n283.9 HP @ 6000 RPM\n280 BHP @ 6000 RPM",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "10-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
@@ -125,7 +125,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA ZR-V 1.5L Turbo CVT 4WD (178 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-zr-v-2023.html#aeng_honda-zr-v-2023-15l-turbo-cvt-4wd-178-hp",
-    "ENGINE SPECS - 1.5L TURBO CVT 4WD (178 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1496 cm3",
       "Power": "130.9 KW @ 6000 RPM\n178 HP @ 6000 RPM\n176 BHP @ 6000 RPM",
@@ -134,18 +134,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "15.1 gallons (57.2 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/60 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.9 in (4569 mm)",
       "Width": "72.4 in (1839 mm)",
       "Height": "63.8 in (1621 mm)",
@@ -154,10 +154,10 @@
       "Ground Clearance": "7.5 in (191 mm)",
       "Turning circle": "34.1 ft (10.4 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3351 - 3395 lbs (1520 - 1540 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "24.2 mpg US (9.7 L/100Km)",
       "Highway": "36.8 mpg US (6.4 L/100Km)",
       "Combined": "32.7 mpg US (7.2 L/100Km)"
@@ -183,21 +183,21 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Passport TrailSport 3.5L V6 DOHC 10AT AWD (289 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-passport-trailsport-2024.html#aeng_honda-passport-trailsport-2024-35l-v6-dohc-10at-awd-289-hp",
-    "ENGINE SPECS - 3.5L V6 DOHC 10AT AWD (289 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3471 cm3",
       "Power": "212.5 KW @ 6100 RPM\n289 HP @ 6100 RPM\n285 BHP @ 6100 RPM",
       "Torque": "262 lb-ft @ 5000 RPM\n355 Nm @ 5000 RPM",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "10-speed automatic"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/60 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "190.6 in (4841 mm)",
       "Width": "79.5 in (2019 mm)",
       "Height": "73.1 in (1857 mm)",
@@ -223,7 +223,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Pilot 3.5L V6 10AT AWD (285 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-pilot-2022.html#aeng_honda-pilot-2022-35l-v6-10at-awd-285-hp",
-    "ENGINE SPECS - 3.5L V6 10AT AWD (285 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3471 cm3",
       "Power": "209.6 KW @ 6100 RPM\n285 HP @ 6100 RPM\n281 BHP @ 6100 RPM",
@@ -232,18 +232,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "18.5 gallons (70.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "10-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/60 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "199.9 in (5077 mm)",
       "Width": "78.5 in (1994 mm)",
       "Height": "71 in (1803 mm)",
@@ -253,11 +253,11 @@
       "Cargo Volume": "21.8 cuFT (617 L)",
       "Turning circle": "36.9 ft (11.2 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4696 lbs (2130 kg)",
       "Gross Weight Limit": "6195 lbs (2810 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "18.1 mpg US (13 L/100Km)",
       "Highway": "22.8 mpg US (10.3 L/100Km)",
       "Combined": "19.9 mpg US (11.8 L/100Km)"
@@ -280,7 +280,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Civic Hatchback 1.5L 16V VTEC 6MT (180 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-civic-hatchback-2021.html#aeng_honda-civic-hatchback-2021-15l-16v-vtec-6mt-180-hp",
-    "ENGINE SPECS - 1.5L 16V VTEC 6MT (180 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1498 cm3",
       "Power": "132.4 KW @ 6000 RPM\n180 HP @ 6000 RPM\n178 BHP @ 6000 RPM",
@@ -288,18 +288,18 @@
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/50R17 91H"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.1 in (4549 mm)",
       "Width": "70.9 in (1801 mm)",
       "Height": "55.7 in (1415 mm)",
@@ -324,7 +324,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Civic Type R 2.0L 6MT FWD (315 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-civic-type-r-2022.html#aeng_honda-civic-type-r-2022-20l-6mt-fwd-315-hp",
-    "ENGINE SPECS - 2.0L 6MT FWD (315 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1996 cm3",
       "Power": "231.7 KW @ 6500 RPM\n315 HP @ 6500 RPM\n311 BHP @ 6500 RPM",
@@ -333,18 +333,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "12.4 gallons (46.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/30 R19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "180.9 in (4595 mm)",
       "Width": "74.4 in (1890 mm)",
       "Height": "55.4 in (1407 mm)",
@@ -371,7 +371,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Jazz / Fit 1.3L CVT AWD (98 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-jazz-fit-2020.html#aeng_honda-jazz-fit-2020-13l-cvt-98-hp",
-    "ENGINE SPECS - 1.3L CVT AWD (98 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1317 cm3",
       "Power": "72.1 KW @ 6000 RPM\n98 HP @ 6000 RPM\n97 BHP @ 6000 RPM",
@@ -380,28 +380,28 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "10.6 gallons (40.1 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/60 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "157.3 in (3995 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "60.6 in (1539 mm)",
       "Front/rear Track": "58.5/58.1 in (1,486/1,476 mm)",
       "Wheelbase": "99.6 in (2530 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2557 - 2601 lbs (1160 - 1180 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "49 mpg US (4.8 L/100Km)"
     },
     "images": [
@@ -422,7 +422,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Ridgeline 3.5L V6 6AT 4x2 (280 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-ridgeline-2016.html#aeng_honda-ridgeline-2016-35-v6-6at-280-hp",
-    "ENGINE SPECS - 3.5L V6 6AT 4X2 (280 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3471 cm3",
       "Power": "208.8 KW @ 6000 RPM\n284 HP @ 6000 RPM\n280 BHP @ 6000 RPM",
@@ -431,18 +431,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "19.5 gallons (73.8 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/60 R18 105H"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "210 in (5334 mm)",
       "Width": "78.6 in (1996 mm)",
       "Height": "70.2 in (1783 mm)",
@@ -450,11 +450,11 @@
       "Ground Clearance": "7.9 in (201 mm)",
       "Cargo Volume": "33.9 cuFT (960 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4242 lbs (1924 kg)",
       "Gross Weight Limit": "5826 lbs (2643 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19 mpg US (12.4 L/100Km)",
       "Highway": "26 mpg US (9 L/100Km)",
       "Combined": "22 mpg US (10.7 L/100Km)"
@@ -477,7 +477,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Accord Coupe 2.4L 6MT (185 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-accord-coupe-2015.html#aeng_honda-accord-coupe-2015-24-6mt-185-hp",
-    "ENGINE SPECS - 2.4L 6MT (185 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2356 cm3",
       "Power": "138 KW @ 6400 RPM\n188 HP @ 6400 RPM\n185 BHP @ 6400 RPM",
@@ -486,18 +486,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "17.2 gallons (65.1 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P215 / 55 R17 94V"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "189.5 in (4813 mm)",
       "Width": "73 in (1854 mm)",
       "Height": "56.5 in (1435 mm)",
@@ -507,10 +507,10 @@
       "Cargo Volume": "13.7 cuFT (388 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3179 lbs (1442 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "23 mpg US (10.2 L/100Km)",
       "Highway": "34 mpg US (6.9 L/100Km)",
       "Combined": "27 mpg US (8.7 L/100Km)"
@@ -533,7 +533,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Crosstour 2.4L FWD 5AT (192 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-crosstour-2013.html#aeng_honda-crosstour-2013-24-fwd-5at-192-hp",
-    "ENGINE SPECS - 2.4L FWD 5AT (192 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2354 cm3",
       "Power": "141 KW @ 7000 RPM\n192 HP @ 7000 RPM\n189 BHP @ 7000 RPM",
@@ -542,18 +542,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "18.5 gallons (70.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5 speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/65 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "196.8 in (4999 mm)",
       "Width": "74.7 in (1897 mm)",
       "Height": "65.7 in (1669 mm)",
@@ -562,10 +562,10 @@
       "Ground Clearance": "6.2 in (157 mm)",
       "Cargo Volume": "25.7 cuFT (728 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3703 lbs (1680 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "23 mpg US (10.2 L/100Km)",
       "Highway": "31 mpg US (7.6 L/100Km)",
       "Combined": "25 mpg US (9.4 L/100Km)"
@@ -588,7 +588,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Accord 2.0L i-VTEC 5AT FWD (156 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-accord-2008.html#aeng_honda-accord-2008-20-i-vtec-5at-156-hp",
-    "ENGINE SPECS - 2.0L I-VTEC 5AT FWD (156 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1997 cm3",
       "Power": "116 KW @ 6300 RPM\n158 HP @ 6300 RPM\n156 BHP @ 6300 RPM",
@@ -601,18 +601,18 @@
       "Top Speed": "132 mph (212 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "10.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/60 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "186 in (4724 mm)",
       "Width": "72.4 in (1839 mm)",
       "Height": "56.7 in (1440 mm)",
@@ -623,11 +623,11 @@
       "Aerodynamics (Cd)": "0.31",
       "Turning circle": "38.4 ft (11.7 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3115 lbs (1413 kg)",
       "Gross Weight Limit": "4266 lbs (1935 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "23.1 mpg US (10.2 L/100Km)",
       "Highway": "39.9 mpg US (5.9 L/100Km)",
       "Combined": "31.4 mpg US (7.5 L/100Km)",
@@ -651,7 +651,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Accord Tourer 2.0L i-VTEC 6MT (150 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-accord-tourer-2011.html#aeng_honda-accord-tourer-2011-20-i-vtec",
-    "ENGINE SPECS - 2.0L I-VTEC 6MT (150 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2000 cm3",
       "Power": "110.3 KW @ 5000 RPM\n150 HP @ 5000 RPM\n148 BHP @ 5000 RPM",
@@ -664,29 +664,29 @@
       "Top Speed": "132 mph (212 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/50/R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "186.6 in (4740 mm)",
       "Width": "72.4 in (1839 mm)",
       "Height": "56.7 in (1440 mm)",
       "Ground Clearance": "5.9 in (150 mm)",
       "Cargo Volume": "14.3 cuFT (405 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3263 lbs (1480 kg)",
       "Gross Weight Limit": "4398 lbs (1995 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "25.6 mpg US (9.2 L/100Km)",
       "Highway": "40.6 mpg US (5.8 L/100Km)",
       "Combined": "32.7 mpg US (7.2 L/100Km)"
@@ -709,7 +709,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Accord Type R 2.2L 5MT FWD (212 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-accord-type-r-1998.html#aeng_honda-accord-type-r-1998-22",
-    "ENGINE SPECS - 2.2L 5MT FWD (212 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2157 cm3",
       "Power": "156 KW @ 7200 RPM\n212 HP @ 7200 RPM\n209 BHP @ 7200 RPM",
@@ -721,18 +721,18 @@
       "Top Speed": "141.7 mph (228 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "7.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/45WR17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "181.1 in (4600 mm)",
       "Width": "68.9 in (1750 mm)",
       "Height": "56.3 in (1430 mm)",
@@ -742,11 +742,11 @@
       "Cargo Volume": "15 cuFT (425 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2877 lbs (1305 kg)",
       "Gross Weight Limit": "4012.4 lbs (1820 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "18.2 mpg US (12.9 L/100Km)",
       "Highway": "30.2 mpg US (7.8 L/100Km)",
       "Combined": "24.5 mpg US (9.6 L/100Km)",
@@ -770,7 +770,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Airwave 1.5L CVT (110 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-airwave-2005.html#aeng_honda-airwave-2005-15",
-    "ENGINE SPECS - 1.5L CVT (110 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1496 cm3",
       "Power": "81 KW @ 5800 RPM\n110 HP @ 5800 RPM\n109 BHP @ 5800 RPM",
@@ -783,18 +783,18 @@
       "Top Speed": "104 mph (167 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "11.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/65R14 86S"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "171.3 in (4351 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "59.3 in (1506 mm)",
@@ -803,10 +803,10 @@
       "Ground Clearance": "5.9 in (150 mm)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2557.8 lbs (1160 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "42 mpg US (5.6 L/100Km)",
       "CO2 Emissions": "133 g/km"
     },
@@ -828,7 +828,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Avancier 2.3L 4AT AWD (150 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-avancier-1999.html#aeng_honda-avancier-1999-23-4at-awd-150-hp",
-    "ENGINE SPECS - 2.3L 4AT AWD (150 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2254 cm3",
       "Power": "110 KW @ 5800 RPM\n150 HP @ 5800 RPM\n148 BHP @ 5800 RPM",
@@ -840,18 +840,18 @@
       "Top Speed": "111 mph (179 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/65R 15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "185 in (4699 mm)",
       "Width": "70.5 in (1791 mm)",
       "Height": "59.1 in (1501 mm)",
@@ -860,11 +860,11 @@
       "Ground Clearance": "6.3 in (160 mm)",
       "Aerodynamics (Cd)": "0.4"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3571 lbs (1620 kg)",
       "Gross Weight Limit": "4079 lbs (1850 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "25.3 mpg US (9.3 L/100Km)"
     },
     "images": [
@@ -885,7 +885,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Civic Aero Deck 1.4i 5MT FWD (90 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-civic-aero-deck-1998.html#aeng_honda-civic-aero-deck-1998-14i",
-    "ENGINE SPECS - 1.4I 5MT FWD (90 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1396 cm3",
       "Power": "66 KW @ 6400 RPM\n90 HP @ 6400 RPM\n89 BHP @ 6400 RPM",
@@ -897,18 +897,18 @@
       "Top Speed": "106.9 mph (172 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/60R14"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "174 in (4420 mm)",
       "Width": "66.9 in (1699 mm)",
       "Height": "55.5 in (1410 mm)",
@@ -916,11 +916,11 @@
       "Wheelbase": "103.1 in (2619 mm)",
       "Cargo Volume": "14.6 cuFT (413 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2403 lbs (1090 kg)",
       "Gross Weight Limit": "3549.4 lbs (1610 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "24.8 mpg US (9.5 L/100Km)",
       "Highway": "36.2 mpg US (6.5 L/100Km)",
       "Combined": "30.5 mpg US (7.7 L/100Km)",
@@ -943,7 +943,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Civic Coupe 1.5L CVT FWD (174 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-civic-coupe-2018.html#aeng_honda-civic-coupe-2018-15l-cvt-174-hp",
-    "ENGINE SPECS - 1.5L CVT FWD (174 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1497 cm3",
       "Power": "128 KW @ 6000 RPM\n174 HP @ 6000 RPM\n172 BHP @ 6000 RPM",
@@ -952,18 +952,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "12.4 gallons (46.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/50 R 17 91H"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "176.9 in (4493 mm)",
       "Width": "70.8 in (1798 mm)",
       "Height": "54.9 in (1394 mm)",
@@ -973,7 +973,7 @@
       "Cargo Volume": "11.9 cuFT (337 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "30.9 mpg US (7.6 L/100Km)",
       "Highway": "39.9 mpg US (5.9 L/100Km)",
       "Combined": "35 mpg US (6.7 L/100Km)"
@@ -996,7 +996,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Civic Sedan US 1.8L i-VTEC 5AT FWD (140 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-civic-sedan-us-2008.html#aeng_honda-civic-sedan-us-2008-18-i-vtec",
-    "ENGINE SPECS - 1.8L I-VTEC 5AT FWD (140 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1799 cm3",
       "Power": "104 KW @ 6300 RPM\n141 HP @ 6300 RPM\n139 BHP @ 6300 RPM",
@@ -1009,18 +1009,18 @@
       "Top Speed": "115 mph (185 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P205/55 R16 89H"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "177.3 in (4503 mm)",
       "Width": "69 in (1753 mm)",
       "Height": "56.5 in (1435 mm)",
@@ -1030,11 +1030,11 @@
       "Cargo Volume": "12 cuFT (340 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2648 lbs (1201 kg)",
       "Gross Weight Limit": "3913 lbs (1775 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "26 mpg US (9 L/100Km)",
       "Highway": "34 mpg US (6.9 L/100Km)",
       "Combined": "29 mpg US (8.1 L/100Km)",
@@ -1058,7 +1058,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Element 2.4L i-VTEC 5MT AWD (154 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-element-2003.html#aeng_honda-element-2003-24-i-vtec-5mt-154-hp",
-    "ENGINE SPECS - 2.4L I-VTEC 5MT AWD (154 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2354 cm3",
       "Power": "113.3 KW @ 5500 RPM\n154 HP @ 5500 RPM\n152 BHP @ 5500 RPM",
@@ -1066,18 +1066,18 @@
       "Fuel System": "Electronic Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/70 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "166.5 in (4229 mm)",
       "Width": "71.5 in (1816 mm)",
       "Height": "69.5 in (1765 mm)",
@@ -1086,10 +1086,10 @@
       "Ground Clearance": "7.1 in (180 mm)",
       "Cargo Volume": "73.9 cuFT (2093 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3351.6 lbs (1520 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "23.1 mpg US (10.2 L/100Km)",
       "Highway": "26.1 mpg US (9 L/100Km)"
     },
@@ -1111,7 +1111,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA FR-V / Edix 1.8L 5AT FWD (140 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-fr-v-edix-2007.html#aeng_honda-fr-v-edix-2007-18l-5at-140-hp",
-    "ENGINE SPECS - 1.8L 5AT FWD (140 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1799 cm3",
       "Power": "103 KW @ 6300 RPM\n140 HP @ 6300 RPM\n138 BHP @ 6300 RPM",
@@ -1124,18 +1124,18 @@
       "Top Speed": "115 mph (185 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/65R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "168.5 in (4280 mm)",
       "Width": "71.3 in (1811 mm)",
       "Height": "63.4 in (1610 mm)",
@@ -1144,11 +1144,11 @@
       "Ground Clearance": "5.9 in (150 mm)",
       "Cargo Volume": "15.5 cuFT (439 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3194 lbs (1449 kg)",
       "Gross Weight Limit": "4453 lbs (2020 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "22.2 mpg US (10.6 L/100Km)",
       "Highway": "35.6 mpg US (6.6 L/100Km)",
       "Combined": "29 mpg US (8.1 L/100Km)",
@@ -1172,7 +1172,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA HR-V 3 Doors 1.6i 5MT FWD (105 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-hr-v-3-doors-2001.html#aeng_honda-hr-v-3-doors-2001-16i-105-hp",
-    "ENGINE SPECS - 1.6I 5MT FWD (105 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1590 cm3",
       "Power": "77 KW @ 6200 RPM\n105 HP @ 6200 RPM\n103 BHP @ 6200 RPM",
@@ -1184,18 +1184,18 @@
       "Top Speed": "102.5 mph (165 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "11.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/70SR15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "157.9 in (4011 mm)",
       "Width": "66.9 in (1699 mm)",
       "Height": "62.2 in (1580 mm)",
@@ -1205,11 +1205,11 @@
       "Cargo Volume": "10 cuFT (283 L)",
       "Aerodynamics (Cd)": "7.9"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2381 lbs (1080 kg)",
       "Gross Weight Limit": "3373.1 lbs (1530 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "23.8 mpg US (9.9 L/100Km)",
       "Highway": "32.7 mpg US (7.2 L/100Km)",
       "Combined": "27.7 mpg US (8.5 L/100Km)",
@@ -1231,7 +1231,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA insight 1.4L CVT FWD (98 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-insight-2012.html#aeng_honda-insight-2012-14-cvt-98-hp",
-    "ENGINE SPECS - 1.4L CVT FWD (98 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1339 cm3",
       "Power": "64.7 KW @ 5800 RPM\n88 HP @ 5800 RPM\n87 BHP @ 5800 RPM",
@@ -1247,18 +1247,18 @@
       "Top Speed": "113 mph (182 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/55R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "173 in (4394 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "56.1 in (1425 mm)",
@@ -1268,11 +1268,11 @@
       "Cargo Volume": "12 cuFT (340 L)",
       "Aerodynamics (Cd)": "0.28"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2593 lbs (1176 kg)",
       "Gross Weight Limit": "3638 lbs (1650 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "52.3 mpg US (4.5 L/100Km)",
       "Highway": "56 mpg US (4.2 L/100Km)",
       "Combined": "54.7 mpg US (4.3 L/100Km)",
@@ -1296,7 +1296,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Logo/Fit 1.3L 3AT FWD (65 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-logofit-1996.html#aeng_honda-logo-fit-1996-13l-3at-65-hp",
-    "ENGINE SPECS - 1.3L 3AT FWD (65 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1343 cm3",
       "Power": "48 KW @ 5000 RPM\n65 HP @ 5000 RPM\n64 BHP @ 5000 RPM",
@@ -1305,18 +1305,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "10.6 gallons (40.1 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "3-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "175/70/R13"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "148.8 in (3780 mm)",
       "Width": "64.6 in (1641 mm)",
       "Height": "59.8 in (1519 mm)",
@@ -1325,7 +1325,7 @@
       "Ground Clearance": "5.9 in (150 mm)",
       "Cargo Volume": "8.1 cuFT (229 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "1957.7 lbs (888 kg)",
       "Gross Weight Limit": "3009.3 lbs (1365 kg)"
     },
@@ -1347,7 +1347,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA MDX 3.5L V6 5AT AWD (243 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-mdx-2003.html#aeng_honda-mdx-2003-35",
-    "ENGINE SPECS - 3.5L V6 5AT AWD (243 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3471 cm3",
       "Power": "178.7 KW @ 5500 RPM\n243 HP @ 5500 RPM\n240 BHP @ 5500 RPM",
@@ -1359,18 +1359,18 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "118 mph (190 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/65R 17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "188.6 in (4790 mm)",
       "Width": "76.3 in (1938 mm)",
       "Height": "68.5 in (1740 mm)",
@@ -1380,11 +1380,11 @@
       "Cargo Volume": "80.9 cuFT (2291 L)",
       "Aerodynamics (Cd)": "0.36"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4553 lbs (2065 kg)",
       "Gross Weight Limit": "5732 lbs (2600 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16.9 mpg US (13.9 L/100Km)",
       "Highway": "23.1 mpg US (10.2 L/100Km)"
     },
@@ -1406,7 +1406,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Mobilio 1.5L CVT AWD (110 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-mobilio-2004.html#aeng_honda-mobilio-2004-15l-cvt-awd-110-hp",
-    "ENGINE SPECS - 1.5L CVT AWD (110 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1496 cm3",
       "Power": "66 KW @ 5500 RPM\n90 HP @ 5500 RPM\n89 BHP @ 5500 RPM",
@@ -1415,18 +1415,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "11.1 gallons (42.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/65/R14"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "160.2 in (4069 mm)",
       "Width": "66.3 in (1684 mm)",
       "Height": "68.5 in (1740 mm)",
@@ -1435,7 +1435,7 @@
       "Ground Clearance": "6.1 in (155 mm)",
       "Aerodynamics (Cd)": "0.4"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "38.6 mpg US (6.1 L/100Km)"
     },
     "images": [
@@ -1456,7 +1456,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA S2000 2.0L 6MT RWD (240 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-s2000-1999.html#aeng_honda-s2000-1999-20-240-hp",
-    "ENGINE SPECS - 2.0L 6MT RWD (240 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1997 cm3",
       "Power": "176 KW @ 8300 RPM\n239 HP @ 8300 RPM\n236 BHP @ 8300 RPM",
@@ -1468,18 +1468,18 @@
       "Top Speed": "149.8 mph (241 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "6.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/55R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "162.8 in (4135 mm)",
       "Width": "68.9 in (1750 mm)",
       "Height": "50 in (1270 mm)",
@@ -1488,11 +1488,11 @@
       "Ground Clearance": "5.1 in (130 mm)",
       "Cargo Volume": "5 cuFT (142 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2778.3 lbs (1260 kg)",
       "Gross Weight Limit": "3384.7 lbs (1535 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17.8 mpg US (13.2 L/100Km)",
       "Highway": "29.8 mpg US (7.9 L/100Km)",
       "Combined": "23.8 mpg US (9.9 L/100Km)",
@@ -1516,7 +1516,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA S660 0.66L 6MT RWD (63 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-s660-2015.html#aeng_honda-s660-2015-066-6mt-63-hp",
-    "ENGINE SPECS - 0.66L 6MT RWD (63 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "656 cm3",
       "Power": "46.3 KW @ - RPM\n63 HP @ - RPM\n62 BHP @ - RPM",
@@ -1524,24 +1524,24 @@
       "Fuel System": "Turbocharged Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "133.7 in (3396 mm)",
       "Width": "58.1 in (1476 mm)",
       "Height": "46.5 in (1181 mm)",
       "Wheelbase": "90 in (2286 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "1830 lbs (830 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "50 mpg US (4.7 L/100Km)",
       "CO2 Emissions": "109 g/km"
     },
@@ -1563,7 +1563,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Shuttle 2.3i 4AT (150 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-shuttle-1998.html#aeng_honda-shuttle-1998-23i",
-    "ENGINE SPECS - 2.3I 4AT (150 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2254 cm3",
       "Power": "110 KW @ 5700 RPM\n150 HP @ 5700 RPM\n148 BHP @ 5700 RPM",
@@ -1575,18 +1575,18 @@
       "Top Speed": "115 mph (185 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/65HR15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "187.4 in (4760 mm)",
       "Width": "70.5 in (1791 mm)",
       "Height": "64.6 in (1641 mm)",
@@ -1595,11 +1595,11 @@
       "Ground Clearance": "6.7 in (170 mm)",
       "Cargo Volume": "9.9 cuFT (280 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3229.8 lbs (1465 kg)",
       "Gross Weight Limit": "4784 lbs (2170 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16.6 mpg US (14.2 L/100Km)",
       "Highway": "26.7 mpg US (8.8 L/100Km)",
       "Combined": "21.8 mpg US (10.8 L/100Km)",
@@ -1623,7 +1623,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA Stream 1.8L 5AT AWD (140 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-stream-2006.html#aeng_honda-stream-2006-18l-5at-awd-140-hp",
-    "ENGINE SPECS - 1.8L 5AT AWD (140 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1799 cm3",
       "Power": "103 KW @ 6300 RPM\n140 HP @ 6300 RPM\n138 BHP @ 6300 RPM",
@@ -1636,18 +1636,18 @@
       "Top Speed": "118 mph (190 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "11.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/65 R 15 S"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.9 in (4569 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "60.8 in (1544 mm)",
@@ -1656,7 +1656,7 @@
       "Ground Clearance": "5.9 in (150 mm)",
       "Aerodynamics (Cd)": "0.34"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "36.2 mpg US (6.5 L/100Km)",
       "Highway": "23.8 mpg US (9.9 L/100Km)"
     },
@@ -1678,7 +1678,7 @@
     "fuel_type": "gasoline",
     "engine": "HONDA That's 0.7L 3AT (52 HP)",
     "engine_url": "https://www.autoevolution.com/cars/honda-that-s-2002.html#aeng_honda-thats-2002-07",
-    "ENGINE SPECS - 0.7L 3AT (52 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "656 cm3",
       "Power": "38 KW @ 7200 RPM\n52 HP @ 7200 RPM\n51 BHP @ 7200 RPM",
@@ -1687,18 +1687,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "11.9 gallons (45.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "3-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "145/80R12"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "133.7 in (3396 mm)",
       "Width": "58.1 in (1476 mm)",
       "Height": "63.8 in (1621 mm)",
@@ -1706,10 +1706,10 @@
       "Wheelbase": "92.9 in (2360 mm)",
       "Ground Clearance": "6.1 in (155 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "1808.1 lbs (820 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "44.4 mpg US (5.3 L/100Km)",
       "CO2 Emissions": "126 g/km"
     },

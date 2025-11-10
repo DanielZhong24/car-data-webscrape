@@ -4,16 +4,16 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Eclipse Cross 1.5L MIVEC CVT FWD",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-eclipse-cross-2021.html#aeng_mitsubishi-eclipse-cross-2021-15l-mivec-cvt",
-    "ENGINE SPECS - 1.5L MIVEC CVT FWD": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
@@ -35,7 +35,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Outlander 2.5L MIVEC CVT FWD (181 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-outlander-2021.html#aeng_mitsubishi-outlander-2021-25l-mivec-cvt-181-hp",
-    "ENGINE SPECS - 2.5L MIVEC CVT FWD (181 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2488 cm3",
       "Power": "133.1 KW @ 6000 RPM\n181 HP @ 6000 RPM\n178 BHP @ 6000 RPM",
@@ -44,18 +44,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "14.5 gallons (54.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/60/R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "185.4 in (4709 mm)",
       "Width": "74.7 in (1897 mm)",
       "Height": "68.7 in (1745 mm)",
@@ -65,7 +65,7 @@
       "Cargo Volume": "11.7 cuFT (331 L)",
       "Turning circle": "36.1 ft (11.0 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3594 - 3682 lbs (1630 - 1670 kg)",
       "Gross Weight Limit": "5192 lbs (2355 kg)"
     },
@@ -87,7 +87,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Mirage 1.2L MIVEC 5MT (78 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-mirage-2019.html#aeng_mitsubishi-mirage-2019-12l-mivec-5mt-78-hp",
-    "ENGINE SPECS - 1.2L MIVEC 5MT (78 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "1193 cm3",
       "Power": "57.4 KW @ 6000 RPM\n78 HP @ 6000 RPM\n77 BHP @ 6000 RPM",
@@ -100,18 +100,18 @@
       "Top Speed": "112 mph (180 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "165/65 R14"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "151.4 in (3846 mm)",
       "Width": "301.8 in (7666 mm)",
       "Height": "177.4 in (4506 mm)",
@@ -122,11 +122,11 @@
       "Turning circle (curb to curb)": "30.2 ft (9.2 m)",
       "Turning circle (wall to wall)": "32.1 ft (9.8 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "1929 lbs (875 kg)",
       "Gross Weight Limit": "2954 lbs (1340 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "CO2 Emissions": "105 g/km"
     },
     "images": [
@@ -147,16 +147,16 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Colt 1.0L 5MT FWD",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-colt-2023.html#aeng_mitsubishi-colt-2023-10l-5mt",
-    "ENGINE SPECS - 1.0L 5MT FWD": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
@@ -182,7 +182,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Attrage 1.2l 5MT (78 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-attrage-2013.html#aeng_mitsubishi-attrage-2013-12l-5mt-78-hp",
-    "ENGINE SPECS - 1.2L 5MT (78 HP)": {
+    "engine_specs": {
       "Cylinders": "4",
       "Displacement": "1193 cm3",
       "Power": "57 KW @ 6000 RPM\n78 HP @ 6000 RPM\n76 BHP @ 6000 RPM",
@@ -193,18 +193,18 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "107 mph (172 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5 speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "175/65 R14"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "167.1 in (4244 mm)",
       "Width": "65.7 in (1669 mm)",
       "Height": "59.6 in (1514 mm)",
@@ -212,7 +212,7 @@
       "Wheelbase": "100.4 in (2550 mm)",
       "Ground Clearance": "6.7 in (170 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "1918 lbs (870 kg)",
       "Gross Weight Limit": "2877 lbs (1305 kg)"
     },
@@ -234,7 +234,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Carisma Sedan 1.6L 4AT FWD (90 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-carisma-sedan-1995.html#aeng_mitsubishi-carisma-sedan-1995-16l-4at-90-hp",
-    "ENGINE SPECS - 1.6L 4AT FWD (90 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1597 cm3",
       "Power": "66 KW @ 5500 RPM\n90 HP @ 5500 RPM\n89 BHP @ 5500 RPM",
@@ -243,24 +243,24 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "15.9 gallons (60.2 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4 speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "175/65R14"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "174.6 in (4435 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "55.3 in (1405 mm)",
       "Wheelbase": "98.4 in (2499 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2502 lbs (1135 kg)"
     },
     "images": [
@@ -281,7 +281,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Colt CZC 1.5L 16V 5MT FWD (109 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-colt-czc-2006.html#aeng_mitsubishi-colt-czc-2006-15-16v",
-    "ENGINE SPECS - 1.5L 16V 5MT FWD (109 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1499 cm3",
       "Power": "80 KW @ 6000 RPM\n109 HP @ 6000 RPM\n107 BHP @ 6000 RPM",
@@ -293,18 +293,18 @@
       "Top Speed": "114 mph (183 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "10.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/50R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "152.7 in (3879 mm)",
       "Width": "66.9 in (1699 mm)",
       "Height": "57.1 in (1450 mm)",
@@ -314,11 +314,11 @@
       "Cargo Volume": "6.7 cuFT (190 L)",
       "Aerodynamics (Cd)": "0.36"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2447.1 lbs (1110 kg)",
       "Gross Weight Limit": "3218.7 lbs (1460 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "27 mpg US (8.7 L/100Km)",
       "Highway": "43.5 mpg US (5.4 L/100Km)",
       "Combined": "35.6 mpg US (6.6 L/100Km)",
@@ -342,7 +342,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Eclipse Spyder 2.4L 4AT FWD (162 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-eclipse-spyder-2009.html#aeng_mitsubishi-eclipse-spyder-2009-24",
-    "ENGINE SPECS - 2.4L 4AT FWD (162 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2378 cm3",
       "Power": "121 KW @ 6000 RPM\n165 HP @ 6000 RPM\n162 BHP @ 6000 RPM",
@@ -355,18 +355,18 @@
       "Top Speed": "130 mph (209 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/50 R17 93V"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "180.4 in (4582 mm)",
       "Width": "72.2 in (1834 mm)",
       "Height": "54.4 in (1382 mm)",
@@ -376,11 +376,11 @@
       "Cargo Volume": "5.2 cuFT (147 L)",
       "Aerodynamics (Cd)": "0.31"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3516 lbs (1595 kg)",
       "Gross Weight Limit": "4266 lbs (1935 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19 mpg US (12.4 L/100Km)",
       "Highway": "26 mpg US (9 L/100Km)",
       "Combined": "22 mpg US (10.7 L/100Km)",
@@ -404,7 +404,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Endeavor 3.8 SOHC 4AT (225 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-endeavor-2008.html#aeng_mitsubishi-endeavor-2008-38-sohc",
-    "ENGINE SPECS - 3.8 SOHC 4AT (225 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3800 cm3",
       "Power": "165 KW @ 5000 RPM\n225 HP @ 5000 RPM\n221 BHP @ 5000 RPM",
@@ -412,18 +412,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P235/65 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "190.8 in (4846 mm)",
       "Width": "73.6 in (1869 mm)",
       "Height": "69.6 in (1768 mm)",
@@ -433,11 +433,11 @@
       "Cargo Volume": "40.7 cuFT (1152 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3902 lbs (1770 kg)",
       "Gross Weight Limit": "4894 lbs (2220 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "15 mpg US (15.7 L/100Km)",
       "Highway": "22 mpg US (10.7 L/100Km)",
       "Combined": "20 mpg US (11.8 L/100Km)"
@@ -460,7 +460,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Galant Station Wagon 2.0L 16V 5AT FWD (136 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-galant-station-wagon-1997.html#aeng_mitsubishi-galant-station-wagon-1997-20l-16v-5at-136-hp",
-    "ENGINE SPECS - 2.0L 16V 5AT FWD (136 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1999 cm3",
       "Power": "107 KW @ 5700 RPM\n145 HP @ 5700 RPM\n143 BHP @ 5700 RPM",
@@ -473,18 +473,18 @@
       "Top Speed": "118 mph (190 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/60/R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "182.3 in (4630 mm)",
       "Width": "68.5 in (1740 mm)",
       "Height": "55.9 in (1420 mm)",
@@ -492,11 +492,11 @@
       "Wheelbase": "103.9 in (2639 mm)",
       "Cargo Volume": "14.8 cuFT (419 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3197.2 lbs (1450 kg)",
       "Gross Weight Limit": "4024.1 lbs (1825 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17.2 mpg US (13.7 L/100Km)",
       "Highway": "30.9 mpg US (7.6 L/100Km)",
       "Combined": "24 mpg US (9.8 L/100Km)",
@@ -520,7 +520,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Grandis 2.4L 5MT FWD (165 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-grandis-2004.html#aeng_mitsubishi-grandis-2004-24",
-    "ENGINE SPECS - 2.4L 5MT FWD (165 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2378 cm3",
       "Power": "121 KW @ 6000 RPM\n165 HP @ 6000 RPM\n162 BHP @ 6000 RPM",
@@ -533,18 +533,18 @@
       "Top Speed": "124 mph (200 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "10 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/60/R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "187.4 in (4760 mm)",
       "Width": "70.9 in (1801 mm)",
       "Height": "65.3 in (1659 mm)",
@@ -553,11 +553,11 @@
       "Ground Clearance": "6.1 in (155 mm)",
       "Cargo Volume": "11.3 cuFT (320 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3571.5 lbs (1620 kg)",
       "Gross Weight Limit": "4960.4 lbs (2250 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "18.4 mpg US (12.8 L/100Km)",
       "Highway": "31.8 mpg US (7.4 L/100Km)",
       "Combined": "25 mpg US (9.4 L/100Km)",
@@ -581,7 +581,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI L 200/Triton Double Cab 3.5L V6 4AT AWD (178 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-l-200-triton-double-cab-2005.html#aeng_mitsubishi-l-200triton-double-cab-2005-35-v6",
-    "ENGINE SPECS - 3.5L V6 4AT AWD (178 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3496 cm3",
       "Power": "131 KW @ 4750 RPM\n178 HP @ 4750 RPM\n176 BHP @ 4750 RPM",
@@ -589,18 +589,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/70 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "201.2 in (5110 mm)",
       "Width": "70.9 in (1801 mm)",
       "Height": "73.6 in (1869 mm)",
@@ -609,11 +609,11 @@
       "Ground Clearance": "8.1 in (206 mm)",
       "Aerodynamics (Cd)": "0.46"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4057 lbs (1840 kg)",
       "Gross Weight Limit": "5545 lbs (2515 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "18.4 mpg US (12.8 L/100Km)",
       "CO2 Emissions": "304 g/km"
     },
@@ -635,7 +635,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Mirage G4 1.2L 5MT FWD (76 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-mirage-g4-2016.html#aeng_mitsubishi-mirage-g4-2016-12-5mt-76-hp",
-    "ENGINE SPECS - 1.2L 5MT FWD (76 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "1193 cm3",
       "Power": "56.7 KW @ 6000 RPM\n77.1 HP @ 6000 RPM\n76 BHP @ 6000 RPM",
@@ -647,18 +647,18 @@
       "Top Speed": "107 mph (172 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "11.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "175/65 R14"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "167.1 in (4244 mm)",
       "Width": "65.7 in (1669 mm)",
       "Height": "59.6 in (1514 mm)",
@@ -668,11 +668,11 @@
       "Cargo Volume": "16 cuFT (453 L)",
       "Aerodynamics (Cd)": "0.28"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "1918 lbs (870 kg)",
       "Gross Weight Limit": "2888 lbs (1310 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "51.1 mpg US (4.6 L/100Km)",
       "CO2 Emissions": "96 g/km"
     },
@@ -694,7 +694,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Pajero Pinin / Shogun Pinin / Montero iO LWB 1.8 16V",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-pajero-pinin-shogun-pinin-montero-io-lwb-2001.html#aeng_mitsubishi-pajero-pinin-shogun-pinin-montero-io-lwb-2001-18-16v",
-    "ENGINE SPECS - 1.8 16V": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1834 cm3",
       "Torque": "118 lb-ft @ 4000 RPM\n160 Nm @ 4000 RPM",
@@ -705,29 +705,29 @@
       "Top Speed": "96 mph (154 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "Manual, 5 Speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/65 R16S"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "159 in (4039 mm)",
       "Width": "66.9 in (1699 mm)",
       "Height": "66.9 in (1699 mm)",
       "Front/rear Track": "56.7/56.7 in (1,440/1,440 mm)",
       "Wheelbase": "96.1 in (2441 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3009.3 lbs (1365 kg)",
       "Gross Weight Limit": "4166.7 lbs (1890 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "20.3 mpg US (11.6 L/100Km)",
       "Highway": "29.8 mpg US (7.9 L/100Km)",
       "Combined": "25.3 mpg US (9.3 L/100Km)",
@@ -751,7 +751,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Raider Crew Cab 3.7L V6 6MT RWD (210 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-raider-crew-cab-2005.html#aeng_mitsubishi-raider-crew-cab-2005-37-v6",
-    "ENGINE SPECS - 3.7L V6 6MT RWD (210 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3701 cm3",
       "Power": "156 KW @ 5200 RPM\n212 HP @ 5200 RPM\n209 BHP @ 5200 RPM",
@@ -759,18 +759,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/70 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "219.9 in (5585 mm)",
       "Width": "71.9 in (1826 mm)",
       "Height": "68.6 in (1742 mm)",
@@ -779,7 +779,7 @@
       "Ground Clearance": "7.9 in (201 mm)",
       "Cargo Volume": "37.1 cuFT (1051 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Gross Weight Limit": "6002 lbs (2722 kg)"
     },
     "images": [
@@ -800,7 +800,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Raider Double Cab 3.7L V6 5AT RWD (210 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-raider-double-cab-2005.html#aeng_mitsubishi-raider-double-cab-2005-37-v6",
-    "ENGINE SPECS - 3.7L V6 5AT RWD (210 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3701 cm3",
       "Power": "154.5 KW @ 5200 RPM\n210 HP @ 5200 RPM\n207 BHP @ 5200 RPM",
@@ -808,18 +808,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/65R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "219.9 in (5585 mm)",
       "Width": "71.9 in (1826 mm)",
       "Height": "68.6 in (1742 mm)",
@@ -827,10 +827,10 @@
       "Wheelbase": "131.3 in (3335 mm)",
       "Ground Clearance": "7.9 in (201 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Gross Weight Limit": "6002 lbs (2722 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16 mpg US (14.7 L/100Km)",
       "Highway": "17.9 mpg US (13.1 L/100Km)"
     },
@@ -852,7 +852,7 @@
     "fuel_type": "gasoline",
     "engine": "MITSUBISHI Space Star 1.0L MIVEC 5MT FWD (71 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mitsubishi-space-star-2013.html#aeng_mitsubishi-space-star-2013-10l-mivec-5mt-71-hp",
-    "ENGINE SPECS - 1.0L MIVEC 5MT FWD (71 HP)": {
+    "engine_specs": {
       "Cylinders": "3",
       "Displacement": "999 cm3",
       "Power": "52 KW @ 6000 RPM\n71 HP @ 6000 RPM\n70 BHP @ 6000 RPM",
@@ -865,18 +865,18 @@
       "Top Speed": "107 mph (172 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5 speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "165 / 65 R 14"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "146.1 in (3711 mm)",
       "Width": "65.6 in (1666 mm)",
       "Height": "58.7 in (1491 mm)",
@@ -884,11 +884,11 @@
       "Wheelbase": "96.5 in (2451 mm)",
       "Cargo Volume": "8.3 cuFT (235 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "1863 lbs (845 kg)",
       "Gross Weight Limit": "2844 lbs (1290 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "47 mpg US (5 L/100Km)",
       "Highway": "65.3 mpg US (3.6 L/100Km)",
       "Combined": "56 mpg US (4.2 L/100Km)",

@@ -4,7 +4,7 @@
     "fuel_type": "gasoline",
     "engine": "LOTUS Emira 2.0L 8AT RWD (365 HP)",
     "engine_url": "https://www.autoevolution.com/cars/lotus-emira-2021.html#aeng_lotus-emira-2021-20l-8at",
-    "ENGINE SPECS - 2.0L 8AT RWD (365 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1991 cm3",
       "Power": "268.5 KW @ -0 RPM\n365 HP @ -0 RPM\n360 BHP @ -0 RPM",
@@ -17,18 +17,18 @@
       "Top Speed": "180 mph (290 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35/R20 // 295/30/R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "173.7 in (4412 mm)",
       "Width": "74.6 in (1895 mm)",
       "Height": "48.2 in (1224 mm)",
@@ -36,7 +36,7 @@
       "Wheelbase": "101.4 in (2576 mm)",
       "Aerodynamics (Cd)": "0.34"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3188 lbs (1446 kg)"
     },
     "images": [
@@ -57,7 +57,7 @@
     "fuel_type": "gasoline",
     "engine": "LOTUS Sport 420 Final Edition 3.5L V6 6MT (420 HP)",
     "engine_url": "https://www.autoevolution.com/cars/lotus-sport-420-final-edition-2021.html#aeng_lotus-sport-420-final-edition-2021-35l-v6-420-hp",
-    "ENGINE SPECS - 3.5L V6 6MT (420 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Power": "308.9 KW @ 7000 RPM\n420 HP @ 7000 RPM\n414 BHP @ 7000 RPM",
       "Torque": "315 lb-ft @ 2600-7000 RPM\n427 Nm @ 2600-7000 RPM",
@@ -68,14 +68,14 @@
       "Top Speed": "180 mph (290 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/45 ZR17 // 285/30 ZR18"
     },
     "FUEL ECONOMY (WLTP)": {
@@ -104,7 +104,7 @@
     "fuel_type": "gasoline",
     "engine": "LOTUS Sport 240 Final Edition 1.8L 6MT (240 HP)",
     "engine_url": "https://www.autoevolution.com/cars/lotus-sport-240-final-edition-2021.html#aeng_lotus-sport-240-final-edition-2021-18l-6mt-240-hp",
-    "ENGINE SPECS - 1.8L 6MT (240 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Power": "176.5 KW @ 7200 RPM\n240 HP @ 7200 RPM\n237 BHP @ 7200 RPM",
       "Torque": "180 lb-ft @ 3000-7000 RPM\n244 Nm @ 3000-7000 RPM",
@@ -115,15 +115,15 @@
       "Top Speed": "147 mph (237 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2033 lbs (922 kg)"
     },
     "FUEL ECONOMY (WLTP)": {
@@ -152,7 +152,7 @@
     "fuel_type": "gasoline",
     "engine": "LOTUS Evora GT (North America) 3.5L V6 6AT AWD (422 HP)",
     "engine_url": "https://www.autoevolution.com/cars/lotus-evora-gt-north-america-2019.html#aeng_lotus-evora-gt-north-america-2019-35l-v6-6at-422-hp",
-    "ENGINE SPECS - 3.5L V6 6AT AWD (422 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3456 cm3",
       "Power": "310.4 KW @ 7000 RPM\n422 HP @ 7000 RPM\n416 BHP @ 7000 RPM",
@@ -164,26 +164,26 @@
       "Top Speed": "188 mph (303 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "6-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 ZR19-93Y // 295/30 ZR20-101Y"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "173 in (4394 mm)",
       "Width": "77.6 in (1971 mm)",
       "Height": "48.1 in (1222 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "32300 lbs (14651 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17.4 mpg US (13.5 L/100Km)",
       "Highway": "24 mpg US (9.8 L/100Km)",
       "Combined": "19.9 mpg US (11.8 L/100Km)",
@@ -207,7 +207,7 @@
     "fuel_type": "gasoline",
     "engine": "LOTUS 2 Eleven 1.8 6MT (256 HP)",
     "engine_url": "https://www.autoevolution.com/cars/lotus-2-eleven-2007.html#aeng_lotus-2-eleven-2007-18-189-hp",
-    "ENGINE SPECS - 1.8 6MT (256 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1796 cm3",
       "Power": "188 KW @ 8000 RPM\n256 HP @ 8000 RPM\n252 BHP @ 8000 RPM",
@@ -219,18 +219,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/50 R16 || 225/45 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "150.4 in (3820 mm)",
       "Width": "68.3 in (1735 mm)",
       "Height": "43.8 in (1113 mm)",
@@ -240,11 +240,11 @@
       "Cargo Volume": "None cuFT (0 L)",
       "Aerodynamics (Cd)": "0.4"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "1642 lbs (745 kg)",
       "Gross Weight Limit": "2183 lbs (990 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "15.7 mpg US (15 L/100Km)",
       "Highway": "27.4 mpg US (8.6 L/100Km)",
       "Combined": "22 mpg US (10.7 L/100Km)"
@@ -267,7 +267,7 @@
     "fuel_type": "gasoline",
     "engine": "LOTUS 3 Eleven 430 3.5 V6 6MT (436 HP)",
     "engine_url": "https://www.autoevolution.com/cars/lotus-3-eleven-430-2018.html#aeng_lotus-3-eleven-430-2018-35-v6-6mt-436-hp",
-    "ENGINE SPECS - 3.5 V6 6MT (436 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3500 cm3",
       "Power": "320.7 KW @ 7000 RPM\n436 HP @ 7000 RPM\n430 BHP @ 7000 RPM",
@@ -279,18 +279,18 @@
       "Top Speed": "180 mph (290 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/40 R18 || 275/30 R19"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2028 lbs (920 kg)"
     },
     "images": [

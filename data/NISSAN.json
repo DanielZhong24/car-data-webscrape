@@ -4,7 +4,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Sentra 2.0.L AT Xtronic FWD (149 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-sentra-2025.html#aeng_nissan-sentra-2025-20l-at-xtronic-fwd-149-hp",
-    "ENGINE SPECS - 2.0.L AT XTRONIC FWD (149 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1997 cm3",
       "Power": "109.6 KW @ 6000 RPM\n149 HP @ 6000 RPM\n147 BHP @ 6000 RPM",
@@ -13,18 +13,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "12.4 gallons (46.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "automatic transmission Xtronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/60 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "183.3 in (4656 mm)",
       "Width": "71.5 in (1816 mm)",
       "Height": "57.1 in (1450 mm)",
@@ -35,11 +35,11 @@
       "Aerodynamics (Cd)": "0.268",
       "Turning circle (curb to curb)": "36.7 ft (11.2 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3097 - 3177 lbs (1405 - 1441 kg)",
       "Gross Weight Limit": "4079 - 4123 lbs (1850 - 1870 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "29 mpg US (8.1 L/100Km)",
       "Highway": "37.9 mpg US (6.2 L/100Km)",
       "Combined": "33.1 mpg US (7.1 L/100Km)"
@@ -62,13 +62,13 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Elgrand 1.5L AWD",
     "engine_url": "https://www.autoevolution.com/cars/nissan-elgrand-2025.html#aeng_nissan-elgrand-2025-15l-awd",
-    "ENGINE SPECS - 1.5L AWD": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "1498 cm3",
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Hybrid Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive"
     },
     "images": [
@@ -89,7 +89,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Armada Nismo 3.5L V6 9AT AWD (466 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-armada-nismo-2025.html#aeng_nissan-armada-nismo-2025-35l-v6-9at-awd-466-hp",
-    "ENGINE SPECS - 3.5L V6 9AT AWD (466 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3492 cm3",
       "Power": "343 KW @ 5600 RPM\n466.4 HP @ 5600 RPM\n460 BHP @ 5600 RPM",
@@ -98,25 +98,25 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "23.6 gallons (89.3 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/70R18 all-season tires"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "210.9 in (5357 mm)",
       "Width": "92.5 in (2350 mm)",
       "Height": "76.6 in (1946 mm)",
       "Wheelbase": "121.1 in (3076 mm)",
       "Ground Clearance": "8.9 in (226 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "6055 lbs (2747 kg)",
       "Gross Weight Limit": "7810 lbs (3543 kg)"
     },
@@ -138,7 +138,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Kicks (US) 2.0L Xtronic AWD (143 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-kicks-us-2024.html#aeng_nissan-kicks-us-2024-20l-xtronic-awd-143-hp",
-    "ENGINE SPECS - 2.0L XTRONIC AWD (143 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1997 cm3",
       "Power": "105.1 KW @ 6000 RPM\n143 HP @ 6000 RPM\n141 BHP @ 6000 RPM",
@@ -147,18 +147,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "12.4 gallons (46.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "Xtronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/60 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "171.9 in (4366 mm)",
       "Width": "70.9 in (1801 mm)",
       "Height": "64.2 in (1631 mm)",
@@ -167,11 +167,11 @@
       "Ground Clearance": "8.4 in (213 mm)",
       "Cargo Volume": "23.9 cuFT (677 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3175 - 3252 lbs (1440 - 1475 kg)",
       "Gross Weight Limit": "4090 - 4211 lbs (1855 - 1910 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "27 mpg US (8.7 L/100Km)",
       "Highway": "34.1 mpg US (6.9 L/100Km)",
       "Combined": "30.2 mpg US (7.8 L/100Km)"
@@ -212,13 +212,13 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Murano 2.0L VC-Turbo 9AT FWD (244 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-murano-2024.html#aeng_nissan-murano-2024-20l-vc-turbo-9at-fwd-244-hp",
-    "ENGINE SPECS - 2.0L VC-TURBO 9AT FWD (244 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Power": "179.7 KW @ - RPM\n244.3 HP @ - RPM\n241 BHP @ - RPM",
       "Torque": "260 lb-ft @ - RPM\n353 Nm @ - RPM",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "9-speed automatic"
     },
@@ -240,7 +240,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Rogue 1.5L VC-Turbo CVT Xtronic AWD (201 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-rogue-2023.html#aeng_nissan-rogue-2023-15l-cvt-xtronic-awd-201-hp",
-    "ENGINE SPECS - 1.5L VC-TURBO CVT XTRONIC AWD (201 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "1498 cm3",
       "Power": "149.9 KW @ 5600 RPM\n204 HP @ 5600 RPM\n201 BHP @ 5600 RPM",
@@ -249,18 +249,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "14.5 gallons (54.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT Xtronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/65R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "183 in (4648 mm)",
       "Width": "72.4 in (1839 mm)",
       "Height": "2.6 in (66 mm)",
@@ -271,7 +271,7 @@
       "Aerodynamics (Cd)": "0.33",
       "Turning circle (curb to curb)": "35.4 ft (10.8 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3569 lbs (1619 kg)",
       "Gross Weight Limit": "4718 lbs (2140 kg)"
     },
@@ -293,7 +293,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Versa S 1.6L 5MT (122 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-versa-2022.html#aeng_nissan-versa-2022-16l-5mt-122-hp",
-    "ENGINE SPECS - S 1.6L 5MT (122 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1598 cm3",
       "Power": "89.7 KW @ 6300 RPM\n122 HP @ 6300 RPM\n120 BHP @ 6300 RPM",
@@ -302,18 +302,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "10.8 gallons (40.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drum"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/65 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "177 in (4496 mm)",
       "Width": "68.5 in (1740 mm)",
       "Height": "57.3 in (1455 mm)",
@@ -323,11 +323,11 @@
       "Aerodynamics (Cd)": "0.32",
       "Turning circle": "34.8 ft (10.6 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2599 lbs (1179 kg)",
       "Gross Weight Limit": "3461 lbs (1570 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "27 mpg US (8.7 L/100Km)",
       "Highway": "35 mpg US (6.7 L/100Km)",
       "Combined": "30 mpg US (7.8 L/100Km)"
@@ -350,7 +350,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN GT-R Nismo 3.8L V6 6AT 4WD (600 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-gt-r-nismo-2023.html#aeng_nissan-gt-r-nismo-2023-38l-v6-6at-4wd-600-hp",
-    "ENGINE SPECS - 3.8L V6 6AT 4WD (600 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3799 cm3",
       "Power": "441.3 KW @ 6800 RPM\n600 HP @ 6800 RPM\n592 BHP @ 6800 RPM",
@@ -359,18 +359,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "19.5 gallons (73.8 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "6-speed manual GR6 dual clutch"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/40 R20 // 285/35 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "185 in (4699 mm)",
       "Width": "74.6 in (1895 mm)",
       "Height": "53.9 in (1369 mm)",
@@ -380,11 +380,11 @@
       "Aerodynamics (Cd)": "0.26",
       "Turning circle": "37.4 ft (11.4 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3867 lbs (1754 kg)",
       "Gross Weight Limit": "4727 lbs (2144 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16 mpg US (14.7 L/100Km)",
       "Highway": "22 mpg US (10.7 L/100Km)",
       "Combined": "18 mpg US (13.1 L/100Km)"
@@ -407,7 +407,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN X-Trail 1.5L VC-T e-Power 1AT FWD (204 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-x-trail-2022.html#aeng_nissan-x-trail-2022-15l-vc-t-e-power-1at-fwd-204-hp",
-    "ENGINE SPECS - 1.5L VC-T E-POWER 1AT FWD (204 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "1497 cm3",
       "Power": "116.2 KW @ 4600 RPM\n158 HP @ 4600 RPM\n156 BHP @ 4600 RPM",
@@ -424,18 +424,18 @@
       "Top Speed": "106 mph (171 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "1-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/60 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184.3 in (4681 mm)",
       "Width": "81.3 in (2065 mm)",
       "Height": "67.9 in (1725 mm)",
@@ -444,7 +444,7 @@
       "Cargo Volume": "20.7 cuFT (586 L)",
       "Turning circle": "36.4 ft (11.1 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3920 - 4030 lbs (1778 - 1828 kg)",
       "Gross Weight Limit": "4949 lbs (2245 kg)"
     },
@@ -473,7 +473,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Altima 2.0L Turbo CVT FWD (248 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-altima-2022.html#aeng_nissan-altima-2022-20l-turbo-cvt-248-hp",
-    "ENGINE SPECS - 2.0L TURBO CVT FWD (248 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1970 cm3",
       "Power": "182.4 KW @ 5600 RPM\n248 HP @ 5600 RPM\n245 BHP @ 5600 RPM",
@@ -482,15 +482,15 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "16.2 gallons (61.3 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "CVT Xtronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "192.9 in (4900 mm)",
       "Width": "72.9 in (1852 mm)",
       "Height": "56.8 in (1443 mm)",
@@ -499,11 +499,11 @@
       "Cargo Volume": "15.4 cuFT (436 L)",
       "Turning circle (curb to curb)": "37.4 ft (11.4 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3460 lbs (1569 kg)",
       "Gross Weight Limit": "4440 lbs (2014 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "25 mpg US (9.4 L/100Km)",
       "Highway": "34 mpg US (6.9 L/100Km)",
       "Combined": "29 mpg US (8.1 L/100Km)"
@@ -526,14 +526,14 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Frontier 3.8L V6 9AT AWD (310 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-frontier-2021.html#aeng_nissan-frontier-2021-38l-v6-9at-awd-310-hp",
-    "ENGINE SPECS - 3.8L V6 9AT AWD (310 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Power": "228 KW @ - RPM\n310 HP @ - RPM\n306 BHP @ - RPM",
       "Torque": "281 lb-ft @ - RPM\n381 Nm @ - RPM",
       "Fuel System": "Direct injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic"
     },
@@ -555,14 +555,14 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Pathfinder 3.5L V6 9AT (284 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-pathfinder-2021.html#aeng_nissan-pathfinder-2021-35l-v6-9at-284-hp",
-    "ENGINE SPECS - 3.5L V6 9AT (284 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Power": "208.9 KW @ - RPM\n284 HP @ - RPM\n280 BHP @ - RPM",
       "Torque": "259 lb-ft @ - RPM\n351 Nm @ - RPM",
       "Fuel System": "Direct injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic"
     },
@@ -584,7 +584,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Z Nismo Nismo 3.0L V6 9AT RWD (426 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-z-nismo-2023.html#aeng_nissan-z-nismo-2023-nismo-30l-v6-9at-rwd-406-hp",
-    "ENGINE SPECS - NISMO 3.0L V6 9AT RWD (426 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "2997 cm3",
       "Power": "313.2 KW @ 6400 RPM\n426 HP @ 6400 RPM\n420 BHP @ 6400 RPM",
@@ -592,18 +592,18 @@
       "Fuel System": "Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "9-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P245/45R18 // P245/45R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "173.2 in (4399 mm)",
       "Width": "73.6 in (1869 mm)",
       "Height": "51.8 in (1316 mm)",
@@ -611,7 +611,7 @@
       "Wheelbase": "100.4 in (2550 mm)",
       "Ground Clearance": "4.9 in (124 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Gross Weight Limit": "3704 lbs (1680 kg)"
     },
     "images": [
@@ -632,7 +632,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Navara / Frontier King Cab 2.5L 16V 6MT 2WD (154 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-navara-frontier-king-cab-2005.html#aeng_nissan-navara-frontier-king-cab-2005-25-16v",
-    "ENGINE SPECS - 2.5L 16V 6MT 2WD (154 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2488 cm3",
       "Power": "113 KW @ 5200 RPM\n154 HP @ 5200 RPM\n152 BHP @ 5200 RPM",
@@ -641,18 +641,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "21.1 gallons (79.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/70?R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "205.5 in (5220 mm)",
       "Width": "72.8 in (1849 mm)",
       "Height": "68.9 in (1750 mm)",
@@ -661,11 +661,11 @@
       "Ground Clearance": "9.4 in (239 mm)",
       "Aerodynamics (Cd)": "0.41"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3675 lbs (1667 kg)",
       "Gross Weight Limit": "4687 lbs (2126 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17 mpg US (13.8 L/100Km)",
       "Highway": "23 mpg US (10.2 L/100Km)"
     },
@@ -687,7 +687,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Titan Crew Cab 5.6L V8 9AT 4x4 (400 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-titan-crew-cab-2019.html#aeng_nissan-titan-crew-cab-2019-56l-v8-9at-4x4-400-hp",
-    "ENGINE SPECS - 5.6L V8 9AT 4X4 (400 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "5552 cm3",
       "Power": "294.2 KW @ - RPM\n400 HP @ - RPM\n395 BHP @ - RPM",
@@ -695,18 +695,18 @@
       "Fuel System": "Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/70R18 (OWL)"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "228.1 in (5794 mm)",
       "Width": "79.5 in (2019 mm)",
       "Height": "76 in (1930 mm)",
@@ -732,7 +732,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Juke 1.0L 6MT FWD (117 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-juke-2019.html#aeng_nissan-juke-2019-10l-6mt-117-hp",
-    "ENGINE SPECS - 1.0L 6MT FWD (117 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "999 cm3",
       "Power": "86.1 KW @ 5250 RPM\n117 HP @ 5250 RPM\n115 BHP @ 5250 RPM",
@@ -745,18 +745,18 @@
       "Top Speed": "112 mph (180 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "10.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/65 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "165.7 in (4209 mm)",
       "Width": "70.9 in (1801 mm)",
       "Height": "62.8 in (1595 mm)",
@@ -766,7 +766,7 @@
       "Cargo Volume": "14.9 cuFT (422 L)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2628 lbs (1192 kg)"
     },
     "images": [
@@ -787,7 +787,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN 350 Z 3.5L V6 6MT RWD (300 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-350-z-2006.html#aeng_nissan-350-z-2006-35-v6-300-hp",
-    "ENGINE SPECS - 3.5L V6 6MT RWD (300 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3498 cm3",
       "Power": "221 KW @ 6400 RPM\n300 HP @ 6400 RPM\n296 BHP @ 6400 RPM",
@@ -799,18 +799,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/45R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "170.1 in (4321 mm)",
       "Width": "71.6 in (1819 mm)",
       "Height": "52 in (1321 mm)",
@@ -820,11 +820,11 @@
       "Cargo Volume": "8.3 cuFT (235 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3381.9 lbs (1534 kg)",
       "Gross Weight Limit": "4012.4 lbs (1820 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14.8 mpg US (15.9 L/100Km)",
       "Highway": "26.4 mpg US (8.9 L/100Km)",
       "Combined": "20.1 mpg US (11.7 L/100Km)",
@@ -848,7 +848,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN 350Z Roadster 3.5L V6 6MT (313 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-350z-roadster-2008.html#aeng_nissan-350z-roadster-2008-35-v6",
-    "ENGINE SPECS - 3.5L V6 6MT (313 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3498 cm3",
       "Power": "230 KW @ 6800 RPM\n313 HP @ 6800 RPM\n308 BHP @ 6800 RPM",
@@ -861,18 +861,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "6.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/45R18 91W || 245/45R18 96W"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "169.9 in (4315 mm)",
       "Width": "71.5 in (1816 mm)",
       "Height": "52.4 in (1331 mm)",
@@ -882,11 +882,11 @@
       "Cargo Volume": "8.3 cuFT (235 L)",
       "Aerodynamics (Cd)": "0.34"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3580.3 lbs (1624 kg)",
       "Gross Weight Limit": "4012.4 lbs (1820 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "23.5 mpg US (10 L/100Km)",
       "Highway": "30.7 mpg US (7.7 L/100Km)",
       "Combined": "16.6 mpg US (14.2 L/100Km)",
@@ -910,7 +910,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN 370Z Coupe 3.7 V6 6MT (333 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-370z-coupe-2012.html#aeng_nissan-370z-2012-37-v6-6mt-333-hp",
-    "ENGINE SPECS - 3.7 V6 6MT (333 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3696 cm3",
       "Power": "245 KW @ 7000 RPM\n333 HP @ 7000 RPM\n329 BHP @ 7000 RPM",
@@ -922,18 +922,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "Manual, 6 Speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/40 R19 (Front) 275/35 R19 (Rear)"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "167.1 in (4244 mm)",
       "Width": "72.8 in (1849 mm)",
       "Height": "51.8 in (1316 mm)",
@@ -943,11 +943,11 @@
       "Cargo Volume": "7.5 cuFT (212 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3221 lbs (1461 kg)",
       "Gross Weight Limit": "3968 lbs (1800 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "15.4 mpg US (15.3 L/100Km)",
       "Highway": "30.2 mpg US (7.8 L/100Km)",
       "Combined": "22.4 mpg US (10.5 L/100Km)",
@@ -971,7 +971,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN 370z Nismo 3.7L V6 6MT RWD (344 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-370z-nismo-2014.html#aeng_nissan-370z-nismo-2014-37-v6-6mt-344-hp",
-    "ENGINE SPECS - 3.7L V6 6MT RWD (344 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3696 cm3",
       "Power": "261 KW @ 7400 RPM\n354.9 HP @ 7400 RPM\n350 BHP @ 7400 RPM",
@@ -984,18 +984,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/40 R19 || 285/35 R19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "173.6 in (4409 mm)",
       "Width": "73.6 in (1869 mm)",
       "Height": "51.6 in (1311 mm)",
@@ -1005,11 +1005,11 @@
       "Cargo Volume": "8.3 cuFT (235 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3307 lbs (1500 kg)",
       "Gross Weight Limit": "3968 lbs (1800 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "15.3 mpg US (15.4 L/100Km)",
       "Highway": "30.2 mpg US (7.8 L/100Km)",
       "Combined": "22.2 mpg US (10.6 L/100Km)",
@@ -1033,7 +1033,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN 370Z Roadster 3.7 V6 6MT (333 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-370z-roadster-2012.html#aeng_nissan-370z-roadster-2012-37-v6-6mt-333-hp",
-    "ENGINE SPECS - 3.7 V6 6MT (333 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3696 cm3",
       "Power": "245 KW @ 7000 RPM\n333 HP @ 7000 RPM\n329 BHP @ 7000 RPM",
@@ -1045,18 +1045,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed, Manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/40R19 front and 275/35R19 rear"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "167.2 in (4247 mm)",
       "Width": "72.8 in (1849 mm)",
       "Height": "52.2 in (1326 mm)",
@@ -1066,11 +1066,11 @@
       "Cargo Volume": "4.9 cuFT (139 L)",
       "Aerodynamics (Cd)": "0.34"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3351 lbs (1520 kg)",
       "Gross Weight Limit": "4156 lbs (1885 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14.5 mpg US (16.2 L/100Km)",
       "Highway": "28.3 mpg US (8.3 L/100Km)",
       "Combined": "21 mpg US (11.2 L/100Km)",
@@ -1094,7 +1094,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Almera / Pulsar 3 Doors 1.5L 16V 5MT FWD (98 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-almera-pulsar-3-doors-2002.html#aeng_nissan-almera-pulsar-3-doors-2002-15-16v",
-    "ENGINE SPECS - 1.5L 16V 5MT FWD (98 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1497 cm3",
       "Power": "72 KW @ 6000 RPM\n98 HP @ 6000 RPM\n97 BHP @ 6000 RPM",
@@ -1107,18 +1107,18 @@
       "Top Speed": "110 mph (177 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/65 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "165.3 in (4199 mm)",
       "Width": "67.3 in (1709 mm)",
       "Height": "57.1 in (1450 mm)",
@@ -1128,11 +1128,11 @@
       "Cargo Volume": "12.5 cuFT (354 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2524.3 lbs (1145 kg)",
       "Gross Weight Limit": "3769.9 lbs (1710 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "27.3 mpg US (8.6 L/100Km)",
       "Highway": "42.8 mpg US (5.5 L/100Km)",
       "Combined": "35.6 mpg US (6.6 L/100Km)",
@@ -1156,7 +1156,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Pulsar 1.2L DIG-T 6MT FWD (115 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-pulsar-2014.html#aeng_nissan-pulsar-2014-12-dig-t-6mt-115-hp",
-    "ENGINE SPECS - 1.2L DIG-T 6MT FWD (115 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1197 cm3",
       "Power": "84 KW @ 4500 RPM\n114 HP @ 4500 RPM\n113 BHP @ 4500 RPM",
@@ -1169,18 +1169,18 @@
       "Top Speed": "118 mph (190 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "10.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/60R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "172.7 in (4387 mm)",
       "Width": "69.6 in (1768 mm)",
       "Height": "59.8 in (1519 mm)",
@@ -1190,11 +1190,11 @@
       "Cargo Volume": "13.6 cuFT (385 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2773 lbs (1258 kg)",
       "Gross Weight Limit": "3858 lbs (1750 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "37.3 mpg US (6.3 L/100Km)",
       "Highway": "54.7 mpg US (4.3 L/100Km)",
       "Combined": "47 mpg US (5 L/100Km)",
@@ -1218,7 +1218,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Altima (Thailand) 1.2L ECO CVT (79 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-altima-thailand-2011.html#aeng_nissan-altima-thailand-2011-12l-eco",
-    "ENGINE SPECS - 1.2L ECO CVT (79 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "1200 cm3",
       "Power": "58 KW @ 6000 RPM\n79 HP @ 6000 RPM\n78 BHP @ 6000 RPM",
@@ -1226,15 +1226,15 @@
       "Fuel System": "direct injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "manual or the XTRONIC-CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "174.17 in (4424 mm)",
       "Width": "66.73 in (1695 mm)",
       "Height": "59.05 in (1500 mm)",
@@ -1242,11 +1242,11 @@
       "Cargo Volume": "17.3 cuFT (490 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2204 lbs (1000 kg)",
       "Gross Weight Limit": "3306 lbs (1500 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "47.02 mpg US (5 L/100Km)",
       "CO2 Emissions": "120 g/km"
     },
@@ -1267,7 +1267,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Almera Tino 1.8L 16V 5MT FWD (114 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-almera-tino-2000.html#aeng_nissan-almera-tino-2000-18-16v",
-    "ENGINE SPECS - 1.8L 16V 5MT FWD (114 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1769 cm3",
       "Power": "84 KW @ 5600 RPM\n114 HP @ 5600 RPM\n113 BHP @ 5600 RPM",
@@ -1279,18 +1279,18 @@
       "Top Speed": "107.5 mph (173 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/65R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "167.7 in (4260 mm)",
       "Width": "69.3 in (1760 mm)",
       "Height": "63.4 in (1610 mm)",
@@ -1300,11 +1300,11 @@
       "Cargo Volume": "15.5 cuFT (439 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2965.2 lbs (1345 kg)",
       "Gross Weight Limit": "4034.4 lbs (1830 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "22.8 mpg US (10.3 L/100Km)",
       "Highway": "37.3 mpg US (6.3 L/100Km)",
       "Combined": "30.1 mpg US (7.8 L/100Km)",
@@ -1328,7 +1328,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Cube 1.5L CVT AWD (109 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-cube-2008.html#aeng_nissan-cube-2008-15-cvt-awd-109-hp",
-    "ENGINE SPECS - 1.5L CVT AWD (109 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1498 cm3",
       "Power": "80.2 KW @ 6000 RPM\n109 HP @ 6000 RPM\n108 BHP @ 6000 RPM",
@@ -1341,18 +1341,18 @@
       "Top Speed": "106 mph (171 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/60R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "156.7 in (3980 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "65.7 in (1669 mm)",
@@ -1362,11 +1362,11 @@
       "Cargo Volume": "9 cuFT (255 L)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2756 lbs (1250 kg)",
       "Gross Weight Limit": "3814 lbs (1730 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "36.8 mpg US (6.4 L/100Km)"
     },
     "images": [
@@ -1387,7 +1387,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Grand Livina 1.6L 4AT FWD (105 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-grand-livina-2006.html#aeng_nissan-grand-livina-2006-16l-4at-105-hp",
-    "ENGINE SPECS - 1.6L 4AT FWD (105 HP)": {
+    "engine_specs": {
       "Cylinders": "4",
       "Displacement": "1598 cm3",
       "Power": "77 KW @ 5200 RPM\n105 HP @ 5200 RPM\n103 BHP @ 5200 RPM",
@@ -1395,18 +1395,18 @@
       "Fuel System": "electronic fuel injection system",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/65R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "176.6 in (4486 mm)",
       "Width": "66.9 in (1699 mm)",
       "Height": "62.6 in (1590 mm)",
@@ -1414,7 +1414,7 @@
       "Wheelbase": "102.4 in (2601 mm)",
       "Ground Clearance": "7.1 in (180 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2745 lbs (1245 kg)"
     },
     "images": [
@@ -1435,7 +1435,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Juke Nismo 1.6L Turbo AWD CVT (200 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-juke-nismo-2013.html#aeng_nissan-juke-nismo-2013-16l-turbo-200-hp",
-    "ENGINE SPECS - 1.6L TURBO AWD CVT (200 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1618 cm3",
       "Power": "147 KW @ 6000 RPM\n200 HP @ 6000 RPM\n197 BHP @ 6000 RPM",
@@ -1448,18 +1448,18 @@
       "Top Speed": "124 mph (200 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT (Xtronic)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/45R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "164 in (4166 mm)",
       "Width": "69.7 in (1770 mm)",
       "Height": "61.6 in (1565 mm)",
@@ -1469,11 +1469,11 @@
       "Cargo Volume": "8.9 cuFT (252 L)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2987 lbs (1355 kg)",
       "Gross Weight Limit": "4101 lbs (1860 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "23.1 mpg US (10.2 L/100Km)",
       "Highway": "39.2 mpg US (6 L/100Km)",
       "Combined": "30.9 mpg US (7.6 L/100Km)",
@@ -1497,7 +1497,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Liberty 2.0i 16V GT4 4AT AWD (230 Hp)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-liberty-1999.html#aeng_nissan-liberty-1999-20i-16v-gt4-4at-awd-230-hp",
-    "ENGINE SPECS - 2.0I 16V GT4 4AT AWD (230 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "169.2 KW @ 6000 RPM\n230 HP @ 6000 RPM\n227 BHP @ 6000 RPM",
@@ -1505,18 +1505,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "4-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/65R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "180.1 in (4575 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "64.2 in (1631 mm)",
@@ -1524,11 +1524,11 @@
       "Wheelbase": "105.9 in (2690 mm)",
       "Ground Clearance": "6.3 in (160 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3594 lbs (1630 kg)",
       "Gross Weight Limit": "4442 lbs (2015 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19.3 mpg US (12.2 L/100Km)",
       "Highway": "37.3 mpg US (6.3 L/100Km)"
     },
@@ -1550,7 +1550,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Micra C+C 1.4L 16V 5MT FWD (88 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-micra-cc-2005.html#aeng_nissan-micra-cc-2005-14-16v",
-    "ENGINE SPECS - 1.4L 16V 5MT FWD (88 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1386 cm3",
       "Power": "65 KW @ 5200 RPM\n88 HP @ 5200 RPM\n87 BHP @ 5200 RPM",
@@ -1562,18 +1562,18 @@
       "Top Speed": "108 mph (174 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "175/60 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "150 in (3810 mm)",
       "Width": "65.7 in (1669 mm)",
       "Height": "56.7 in (1440 mm)",
@@ -1583,11 +1583,11 @@
       "Cargo Volume": "9 cuFT (255 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2502.2 lbs (1135 kg)",
       "Gross Weight Limit": "3395.1 lbs (1540 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "28.7 mpg US (8.2 L/100Km)",
       "Highway": "42 mpg US (5.6 L/100Km)",
       "Combined": "35.6 mpg US (6.6 L/100Km)",
@@ -1611,7 +1611,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN CrossCabriolet 3.5L V6 CVT (265 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-crosscabriolet-2011.html#aeng_nissan-crosscabriolet-2011-35l-cvt-265-hp",
-    "ENGINE SPECS - 3.5L V6 CVT (265 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3498 cm3",
       "Power": "198 KW @ 6000 RPM\n265 HP @ 6000 RPM\n266 BHP @ 6000 RPM",
@@ -1623,18 +1623,18 @@
       "Top Speed": "116 mph (187 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/55R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "190.1 in (4829 mm)",
       "Width": "74.5 in (1892 mm)",
       "Height": "66.2 in (1681 mm)",
@@ -1644,11 +1644,11 @@
       "Cargo Volume": "12.3 cuFT (348 L)",
       "Aerodynamics (Cd)": "0.39"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4435 lbs (2012 kg)",
       "Gross Weight Limit": "5269 lbs (2390 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17 mpg US (13.8 L/100Km)",
       "Highway": "22 mpg US (10.7 L/100Km)",
       "Combined": "19 mpg US (12.4 L/100Km)",
@@ -1672,7 +1672,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Versa/Note 1.6L CVT FWD (109 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-versa-note-2017.html#aeng_nissan-versa-note-2017-16l-cvt-109-hp",
-    "ENGINE SPECS - 1.6L CVT FWD (109 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1598 cm3",
       "Power": "80.2 KW @ 6000 RPM\n109 HP @ 6000 RPM\n108 BHP @ 6000 RPM",
@@ -1681,18 +1681,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "10.8 gallons (40.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P185/65HR15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "163 in (4140 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "60.5 in (1537 mm)",
@@ -1702,11 +1702,11 @@
       "Aerodynamics (Cd)": "0.29",
       "Turning circle (curb to curb)": "34.8 ft (10.6 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2460 lbs (1116 kg)",
       "Gross Weight Limit": "3470 lbs (1574 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "31 mpg US (7.6 L/100Km)",
       "Highway": "34.1 mpg US (6.9 L/100Km)",
       "Combined": "39 mpg US (6 L/100Km)"
@@ -1729,7 +1729,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Pixo 1.0L 4AT (68 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-pixo-2009.html#aeng_nissan-pixo-2009-10l-4at-68-hp",
-    "ENGINE SPECS - 1.0L 4AT (68 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Displacement": "996 cm3",
       "Power": "50 KW @ 6000 RPM\n68 HP @ 6000 RPM\n67 BHP @ 6000 RPM",
@@ -1742,18 +1742,18 @@
       "Top Speed": "93 mph (150 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "17 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "155/65R14"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "140.4 in (3566 mm)",
       "Width": "72.6 in (1844 mm)",
       "Height": "57.9 in (1471 mm)",
@@ -1763,11 +1763,11 @@
       "Cargo Volume": "4.6 cuFT (130 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2006 lbs (910 kg)",
       "Gross Weight Limit": "2756 lbs (1250 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "36.2 mpg US (6.5 L/100Km)",
       "Highway": "54.7 mpg US (4.3 L/100Km)",
       "Combined": "46.1 mpg US (5.1 L/100Km)",
@@ -1791,7 +1791,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Platina 1.6",
     "engine_url": "https://www.autoevolution.com/cars/nissan-platina-2006.html#aeng_nissan-platina-2006-16",
-    "ENGINE SPECS - 1.6": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1598 cm3",
       "Power": "82 KW @ 5750 RPM\n110 HP @ 5750 RPM\n110 BHP @ 5750 RPM",
@@ -1799,18 +1799,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "Manual, 5 Speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "175/65 R14"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "164.2 in (4171 mm)",
       "Width": "64.5 in (1638 mm)",
       "Height": "56.6 in (1438 mm)",
@@ -1819,11 +1819,11 @@
       "Ground Clearance": "5.9 in (150 mm)",
       "Cargo Volume": "10.2 cuFT (289 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2343 lbs (1063 kg)",
       "Gross Weight Limit": "3366 lbs (1527 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "38.3 mpg US (6.1 L/100Km)",
       "CO2 Emissions": "146 g/km"
     },
@@ -1845,7 +1845,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Quest 3.5L CVT (260 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-quest-2011.html#aeng_nissan-quest-2011-35l-260-hp",
-    "ENGINE SPECS - 3.5L CVT (260 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3498 cm3",
       "Power": "191 KW @ 6000 RPM\n260 HP @ 6000 RPM\n256 BHP @ 6000 RPM",
@@ -1853,28 +1853,28 @@
       "Fuel System": "Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "Xtronic CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P225/65TR16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "200.8 in (5100 mm)",
       "Width": "77.6 in (1971 mm)",
       "Height": "71.5 in (1816 mm)",
       "Wheelbase": "118.1 in (3000 mm)",
       "Cargo Volume": "11.4 cuFT (323 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4271 lbs (1937 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19 mpg US (12.4 L/100Km)",
       "Highway": "24 mpg US (9.8 L/100Km)"
     },
@@ -1896,7 +1896,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Skyline Sedan 3.5L V6 6MT (310 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-skyline-sedan-2006.html#aeng_nissan-skyline-sedan-2006-35-v6",
-    "ENGINE SPECS - 3.5L V6 6MT (310 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3498 cm3",
       "Power": "228 KW @ 6800 RPM\n310 HP @ 6800 RPM\n306 BHP @ 6800 RPM",
@@ -1905,18 +1905,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "21.1 gallons (79.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/55VR17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "187 in (4750 mm)",
       "Width": "69.8 in (1773 mm)",
       "Height": "57.2 in (1453 mm)",
@@ -1924,11 +1924,11 @@
       "Wheelbase": "112.2 in (2850 mm)",
       "Ground Clearance": "5.3 in (135 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3532.4 lbs (1602 kg)",
       "Gross Weight Limit": "4659.2 lbs (2113 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19 mpg US (12.4 L/100Km)",
       "Highway": "27 mpg US (8.7 L/100Km)"
     },
@@ -1950,7 +1950,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Sunny 1.5L 5MT FWD (99 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-sunny-2010.html#aeng_nissan-sunny-2010-15-5mt-99-hp",
-    "ENGINE SPECS - 1.5L 5MT FWD (99 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1498 cm3",
       "Power": "73 KW @ 6000 RPM\n99 HP @ 6000 RPM\n98 BHP @ 6000 RPM",
@@ -1958,18 +1958,18 @@
       "Fuel System": "Sequential multi-point fuel injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-manual speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/65 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "174.2 in (4425 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "59.3 in (1506 mm)",
@@ -1978,7 +1978,7 @@
       "Cargo Volume": "17.3 cuFT (490 L)",
       "Aerodynamics (Cd)": "0.28"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2200 lbs (998 kg)",
       "Gross Weight Limit": "3389 lbs (1537 kg)"
     },
@@ -2000,7 +2000,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Sunny 3 Doors 1.4L 16V 5MT FWD (87 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-sunny-3-doors-1993.html#aeng_nissan-sunny-n14-3-doors-1994-14-16v",
-    "ENGINE SPECS - 1.4L 16V 5MT FWD (87 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1392 cm3",
       "Power": "64 KW @ 6000 RPM\n87 HP @ 6000 RPM\n86 BHP @ 6000 RPM",
@@ -2013,18 +2013,18 @@
       "Top Speed": "106 mph (171 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "155R13"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "156.7 in (3980 mm)",
       "Width": "65.7 in (1669 mm)",
       "Height": "55.1 in (1400 mm)",
@@ -2033,11 +2033,11 @@
       "Ground Clearance": "5.9 in (150 mm)",
       "Cargo Volume": "9.9 cuFT (280 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2226.7 lbs (1010 kg)",
       "Gross Weight Limit": "3406.1 lbs (1545 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "37.3 mpg US (6.3 L/100Km)",
       "CO2 Emissions": "150 g/km"
     },
@@ -2059,7 +2059,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Sunny Hatchback 1.4L 16V 5MT FWD (87 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-sunny-hatchback-1993.html#aeng_nissan-sunny-hatchback-1993-14-16v",
-    "ENGINE SPECS - 1.4L 16V 5MT FWD (87 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1392 cm3",
       "Power": "64 KW @ 6000 RPM\n87 HP @ 6000 RPM\n86 BHP @ 6000 RPM",
@@ -2072,18 +2072,18 @@
       "Top Speed": "105.6 mph (170 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "175/70R13"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "163 in (4140 mm)",
       "Width": "65.7 in (1669 mm)",
       "Height": "55.1 in (1400 mm)",
@@ -2092,11 +2092,11 @@
       "Ground Clearance": "5.9 in (150 mm)",
       "Cargo Volume": "9.9 cuFT (280 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2292.8 lbs (1040 kg)",
       "Gross Weight Limit": "3406.1 lbs (1545 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "37.3 mpg US (6.3 L/100Km)",
       "CO2 Emissions": "150 g/km"
     },
@@ -2115,7 +2115,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Sunny Sedan 1.4L 16V 5MT (87 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-sunny-sedan-1993.html#aeng_nissan-sunny-sedan-1993-14-16v",
-    "ENGINE SPECS - 1.4L 16V 5MT (87 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1392 cm3",
       "Power": "64 KW @ 6000 RPM\n87 HP @ 6000 RPM\n86 BHP @ 6000 RPM",
@@ -2128,18 +2128,18 @@
       "Top Speed": "106 mph (171 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "155 R13S"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "166.5 in (4229 mm)",
       "Width": "65.7 in (1669 mm)",
       "Height": "55.1 in (1400 mm)",
@@ -2148,11 +2148,11 @@
       "Ground Clearance": "5.9 in (150 mm)",
       "Cargo Volume": "17.3 cuFT (490 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2270.8 lbs (1030 kg)",
       "Gross Weight Limit": "3406.1 lbs (1545 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "37.3 mpg US (6.3 L/100Km)",
       "CO2 Emissions": "150 g/km"
     },
@@ -2174,7 +2174,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Sunny Traveller 1.6L 16V 5MT FWD (102 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-sunny-traveller-1993.html#aeng_nissan-sunny-traveller-1993-16-16v",
-    "ENGINE SPECS - 1.6L 16V 5MT FWD (102 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1597 cm3",
       "Power": "75 KW @ 6000 RPM\n102 HP @ 6000 RPM\n101 BHP @ 6000 RPM",
@@ -2186,18 +2186,18 @@
       "Top Speed": "107 mph (172 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "10.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "175/65 R14"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "164.6 in (4181 mm)",
       "Width": "65.3 in (1659 mm)",
       "Height": "58.3 in (1481 mm)",
@@ -2206,11 +2206,11 @@
       "Ground Clearance": "5.9 in (150 mm)",
       "Cargo Volume": "14.6 cuFT (413 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2248.7 lbs (1020 kg)",
       "Gross Weight Limit": "3461.2 lbs (1570 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "24 mpg US (9.8 L/100Km)",
       "Highway": "36.2 mpg US (6.5 L/100Km)",
       "Combined": "30.5 mpg US (7.7 L/100Km)",
@@ -2234,7 +2234,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Teana 2.0L CVT FWD (136 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-teana-2009.html#aeng_nissan-teana-2009-20-cvt-136-hp",
-    "ENGINE SPECS - 2.0L CVT FWD (136 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1997 cm3",
       "Power": "100 KW @ 5600 RPM\n136 HP @ 5600 RPM\n134 BHP @ 5600 RPM",
@@ -2242,18 +2242,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "XTRONIC CVT (Continuously Variable Transmission)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/65 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "190.9 in (4849 mm)",
       "Width": "70.7 in (1796 mm)",
       "Height": "58.5 in (1486 mm)",
@@ -2262,7 +2262,7 @@
       "Ground Clearance": "5.7 in (145 mm)",
       "Cargo Volume": "17.2 cuFT (487 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3208 lbs (1455 kg)",
       "Gross Weight Limit": "4189 lbs (1900 kg)"
     },
@@ -2284,7 +2284,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Tiida/Versa 1.5L 16V 4AT FWD (108 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-tiidaversa-2006.html#aeng_nissan-tiidaversa-2006-15-16v",
-    "ENGINE SPECS - 1.5L 16V 4AT FWD (108 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1598 cm3",
       "Power": "80 KW @ 6000 RPM\n109 HP @ 6000 RPM\n107 BHP @ 6000 RPM",
@@ -2296,18 +2296,18 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "118 mph (190 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/65 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "165.6 in (4206 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "60.4 in (1534 mm)",
@@ -2317,11 +2317,11 @@
       "Cargo Volume": "16.9 cuFT (479 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2425.5 lbs (1100 kg)",
       "Gross Weight Limit": "3031.9 lbs (1375 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "39.2 mpg US (6 L/100Km)",
       "CO2 Emissions": "143 g/km"
     },
@@ -2343,7 +2343,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN Titan King Cab 5.6 V8 RWD 5AT (317 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-titan-2009.html#aeng_nissan-titan-2009-56-v8",
-    "ENGINE SPECS - 5.6 V8 RWD 5AT (317 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "5552 cm3",
       "Power": "236 KW @ 5200 RPM\n321 HP @ 5200 RPM\n316 BHP @ 5200 RPM",
@@ -2351,18 +2351,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "Automatic, 5 Speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P265/70 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "224.6 in (5705 mm)",
       "Width": "79.5 in (2019 mm)",
       "Height": "76.1 in (1933 mm)",
@@ -2370,10 +2370,10 @@
       "Wheelbase": "139.8 in (3551 mm)",
       "Ground Clearance": "10.2 in (259 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2264 lbs (1027 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "12 mpg US (19.6 L/100Km)",
       "Highway": "17 mpg US (13.8 L/100Km)"
     },
@@ -2395,7 +2395,7 @@
     "fuel_type": "gasoline",
     "engine": "NISSAN XTerra 4.0L 5AT RWD (261 HP)",
     "engine_url": "https://www.autoevolution.com/cars/nissan-xterra-2009.html#aeng_nissan-xterra-2009-40l-rwd-5at-261-hp",
-    "ENGINE SPECS - 4.0L 5AT RWD (261 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3954 cm3",
       "Power": "192 KW @ 5600 RPM\n261 HP @ 5600 RPM\n257 BHP @ 5600 RPM",
@@ -2404,18 +2404,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "21.1 gallons (79.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/65 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "187.7 in (4768 mm)",
       "Width": "72.8 in (1849 mm)",
       "Height": "74.9 in (1902 mm)",
@@ -2425,11 +2425,11 @@
       "Cargo Volume": "65.7 cuFT (1860 L)",
       "Aerodynamics (Cd)": "0.39"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4149 lbs (1882 kg)",
       "Gross Weight Limit": "5201 lbs (2359 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16 mpg US (14.7 L/100Km)",
       "Highway": "22 mpg US (10.7 L/100Km)",
       "Combined": "19 mpg US (12.4 L/100Km)"

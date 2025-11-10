@@ -4,7 +4,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN GT 4.0L V8 7AT RWD (620 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-gt-2019.html#aeng_mclaren-gt-2019-40l-v8-7at-620-hp",
-    "ENGINE SPECS - 4.0L V8 7AT RWD (620 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3994 cm3",
       "Power": "456 KW @ 7500 RPM\n620 HP @ 7500 RPM\n612 BHP @ 7500 RPM",
@@ -17,18 +17,18 @@
       "Top Speed": "203 mph (327 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/35/R20 // 295/30/R21"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184.4 in (4684 mm)",
       "Width": "82.5 in (2096 mm)",
       "Height": "47.8 in (1214 mm)",
@@ -36,10 +36,10 @@
       "Wheelbase": "105.3 in (2675 mm)",
       "Cargo Volume": "20.1 cuFT (569 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3373 lbs (1530 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16.1 mpg US (14.6 L/100Km)",
       "Highway": "27 mpg US (8.7 L/100Km)",
       "Combined": "21.8 mpg US (10.8 L/100Km)",
@@ -71,7 +71,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN 750S 4.0L V8 7AT RWD (750 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-750s-2023.html#aeng_mclaren-750s-2023-40l-v8-7at-rwd-750-hp",
-    "ENGINE SPECS - 4.0L V8 7AT RWD (750 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3994 cm3",
       "Power": "551.6 KW @ 7500 RPM\n750 HP @ 7500 RPM\n740 BHP @ 7500 RPM",
@@ -84,18 +84,18 @@
       "Top Speed": "206 mph (332 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 R19 93Y XL // 305/30 R20 103Y XL"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.9 in (4569 mm)",
       "Width": "76 in (1930 mm)",
       "Height": "47.1 in (1196 mm)",
@@ -103,7 +103,7 @@
       "Wheelbase": "105.1 in (2670 mm)",
       "Cargo Volume": "12.7 cuFT (360 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3062 lbs (1389 kg)"
     },
     "FUEL ECONOMY (WLTP)": {
@@ -136,7 +136,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN GTS 4.0L V8 7AT RWD (635 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-gts-2023.html#aeng_mclaren-gts-2023-40l-v8-7at-rwd",
-    "ENGINE SPECS - 4.0L V8 7AT RWD (635 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3994 cm3",
       "Power": "467 KW @ 7500 RPM\n635 HP @ 7500 RPM\n626 BHP @ 7500 RPM",
@@ -149,18 +149,18 @@
       "Top Speed": "203 mph (327 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic+reverse SSG. Comfort, Sport and Track modes"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Carbon ceramic discs: 390 mm",
       "Rear": "Carbon ceramic discs: 380 mm"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "Pirelli P ZERO 225/35/R20 // 295/30/R21"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184.4 in (4684 mm)",
       "Width": "80.5 in (2045 mm)",
       "Height": "47.8 in (1214 mm)",
@@ -168,7 +168,7 @@
       "Wheelbase": "105.3 in (2675 mm)",
       "Cargo Volume": "20.1 cuFT (569 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3351 lbs (1520 kg)"
     },
     "FUEL ECONOMY (WLTP)": {
@@ -196,7 +196,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN 765LT 4.0L V8 7AT (765 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-675lt-2020.html#aeng_mclaren-675lt-2020-40l-v8-7at-765-hp",
-    "ENGINE SPECS - 4.0L V8 7AT (765 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3994 cm3",
       "Power": "562.7 KW @ 7500 RPM\n765 HP @ 7500 RPM\n755 BHP @ 7500 RPM",
@@ -209,25 +209,25 @@
       "Top Speed": "205 mph (330 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35/R19 93Y // 305/30/R20 103Y"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "181.1 in (4600 mm)",
       "Width": "81.1 in (2060 mm)",
       "Height": "45.6 in (1158 mm)",
       "Front/rear Track": "65.2/63.5 in (1,656/1,613 mm)",
       "Wheelbase": "105.1 in (2670 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2952 lbs (1339 kg)"
     },
     "images": [
@@ -248,7 +248,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN Elva 4.0L V8 7AT (815 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-elva-2020.html#aeng_mclaren-elva-2020-40l-v8-7at-815-hp",
-    "ENGINE SPECS - 4.0L V8 7AT (815 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Power": "599.4 KW @ - RPM\n815 HP @ - RPM\n804 BHP @ - RPM",
       "Fuel System": "Turbocharged Direct Injection",
@@ -258,10 +258,10 @@
       "Top Speed": "124 mph (200 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "6.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
@@ -283,7 +283,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN 620R 3.8L V8 7AT (620 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-620r-2019.html#aeng_mclaren-620r-2019-38l-v8-620-hp",
-    "ENGINE SPECS - 3.8L V8 7AT (620 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3799 cm3",
       "Power": "456 KW @ 7000 RPM\n620 HP @ 7000 RPM\n612 BHP @ 7000 RPM",
@@ -295,18 +295,18 @@
       "Top Speed": "200 mph (322 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/35/R19 // 285/35/R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.4 in (4557 mm)",
       "Width": "80.5 in (2045 mm)",
       "Height": "47 in (1194 mm)",
@@ -314,10 +314,10 @@
       "Wheelbase": "105.1 in (2670 mm)",
       "Cargo Volume": "4.2 cuFT (119 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3056 lbs (1386 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "15 mpg US (15.7 L/100Km)",
       "Highway": "23.1 mpg US (10.2 L/100Km)",
       "Combined": "18 mpg US (13.1 L/100Km)"
@@ -340,7 +340,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN 12C GT Sprint 3.8L 7AT (625 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-12c-gt-sprint-2013.html#aeng_mclaren-12c-gt-sprint-2013-38l-7at-625-hp",
-    "ENGINE SPECS - 3.8L 7AT (625 HP)": {
+    "engine_specs": {
       "Cylinders": "v8",
       "Displacement": "3799 cm3",
       "Power": "460 KW @ 7500 RPM\n625 HP @ 7500 RPM\n617 BHP @ 7500 RPM",
@@ -352,28 +352,28 @@
       "Top Speed": "207 mph (333 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "Seven-speed McLaren dual clutch Seamless-Shift gearbox (SSG) with Pre-Cog functionality"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "Front: 235/35 R19 Rear: 305/30 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "177.5 in (4509 mm)",
       "Width": "75.1 in (1908 mm)",
       "Height": "47.4 in (1204 mm)",
       "Front/rear Track": "65.2/62.3 in (1,656/1,582 mm)",
       "Wheelbase": "105.1 in (2670 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3161 lbs (1434 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "20.1 mpg US (11.7 L/100Km)",
       "CO2 Emissions": "279 g/km"
     },
@@ -391,11 +391,11 @@
     "end_year": 2014
   },
   {
-    "generation": "McLaren 540C Coupé",
+    "generation": "McLaren 540C Coup\u00e9",
     "fuel_type": "gasoline",
     "engine": "MCLAREN 540C 3.8 V8 7AT (540 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-540c-2015.html#aeng_mclaren-540c-2015-38-7at-540-hp",
-    "ENGINE SPECS - 3.8 V8 7AT (540 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3799 cm3",
       "Power": "397.2 KW @ 7500 RPM\n540 HP @ 7500 RPM\n533 BHP @ 7500 RPM",
@@ -407,28 +407,28 @@
       "Top Speed": "199 mph (320 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic (SSG)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/35/R19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "178.3 in (4529 mm)",
       "Width": "82.5 in (2096 mm)",
       "Height": "47.3 in (1201 mm)",
       "Wheelbase": "105.1 in (2670 mm)",
       "Cargo Volume": "5.3 cuFT (150 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2976 lbs (1350 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14.2 mpg US (16.6 L/100Km)",
       "Highway": "29 mpg US (8.1 L/100Km)",
       "Combined": "21.2 mpg US (11.1 L/100Km)",
@@ -452,7 +452,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN 570GT 3.8 V8 7AT (570 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-570gt-2016.html#aeng_mclaren-570gt-2016-38-v8-7at-570-hp",
-    "ENGINE SPECS - 3.8 V8 7AT (570 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3799 cm3",
       "Power": "419.2 KW @ 7500 RPM\n570 HP @ 7500 RPM\n562 BHP @ 7500 RPM",
@@ -464,28 +464,28 @@
       "Top Speed": "204 mph (328 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic (SSG)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/35/R19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "178.3 in (4529 mm)",
       "Width": "82.5 in (2096 mm)",
       "Height": "47.3 in (1201 mm)",
       "Wheelbase": "105.1 in (2670 mm)",
       "Cargo Volume": "13.1 cuFT (371 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3086 lbs (1400 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "Infinity mpg US (0 L/100Km)",
       "Highway": "Infinity mpg US (0 L/100Km)",
       "Combined": "22 mpg US (10.7 L/100Km)",
@@ -509,7 +509,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN 570S 3.8 V8 7AT (570 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-570s-2016.html#aeng_mclaren-570s-2015-38-v8-7at-570-hp",
-    "ENGINE SPECS - 3.8 V8 7AT (570 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3799 cm3",
       "Power": "419 KW @ 7400 RPM\n570 HP @ 7400 RPM\n562 BHP @ 7400 RPM",
@@ -521,27 +521,27 @@
       "Top Speed": "204 mph (328 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic (SSG)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/35/R19 || 285/35/R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "178.3 in (4529 mm)",
       "Width": "82.5 in (2096 mm)",
       "Height": "47.3 in (1201 mm)",
       "Cargo Volume": "5.3 cuFT (150 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2895 lbs (1313 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "25.6 mpg US (9.2 L/100Km)",
       "CO2 Emissions": "258 g/km"
     },
@@ -563,7 +563,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN 570S Spider 3.8 V8 7AT (570 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-570s-spider-2017.html#aeng_mclaren-570s-spider-2017-38-v8-7at-570-hp",
-    "ENGINE SPECS - 3.8 V8 7AT (570 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3799 cm3",
       "Power": "419.2 KW @ 7500 RPM\n570 HP @ 7500 RPM\n562 BHP @ 7500 RPM",
@@ -575,18 +575,18 @@
       "Top Speed": "204 mph (328 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic (SSG)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/35 R19 || 285/35 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "178.3 in (4529 mm)",
       "Width": "80.5 in (2045 mm)",
       "Height": "47.3 in (1201 mm)",
@@ -594,10 +594,10 @@
       "Wheelbase": "105.1 in (2670 mm)",
       "Cargo Volume": "5.3 cuFT (150 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3303 lbs (1498 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "13.7 mpg US (17.2 L/100Km)",
       "Highway": "31.8 mpg US (7.4 L/100Km)",
       "Combined": "22 mpg US (10.7 L/100Km)",
@@ -621,7 +621,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN 600LT 3.8L V8 7AT (600 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-600lt-2018.html#aeng_mclaren-600lt-2018-38l-v8-7at-600-hp",
-    "ENGINE SPECS - 3.8L V8 7AT (600 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3799 cm3",
       "Power": "441.3 KW @ 7250 RPM\n600 HP @ 7250 RPM\n592 BHP @ 7250 RPM",
@@ -633,21 +633,21 @@
       "Top Speed": "207 mph (333 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/35 R19 || 305/30 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "180.3 in (4580 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2749 lbs (1247 kg)"
     },
     "images": [
@@ -668,7 +668,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN 650S 3.8L V8 7AT (650 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-650s-2014.html#aeng_mclaren-650s-2014-38l-v8-650-hp",
-    "ENGINE SPECS - 3.8L V8 7AT (650 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3800 cm3",
       "Power": "478 KW @ 7250- RPM\n650 HP @ 7250- RPM\n641 BHP @ 7250- RPM",
@@ -681,18 +681,18 @@
       "Top Speed": "207 mph (333 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/35 R19 || 305/30 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "177.5 in (4509 mm)",
       "Width": "74.6 in (1895 mm)",
       "Height": "47.2 in (1199 mm)",
@@ -701,10 +701,10 @@
       "Ground Clearance": "3.9 in (99 mm)",
       "Aerodynamics (Cd)": "0.36"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2932 lbs (1330 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "13.4 mpg US (17.6 L/100Km)",
       "Highway": "27.7 mpg US (8.5 L/100Km)",
       "Combined": "20.1 mpg US (11.7 L/100Km)",
@@ -728,7 +728,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN 650S Spider 3.8L V8 7AT RWD (650 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-650s-spyder-2014.html#aeng_mclaren-650s-spyder-2014-38-v8-7at-650-hp",
-    "ENGINE SPECS - 3.8L V8 7AT RWD (650 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3799 cm3",
       "Power": "478.1 KW @ 7250 RPM\n650 HP @ 7250 RPM\n641 BHP @ 7250 RPM",
@@ -740,18 +740,18 @@
       "Top Speed": "207 mph (333 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic (SSG)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/35 R19 || 305/30 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "177.6 in (4511 mm)",
       "Width": "75.1 in (1908 mm)",
       "Height": "47.4 in (1204 mm)",
@@ -759,10 +759,10 @@
       "Wheelbase": "105.1 in (2670 mm)",
       "Ground Clearance": "3.9 in (99 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3236 lbs (1468 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "16 mpg US (14.7 L/100Km)",
       "Highway": "22 mpg US (10.7 L/100Km)",
       "Combined": "18 mpg US (13.1 L/100Km)",
@@ -786,7 +786,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN 675LT 3.8 V8 7AT (675 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-675lt-2015.html#aeng_mclaren-675lt-2015-38-v8-7at-675-hp",
-    "ENGINE SPECS - 3.8 V8 7AT (675 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3799 cm3",
       "Power": "496 KW @ 7100 RPM\n675 HP @ 7100 RPM\n665 BHP @ 7100 RPM",
@@ -798,18 +798,18 @@
       "Top Speed": "205 mph (330 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/35 R19 || 305/30 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179 in (4547 mm)",
       "Width": "82.5 in (2096 mm)",
       "Height": "46.8 in (1189 mm)",
@@ -818,11 +818,11 @@
       "Ground Clearance": "3.9 in (99 mm)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2928 lbs (1328 kg)",
       "Gross Weight Limit": "3369 lbs (1528 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "20.3 mpg US (11.6 L/100Km)",
       "CO2 Emissions": "275 g/km"
     },
@@ -844,7 +844,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN 675LT Spider 3.8L V8 7AT RWD (675 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-675lt-spider-2016.html#aeng_mclaren-675lt-spider-2016-38-v8-7at-675-hp",
-    "ENGINE SPECS - 3.8L V8 7AT RWD (675 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3799 cm3",
       "Power": "496.5 KW @ 7100 RPM\n675 HP @ 7100 RPM\n666 BHP @ 7100 RPM",
@@ -857,18 +857,18 @@
       "Top Speed": "203 mph (327 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic (SSG)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/35 R19 || 305/30 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179 in (4547 mm)",
       "Width": "82.5 in (2096 mm)",
       "Height": "46.9 in (1191 mm)",
@@ -876,10 +876,10 @@
       "Ground Clearance": "3.9 in (99 mm)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3020 lbs (1370 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "13.2 mpg US (17.8 L/100Km)",
       "Highway": "28.7 mpg US (8.2 L/100Km)",
       "Combined": "20.3 mpg US (11.6 L/100Km)",
@@ -903,7 +903,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN 720S Spider 4.0L V8 7AT RWD (720 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-720s-spider-2018.html#aeng_mclaren-720s-spider-2018-40l-v8-7at-720-hp",
-    "ENGINE SPECS - 4.0L V8 7AT RWD (720 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3994 cm3",
       "Power": "529.6 KW @ 7500 RPM\n720 HP @ 7500 RPM\n710 BHP @ 7500 RPM",
@@ -915,18 +915,18 @@
       "Top Speed": "212 mph (341 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic SSG"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35/R19 93Y // 305/30/R20 103Y"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "178.9 in (4544 mm)",
       "Width": "85.1 in (2162 mm)",
       "Height": "47.1 in (1196 mm)",
@@ -934,10 +934,10 @@
       "Wheelbase": "105.1 in (2670 mm)",
       "Cargo Volume": "5.3 cuFT (150 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2937 lbs (1332 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14 mpg US (16.8 L/100Km)",
       "Highway": "27.4 mpg US (8.6 L/100Km)",
       "Combined": "20.3 mpg US (11.6 L/100Km)",
@@ -961,7 +961,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN F1 6.1 V12 6MT (622 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-f1-1993.html#aeng_mclaren-f1-1993-61-v12",
-    "ENGINE SPECS - 6.1 V12 6MT (622 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6064 cm3",
       "Power": "461 KW @ 7500 RPM\n627 HP @ 7500 RPM\n618 BHP @ 7500 RPM",
@@ -973,18 +973,18 @@
       "Top Speed": "240.1 mph (386 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/45 ZR 17 (Front) - 315/45 ZR 17 (Rear)"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "168.78 in (4287 mm)",
       "Width": "71.65 in (1820 mm)",
       "Height": "44.88 in (1140 mm)",
@@ -994,7 +994,7 @@
       "Cargo Volume": "8 cuFT (227 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2513 lbs (1140 kg)"
     },
     "images": [
@@ -1015,7 +1015,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN F1 GT 6.1L V12 6MT (627 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-f1-gt-1997.html#aeng_mclaren-f1-gt-1997-61-v12",
-    "ENGINE SPECS - 6.1L V12 6MT (627 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6064 cm3",
       "Power": "461 KW @ 7500 RPM\n627 HP @ 7500 RPM\n618 BHP @ 7500 RPM",
@@ -1023,18 +1023,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/35 ZR 18 (Front) - 345/35 ZR 18 (Rear)"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "194 in (4928 mm)",
       "Width": "75.6 in (1920 mm)",
       "Height": "47.2 in (1199 mm)",
@@ -1044,7 +1044,7 @@
       "Cargo Volume": "8 cuFT (227 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2469 lbs (1120 kg)",
       "Gross Weight Limit": "N/A lbs (0 kg)"
     },
@@ -1064,7 +1064,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN F1 LM 6.1L V12 6MT (680 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-f1-lm-1995.html#aeng_mclaren-f1-lm-1995-61-v12",
-    "ENGINE SPECS - 6.1L V12 6MT (680 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6064 cm3",
       "Power": "500 KW @ 7800 RPM\n680 HP @ 7800 RPM\n671 BHP @ 7800 RPM",
@@ -1075,18 +1075,18 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "220 mph (354 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/35 ZR 18 (Front) - 345/35 ZR 18 (Rear)"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "171.85 in (4365 mm)",
       "Width": "71.65 in (1820 mm)",
       "Height": "44.09 in (1120 mm)",
@@ -1095,7 +1095,7 @@
       "Ground Clearance": "3.9 in (99 mm)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2341 lbs (1062 kg)"
     },
     "images": [
@@ -1116,7 +1116,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN MP4-12C 3.8L V8 7AT RWD (600 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-mp4-12c-2011.html#aeng_mclaren-mp4-12c-2011-38l-v8",
-    "ENGINE SPECS - 3.8L V8 7AT RWD (600 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3799 cm3",
       "Power": "441 KW @ 7000 RPM\n600 HP @ 7000 RPM\n591 BHP @ 7000 RPM",
@@ -1128,18 +1128,18 @@
       "Top Speed": "200 mph (322 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "ceramic discs",
       "Rear": "ceramic discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/35 R19 - 305/30 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "177.4 in (4506 mm)",
       "Width": "75.2 in (1910 mm)",
       "Height": "47.2 in (1199 mm)",
@@ -1149,10 +1149,10 @@
       "Cargo Volume": "5.1 cuFT (144 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3084 lbs (1399 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "15 mpg US (15.7 L/100Km)",
       "Highway": "22 mpg US (10.7 L/100Km)",
       "Combined": "18 mpg US (13.1 L/100Km)",
@@ -1176,7 +1176,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN MP4-12C Spider 3.8 v8 7AT (625 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-mp4-12c-spider-2012.html#aeng_mclaren-mp4-12c-spider-2012-38l-v8-625-hp",
-    "ENGINE SPECS - 3.8 V8 7AT (625 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3799 cm3",
       "Power": "460 KW @ 7500 RPM\n625 HP @ 7500 RPM\n617 BHP @ 7500 RPM",
@@ -1188,18 +1188,18 @@
       "Top Speed": "204 mph (328 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic (SSG)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Cast Iron Discs with Forged Aluminium Hubs 370mm",
       "Rear": "Cast Iron Discs with Forged Aluminium Hubs 350mm"
     },
-    "TIRES SPECS": {
-      "Tire Size": "Pirelli P Zero 235/35 R19 – 305/30 R20"
+    "tires_specs": {
+      "Tire Size": "Pirelli P Zero 235/35 R19 \u2013 305/30 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "177.5 in (4509 mm)",
       "Width": "82.4 in (2093 mm)",
       "Height": "47.4 in (1204 mm)",
@@ -1209,11 +1209,11 @@
       "Cargo Volume": "6.92 cuFT (196 L)",
       "Aerodynamics (Cd)": "0.36"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3034 lbs (1376 kg)",
       "Gross Weight Limit": "3505 lbs (1590 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14 mpg US (16.8 L/100Km)",
       "Highway": "22 mpg US (10.7 L/100Km)",
       "Combined": "18 mpg US (13.1 L/100Km)",
@@ -1237,7 +1237,7 @@
     "fuel_type": "gasoline",
     "engine": "MCLAREN Senna 4.0 V8 (800 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mclaren-senna-2018.html#aeng_mclaren-senna-2018-40-v8-800-hp",
-    "ENGINE SPECS - 4.0 V8 (800 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3999 cm3",
       "Power": "588.4 KW @ - RPM\n800 HP @ - RPM\n789 BHP @ - RPM",
@@ -1249,17 +1249,17 @@
       "Top Speed": "211 mph (340 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 ZR19 || 315/30 ZR20"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2641 lbs (1198 kg)"
     },
     "images": [

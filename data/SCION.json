@@ -4,7 +4,7 @@
     "fuel_type": "gasoline",
     "engine": "SCION FR-S 2.0L 6AT (200 HP)",
     "engine_url": "https://www.autoevolution.com/cars/scion-fr-s-2013.html#aeng_scion-fr-s-2012-20l-6at-200-hp",
-    "ENGINE SPECS - 2.0L 6AT (200 HP)": {
+    "engine_specs": {
       "Cylinders": "H4",
       "Displacement": "1998 cm3",
       "Power": "147 KW @ 7000 RPM\n200 HP @ 7000 RPM\n197 BHP @ 7000 RPM",
@@ -16,18 +16,18 @@
       "Top Speed": "130 mph (209 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/55R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "166.9 in (4239 mm)",
       "Width": "69.9 in (1775 mm)",
       "Height": "50.6 in (1285 mm)",
@@ -37,11 +37,11 @@
       "Cargo Volume": "8.6 cuFT (244 L)",
       "Aerodynamics (Cd)": "0.27"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2784 lbs (1263 kg)",
       "Gross Weight Limit": "3748 lbs (1700 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "24.5 mpg US (9.6 L/100Km)",
       "Highway": "41.3 mpg US (5.7 L/100Km)",
       "Combined": "33.1 mpg US (7.1 L/100Km)",
@@ -65,7 +65,7 @@
     "fuel_type": "gasoline",
     "engine": "SCION iA 1.5L 6AT FWD (106 HP)",
     "engine_url": "https://www.autoevolution.com/cars/scion-ia-2016.html#aeng_scion-ia-2016-15-6at-106-hp",
-    "ENGINE SPECS - 1.5L 6AT FWD (106 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1496 cm3",
       "Power": "79 KW @ 6000 RPM\n107 HP @ 6000 RPM\n106 BHP @ 6000 RPM",
@@ -74,18 +74,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "11.6 gallons (43.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/60R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "171.1 in (4346 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "58.5 in (1486 mm)",
@@ -95,11 +95,11 @@
       "Cargo Volume": "15.5 cuFT (439 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2416 lbs (1096 kg)",
       "Gross Weight Limit": "3640 lbs (1651 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "31.8 mpg US (7.4 L/100Km)",
       "Highway": "21 mpg US (11.2 L/100Km)",
       "Combined": "34 mpg US (6.9 L/100Km)"
@@ -122,7 +122,7 @@
     "fuel_type": "gasoline",
     "engine": "SCION iM 1.8L 6MT FWD (137 HP)",
     "engine_url": "https://www.autoevolution.com/cars/scion-im-2016.html#aeng_scion-im-2016-18-6mt-137-hp",
-    "ENGINE SPECS - 1.8L 6MT FWD (137 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1798 cm3",
       "Power": "102.2 KW @ 6100 RPM\n139 HP @ 6100 RPM\n137 BHP @ 6100 RPM",
@@ -131,18 +131,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "11.6 gallons (43.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/45R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "170.5 in (4331 mm)",
       "Width": "69.3 in (1760 mm)",
       "Height": "55.3 in (1405 mm)",
@@ -152,11 +152,11 @@
       "Cargo Volume": "12.7 cuFT (360 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2943 lbs (1335 kg)",
       "Gross Weight Limit": "3814 lbs (1730 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "28 mpg US (8.4 L/100Km)",
       "Highway": "37 mpg US (6.4 L/100Km)"
     },
@@ -178,7 +178,7 @@
     "fuel_type": "gasoline",
     "engine": "SCION iQ 1.3 CVT (98 HP)",
     "engine_url": "https://www.autoevolution.com/cars/scion-iq-2011.html#aeng_scion-iq-2011-13-cvt-98-hp",
-    "ENGINE SPECS - 1.3 CVT (98 HP)": {
+    "engine_specs": {
       "Cylinders": "4",
       "Displacement": "1329 cm3",
       "Power": "72 KW @ 6000 RPM\n98 HP @ 6000 RPM\n97 BHP @ 6000 RPM",
@@ -190,18 +190,18 @@
       "Top Speed": "106 mph (171 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "Continuously variable automatic transmission"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "175/60 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "117.5 in (2985 mm)",
       "Width": "66.1 in (1679 mm)",
       "Height": "59.1 in (1501 mm)",
@@ -210,11 +210,11 @@
       "Ground Clearance": "5.3 in (135 mm)",
       "Cargo Volume": "3.5 cuFT (99 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2216 lbs (1005 kg)",
       "Gross Weight Limit": "2800 lbs (1270 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "36 mpg US (6.5 L/100Km)",
       "Highway": "37 mpg US (6.4 L/100Km)",
       "Combined": "37 mpg US (6.4 L/100Km)"
@@ -237,7 +237,7 @@
     "fuel_type": "gasoline",
     "engine": "SCION tC 2.5 6AT (180 HP)",
     "engine_url": "https://www.autoevolution.com/cars/scion-tc-2013.html#aeng_scion-tc-2013-25l-6at-180-hp",
-    "ENGINE SPECS - 2.5 6AT (180 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2494 cm3",
       "Power": "134 KW @ 6000 RPM\n182 HP @ 6000 RPM\n180 BHP @ 6000 RPM",
@@ -248,18 +248,18 @@
     "PERFORMANCE SPECS": {
       "Acceleration 0-62 Mph (0-100 kph)": "7.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/45R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "174 in (4420 mm)",
       "Width": "70.7 in (1796 mm)",
       "Height": "55.7 in (1415 mm)",
@@ -269,10 +269,10 @@
       "Cargo Volume": "14.7 cuFT (416 L)",
       "Aerodynamics (Cd)": "0.325"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3115 lbs (1413 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "23 mpg US (10.2 L/100Km)",
       "Highway": "31 mpg US (7.6 L/100Km)",
       "Combined": "26 mpg US (9 L/100Km)"
@@ -295,7 +295,7 @@
     "fuel_type": "gasoline",
     "engine": "SCION xA 1.5l VVTi 4AT FWD (105 HP)",
     "engine_url": "https://www.autoevolution.com/cars/scion-xa-2003.html#aeng_scion-xa-2003-15-vvti-4at-105-hp",
-    "ENGINE SPECS - 1.5L VVTI 4AT FWD (105 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1496 cm3",
       "Power": "77 KW @ 6000 RPM\n105 HP @ 6000 RPM\n103 BHP @ 6000 RPM",
@@ -307,18 +307,18 @@
       "Top Speed": "109 mph (175 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "7.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/60 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "154 in (3912 mm)",
       "Width": "66.7 in (1694 mm)",
       "Height": "60.2 in (1529 mm)",
@@ -328,10 +328,10 @@
       "Cargo Volume": "11.7 cuFT (331 L)",
       "Aerodynamics (Cd)": "0.31"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2340 lbs (1061 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "30.9 mpg US (7.6 L/100Km)",
       "Highway": "37.9 mpg US (6.2 L/100Km)"
     },
@@ -353,7 +353,7 @@
     "fuel_type": "gasoline",
     "engine": "SCION xB 2.4L 4AT FWD (158 HP)",
     "engine_url": "https://www.autoevolution.com/cars/scion-xb-2007.html#aeng_scion-xb-2007-24-4at-158-hp",
-    "ENGINE SPECS - 2.4L 4AT FWD (158 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2362 cm3",
       "Power": "118 KW @ 5700 RPM\n160 HP @ 5700 RPM\n158 BHP @ 5700 RPM",
@@ -362,18 +362,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "14.5 gallons (54.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/55 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "167.3 in (4249 mm)",
       "Width": "69.3 in (1760 mm)",
       "Height": "64.6 in (1641 mm)",
@@ -383,10 +383,10 @@
       "Cargo Volume": "21.7 cuFT (614 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3084 lbs (1399 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "22 mpg US (10.7 L/100Km)",
       "Highway": "28 mpg US (8.4 L/100Km)",
       "Combined": "24 mpg US (9.8 L/100Km)",
@@ -410,7 +410,7 @@
     "fuel_type": "gasoline",
     "engine": "SCION xD 1.8L 4AT FWD (128 HP)",
     "engine_url": "https://www.autoevolution.com/cars/scion-xd-2007.html#aeng_scion-xd-2007-18-4at-128-hp",
-    "ENGINE SPECS - 1.8L 4AT FWD (128 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1798 cm3",
       "Power": "95 KW @ 6000 RPM\n129 HP @ 6000 RPM\n127 BHP @ 6000 RPM",
@@ -423,18 +423,18 @@
       "Top Speed": "116 mph (187 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/60 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "154.9 in (3934 mm)",
       "Width": "67.9 in (1725 mm)",
       "Height": "60 in (1524 mm)",
@@ -444,11 +444,11 @@
       "Cargo Volume": "10.5 cuFT (297 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2657 lbs (1205 kg)",
       "Gross Weight Limit": "3649 lbs (1655 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "26 mpg US (9 L/100Km)",
       "Highway": "32 mpg US (7.4 L/100Km)",
       "Combined": "28 mpg US (8.4 L/100Km)"

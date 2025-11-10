@@ -4,7 +4,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI Amalfi 4.0L V8 8AT RWD (640 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-amalfi-2025.html#aeng_ferrari-amalfi-2025-40l-v8-8at-rwd-640-hp",
-    "ENGINE SPECS - 4.0L V8 8AT RWD (640 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3855 cm3",
       "Power": "470.7 KW @ 7500 RPM\n640 HP @ 7500 RPM\n631 BHP @ 7500 RPM",
@@ -17,18 +17,18 @@
       "Top Speed": "199 mph (320 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic DCT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 R20 JB.0 // 285/35 R20 J10.0"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "183.5 in (4661 mm)",
       "Width": "77.7 in (1974 mm)",
       "Height": "51.2 in (1300 mm)",
@@ -36,7 +36,7 @@
       "Wheelbase": "105.1 in (2670 mm)",
       "Cargo Volume": "9.9 cuFT (280 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3241 lbs (1470 kg)"
     },
     "images": [
@@ -57,7 +57,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 12Cilindri Spider 6.5L V12 8AT (830 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-12cilindri-spider-2024.html#aeng_ferrari-12cilindri-spider-2024-65l-v12-8at-830-hp",
-    "ENGINE SPECS - 6.5L V12 8AT (830 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6496 cm3",
       "Power": "610.5 KW @ 9250 RPM\n830 HP @ 9250 RPM\n819 BHP @ 9250 RPM",
@@ -70,17 +70,17 @@
       "Top Speed": "211 mph (340 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.95 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Gearbox": "8-speed automatic DCT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/35 R21 J10.0 // 315/35 R21 J11.5"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "186.3 in (4732 mm)",
       "Width": "85.7 in (2177 mm)",
       "Height": "50.9 in (1293 mm)",
@@ -88,7 +88,7 @@
       "Wheelbase": "106.3 in (2700 mm)",
       "Cargo Volume": "7.1 cuFT (201 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3571 lbs (1620 kg)"
     },
     "images": [
@@ -109,7 +109,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 812 GTS 6.5L V12 7AT (800 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-812-gts-2019.html#aeng_ferrari-812-gts-2019-65l-v12-7at-800-hp",
-    "ENGINE SPECS - 6.5L V12 7AT (800 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6496 cm3",
       "Power": "588.4 KW @ 8500 RPM\n800 HP @ 8500 RPM\n789 BHP @ 8500 RPM",
@@ -121,14 +121,14 @@
       "Top Speed": "211 mph (340 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-automatic speed dual clutch"
     },
-    "TIRES SPECS": {
-      "Tire Size": "275/35 ZR 20” 10” J // 315/35 ZR 20” 11.5” J"
+    "tires_specs": {
+      "Tire Size": "275/35 ZR 20\u201d 10\u201d J // 315/35 ZR 20\u201d 11.5\u201d J"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184.8 in (4694 mm)",
       "Width": "77.6 in (1971 mm)",
       "Height": "50.2 in (1275 mm)",
@@ -136,7 +136,7 @@
       "Wheelbase": "107.1 in (2720 mm)",
       "Cargo Volume": "7.4 cuFT (210 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3527 lbs (1600 kg)"
     },
     "images": [
@@ -157,7 +157,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 12Cilindri 6.5L V12 8AT (830 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-12cilindri-2024.html#aeng_ferrari-12cilindri-2024-65l-v12-8at-830-hp",
-    "ENGINE SPECS - 6.5L V12 8AT (830 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6496 cm3",
       "Power": "610.5 KW @ 9250 RPM\n830 HP @ 9250 RPM\n819 BHP @ 9250 RPM",
@@ -170,17 +170,17 @@
       "Top Speed": "211 mph (340 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Gearbox": "8-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/35 R21 J10.0 // 315/35 R21 J11.5"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "186.3 in (4732 mm)",
       "Width": "85.7 in (2177 mm)",
       "Height": "50.9 in (1293 mm)",
@@ -188,7 +188,7 @@
       "Wheelbase": "106.3 in (2700 mm)",
       "Cargo Volume": "9.5 cuFT (269 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3439 lbs (1560 kg)"
     },
     "images": [
@@ -209,7 +209,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI F80 3.0L V6 8AT AWD (1200 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-f80-2024.html#aeng_ferrari-f80-2024-30l-v6-8at-rwd-900-hp",
-    "ENGINE SPECS - 3.0L V6 8AT AWD (1200 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "2992 cm3",
       "Power": "661.9 KW @ 8750 RPM\n900 HP @ 8750 RPM\n888 BHP @ 8750 RPM",
@@ -222,18 +222,18 @@
       "Top Speed": "217 mph (349 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.15 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed dual-clutch F1 DCT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "408 x 220 x 38 mm (6 pistons per calliper)",
       "Rear": "390 x 263 x 32 mm (4 pistons per calliper)"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "285/30 R20 // 345/30 R21"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "190.6 in (4841 mm)",
       "Width": "81.1 in (2060 mm)",
       "Height": "44.8 in (1138 mm)",
@@ -241,7 +241,7 @@
       "Wheelbase": "104.9 in (2664 mm)",
       "Cargo Volume": "1.2 cuFT (34 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3362 lbs (1525 kg)"
     },
     "POWER SYSTEM SPECS": {
@@ -265,7 +265,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI Roma Spider 4.0L V8 8AT RWD (620 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-roma-spider-2023.html#aeng_ferrari-roma-spider-2023-40l-v8-8at-rwd-620-hp",
-    "ENGINE SPECS - 4.0L V8 8AT RWD (620 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3855 cm3",
       "Power": "456 KW @ 5750-7500 RPM\n620 HP @ 5750-7500 RPM\n612 BHP @ 5750-7500 RPM",
@@ -278,18 +278,18 @@
       "Top Speed": "199 mph (320 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic F1 DCT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 ZR 20 J8.0 // 285/35 ZR 20 J10.0"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "183.3 in (4656 mm)",
       "Width": "77.7 in (1974 mm)",
       "Height": "51.4 in (1306 mm)",
@@ -297,7 +297,7 @@
       "Wheelbase": "105.1 in (2670 mm)",
       "Cargo Volume": "9 cuFT (255 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3430 lbs (1556 kg)"
     },
     "images": [
@@ -318,7 +318,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 296 GTS 3.0L V6 Turbo 8AT RWD (830 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-296-gts-2022.html#aeng_ferrari-296-gts-2022-30l-v6-turbo-8at-rwd-830-hp",
-    "ENGINE SPECS - 3.0L V6 TURBO 8AT RWD (830 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "2992 cm3",
       "Power": "487.6 KW @ - RPM\n663 HP @ - RPM\n654 BHP @ - RPM",
@@ -334,18 +334,18 @@
       "Top Speed": "205 mph (330 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 R20 // 305/35 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.7 in (4564 mm)",
       "Width": "77.1 in (1958 mm)",
       "Height": "46.9 in (1191 mm)",
@@ -353,7 +353,7 @@
       "Wheelbase": "102.4 in (2601 mm)",
       "Cargo Volume": "1.7 cuFT (48 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3395 lbs (1540 kg)"
     },
     "POWER SYSTEM SPECS": {
@@ -378,7 +378,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI Purosangue 6.5L V12 8AT AWD (725 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-purosangue-2022.html#aeng_ferrari-purosangue-2022-65l-v12-8at-awd-725-hp",
-    "ENGINE SPECS - 6.5L V12 8AT AWD (725 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6496 cm3",
       "Power": "533.2 KW @ 7750 RPM\n725 HP @ 7750 RPM\n715 BHP @ 7750 RPM",
@@ -391,18 +391,18 @@
       "Top Speed": "193 mph (311 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic F1 DCT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/35 R22 // 315/30 R23"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "195.8 in (4973 mm)",
       "Width": "82.2 in (2088 mm)",
       "Height": "62.6 in (1590 mm)",
@@ -410,7 +410,7 @@
       "Wheelbase": "118.8 in (3018 mm)",
       "Cargo Volume": "16.7 cuFT (473 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4482 lbs (2033 kg)"
     },
     "images": [
@@ -431,7 +431,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI Daytona SP3 6.5L V12 7AT (840 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-daytona-sp3-2021.html#aeng_ferrari-daytona-sp3-2021-65l-v12-7at-840-hp",
-    "ENGINE SPECS - 6.5L V12 7AT (840 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6496 cm3",
       "Power": "617.8 KW @ 9250 RPM\n840 HP @ 9250 RPM\n828 BHP @ 9250 RPM",
@@ -444,25 +444,25 @@
       "Top Speed": "211 mph (340 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.85 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic F1 DCT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/30 R20 // 345/30 R21"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184.5 in (4686 mm)",
       "Width": "80.7 in (2050 mm)",
       "Height": "45 in (1143 mm)",
       "Front/rear Track": "66.6/64.2 in (1,692/1,631 mm)",
       "Wheelbase": "104.4 in (2652 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3274 lbs (1485 kg)"
     },
     "images": [
@@ -483,7 +483,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI Portofino M 3.9L V8 8AT (620 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-portofino-m-2020.html#aeng_ferrari-portofino-m-2020-39l-v8-8at-620-hp",
-    "ENGINE SPECS - 3.9L V8 8AT (620 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3855 cm3",
       "Power": "456 KW @ 7500 RPM\n620 HP @ 7500 RPM\n612 BHP @ 7500 RPM",
@@ -493,11 +493,11 @@
     "PERFORMANCE SPECS": {
       "Acceleration 0-62 Mph (0-100 kph)": "3.45 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
@@ -518,7 +518,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI Roma 4.0L V8 8AT RWD (620 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-roma-2019.html#aeng_ferrari-roma-2019-4",
-    "ENGINE SPECS - 4.0L V8 8AT RWD (620 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3855 cm3",
       "Power": "456 KW @ 5750-7500 RPM\n620 HP @ 5750-7500 RPM\n612 BHP @ 5750-7500 RPM",
@@ -531,18 +531,18 @@
       "Top Speed": "199 mph (320 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 ZR20 // 285/35 ZR20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "183.3 in (4656 mm)",
       "Width": "77.7 in (1974 mm)",
       "Height": "51.2 in (1300 mm)",
@@ -551,7 +551,7 @@
       "Ground Clearance": "4.5 in (114 mm)",
       "Cargo Volume": "9.6 cuFT (272 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3461 lbs (1570 kg)"
     },
     "images": [
@@ -572,7 +572,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI SF90 XX Stradale 4.0L V8 8AT AWD (797 HP",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-sf90-xx-stradale-2023.html#aeng_ferrari-sf90-xx-stradale-2023-40l-v8-8at-awd-797-hp",
-    "ENGINE SPECS - 4.0L V8 8AT AWD (797 HP": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3990 cm3",
       "Power": "586.2 KW @ 7900 RPM\n797 HP @ 7900 RPM\n786 BHP @ 7900 RPM",
@@ -586,24 +586,24 @@
       "Top Speed": "199 mph (320 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic F1 DCT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/35 ZR F20 // 315/30 ZR F20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "190.9 in (4849 mm)",
       "Width": "79.3 in (2014 mm)",
       "Height": "48.2 in (1224 mm)",
       "Wheelbase": "104.3 in (2649 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3439 lbs (1560 kg)"
     },
     "POWER SYSTEM SPECS": {
@@ -629,7 +629,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 348 Spider 3.4 V8 5MT (320 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-348-spider-1991.html#aeng_ferrari-348-spider-1991-gts",
-    "ENGINE SPECS - 3.4 V8 5MT (320 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3405 cm3",
       "Power": "235.4 KW @ 7200 RPM\n320 HP @ 7200 RPM\n316 BHP @ 7200 RPM",
@@ -641,18 +641,18 @@
       "Top Speed": "174 mph (280 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225-50 ZR 17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "166.5 in (4229 mm)",
       "Width": "74.6 in (1895 mm)",
       "Height": "46.1 in (1171 mm)",
@@ -662,11 +662,11 @@
       "Cargo Volume": "8.5 cuFT (241 L)",
       "Aerodynamics (Cd)": "0.42"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3274 lbs (1485 kg)",
       "Gross Weight Limit": "3704 lbs (1680 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "11.8 mpg US (19.9 L/100Km)",
       "Highway": "24.5 mpg US (9.6 L/100Km)",
       "Combined": "18.5 mpg US (12.7 L/100Km)"
@@ -689,7 +689,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 360 Challenge Stradale (F 131) 3.6L V8 6AT (425 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-360-challenge-stradale-f-131-2003.html#aeng_ferrari-360-challenge-stradale-f-131-2003-36-v8",
-    "ENGINE SPECS - 3.6L V8 6AT (425 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3586 cm3",
       "Power": "313 KW @ 8500 RPM\n425 HP @ 8500 RPM\n420 BHP @ 8500 RPM",
@@ -701,18 +701,18 @@
       "Top Speed": "186 mph (299 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Composite Ventilated Discs",
       "Rear": "Composite Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/35 ZR19 || 285/35 ZR19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "176.3 in (4478 mm)",
       "Width": "75.7 in (1923 mm)",
       "Height": "46.6 in (1184 mm)",
@@ -722,11 +722,11 @@
       "Cargo Volume": "7.7 cuFT (218 L)",
       "Aerodynamics (Cd)": "0.34"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2822 lbs (1280 kg)",
       "Gross Weight Limit": "3373 lbs (1530 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "10 mpg US (23.5 L/100Km)",
       "Highway": "16 mpg US (14.7 L/100Km)",
       "Combined": "12.2 mpg US (19.3 L/100Km)"
@@ -749,7 +749,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 360 Modena 4.0L V8 6AT RWD (400 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-360-modena-1999.html#aeng_ferrari-360-modena-1999-40-v8-6at-400-hp",
-    "ENGINE SPECS - 4.0L V8 6AT RWD (400 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3586 cm3",
       "Power": "294 KW @ 8500 RPM\n400 HP @ 8500 RPM\n394 BHP @ 8500 RPM",
@@ -761,18 +761,18 @@
       "Top Speed": "183 mph (295 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Composite Ventilated Discs",
       "Rear": "Composite Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/45 ZR18 || 275/40 ZR18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "176.3 in (4478 mm)",
       "Width": "75.7 in (1923 mm)",
       "Height": "47.8 in (1214 mm)",
@@ -782,11 +782,11 @@
       "Cargo Volume": "7.7 cuFT (218 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3064 lbs (1390 kg)",
       "Gross Weight Limit": "3748 lbs (1700 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "8.4 mpg US (28 L/100Km)",
       "Highway": "19.6 mpg US (12 L/100Km)",
       "Combined": "13.1 mpg US (18 L/100Km)",
@@ -810,7 +810,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 360 Spider 4.0L V8 6AT RWD (400 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-360-spider-2000.html#aeng_ferrari-360-spider-2000-40-v8-6at-400-hp",
-    "ENGINE SPECS - 4.0L V8 6AT RWD (400 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3586 cm3",
       "Power": "294 KW @ 8500 RPM\n400 HP @ 8500 RPM\n394 BHP @ 8500 RPM",
@@ -822,18 +822,18 @@
       "Top Speed": "181 mph (291 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/45 ZR18 || 275/40 ZR18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "176.3 in (4478 mm)",
       "Width": "75.7 in (1923 mm)",
       "Height": "47.8 in (1214 mm)",
@@ -843,11 +843,11 @@
       "Cargo Volume": "7.7 cuFT (218 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3197 lbs (1450 kg)",
       "Gross Weight Limit": "3814 lbs (1730 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "7.7 mpg US (30.5 L/100Km)",
       "Highway": "17.8 mpg US (13.2 L/100Km)",
       "Combined": "12 mpg US (19.6 L/100Km)",
@@ -871,7 +871,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 458 Italia 4.5 V8 7AT (570 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-458-italia-2009.html#aeng_ferrari-458-italia-2009-45-v8",
-    "ENGINE SPECS - 4.5 V8 7AT (570 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4497 cm3",
       "Power": "419 KW @ 9000 RPM\n570 HP @ 9000 RPM\n562 BHP @ 9000 RPM",
@@ -883,18 +883,18 @@
       "Top Speed": "202 mph (325 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic (GETRAG)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Carbo-ceramic Ventilated Discs",
       "Rear": "Carbo-ceramic Ventilated Discs"
     },
-    "TIRES SPECS": {
-      "Tire Size": "235/35 ZR20 8.5” || 295/35 ZR20 10.5”"
+    "tires_specs": {
+      "Tire Size": "235/35 ZR20 8.5\u201d || 295/35 ZR20 10.5\u201d"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "178.2 in (4526 mm)",
       "Width": "76.3 in (1938 mm)",
       "Height": "47.8 in (1214 mm)",
@@ -904,11 +904,11 @@
       "Cargo Volume": "8.1 cuFT (229 L)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3274 lbs (1485 kg)",
       "Gross Weight Limit": "3715 lbs (1685 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "11.9 mpg US (19.8 L/100Km)",
       "Highway": "24.2 mpg US (9.7 L/100Km)",
       "Combined": "17.2 mpg US (13.7 L/100Km)",
@@ -932,7 +932,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 458 Speciale 4.5L V8 7AT (605 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-458-speciale-2013.html#aeng_ferrari-458-speciale-2013-45-v8-7at-605-hp",
-    "ENGINE SPECS - 4.5L V8 7AT (605 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4497 cm3",
       "Power": "445 KW @ 9000 RPM\n605 HP @ 9000 RPM\n597 BHP @ 9000 RPM",
@@ -944,18 +944,18 @@
       "Top Speed": "202 mph (325 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed F1 dual-clutch automatic transmission"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Carbon ceramic 398x223x36 mm",
       "Rear": "Carbon ceramic 360x233x32 mm"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 ZR20 J9.0 || 305/30 ZR 20 J11.0"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "180 in (4572 mm)",
       "Width": "76.8 in (1951 mm)",
       "Height": "47.4 in (1204 mm)",
@@ -964,10 +964,10 @@
       "Ground Clearance": "4.45 in (113 mm)",
       "Cargo Volume": "8.1 cuFT (229 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3075 lbs (1395 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "19.9 mpg US (11.8 L/100Km)",
       "CO2 Emissions": "275 g/km"
     },
@@ -989,7 +989,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 458 Speciale A 4.5L V8 7AT RWD (605 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-458-speciale-a-2014.html#aeng_ferrari-458-speciale-a-2014-45-v8-7at-605-hp",
-    "ENGINE SPECS - 4.5L V8 7AT RWD (605 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4497 cm3",
       "Power": "445 KW @ 9000 RPM\n605 HP @ 9000 RPM\n597 BHP @ 9000 RPM",
@@ -1001,18 +1001,18 @@
       "Top Speed": "199 mph (320 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Carbon-ceramic Ventilated Discs",
       "Rear": "Carbon-ceramic Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/35 ZR20 || 295/35 ZR20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "178.2 in (4526 mm)",
       "Width": "76.3 in (1938 mm)",
       "Height": "47.7 in (1212 mm)",
@@ -1022,11 +1022,11 @@
       "Cargo Volume": "8.1 cuFT (229 L)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3186 lbs (1445 kg)",
       "Gross Weight Limit": "3598 lbs (1632 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "19.9 mpg US (11.8 L/100Km)",
       "CO2 Emissions": "275 g/km"
     },
@@ -1048,7 +1048,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 458 Spider 4.5 7AT (570 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-458-spider-2011.html#aeng_ferrari-458-spider-2011-45l-570-hp",
-    "ENGINE SPECS - 4.5 7AT (570 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4497 cm3",
       "Power": "419 KW @ 9000 RPM\n570 HP @ 9000 RPM\n562 BHP @ 9000 RPM",
@@ -1060,18 +1060,18 @@
       "Top Speed": "199 mph (320 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated disc"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/35 ZR20 || 295/35 ZR20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "178.2 in (4526 mm)",
       "Width": "76.3 in (1938 mm)",
       "Height": "47.7 in (1212 mm)",
@@ -1080,10 +1080,10 @@
       "Ground Clearance": "4.4 in (112 mm)",
       "Cargo Volume": "8.12 cuFT (230 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3384 lbs (1535 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "19.9 mpg US (11.8 L/100Km)",
       "CO2 Emissions": "275 g/km"
     },
@@ -1105,7 +1105,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 488 GTB 3.9L V8 7AT (670 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-488-gtb-2015.html#aeng_ferrari-488-gtb-2015-39-v8-7at-670-hp",
-    "ENGINE SPECS - 3.9L V8 7AT (670 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3902 cm3",
       "Power": "492.8 KW @ 8000 RPM\n670 HP @ 8000 RPM\n661 BHP @ 8000 RPM",
@@ -1117,18 +1117,18 @@
       "Top Speed": "205 mph (330 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 ZR20 J9.0 // 305/30 ZR 20 J11.0"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.8 in (4567 mm)",
       "Width": "76.9 in (1953 mm)",
       "Height": "47.8 in (1214 mm)",
@@ -1138,10 +1138,10 @@
       "Cargo Volume": "8.1 cuFT (229 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3362 lbs (1525 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "20.6 mpg US (11.4 L/100Km)",
       "CO2 Emissions": "260 g/km"
     },
@@ -1163,7 +1163,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 488 Pista 3.9L V8 7AT (720 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-488-pista-2018.html#aeng_ferrari-488-pista-2018-39-v8-7at-720-hp",
-    "ENGINE SPECS - 3.9L V8 7AT (720 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3902 cm3",
       "Power": "529.6 KW @ 8000 RPM\n720.1 HP @ 8000 RPM\n710 BHP @ 8000 RPM",
@@ -1175,18 +1175,18 @@
       "Top Speed": "211 mph (340 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.85 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P245/35YR20 // P305/30YR20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "181.3 in (4605 mm)",
       "Width": "77.8 in (1976 mm)",
       "Height": "47.5 in (1207 mm)",
@@ -1194,7 +1194,7 @@
       "Wheelbase": "104.3 in (2649 mm)",
       "Ground Clearance": "4.5 in (114 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2822 lbs (1280 kg)"
     },
     "images": [
@@ -1215,7 +1215,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 488 Spider 3.9L V8 7AT (670 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-488-spider-2016.html#aeng_ferrari-488-spider-2016-39-v8-7at-670-hp",
-    "ENGINE SPECS - 3.9L V8 7AT (670 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3902 cm3",
       "Power": "492.8 KW @ 8000 RPM\n670 HP @ 8000 RPM\n661 BHP @ 8000 RPM",
@@ -1227,18 +1227,18 @@
       "Top Speed": "202 mph (325 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 ZR20 J9.0 // 305/30 ZR 20 J11.0"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.8 in (4567 mm)",
       "Width": "76.9 in (1953 mm)",
       "Height": "47.8 in (1214 mm)",
@@ -1248,10 +1248,10 @@
       "Cargo Volume": "8.1 cuFT (229 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3362 lbs (1525 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "20.6 mpg US (11.4 L/100Km)",
       "CO2 Emissions": "260 g/km"
     },
@@ -1273,7 +1273,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 575 M Superamerica 5.7L V12 6AT RWD (540 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-superamerica-2005.html#aeng_ferrari-superamerica-2005-57-v12-6at-540-hp",
-    "ENGINE SPECS - 5.7L V12 6AT RWD (540 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "5748 cm3",
       "Power": "397 KW @ 7250 RPM\n540 HP @ 7250 RPM\n532 BHP @ 7250 RPM",
@@ -1285,18 +1285,18 @@
       "Top Speed": "199 mph (320 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/35 ZR19 || 305/30 ZR19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.1 in (4549 mm)",
       "Width": "76.2 in (1935 mm)",
       "Height": "50.3 in (1278 mm)",
@@ -1306,11 +1306,11 @@
       "Cargo Volume": "8.1 cuFT (229 L)",
       "Aerodynamics (Cd)": "0.34"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3946 lbs (1790 kg)",
       "Gross Weight Limit": "4519 lbs (2050 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "7.1 mpg US (33.1 L/100Km)",
       "Highway": "16.8 mpg US (14 L/100Km)",
       "Combined": "11.5 mpg US (20.5 L/100Km)",
@@ -1334,7 +1334,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 575M Maranello 5.7 V12 6AT (515 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-575m-maranello-2002.html#aeng_ferrari-575m-maranello-2002-57-v12-6at-515-hp",
-    "ENGINE SPECS - 5.7 V12 6AT (515 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "5748 cm3",
       "Power": "379 KW @ 7250 RPM\n515 HP @ 7250 RPM\n508 BHP @ 7250 RPM",
@@ -1346,18 +1346,18 @@
       "Top Speed": "202 mph (325 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/40 ZR18 || 295/35 ZR18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.1 in (4549 mm)",
       "Width": "75.3 in (1913 mm)",
       "Height": "50.3 in (1278 mm)",
@@ -1367,11 +1367,11 @@
       "Cargo Volume": "6.5 cuFT (184 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3814 lbs (1730 kg)",
       "Gross Weight Limit": "4519 lbs (2050 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "6.9 mpg US (34.1 L/100Km)",
       "Highway": "16.8 mpg US (14 L/100Km)",
       "Combined": "11.1 mpg US (21.2 L/100Km)",
@@ -1395,7 +1395,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 599 GTO 6.0L V12 6AT RWD (670 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-599-gto-2010.html#aeng_ferrari-599-gto-2010-60l-v12-6at-670-hp",
-    "ENGINE SPECS - 6.0L V12 6AT RWD (670 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "5999 cm3",
       "Power": "492.8 KW @ 8250 RPM\n670 HP @ 8250 RPM\n661 BHP @ 8250 RPM",
@@ -1407,18 +1407,18 @@
       "Top Speed": "202 mph (325 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-automatic speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Disc",
       "Rear": "Ventilated Disc"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "285/30 ZR 20 // 315/35 ZR 20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "185.4 in (4709 mm)",
       "Width": "77.2 in (1961 mm)",
       "Height": "52.2 in (1326 mm)",
@@ -1427,10 +1427,10 @@
       "Cargo Volume": "11.3 cuFT (320 L)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3296 lbs (1495 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "7.2 mpg US (32.7 L/100Km)",
       "Highway": "16 mpg US (14.7 L/100Km)",
       "Combined": "11 mpg US (21.4 L/100Km)"
@@ -1453,7 +1453,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 612 Scaglietti 5.7L V12 6AT RWD (540 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-612-scaglietti-2004.html#aeng_ferrari-612-scaglietti-2004-57-v12-6at-540-hp",
-    "ENGINE SPECS - 5.7L V12 6AT RWD (540 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "5748 cm3",
       "Power": "397 KW @ 7250 RPM\n540 HP @ 7250 RPM\n532 BHP @ 7250 RPM",
@@ -1465,18 +1465,18 @@
       "Top Speed": "199 mph (320 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/45 ZR18 || 285/40 ZR19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "193 in (4902 mm)",
       "Width": "77 in (1956 mm)",
       "Height": "52.9 in (1344 mm)",
@@ -1486,11 +1486,11 @@
       "Cargo Volume": "8.5 cuFT (241 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4134 lbs (1875 kg)",
       "Gross Weight Limit": "4960 lbs (2250 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "7.3 mpg US (32.2 L/100Km)",
       "Highway": "16.8 mpg US (14 L/100Km)",
       "Combined": "11.4 mpg US (20.6 L/100Km)",
@@ -1514,7 +1514,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI California T 3.8L V8 7AT (560 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-california-t-2014.html#aeng_ferrari-california-t-2014-38-twin-turbo-v8",
-    "ENGINE SPECS - 3.8L V8 7AT (560 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3855 cm3",
       "Power": "412 KW @ 7500 RPM\n560 HP @ 7500 RPM\n553 BHP @ 7500 RPM",
@@ -1526,18 +1526,18 @@
       "Top Speed": "196 mph (315 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Carbon-ceramic 390 x 34 mm",
       "Rear": "Carbon-ceramic 360 x 32 mm"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/40 ZR19 |// 285/40 ZR19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.9 in (4569 mm)",
       "Width": "75.2 in (1910 mm)",
       "Height": "52 in (1321 mm)",
@@ -1547,11 +1547,11 @@
       "Cargo Volume": "12 cuFT (340 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3583 lbs (1625 kg)",
       "Gross Weight Limit": "4178 lbs (1895 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "22.4 mpg US (10.5 L/100Km)",
       "CO2 Emissions": "250 g/km"
     },
@@ -1573,7 +1573,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI F12 Berlinetta 6.3 V12 7AT (741 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-f12-berlinetta-2012.html#aeng_ferrari-f12-berlinetta-2012-63l-v12",
-    "ENGINE SPECS - 6.3 V12 7AT (741 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6262 cm3",
       "Power": "544 KW @ 8250 RPM\n740 HP @ 8250 RPM\n730 BHP @ 8250 RPM",
@@ -1585,18 +1585,18 @@
       "Top Speed": "211 mph (340 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Ceramic Discs",
       "Rear": "Ventilated Ceramic Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/35 ZR 20 || 315/35 ZR 20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "181.8 in (4618 mm)",
       "Width": "76.5 in (1943 mm)",
       "Height": "50.1 in (1273 mm)",
@@ -1606,11 +1606,11 @@
       "Cargo Volume": "8.8 cuFT (249 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3362 lbs (1525 kg)",
       "Gross Weight Limit": "3924 lbs (1780 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "15.7 mpg US (15 L/100Km)",
       "CO2 Emissions": "350 g/km"
     },
@@ -1632,7 +1632,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI F12 TRS 6.3 V12 7AT (740 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-f12-trs-2014.html#aeng_ferrari-f12-trs-2014-63l-v12-7at-741-hp",
-    "ENGINE SPECS - 6.3 V12 7AT (740 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6262 cm3",
       "Power": "544 KW @ 8250 RPM\n740 HP @ 8250 RPM\n730 BHP @ 8250 RPM",
@@ -1644,18 +1644,18 @@
       "Top Speed": "211 mph (340 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Ceramic Discs",
       "Rear": "Ventilated Ceramic Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/35 ZR 20 || 315/35 ZR 20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "189.7 in (4818 mm)",
       "Width": "76.5 in (1943 mm)",
       "Height": "50.1 in (1273 mm)",
@@ -1665,11 +1665,11 @@
       "Cargo Volume": "11.3 cuFT (320 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3594 lbs (1630 kg)",
       "Gross Weight Limit": "4255 lbs (1930 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "15.7 mpg US (15 L/100Km)",
       "CO2 Emissions": "350 g/km"
     },
@@ -1691,7 +1691,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI F12tdf 6.3L V12 7AT RWD (780 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-f12tdf-2015.html#aeng_ferrari-f12tdf-2015-63-v12-7at-780-hp",
-    "ENGINE SPECS - 6.3L V12 7AT RWD (780 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6262 cm3",
       "Power": "573.7 KW @ 8500 RPM\n780 HP @ 8500 RPM\n769 BHP @ 8500 RPM",
@@ -1703,18 +1703,18 @@
       "Top Speed": "211 mph (340 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic (F1 Dual-Clutch)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/35 ZR 20 10 J || 315/35 ZR 20 11.5J"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "183.3 in (4656 mm)",
       "Width": "77.2 in (1961 mm)",
       "Height": "50.1 in (1273 mm)",
@@ -1724,10 +1724,10 @@
       "Cargo Volume": "11.3 cuFT (320 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3351 lbs (1520 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "15.3 mpg US (15.4 L/100Km)",
       "CO2 Emissions": "360 g/km"
     },
@@ -1749,7 +1749,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI F149 California 4.3L V8 7AT (490 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-f149-california-2012.html#aeng_ferrari-f149-california-2012-43-v8",
-    "ENGINE SPECS - 4.3L V8 7AT (490 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4297 cm3",
       "Power": "360 KW @ 7750 RPM\n490 HP @ 7750 RPM\n483 BHP @ 7750 RPM",
@@ -1761,18 +1761,18 @@
       "Top Speed": "121 mph (195 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed dual-clutch automated or 6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "ceramic brakes 15.4 x 1.34 in",
       "Rear": "ceramic brakes 15.4 x 1.34 in"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/40 ZR19 || 285/40 ZR19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "179.6 in (4562 mm)",
       "Width": "75.1 in (1908 mm)",
       "Height": "52 in (1321 mm)",
@@ -1782,10 +1782,10 @@
       "Cargo Volume": "12 cuFT (340 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3593 lbs (1630 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "13 mpg US (18.1 L/100Km)",
       "Highway": "19 mpg US (12.4 L/100Km)",
       "Combined": "15 mpg US (15.7 L/100Km)",
@@ -1809,7 +1809,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI F355 GTS 3.5L V8 6AT RWD (380 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-f355-gts-1995.html#aeng_ferrari-f355-gts-1995-35-v8-6at-380-hp",
-    "ENGINE SPECS - 3.5L V8 6AT RWD (380 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3495 cm3",
       "Power": "279.5 KW @ 8250 RPM\n380 HP @ 8250 RPM\n375 BHP @ 8250 RPM",
@@ -1821,18 +1821,18 @@
       "Top Speed": "183 mph (295 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/40 ZR 18 || 265/40 ZR 18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "167.3 in (4249 mm)",
       "Width": "74.8 in (1900 mm)",
       "Height": "46.1 in (1171 mm)",
@@ -1842,11 +1842,11 @@
       "Cargo Volume": "7.8 cuFT (221 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3197 lbs (1450 kg)",
       "Gross Weight Limit": "3704 lbs (1680 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "9.6 mpg US (24.5 L/100Km)",
       "Highway": "20.6 mpg US (11.4 L/100Km)",
       "Combined": "15.2 mpg US (15.5 L/100Km)"
@@ -1869,7 +1869,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI F355 Spider 3.5L V8 6AT (380 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-f355-spider-1995.html#aeng_ferrari-f355-spider-1995-35-v8-6at-380-hp",
-    "ENGINE SPECS - 3.5L V8 6AT (380 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3496 cm3",
       "Power": "279 KW @ 8250 RPM\n380 HP @ 8250 RPM\n374 BHP @ 8250 RPM",
@@ -1881,18 +1881,18 @@
       "Top Speed": "183 mph (295 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/40 ZR 18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "167.3 in (4249 mm)",
       "Width": "74.8 in (1900 mm)",
       "Height": "46.1 in (1171 mm)",
@@ -1902,11 +1902,11 @@
       "Cargo Volume": "7.7 cuFT (218 L)",
       "Aerodynamics (Cd)": "0.34"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2974 lbs (1349 kg)",
       "Gross Weight Limit": "3703 lbs (1680 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "9.6 mpg US (24.5 L/100Km)",
       "Highway": "21.8 mpg US (10.8 L/100Km)",
       "Combined": "15.2 mpg US (15.5 L/100Km)",
@@ -1930,7 +1930,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI 430 Scuderia 4.3L V8 6AT (510 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-430-scuderia-2007.html#aeng_ferrari-f430-f-131-evoluzione-2007-43-v8",
-    "ENGINE SPECS - 4.3L V8 6AT (510 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4308 cm3",
       "Power": "375 KW @ 8500 RPM\n510 HP @ 8500 RPM\n503 BHP @ 8500 RPM",
@@ -1942,18 +1942,18 @@
       "Top Speed": "199 mph (320 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/35 X 19 || 285/35 X 19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "177.6 in (4511 mm)",
       "Width": "75.7 in (1923 mm)",
       "Height": "47.8 in (1214 mm)",
@@ -1963,11 +1963,11 @@
       "Cargo Volume": "8.8 cuFT (249 L)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2976 lbs (1350 kg)",
       "Gross Weight Limit": "3527 lbs (1600 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "10 mpg US (23.5 L/100Km)",
       "Highway": "21.4 mpg US (11 L/100Km)",
       "Combined": "15 mpg US (15.7 L/100Km)",
@@ -1991,7 +1991,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI F430 Spider 4.3L V8 6AT (490 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-f430-spider-2005.html#aeng_ferrari-f430-spider-2005-43-v8-6at-490-hp",
-    "ENGINE SPECS - 4.3L V8 6AT (490 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4308 cm3",
       "Power": "360 KW @ 8500 RPM\n490 HP @ 8500 RPM\n483 BHP @ 8500 RPM",
@@ -2003,18 +2003,18 @@
       "Top Speed": "193 mph (311 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/35 ZR19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "177.6 in (4511 mm)",
       "Width": "75.7 in (1923 mm)",
       "Height": "48.6 in (1234 mm)",
@@ -2024,11 +2024,11 @@
       "Cargo Volume": "7.7 cuFT (218 L)",
       "Aerodynamics (Cd)": "0.37"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3351 lbs (1520 kg)",
       "Gross Weight Limit": "3792 lbs (1720 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "8.7 mpg US (27 L/100Km)",
       "Highway": "17.7 mpg US (13.3 L/100Km)",
       "Combined": "12.9 mpg US (18.2 L/100Km)",
@@ -2052,7 +2052,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI F60 America 6.3L V12 7AT (740 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-f60-america-2014.html#aeng_ferrari-f60-america-2014-63l-v12-7at-740-hp",
-    "ENGINE SPECS - 6.3L V12 7AT (740 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6262 cm3",
       "Power": "544.3 KW @ 8250 RPM\n740 HP @ 8250 RPM\n730 BHP @ 8250 RPM",
@@ -2065,22 +2065,22 @@
       "Top Speed": "205 mph (330 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/35 ZR 20 // 315/35 ZR 20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Front/rear Track": "65.3/63 in (1,659/1,600 mm)",
       "Wheelbase": "107 in (2718 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3527 lbs (1600 kg)"
     },
     "images": [
@@ -2099,7 +2099,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI F8 Spider 3.9L V8 7AT (720 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-f8-spider-2019.html#aeng_ferrari-f8-spider-2019-39l-v8-7at-720-hp",
-    "ENGINE SPECS - 3.9L V8 7AT (720 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3902 cm3",
       "Power": "529.6 KW @ 8000 RPM\n720 HP @ 8000 RPM\n710 BHP @ 8000 RPM",
@@ -2111,18 +2111,18 @@
       "Top Speed": "211 mph (340 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic DCT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 ZR 20 J9.0 // 305/30 ZR 20 J11.0"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "181.5 in (4610 mm)",
       "Width": "77.9 in (1979 mm)",
       "Height": "47.5 in (1207 mm)",
@@ -2148,7 +2148,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI FF 6.3L V12 7AT (660 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-ff-2011.html#aeng_ferrari-ff-2011-63-v12",
-    "ENGINE SPECS - 6.3L V12 7AT (660 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6262 cm3",
       "Power": "485 KW @ 8000 RPM\n660 HP @ 8000 RPM\n650 BHP @ 8000 RPM",
@@ -2160,18 +2160,18 @@
       "Top Speed": "208.1 mph (335 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic (dual clutch)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 ZR 20 || 295/35 ZR 20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "193.2 in (4907 mm)",
       "Width": "76.9 in (1953 mm)",
       "Height": "54.3 in (1379 mm)",
@@ -2181,11 +2181,11 @@
       "Cargo Volume": "15.9 cuFT (450 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4144.7 lbs (1880 kg)",
       "Gross Weight Limit": "4861 lbs (2205 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "11 mpg US (21.4 L/100Km)",
       "Highway": "16 mpg US (14.7 L/100Km)",
       "Combined": "15.3 mpg US (15.4 L/100Km)",
@@ -2209,7 +2209,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI FXX 6.3L V12 6AT (800 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-fxx-2005.html#aeng_ferrari-fxx-2005-63-v12",
-    "ENGINE SPECS - 6.3L V12 6AT (800 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6262 cm3",
       "Power": "588.4 KW @ 8500 RPM\n800 HP @ 8500 RPM\n789 BHP @ 8500 RPM",
@@ -2221,18 +2221,18 @@
       "Top Speed": "214 mph (344 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Carbon-Ceramic Ventilated Discs",
       "Rear": "Carbon-Ceramic Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 ZR 19 || 345/35 ZR 19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "185.1 in (4702 mm)",
       "Width": "80.1 in (2035 mm)",
       "Height": "45.2 in (1148 mm)",
@@ -2241,11 +2241,11 @@
       "Ground Clearance": "3.5 in (89 mm)",
       "Aerodynamics (Cd)": "0.38"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2646 lbs (1200 kg)",
       "Gross Weight Limit": "2976 lbs (1350 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "5.7 mpg US (41.3 L/100Km)",
       "Highway": "12.6 mpg US (18.7 L/100Km)",
       "Combined": "10.2 mpg US (23.1 L/100Km)"
@@ -2268,7 +2268,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI GTC4Lusso 6.3L V12 7AT AWD (690 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-gtc4lusso-2016.html#aeng_ferrari-gtc4lusso-2016-63-v12-7at-690-hp",
-    "ENGINE SPECS - 6.3L V12 7AT AWD (690 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6262 cm3",
       "Power": "507.5 KW @ 8000 RPM\n690 HP @ 8000 RPM\n681 BHP @ 8000 RPM",
@@ -2280,18 +2280,18 @@
       "Top Speed": "208 mph (335 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/35 R20 || 295/35 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "196.5 in (4991 mm)",
       "Width": "78 in (1981 mm)",
       "Height": "54.4 in (1382 mm)",
@@ -2299,10 +2299,10 @@
       "Wheelbase": "117.7 in (2990 mm)",
       "Cargo Volume": "15.9 cuFT (450 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3946 lbs (1790 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "15.4 mpg US (15.3 L/100Km)",
       "CO2 Emissions": "350 g/km"
     },
@@ -2324,7 +2324,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI GTC4Lusso T 3.9 V8 7AT (610 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-gtclusso-t-2016.html#aeng_ferrari-gtc4lusso-t-2016-39-v8-7at-610-hp",
-    "ENGINE SPECS - 3.9 V8 7AT (610 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3855 cm3",
       "Power": "448.7 KW @ 7500 RPM\n610 HP @ 7500 RPM\n602 BHP @ 7500 RPM",
@@ -2336,25 +2336,25 @@
       "Top Speed": "199 mph (320 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "193.8 in (4923 mm)",
       "Width": "78 in (1981 mm)",
       "Height": "54.5 in (1384 mm)",
       "Wheelbase": "117.7 in (2990 mm)",
       "Cargo Volume": "15.9 cuFT (450 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3880 lbs (1760 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "20.3 mpg US (11.6 L/100Km)",
       "CO2 Emissions": "265 g/km"
     },
@@ -2376,7 +2376,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI LaFerrari Aperta 6.3L V12 7AT RWD (963 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-laferrari-aperta-2016.html#aeng_ferrari-laferrari-aperta-2016-63-v12-7at-963-hp",
-    "ENGINE SPECS - 6.3L V12 7AT RWD (963 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6262 cm3",
       "Power": "588.4 KW @ 9000 RPM\n800 HP @ 9000 RPM\n789 BHP @ 9000 RPM",
@@ -2391,18 +2391,18 @@
       "Top Speed": "218 mph (351 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic (DCT)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "398 x 223 x 36 mm Ventilated Ceramic Discs",
       "Rear": "380 x 253 x 34 mm Ventilated Ceramic Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/30 R 19 || 345/30 R 20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "185.1 in (4702 mm)",
       "Width": "78.4 in (1991 mm)",
       "Height": "43.9 in (1115 mm)",
@@ -2411,7 +2411,7 @@
       "Cargo Volume": "3 cuFT (85 L)",
       "Aerodynamics (Cd)": "0.38"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "12 mpg US (19.6 L/100Km)",
       "Highway": "16 mpg US (14.7 L/100Km)",
       "Combined": "14 mpg US (16.8 L/100Km)"
@@ -2434,7 +2434,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI SP1 6.5L V12 7AT RWD (810 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-sp1-2018.html#aeng_ferrari-sp1-2018-65l-v12-7at-810-hp",
-    "ENGINE SPECS - 6.5L V12 7AT RWD (810 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "6496 cm3",
       "Power": "603.1 KW @ 8500 RPM\n820 HP @ 8500 RPM\n809 BHP @ 8500 RPM",
@@ -2446,20 +2446,20 @@
       "Top Speed": "186 mph (299 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "183.3 in (4656 mm)",
       "Width": "78.6 in (1996 mm)",
       "Height": "45.5 in (1156 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3307 lbs (1500 kg)"
     },
     "images": [
@@ -2480,7 +2480,7 @@
     "fuel_type": "gasoline",
     "engine": "FERRARI Scuderia Spider 16M 4.3 V8 6MT (510 HP)",
     "engine_url": "https://www.autoevolution.com/cars/ferrari-scuderia-spider-16m-2008.html#aeng_ferrari-scuderia-spider-16m-2008-43",
-    "ENGINE SPECS - 4.3 V8 6MT (510 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "4308 cm3",
       "Power": "375.1 KW @ 8500 RPM\n510 HP @ 8500 RPM\n503 BHP @ 8500 RPM",
@@ -2492,18 +2492,18 @@
       "Top Speed": "195.7 mph (315 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/35 R19 / 285/35 R19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "177.6 in (4511 mm)",
       "Width": "75.7 in (1923 mm)",
       "Height": "47.9 in (1217 mm)",
@@ -2513,11 +2513,11 @@
       "Cargo Volume": "7.8 cuFT (221 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3175 lbs (1440 kg)",
       "Gross Weight Limit": "3748 lbs (1700 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "11 mpg US (21.4 L/100Km)",
       "Highway": "16 mpg US (14.7 L/100Km)",
       "Combined": "15.7 mpg US (15 L/100Km)",

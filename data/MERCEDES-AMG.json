@@ -4,7 +4,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG E53 Hybrid Estate 3.0L 4MATIC+ 9AT AWD (585 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-e53-hybrid-estate-2024.html#aeng_mercedes-amg-e53-hybrid-estate-2024-30l-4matic-9at-awd-585-hp",
-    "ENGINE SPECS - 3.0L 4MATIC+ 9AT AWD (585 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2999 cm3",
       "Power": "330.2 KW @ 5800-6100 RPM\n449 HP @ 5800-6100 RPM\n443 BHP @ 5800-6100 RPM",
@@ -20,11 +20,11 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic AMG Speepshift"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
@@ -56,7 +56,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG G 63 (W463) 4.0 V8 4MATIC 9AT (585 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-g-63-w464-2018.html#aeng_mercedes-amg-g-63-w464-2018-40-v8-4matic-9at-585-hp",
-    "ENGINE SPECS - 4.0 V8 4MATIC 9AT (585 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3982 cm3",
       "Power": "430.3 KW @ 6500 RPM\n585 HP @ 6500 RPM\n577 BHP @ 6500 RPM",
@@ -68,25 +68,25 @@
       "Top Speed": "137 mph (220 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "189.6 in (4816 mm)",
       "Width": "76 in (1930 mm)",
       "Height": "77.5 in (1969 mm)",
       "Wheelbase": "113.8 in (2891 mm)",
       "Cargo Volume": "17.2 cuFT (487 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "5644 lbs (2560 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "17.8 mpg US (13.2 L/100Km)",
       "CO2 Emissions": "299 g/km"
     },
@@ -108,7 +108,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG E53 Hybrid 3.0L 4MATIC+ 9AT AWD (585 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-e53-hybrid-2024.html#aeng_mercedes-amg-e53-hybrid-2024-30l-4matic-9at-awd-585-hp",
-    "ENGINE SPECS - 3.0L 4MATIC+ 9AT AWD (585 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2999 cm3",
       "Power": "330.2 KW @ 5800-6100 RPM\n449 HP @ 5800-6100 RPM\n443 BHP @ 5800-6100 RPM",
@@ -124,11 +124,11 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic AMG Speepshift"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
@@ -160,7 +160,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG CLA 35 Coupe 35 4MATIC 8AT AWD (302 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-cla-35-coupe-2023.html#aeng_mercedes-amg-cla-35-coupe-2023-35-4matic-7at-awd-302-hp",
-    "ENGINE SPECS - 35 4MATIC 8AT AWD (302 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1991 cm3",
       "Power": "225.1 KW @ 5800 RPM\n306 HP @ 5800 RPM\n302 BHP @ 5800 RPM",
@@ -172,11 +172,11 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic AMG Speedshift"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
@@ -202,7 +202,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG 35 4MATIC Shooting Brake 35 4MATIC 8AT AWD 306 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-35-4matic-shooting-brake-2023.html#aeng_mercedes-amg-35-4matic-shooting-brake-2023-35-4matic-8at-awd-306-hp",
-    "ENGINE SPECS - 35 4MATIC 8AT AWD 306 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1991 cm3",
       "Power": "225.1 KW @ 5800 RPM\n306 HP @ 5800 RPM\n302 BHP @ 5800 RPM",
@@ -214,7 +214,7 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic DCT"
     },
@@ -240,7 +240,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG GLS 63 4.0L V8 Biturbo 4MATIC+ 9AT AWD (603 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-gls-63-2023.html#aeng_mercedes-amg-gls-63-2023-40l-v8-biturbo-4matic-9at-awd-603-hp",
-    "ENGINE SPECS - 4.0L V8 BITURBO 4MATIC+ 9AT AWD (603 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3982 cm3",
       "Power": "443.5 KW @ 5750-6500 RPM\n603 HP @ 5750-6500 RPM\n595 BHP @ 5750-6500 RPM",
@@ -253,11 +253,11 @@
       "Top Speed": "174 mph (280 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic AMG Speepshift"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
@@ -279,21 +279,21 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG GLE 53 4MATIC+ Coupe 3.0L 4MATIC+ 9AT AWD (435 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-gle-53-4matic-suv-2023.html#aeng_mercedes-amg-gle-53-4matic-suv-2023-30l-4matic-9at-awd-435-hp",
-    "ENGINE SPECS - 3.0L 4MATIC+ 9AT AWD (435 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2999 cm3",
       "Power": "319.9 KW @ 5800-6100 RPM\n435 HP @ 5800-6100 RPM\n429 BHP @ 5800-6100 RPM",
-      "Torque": "413 lb-ft @ 2200–5800 RPM\n560 Nm @ 2200–5800 RPM",
+      "Torque": "413 lb-ft @ 2200\u20135800 RPM\n560 Nm @ 2200\u20135800 RPM",
       "Electrical motor power": "16.2 kw (22 hp)",
       "Electrical motor torque": "147.5 lb-ft (200 Nm)",
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic AMG Speepshift"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
@@ -315,7 +315,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG GLA 35 4MATIC AMG 2.0L 4MATIC 8AT AWD (306 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-gla-35-amg-2023.html#aeng_mercedes-amg-gla-35-amg-2023-20l-4matic-8at-awd-306-hp",
-    "ENGINE SPECS - 2.0L 4MATIC 8AT AWD (306 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1991 cm3",
       "Power": "225.1 KW @ 5800 RPM\n306 HP @ 5800 RPM\n302 BHP @ 5800 RPM",
@@ -327,11 +327,11 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic AMG Speedshift"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
@@ -357,11 +357,11 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG GLE 53 3.0L 4MATIC 9AT AWD (435 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-gle-53-2023.html#aeng_mercedes-amg-gle-53-2023-30l-4matic-9at-awd-435-hp",
-    "ENGINE SPECS - 3.0L 4MATIC 9AT AWD (435 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2999 cm3",
       "Power": "319.9 KW @ 5800-6100 RPM\n435 HP @ 5800-6100 RPM\n429 BHP @ 5800-6100 RPM",
-      "Torque": "413 lb-ft @ 2200–5800 RPM\n560 Nm @ 2200–5800 RPM",
+      "Torque": "413 lb-ft @ 2200\u20135800 RPM\n560 Nm @ 2200\u20135800 RPM",
       "Electrical motor power": "16.2 kw (22 hp)",
       "Electrical motor torque": "147.5 lb-ft (200 Nm)",
       "Fuel System": "Turbocharged Direct Injection",
@@ -371,11 +371,11 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic AMG Speepshift"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
@@ -401,7 +401,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG GLB 35 4MATIC AMG 2.0L 4MATIC 8AT AWD (306 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-glb-35-amg-2023.html#aeng_mercedes-amg-glb-35-amg-2023-20l-4matic-8at-awd-306-hp",
-    "ENGINE SPECS - 2.0L 4MATIC 8AT AWD (306 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1991 cm3",
       "Power": "225.1 KW @ 5800 RPM\n306 HP @ 5800 RPM\n302 BHP @ 5800 RPM",
@@ -413,11 +413,11 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "5.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic AMG Speedshift"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Rear": "Ventilated Discs"
     },
     "FUEL ECONOMY (WLTP)": {
@@ -442,7 +442,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG C43 AMG Estate 2.0L 4MATIC 9AT AWD (408 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-c43-amg-estate-2022.html#aeng_mercedes-amg-c43-amg-estate-2022-20l-4matic-9at-awd-408-hp",
-    "ENGINE SPECS - 2.0L 4MATIC 9AT AWD (408 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1991 cm3",
       "Power": "300.1 KW @ 4750 RPM\n408 HP @ 4750 RPM\n402 BHP @ 4750 RPM",
@@ -456,18 +456,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic AMG Speepshift"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/45 ZR18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "188.6 in (4790 mm)",
       "Width": "71.8 in (1824 mm)",
       "Height": "57.7 in (1466 mm)",
@@ -475,7 +475,7 @@
       "Wheelbase": "112.8 in (2865 mm)",
       "Cargo Volume": "17.3 cuFT (490 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3990 lbs (1810 kg)"
     },
     "FUEL ECONOMY (WLTP)": {
@@ -500,7 +500,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG CLS 53 Sedan (C257) 3.0 4MATIC+ 9AT (435 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-cls-53-c257-2018.html#aeng_mercedes-amg-cls-53-c257-2018-30-4matic-9at-435-hp",
-    "ENGINE SPECS - 3.0 4MATIC+ 9AT (435 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Power": "319.9 KW @ - RPM\n435 HP @ - RPM\n429 BHP @ - RPM",
       "Torque": "384 lb-ft @ - RPM\n520 Nm @ - RPM",
@@ -511,11 +511,11 @@
       "Top Speed": "168 mph (270 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic (AMG SPEEDSHIFT TCT)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "28 mpg US (8.4 L/100Km)",
       "CO2 Emissions": "200 g/km"
     },
@@ -537,25 +537,25 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG GT Roadster 4.0L V8 7AT FWD (530 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-gt-roadster-2020.html#aeng_mercedes-amg-gt-roadster-2020-530-hp",
-    "ENGINE SPECS - 4.0L V8 7AT FWD (530 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3982 cm3",
       "Power": "389.8 KW @ - RPM\n530 HP @ - RPM\n523 BHP @ - RPM",
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic (AMG SPEEDSHIFT DCT)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/35 R19 // 295/30 R 20"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "18.1 mpg US (13 L/100Km)",
       "CO2 Emissions": "297 g/km"
     },
@@ -576,7 +576,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG E 53 Coupe (C238) 3.0L 4MATIC+ 9AT AWD (435 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-e-53-coupe-c238-2020.html#aeng_mercedes-amg-e-53-coupe-c238-2020-30l-4matic-9at-awd-435-hp",
-    "ENGINE SPECS - 3.0L 4MATIC+ 9AT AWD (435 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2999 cm3",
       "Power": "319.9 KW @ 6100 RPM\n435 HP @ 6100 RPM\n429 BHP @ 6100 RPM",
@@ -588,18 +588,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic (9G-TRONIC)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/40 R19 // 275/35 R19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "190.9 in (4849 mm)",
       "Width": "73.2 in (1859 mm)",
       "Height": "56.2 in (1427 mm)",
@@ -608,7 +608,7 @@
       "Ground Clearance": "4.7 in (119 mm)",
       "Cargo Volume": "15 cuFT (425 L)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "26.4 mpg US (8.9 L/100Km)",
       "CO2 Emissions": "204 g/km"
     },
@@ -630,7 +630,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG E53 AMG Cabriolet (A238) 3.0L 4MATIC+ 9AT (435 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-e53-amg-cabriolet-2020.html#aeng_mercedes-amg-e53-amg-cabriolet-2020-30l-4matic-9at-435-hp",
-    "ENGINE SPECS - 3.0L 4MATIC+ 9AT (435 HP)": {
+    "engine_specs": {
       "Cylinders": "L6",
       "Displacement": "2999 cm3",
       "Power": "319.9 KW @ 6100 RPM\n435 HP @ 6100 RPM\n429 BHP @ 6100 RPM",
@@ -642,15 +642,15 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic AMG Speepshift"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "25.6 mpg US (9.2 L/100Km)",
       "CO2 Emissions": "210 g/km"
     },
@@ -672,7 +672,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG A 35 4MATIC Sedan (V177) 2.0L 7AT AWD (306 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-a-35-4matic-sedan-2019.html#aeng_mercedes-amg-a-35-4matic-sedan-2019-20l-7at-306-hp",
-    "ENGINE SPECS - 2.0L 7AT AWD (306 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1991 cm3",
       "Power": "225.1 KW @ 5800 RPM\n306 HP @ 5800 RPM\n302 BHP @ 5800 RPM",
@@ -684,15 +684,15 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "32.2 mpg US (7.3 L/100Km)",
       "CO2 Emissions": "167 g/km"
     },
@@ -714,7 +714,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG C 63 Cabriolet (A205) 4.0 V8 7AT (476 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-c63-amg-cabriolet-2016.html#aeng_mercedes-benz-c63-amg-cabriolet-2016-40-v8-7at-476-hp",
-    "ENGINE SPECS - 4.0 V8 7AT (476 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3982 cm3",
       "Power": "350 KW @ 5500-620 RPM\n475.9 HP @ 5500-620 RPM\n469 BHP @ 5500-620 RPM",
@@ -726,18 +726,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic (AMG SPEEDSHIFT MCT)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/40 R 18 || 285/35 R 18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184.5 in (4686 mm)",
       "Width": "71.3 in (1811 mm)",
       "Height": "55.5 in (1410 mm)",
@@ -746,11 +746,11 @@
       "Cargo Volume": "12.7 cuFT (360 L)",
       "Aerodynamics (Cd)": "0.36"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4211 lbs (1910 kg)",
       "Gross Weight Limit": "5016 lbs (2275 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19 mpg US (12.4 L/100Km)",
       "Highway": "31.4 mpg US (7.5 L/100Km)",
       "Combined": "25.3 mpg US (9.3 L/100Km)",
@@ -774,7 +774,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG C 43 Coupe 4Matic (C205) 3.0L V6 9AT AWD (390 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-c-43-4matic-2018-1.html#aeng_mercedes-amg-c-43-4matic-2018-30-v6-9at-390-hp",
-    "ENGINE SPECS - 3.0L V6 9AT AWD (390 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "2996 cm3",
       "Power": "286.8 KW @ 6100 RPM\n390 HP @ 6100 RPM\n385 BHP @ 6100 RPM",
@@ -786,24 +786,24 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-Speed automatic (AMG SPEEDSHIFT MCT 9G)"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/45 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184.9 in (4696 mm)",
       "Width": "79.4 in (2017 mm)",
       "Height": "55.3 in (1405 mm)",
       "Wheelbase": "111.8 in (2840 mm)",
       "Cargo Volume": "10.5 cuFT (297 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Gross Weight Limit": "3986 lbs (1808 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "24.8 mpg US (9.5 L/100Km)",
       "CO2 Emissions": "217 g/km"
     },
@@ -825,7 +825,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG C 43 4MATIC 3.0 V6 4MATIC 9AT (390 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-amg-c-43-4matic-2018.html#aeng_mercedes-amg-c-43-4matic-2018-30-v6-4matic-9at-390-hp",
-    "ENGINE SPECS - 3.0 V6 4MATIC 9AT (390 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "2996 cm3",
       "Power": "286.8 KW @ 6100 RPM\n390 HP @ 6100 RPM\n385 BHP @ 6100 RPM",
@@ -837,28 +837,28 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "AMG Speedshift TCT 9G"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/40 R19 // 245/35 R19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "185.1 in (4702 mm)",
       "Width": "71.3 in (1811 mm)",
       "Height": "56.8 in (1443 mm)",
       "Wheelbase": "111.8 in (2840 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3880 lbs (1760 kg)",
       "Gross Weight Limit": "5115 lbs (2320 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "21.4 mpg US (11 L/100Km)",
       "Highway": "35.1 mpg US (6.7 L/100Km)",
       "Combined": "24.5 mpg US (9.6 L/100Km)",
@@ -880,7 +880,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG S 63 Cabriolet (A217) 4.0 V8 4MATIC 9AT (612 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-s-63-amg-cabriolet-a217-2017.html#aeng_mercedes-benz-s-63-amg-cabriolet-a217-2017-40-v8-4matic-9at-612-hp",
-    "ENGINE SPECS - 4.0 V8 4MATIC 9AT (612 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "3982 cm3",
       "Power": "450.1 KW @ 5500-6000 RPM\n612 HP @ 5500-6000 RPM\n604 BHP @ 5500-6000 RPM",
@@ -892,25 +892,25 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "3.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic (AMG SPEEDSHIFT MCT)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "198.6 in (5044 mm)",
       "Width": "75.3 in (1913 mm)",
       "Height": "56.2 in (1427 mm)",
       "Wheelbase": "115.9 in (2944 mm)",
       "Cargo Volume": "12.4 cuFT (351 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4817 lbs (2185 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "23.3 mpg US (10.1 L/100Km)",
       "CO2 Emissions": "229 g/km"
     },
@@ -932,7 +932,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG S 65 Coupe (C217) 6.0 V12 7AT (630 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-s-65-amg-coupe-c217-2017.html#aeng_mercedes-benz-s-65-amg-coupe-c217-2017-60-v12-7at-630-hp",
-    "ENGINE SPECS - 6.0 V12 7AT (630 HP)": {
+    "engine_specs": {
       "Cylinders": "V12",
       "Displacement": "5980 cm3",
       "Power": "463.4 KW @ 4800-5400 RPM\n630 HP @ 4800-5400 RPM\n621 BHP @ 4800-5400 RPM",
@@ -944,25 +944,25 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic (7G-TRONIC PLUS)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "198.6 in (5044 mm)",
       "Width": "75.3 in (1913 mm)",
       "Height": "56 in (1422 mm)",
       "Wheelbase": "115.9 in (2944 mm)",
       "Cargo Volume": "14.1 cuFT (399 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4817 lbs (2185 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "19.8 mpg US (11.9 L/100Km)",
       "CO2 Emissions": "279 g/km"
     },
@@ -984,7 +984,7 @@
     "fuel_type": "gasoline",
     "engine": "Mercedes-AMG SLC 43 (R172) 3.0 V6 9AT (367 HP)",
     "engine_url": "https://www.autoevolution.com/cars/mercedes-benz-slc-43-amg-r172-2016.html#aeng_mercedes-benz-slc-43-amg-r172-2016-30-v6-9at-367-hp",
-    "ENGINE SPECS - 3.0 V6 9AT (367 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "2996 cm3",
       "Power": "269.9 KW @ 5500-6000 RPM\n367 HP @ 5500-6000 RPM\n362 BHP @ 5500-6000 RPM",
@@ -996,18 +996,18 @@
       "Top Speed": "155 mph (249 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "4.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "9-speed automatic (9G-TRONIC)"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/40 ZR 18 || 255/35 ZR 18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "162.7 in (4133 mm)",
       "Width": "71.3 in (1811 mm)",
       "Height": "51.2 in (1300 mm)",
@@ -1017,11 +1017,11 @@
       "Cargo Volume": "10.1 cuFT (286 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3516 lbs (1595 kg)",
       "Gross Weight Limit": "4167 lbs (1890 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "42.8 mpg US (5.5 L/100Km)",
       "Highway": "56 mpg US (4.2 L/100Km)",
       "Combined": "50 mpg US (4.7 L/100Km)",

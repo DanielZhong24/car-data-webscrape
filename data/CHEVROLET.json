@@ -4,7 +4,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET ZR1 Convertible 5.5L V8 8AT RWD (1079 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-zr1-convertible-2024.html#aeng_chevrolet-zr1-convertible-2024-55l-v8-8at-rwd",
-    "ENGINE SPECS - 5.5L V8 8AT RWD (1079 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "5463 cm3",
       "Power": "793.4 KW @ 7000 RPM\n1078.8 HP @ 7000 RPM\n1064 BHP @ 7000 RPM",
@@ -16,18 +16,18 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "215 mph (346 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/30 ZR20 // 345/25 ZR21"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "185.9 in (4722 mm)",
       "Width": "79.7 in (2024 mm)",
       "Height": "48.6 in (1234 mm)",
@@ -36,7 +36,7 @@
       "Cargo Volume": "9.1 cuFT (258 L)",
       "Turning circle (curb to curb)": "36.4 ft (11.1 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3759 lbs (1705 kg)"
     },
     "images": [
@@ -57,7 +57,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Equinox 1.5L 8AT AWD (177 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-equinox-2024.html#aeng_chevrolet-equinox-2024-1",
-    "ENGINE SPECS - 1.5L 8AT AWD (177 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Power": "130.5 KW @ 5600 RPM\n177 HP @ 5600 RPM\n175 BHP @ 5600 RPM",
       "Torque": "184 lb-ft @ 2000-4800 RPM\n250 Nm @ 2000-4800 RPM",
@@ -65,14 +65,14 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "15.6 gallons (59.1 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed Hydra-Matic 8T45"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/65R17 all-terrain"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "183.2 in (4653 mm)",
       "Width": "74.9 in (1902 mm)",
       "Height": "65.6 in (1666 mm)",
@@ -81,7 +81,7 @@
       "Cargo Volume": "29.8 cuFT (844 L)",
       "Turning circle": "37.1 ft (11.3 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3428 lbs (1555 kg)"
     },
     "images": [
@@ -102,7 +102,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET ZR1 5.5L V8 RWD 8AT (1078 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-zr1-2024.html#aeng_chevrolet-zr1-2024-55l-v8-rwd-8at-1078-hp",
-    "ENGINE SPECS - 5.5L V8 RWD 8AT (1078 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "5463 cm3",
       "Power": "793.4 KW @ 7000 RPM\n1079 HP @ 7000 RPM\n1064 BHP @ 7000 RPM",
@@ -114,18 +114,18 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "233 mph (375 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "8-speed automatic DCT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/30Z R20 // 345/25Z R21"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "185.9 in (4722 mm)",
       "Width": "79.7 in (2024 mm)",
       "Height": "48.6 in (1234 mm)",
@@ -135,7 +135,7 @@
       "Cargo Volume": "9.1 cuFT (258 L)",
       "Turning circle (curb to curb)": "36.4 ft (11.1 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3671 lbs (1665 kg)"
     },
     "images": [
@@ -156,25 +156,25 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Trailblazer 1.2L ECOTEC CVT (140 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-trailblazer-2023.html#aeng_chevrolet-trailblazer-2023-12l-ecotec-cvt-140-hp",
-    "ENGINE SPECS - 1.2L ECOTEC CVT (140 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Power": "102.2 KW @ 5000 RPM\n138.9 HP @ 5000 RPM\n137 BHP @ 5000 RPM",
       "Torque": "162 lb-ft @ 2500 RPM\n219 Nm @ 2500 RPM",
       "Fuel System": "Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/60R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "173.5 in (4407 mm)",
       "Width": "71.2 in (1808 mm)",
       "Height": "65.2 in (1656 mm)",
@@ -182,7 +182,7 @@
       "Wheelbase": "103.9 in (2639 mm)",
       "Cargo Volume": "25.2 cuFT (714 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3029 lbs (1374 kg)",
       "Gross Weight Limit": "6129 lbs (2780 kg)"
     },
@@ -204,7 +204,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Silverado 1500 2.7L 8AT AWD (314 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-silverado-1500-2021.html#aeng_chevrolet-silverado-1500-2021-27l-8at-awd-314-hp",
-    "ENGINE SPECS - 2.7L 8AT AWD (314 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2726 cm3",
       "Power": "231.2 KW @ 5600 RPM\n314 HP @ 5600 RPM\n310 BHP @ 5600 RPM",
@@ -213,29 +213,29 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "24 gallons (90.8 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/70 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "241.4 in (6132 mm)",
       "Width": "81.2 in (2062 mm)",
       "Height": "75.4 in (1915 mm)",
       "Wheelbase": "157 in (3988 mm)",
       "Ground Clearance": "7.8 in (198 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "5011 lbs (2273 kg)",
       "Gross Weight Limit": "6971 lbs (3162 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "18 mpg US (13.1 L/100Km)",
       "Highway": "21 mpg US (11.2 L/100Km)"
     },
@@ -257,7 +257,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Suburban 5.3L V8 10AT AWD (360 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-suburban-2023.html#aeng_chevrolet-suburban-2023-53l-v8-10at-awd-360-hp",
-    "ENGINE SPECS - 5.3L V8 10AT AWD (360 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "5328 cm3",
       "Power": "264.7 KW @ 5600 RPM\n359.9 HP @ 5600 RPM\n355 BHP @ 5600 RPM",
@@ -266,18 +266,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "28 gallons (106.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "10-speed automatic Hydra-Matic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/65 R18"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "5873 lbs (2664 kg)",
       "Gross Weight Limit": "7553 lbs (3426 kg)"
     },
@@ -299,7 +299,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Blazer 2.0L 9AT AWD (228 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-blazer-2022.html#aeng_chevrolet-blazer-2022-20l-9at-awd-228-hp",
-    "ENGINE SPECS - 2.0L 9AT AWD (228 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Power": "167.7 KW @ 5000 RPM\n228 HP @ 5000 RPM\n225 BHP @ 5000 RPM",
       "Torque": "258 lb-ft @ 1500-4000 RPM\n350 Nm @ 1500-4000 RPM",
@@ -307,25 +307,25 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "19.3 gallons (73.1 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "9-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P235/65 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "191.9 in (4874 mm)",
       "Width": "76.7 in (1948 mm)",
       "Height": "67 in (1702 mm)",
       "Front/rear Track": "66.4/66.2 in (1,687/1,681 mm)",
       "Wheelbase": "112.7 in (2863 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4145 lbs (1880 kg)"
     },
     "images": [
@@ -346,25 +346,25 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Colorado ZR2 Bison 2.7L Turbo 8AT AWD (314 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-colorado-zr2-bison-2023.html#aeng_chevrolet-colorado-zr2-bison-2023-27l-turbo-8at-awd-314-hp",
-    "ENGINE SPECS - 2.7L TURBO 8AT AWD (314 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Power": "231.2 KW @ 5600 RPM\n314.3 HP @ 5600 RPM\n310 BHP @ 5600 RPM",
       "Torque": "413 lb-ft @ 3000 RPM\n560 Nm @ 3000 RPM",
       "Fuel System": "Direct high-pressure fuel injection with Active Fuel Management",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "8-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "LT315/70 R17 MT"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "214.1 in (5438 mm)",
       "Width": "84.4 in (2144 mm)",
       "Height": "81.8 in (2078 mm)",
@@ -372,7 +372,7 @@
       "Wheelbase": "131 in (3327 mm)",
       "Ground Clearance": "12.2 in (310 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "5265 lbs (2388 kg)",
       "Gross Weight Limit": "6349 lbs (2880 kg)"
     },
@@ -394,7 +394,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Traverse 3.6L V6 9AT AWD (310 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-traverse-2020.html#aeng_chevrolet-traverse-2020-36l-v6-9at-awd-310-hp",
-    "ENGINE SPECS - 3.6L V6 9AT AWD (310 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Power": "228 KW @ 6800 RPM\n310 HP @ 6800 RPM\n306 BHP @ 6800 RPM",
       "Torque": "266 lb-ft @ 2800 RPM\n361 Nm @ 2800 RPM",
@@ -402,15 +402,15 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "21.7 gallons (82.1 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "9-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated disc"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "204.3 in (5189 mm)",
       "Width": "78.6 in (1996 mm)",
       "Height": "70.7 in (1796 mm)",
@@ -418,7 +418,7 @@
       "Wheelbase": "120.9 in (3071 mm)",
       "Cargo Volume": "23 cuFT (651 L)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17 mpg US (13.8 L/100Km)",
       "Highway": "25 mpg US (9.4 L/100Km)",
       "Combined": "20 mpg US (11.8 L/100Km)"
@@ -441,17 +441,17 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Corvette Z06 5.5L V8 (679 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-corvette-z06-2021.html#aeng_chevrolet-corvette-z06-2021-55l-v8-670-hp",
-    "ENGINE SPECS - 5.5L V8 (679 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Power": "499.6 KW @ 8600 RPM\n679.3 HP @ 8600 RPM\n670 BHP @ 8600 RPM",
       "Torque": "460 lb-ft @ 6300 RPM\n624 Nm @ 6300 RPM",
       "Fuel": "Gasoline"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Disc"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "275/30 ZR20 // 345/25ZR21"
     },
     "images": [
@@ -472,22 +472,22 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Trax 1.2L ECOTEC Turbo 6AT (137 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-trax-2022.html#aeng_chevrolet-trax-2022-12l-ecotec-turbo-6at-137-hp",
-    "ENGINE SPECS - 1.2L ECOTEC TURBO 6AT (137 HP)": {
+    "engine_specs": {
       "Cylinders": "L3",
       "Power": "100.8 KW @ 5000 RPM\n137 HP @ 5000 RPM\n135 BHP @ 5000 RPM",
       "Torque": "162 lb-ft @ 2500 RPM\n219 Nm @ 2500 RPM",
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-automatic speed Hydra-Matic 6T40"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "178.6 in (4536 mm)",
       "Width": "71.8 in (1824 mm)",
       "Height": "61.4 in (1560 mm)",
@@ -496,7 +496,7 @@
       "Ground Clearance": "7.3 in (185 mm)",
       "Cargo Volume": "25.6 cuFT (725 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "6230 lbs (2826 kg)"
     },
     "images": [
@@ -517,7 +517,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Silverado HD ZR2 6.6L 10AT AWD (406 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-silverado-hd-zr2-2023.html#aeng_chevrolet-silverado-hd-zr2-2023-66l-10at-awd-406-hp",
-    "ENGINE SPECS - 6.6L 10AT AWD (406 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Power": "299 KW @ 5200 RPM\n407 HP @ 5200 RPM\n401 BHP @ 5200 RPM",
       "Torque": "464 lb-ft @ 4000 RPM\n629 Nm @ 4000 RPM",
@@ -525,18 +525,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "35.9 gallons (135.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "10-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "LT305/70R18 MT"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "250 in (6350 mm)",
       "Width": "81.9 in (2080 mm)",
       "Height": "82.7 in (2101 mm)",
@@ -544,7 +544,7 @@
       "Wheelbase": "159.1 in (4041 mm)",
       "Ground Clearance": "11.6 in (295 mm)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "7408 lbs (3360 kg)",
       "Gross Weight Limit": "10849 lbs (4921 kg)"
     },
@@ -566,7 +566,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Express 4.3L V6 4AT RWD (194 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-express-2008.html#aeng_chevrolet-express-2008-43-v6",
-    "ENGINE SPECS - 4.3L V6 4AT RWD (194 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "4293 cm3",
       "Power": "145 KW @ 4600 RPM\n197 HP @ 4600 RPM\n194 BHP @ 4600 RPM",
@@ -575,18 +575,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "30.9 gallons (117.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P245/70 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "224 in (5690 mm)",
       "Width": "79.4 in (2017 mm)",
       "Height": "81.6 in (2073 mm)",
@@ -596,11 +596,11 @@
       "Cargo Volume": "22.8 cuFT (646 L)",
       "Aerodynamics (Cd)": "0.44"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4845 lbs (2198 kg)",
       "Gross Weight Limit": "7300 lbs (3311 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14 mpg US (16.8 L/100Km)",
       "Highway": "18 mpg US (13.1 L/100Km)",
       "Combined": "16 mpg US (14.7 L/100Km)"
@@ -623,7 +623,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Agile 1.4L ECONOFLEX 5AT FWD (97 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-agile-2013.html#aeng_chevrolet-agile-2013-14-econoflex-5at-97-hp",
-    "ENGINE SPECS - 1.4L ECONOFLEX 5AT FWD (97 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1389 cm3",
       "Power": "71.3 KW @ 6000 RPM\n97 HP @ 6000 RPM\n96 BHP @ 6000 RPM",
@@ -632,18 +632,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "14.3 gallons (54.1 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5 speed automatic Easytronic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/60 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "157.3 in (3995 mm)",
       "Width": "66.3 in (1684 mm)",
       "Height": "60.6 in (1539 mm)",
@@ -651,7 +651,7 @@
       "Cargo Volume": "11.5 cuFT (326 L)",
       "Aerodynamics (Cd)": "0.371"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2326 lbs (1055 kg)"
     },
     "images": [
@@ -672,7 +672,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Astro 4.3L V6 4AT AWD (190 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-astro-1994.html#aeng_chevrolet-astro-1994-43-v6-4at-awd-190-hp",
-    "ENGINE SPECS - 4.3L V6 4AT AWD (190 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "4300 cm3",
       "Power": "142 KW @ 4400 RPM\n193 HP @ 4400 RPM\n190 BHP @ 4400 RPM",
@@ -684,18 +684,18 @@
       "Top Speed": "112 mph (180 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/75 R 15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "189.8 in (4821 mm)",
       "Width": "77.5 in (1969 mm)",
       "Height": "74.9 in (1902 mm)",
@@ -705,11 +705,11 @@
       "Cargo Volume": "168.9 cuFT (4783 L)",
       "Aerodynamics (Cd)": "0.5"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4442 lbs (2015 kg)",
       "Gross Weight Limit": "6100 lbs (2767 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "15 mpg US (15.7 L/100Km)",
       "Highway": "19 mpg US (12.4 L/100Km)",
       "Combined": "16 mpg US (14.7 L/100Km)"
@@ -732,7 +732,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Avalanche SUT 5.3L V8 4AT RWD (320 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-avalanche-sut-2006.html#aeng_chevrolet-avalanche-sut-2006-53",
-    "ENGINE SPECS - 5.3L V8 4AT RWD (320 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "5328 cm3",
       "Power": "238.6 KW @ 5200 RPM\n324 HP @ 5200 RPM\n320 BHP @ 5200 RPM",
@@ -741,18 +741,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "38 gallons (143.8 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "265/70 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "221.3 in (5621 mm)",
       "Width": "79.1 in (2009 mm)",
       "Height": "76.6 in (1946 mm)",
@@ -762,10 +762,10 @@
       "Cargo Volume": "54 cuFT (1529 L)",
       "Aerodynamics (Cd)": "0.37"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "5479.4 lbs (2485 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14 mpg US (16.8 L/100Km)",
       "Highway": "19 mpg US (12.4 L/100Km)"
     },
@@ -787,7 +787,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Aveo/Kalos 3 Doors 1.2L DOHC 5MT FWD (82 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-aveo-kalos-3-doors-2008.html#aeng_chevrolet-aveokalos-3-doors-2008-12-dohc",
-    "ENGINE SPECS - 1.2L DOHC 5MT FWD (82 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1206 cm3",
       "Power": "60.3 KW @ 6000 RPM\n82 HP @ 6000 RPM\n81 BHP @ 6000 RPM",
@@ -800,18 +800,18 @@
       "Top Speed": "105.6 mph (170 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "155/80 R13"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "154.3 in (3919 mm)",
       "Width": "66.1 in (1679 mm)",
       "Height": "48 in (1219 mm)",
@@ -820,11 +820,11 @@
       "Cargo Volume": "7.8 cuFT (221 L)",
       "Aerodynamics (Cd)": "0.36"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2271 lbs (1030 kg)",
       "Gross Weight Limit": "3314 lbs (1503 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "32.7 mpg US (7.2 L/100Km)",
       "Highway": "51.1 mpg US (4.6 L/100Km)",
       "Combined": "42.7 mpg US (5.5 L/100Km)",
@@ -848,7 +848,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Aveo/Kalos 5 Doors 1.2L DOHC 5MT FWD (84 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-aveo-kalos-5-doors-2008.html#aeng_chevrolet-aveokalos-5-doors-2008-12-dohc",
-    "ENGINE SPECS - 1.2L DOHC 5MT FWD (84 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1206 cm3",
       "Power": "62 KW @ 6000 RPM\n84 HP @ 6000 RPM\n83 BHP @ 6000 RPM",
@@ -861,18 +861,18 @@
       "Top Speed": "105.6 mph (170 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "155/80 R13"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "154.3 in (3919 mm)",
       "Width": "66.1 in (1679 mm)",
       "Height": "48 in (1219 mm)",
@@ -882,11 +882,11 @@
       "Cargo Volume": "7.8 cuFT (221 L)",
       "Aerodynamics (Cd)": "0.36"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2216 lbs (1005 kg)",
       "Gross Weight Limit": "3208 lbs (1455 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "32.7 mpg US (7.2 L/100Km)",
       "Highway": "51.1 mpg US (4.6 L/100Km)",
       "Combined": "42.7 mpg US (5.5 L/100Km)",
@@ -910,7 +910,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Aveo Sedan 1.2L 5MT FWD (86 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-aveo-sedan-2011.html#aeng_chevrolet-aveo-sedan-2011-12l-86-hp",
-    "ENGINE SPECS - 1.2L 5MT FWD (86 HP)": {
+    "engine_specs": {
       "Cylinders": "4",
       "Displacement": "1229 cm3",
       "Power": "63 KW @ 5600 RPM\n86 HP @ 5600 RPM\n84 BHP @ 5600 RPM",
@@ -923,18 +923,18 @@
       "Top Speed": "106 mph (171 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.4 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed, Manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/65 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "173.2 in (4399 mm)",
       "Width": "68.3 in (1735 mm)",
       "Height": "59.7 in (1516 mm)",
@@ -943,11 +943,11 @@
       "Cargo Volume": "17.7 cuFT (501 L)",
       "Aerodynamics (Cd)": "0.357"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2557 lbs (1160 kg)",
       "Gross Weight Limit": "3457 lbs (1568 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "33.1 mpg US (7.1 L/100Km)",
       "Highway": "51.1 mpg US (4.6 L/100Km)",
       "Combined": "42.8 mpg US (5.5 L/100Km)",
@@ -971,7 +971,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Captiva 2.4L DOHC AWD 6AT (167 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-captiva-2011.html#aeng_chevrolet-captiva-2011-24-dohc-awd-6at-167-hp",
-    "ENGINE SPECS - 2.4L DOHC AWD 6AT (167 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2384 cm3",
       "Power": "123 KW @ 5600 RPM\n167 HP @ 5600 RPM\n165 BHP @ 5600 RPM",
@@ -984,18 +984,18 @@
       "Top Speed": "109 mph (175 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "11.08 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/60 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184 in (4674 mm)",
       "Width": "72.8 in (1849 mm)",
       "Height": "68 in (1727 mm)",
@@ -1005,11 +1005,11 @@
       "Cargo Volume": "3.4 cuFT (96 L)",
       "Aerodynamics (Cd)": "0.38"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4118 lbs (1868 kg)",
       "Gross Weight Limit": "5135 lbs (2329 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "18.7 mpg US (12.6 L/100Km)",
       "Highway": "31.4 mpg US (7.5 L/100Km)",
       "Combined": "25.3 mpg US (9.3 L/100Km)",
@@ -1033,7 +1033,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Cavalier Coupe 2.2L 5MT (141 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-cavalier-coupe-2003.html#aeng_chevrolet-cavalier-coupe-2003-22",
-    "ENGINE SPECS - 2.2L 5MT (141 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2189 cm3",
       "Power": "104 KW @ 5600 RPM\n141 HP @ 5600 RPM\n139 BHP @ 5600 RPM",
@@ -1041,18 +1041,18 @@
       "Fuel System": "Electronic Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/65 R 15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "182.7 in (4641 mm)",
       "Width": "68.7 in (1745 mm)",
       "Height": "53 in (1346 mm)",
@@ -1061,10 +1061,10 @@
       "Ground Clearance": "5.9 in (150 mm)",
       "Cargo Volume": "13.1 cuFT (371 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2619.5 lbs (1188 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "25 mpg US (9.4 L/100Km)",
       "Highway": "39.2 mpg US (6 L/100Km)",
       "Combined": "29.8 mpg US (7.9 L/100Km)"
@@ -1087,7 +1087,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Celta - 5 doors 1.4L 5MT (92 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-celta-5-doors-2000.html#aeng_chevrolet-celta-5-doors-2000-14-5mt-92-hp",
-    "ENGINE SPECS - 1.4L 5MT (92 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1398 cm3",
       "Power": "68 KW @ 6000 RPM\n92 HP @ 6000 RPM\n91 BHP @ 6000 RPM",
@@ -1100,15 +1100,15 @@
       "Top Speed": "106 mph (171 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "11.1 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5 speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "149.6 in (3800 mm)",
       "Width": "64 in (1626 mm)",
       "Height": "55.4 in (1407 mm)",
@@ -1117,7 +1117,7 @@
       "Ground Clearance": "5.9 in (150 mm)",
       "Cargo Volume": "12.9 cuFT (365 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2976 lbs (1350 kg)"
     },
     "images": [
@@ -1138,7 +1138,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Classic 1.4L 5MT FWD (99 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-classic-2002.html#aeng_chevrolet-classic-2002-14l-5mt-92-hp",
-    "ENGINE SPECS - 1.4L 5MT FWD (99 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1398 cm3",
       "Power": "72.8 KW @ 6000 RPM\n99 HP @ 6000 RPM\n98 BHP @ 6000 RPM",
@@ -1151,18 +1151,18 @@
       "Top Speed": "109 mph (175 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.3 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "175/65 R 14 T"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "163.5 in (4153 mm)",
       "Width": "63.3 in (1608 mm)",
       "Height": "56.7 in (1440 mm)",
@@ -1171,11 +1171,11 @@
       "Cargo Volume": "15.3 cuFT (433 L)",
       "Aerodynamics (Cd)": "0.3"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2299 lbs (1043 kg)",
       "Gross Weight Limit": "3314 lbs (1503 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "29.8 mpg US (7.9 L/100Km)",
       "Highway": "41.3 mpg US (5.7 L/100Km)",
       "Combined": "34.6 mpg US (6.8 L/100Km)"
@@ -1198,7 +1198,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Cobalt Coupe SS 2.0 Ecotec 5MT (260 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-cobalt-coupe-ss-2008.html#aeng_chevrolet-cobalt-coupe-ss-2008-20-turbo-ecotec",
-    "ENGINE SPECS - 2.0 ECOTEC 5MT (260 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "194 KW @ 5300 RPM\n264 HP @ 5300 RPM\n260 BHP @ 5300 RPM",
@@ -1210,18 +1210,18 @@
       "Top Speed": "160 mph (257 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "6.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P225/40Z R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "180.3 in (4580 mm)",
       "Width": "67.9 in (1725 mm)",
       "Height": "55.7 in (1415 mm)",
@@ -1231,11 +1231,11 @@
       "Cargo Volume": "13.8 cuFT (391 L)",
       "Aerodynamics (Cd)": "0.34"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2974 lbs (1349 kg)",
       "Gross Weight Limit": "3748 lbs (1700 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "22 mpg US (10.7 L/100Km)",
       "Highway": "30 mpg US (7.8 L/100Km)",
       "Combined": "26 mpg US (9 L/100Km)"
@@ -1258,7 +1258,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Cobalt 1.4L ECONO.FLEX 5MT FWD (97 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-cobalt-2011.html#aeng_chevrolet-cobalt-2012-14-econoflex",
-    "ENGINE SPECS - 1.4L ECONO.FLEX 5MT FWD (97 HP)": {
+    "engine_specs": {
       "Cylinders": "4",
       "Displacement": "1389 cm3",
       "Power": "72 KW @ 6200 RPM\n97 HP @ 6200 RPM\n97 BHP @ 6200 RPM",
@@ -1270,18 +1270,18 @@
       "Top Speed": "106 mph (171 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "ventilated disks",
       "Rear": "drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/65 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "176.3 in (4478 mm)",
       "Width": "78.9 in (2004 mm)",
       "Height": "59.6 in (1514 mm)",
@@ -1290,7 +1290,7 @@
       "Ground Clearance": "4.8 in (122 mm)",
       "Cargo Volume": "19.9 cuFT (564 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2363 lbs (1072 kg)"
     },
     "images": [
@@ -1311,7 +1311,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Colorado Extended Cab 2.5L DOHC 6AT AWD (200 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-colorado-extended-cab-2015.html#aeng_chevrolet-colorado-extended-cab-2015-25-dohc-6at-awd-200-hp",
-    "ENGINE SPECS - 2.5L DOHC 6AT AWD (200 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2457 cm3",
       "Power": "149 KW @ 6300 RPM\n203 HP @ 6300 RPM\n200 BHP @ 6300 RPM",
@@ -1320,18 +1320,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "19 gallons (71.9 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P255/65R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "212.7 in (5403 mm)",
       "Width": "74.3 in (1887 mm)",
       "Height": "70.3 in (1786 mm)",
@@ -1340,11 +1340,11 @@
       "Ground Clearance": "8.3 in (211 mm)",
       "Cargo Volume": "49.9 cuFT (1413 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4140 lbs (1878 kg)",
       "Gross Weight Limit": "5600 lbs (2540 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "17 mpg US (13.8 L/100Km)",
       "Highway": "24 mpg US (9.8 L/100Km)",
       "Combined": "20 mpg US (11.8 L/100Km)"
@@ -1367,7 +1367,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Colorado Regular Cab 2.9L 5MT (185 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-colorado-regular-cab-2009.html#aeng_chevrolet-colorado-regular-cab-2009-29",
-    "ENGINE SPECS - 2.9L 5MT (185 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "2921 cm3",
       "Power": "138 KW @ 5600 RPM\n188 HP @ 5600 RPM\n185 BHP @ 5600 RPM",
@@ -1375,18 +1375,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P235/75 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "192.4 in (4887 mm)",
       "Width": "67.6 in (1717 mm)",
       "Height": "64.9 in (1648 mm)",
@@ -1395,11 +1395,11 @@
       "Ground Clearance": "7.7 in (196 mm)",
       "Cargo Volume": "44 cuFT (1246 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3366 lbs (1527 kg)",
       "Gross Weight Limit": "4850 lbs (2200 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "18 mpg US (13.1 L/100Km)",
       "Highway": "25 mpg US (9.4 L/100Km)",
       "Combined": "21.5 mpg US (10.9 L/100Km)"
@@ -1422,7 +1422,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Corvette Z06 Convertible 6.2L V8 7MT RWD (659 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-corvette-z06-convertible-2014.html#aeng_chevrolet-corvette-z06-convertible-2014-62-v8-7mt-659-hp",
-    "ENGINE SPECS - 6.2L V8 7MT RWD (659 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "6162 cm3",
       "Power": "485 KW @ 6400 RPM\n659 HP @ 6400 RPM\n650 BHP @ 6400 RPM",
@@ -1433,18 +1433,18 @@
     "PERFORMANCE SPECS": {
       "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "7-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated discs",
       "Rear": "Ventilated disc"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "285/30ZR19 || 335/25ZR20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "176.9 in (4493 mm)",
       "Width": "77.4 in (1966 mm)",
       "Height": "48.7 in (1237 mm)",
@@ -1453,7 +1453,7 @@
       "Ground Clearance": "4.25 in (108 mm)",
       "Cargo Volume": "10 cuFT (283 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3582 lbs (1625 kg)"
     },
     "images": [
@@ -1474,7 +1474,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Cruze 1.4L VVT 6AT FWD (153 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-cruze-2018.html#aeng_chevrolet-cruze-2018-14l-vvt-6at-153-hp",
-    "ENGINE SPECS - 1.4L VVT 6AT FWD (153 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1399 cm3",
       "Power": "112.5 KW @ 5600 RPM\n153 HP @ 5600 RPM\n151 BHP @ 5600 RPM",
@@ -1482,18 +1482,18 @@
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/65R15 ALS"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "183.7 in (4666 mm)",
       "Width": "70.5 in (1791 mm)",
       "Height": "57.4 in (1458 mm)",
@@ -1502,7 +1502,7 @@
       "Cargo Volume": "14.8 cuFT (419 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Gross Weight Limit": "2870 lbs (1302 kg)"
     },
     "images": [
@@ -1520,7 +1520,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Cruze Hatchback 1.4L VVT 6AT FWD (153 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-cruze-hatchback-2018.html#aeng_chevrolet-cruze-hatchback-2018-14l-vvt-6at-153-hp",
-    "ENGINE SPECS - 1.4L VVT 6AT FWD (153 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1399 cm3",
       "Power": "112.5 KW @ 5600 RPM\n153 HP @ 5600 RPM\n151 BHP @ 5600 RPM",
@@ -1528,18 +1528,18 @@
       "Fuel System": "Turbocharged Direct Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/65R15 ALS"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "183.7 in (4666 mm)",
       "Width": "70.5 in (1791 mm)",
       "Height": "57.4 in (1458 mm)",
@@ -1548,7 +1548,7 @@
       "Cargo Volume": "14.8 cuFT (419 L)",
       "Aerodynamics (Cd)": "0.29"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Gross Weight Limit": "2870 lbs (1302 kg)"
     },
     "images": [
@@ -1567,7 +1567,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Cruze Wagon 1.4L Turbo 5MT FWD (140 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-cruze-wagon-2012.html#aeng_chevrolet-cruze-wagon-2012-14-turbo-140-hp",
-    "ENGINE SPECS - 1.4L TURBO 5MT FWD (140 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1364 cm3",
       "Power": "103 KW @ 6000 RPM\n140 HP @ 6000 RPM\n138 BHP @ 6000 RPM",
@@ -1580,18 +1580,18 @@
       "Top Speed": "124 mph (200 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "9.5 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "205/60 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "184.1 in (4676 mm)",
       "Width": "70.7 in (1796 mm)",
       "Height": "58.4 in (1483 mm)",
@@ -1601,11 +1601,11 @@
       "Cargo Volume": "17.7 cuFT (501 L)",
       "Aerodynamics (Cd)": "0.34"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3097 lbs (1405 kg)",
       "Gross Weight Limit": "4277 lbs (1940 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "32 mpg US (7.4 L/100Km)",
       "Highway": "50 mpg US (4.7 L/100Km)",
       "Combined": "41 mpg US (5.7 L/100Km)",
@@ -1629,7 +1629,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Epica 2.0i 5AT (145 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-epica-2006.html#aeng_chevrolet-epica-2006-20-d",
-    "ENGINE SPECS - 2.0I 5AT (145 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1991 cm3",
       "Power": "106.6 KW @ 4000 RPM\n145 HP @ 4000 RPM\n143 BHP @ 4000 RPM",
@@ -1642,18 +1642,18 @@
       "Top Speed": "124.3 mph (200 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/45 R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "189.1 in (4803 mm)",
       "Width": "71.1 in (1806 mm)",
       "Height": "57 in (1448 mm)",
@@ -1662,11 +1662,11 @@
       "Cargo Volume": "16.8 cuFT (476 L)",
       "Aerodynamics (Cd)": "0.32"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3439.8 lbs (1560 kg)",
       "Gross Weight Limit": "4509.2 lbs (2045 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "31.4 mpg US (7.5 L/100Km)",
       "Highway": "44.4 mpg US (5.3 L/100Km)",
       "Combined": "38.6 mpg US (6.1 L/100Km)",
@@ -1690,7 +1690,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Evanda 2.0L 5MT FWD (116 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-evanda-2004.html#aeng_chevrolet-evanda-2004-20-116-hp",
-    "ENGINE SPECS - 2.0L 5MT FWD (116 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "85 KW @ 5200 RPM\n116 HP @ 5200 RPM\n114 BHP @ 5200 RPM",
@@ -1702,18 +1702,18 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "118.1 mph (190 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/70 R14"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "187.8 in (4770 mm)",
       "Width": "71.5 in (1816 mm)",
       "Height": "56.7 in (1440 mm)",
@@ -1721,10 +1721,10 @@
       "Wheelbase": "106.3 in (2700 mm)",
       "Cargo Volume": "15.2 cuFT (430 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2877.5 lbs (1305 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "18.1 mpg US (13 L/100Km)",
       "Highway": "33.6 mpg US (7 L/100Km)"
     },
@@ -1746,7 +1746,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET HHR SS 2.0L 4AT FWD (260 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-hhr-ss-2007.html#aeng_chevrolet-hhr-ss-2007-20-5mt-260-hp",
-    "ENGINE SPECS - 2.0L 4AT FWD (260 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1998 cm3",
       "Power": "194 KW @ 5300 RPM\n264 HP @ 5300 RPM\n260 BHP @ 5300 RPM",
@@ -1758,18 +1758,18 @@
       "Top Speed": "137 mph (220 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "7.9 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P225/45R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "176.5 in (4483 mm)",
       "Width": "69.1 in (1755 mm)",
       "Height": "62.5 in (1588 mm)",
@@ -1779,11 +1779,11 @@
       "Cargo Volume": "25.3 cuFT (716 L)",
       "Aerodynamics (Cd)": "0.4"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3360 lbs (1524 kg)",
       "Gross Weight Limit": "4244 lbs (1925 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "19 mpg US (12.4 L/100Km)",
       "Highway": "29 mpg US (8.1 L/100Km)",
       "Combined": "23 mpg US (10.2 L/100Km)"
@@ -1806,7 +1806,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Malibu 1.5L VVT CVT FWD (163 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-malibu-2018.html#aeng_chevrolet-malibu-2018-15l-vvt-cvt-163-hp",
-    "ENGINE SPECS - 1.5L VVT CVT FWD (163 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1499 cm3",
       "Power": "119.9 KW @ 5700 RPM\n163 HP @ 5700 RPM\n161 BHP @ 5700 RPM",
@@ -1815,18 +1815,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "15.9 gallons (60.2 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "CVT"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P205/60R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "193.8 in (4923 mm)",
       "Width": "73 in (1854 mm)",
       "Height": "57.6 in (1463 mm)",
@@ -1835,10 +1835,10 @@
       "Cargo Volume": "15.8 cuFT (447 L)",
       "Turning circle (curb to curb)": "37.7 ft (11.5 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3126 - 3159 lbs (1418 - 1433 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "29 mpg US (8.1 L/100Km)",
       "Highway": "36.2 mpg US (6.5 L/100Km)"
     },
@@ -1860,7 +1860,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Malibu Maxx SS 3.5L V6 4AT (203 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-malibu-maxx-ss-2005.html#aeng_chevrolet-malibu-maxx-ss-2005-35l-v6-4at-203-hp",
-    "ENGINE SPECS - 3.5L V6 4AT (203 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3880 cm3",
       "Power": "149.3 KW @ 5400 RPM\n203 HP @ 5400 RPM\n200 BHP @ 5400 RPM",
@@ -1872,18 +1872,18 @@
       "Top Speed": "124 mph (200 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "8 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/50R18"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "187.8 in (4770 mm)",
       "Width": "69.8 in (1773 mm)",
       "Height": "58.1 in (1476 mm)",
@@ -1892,10 +1892,10 @@
       "Ground Clearance": "6.3 in (160 mm)",
       "Cargo Volume": "40.6 cuFT (1150 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3527 lbs (1600 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "23.1 mpg US (10.2 L/100Km)",
       "Highway": "31.8 mpg US (7.4 L/100Km)",
       "Combined": "27 mpg US (8.7 L/100Km)"
@@ -1918,7 +1918,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Spark 1.4L 5MT FWD (98 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-spark-2018.html#aeng_chevrolet-spark-2018-14l-5mt-98-hp",
-    "ENGINE SPECS - 1.4L 5MT FWD (98 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1399 cm3",
       "Power": "72.1 KW @ 6200 RPM\n98 HP @ 6200 RPM\n97 BHP @ 6200 RPM",
@@ -1927,18 +1927,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "9 gallons (34.1 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/55R15 ALS"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "143.1 in (3635 mm)",
       "Width": "62.8 in (1595 mm)",
       "Height": "58.4 in (1483 mm)",
@@ -1947,10 +1947,10 @@
       "Cargo Volume": "11.1 cuFT (314 L)",
       "Turning circle (curb to curb)": "31.2 ft (9.5 m)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2247 - 2266 lbs (1019 - 1028 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "29 mpg US (8.1 L/100Km)",
       "Highway": "37.9 mpg US (6.2 L/100Km)",
       "Combined": "33.1 mpg US (7.1 L/100Km)"
@@ -1969,7 +1969,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Monte Carlo SS 3.5L V6 4AT FWD (211 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-monte-carlo-2005.html#aeng_chevrolet-monte-carlo-2005-35-v6",
-    "ENGINE SPECS - 3.5L V6 4AT FWD (211 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3500 cm3",
       "Power": "157 KW @ 5800 RPM\n213 HP @ 5800 RPM\n211 BHP @ 5800 RPM",
@@ -1981,18 +1981,18 @@
     "PERFORMANCE SPECS": {
       "Top Speed": "112 mph (180 km/h)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/60/R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "196.7 in (4996 mm)",
       "Width": "72.9 in (1852 mm)",
       "Height": "55.8 in (1417 mm)",
@@ -2002,10 +2002,10 @@
       "Cargo Volume": "15.8 cuFT (447 L)",
       "Aerodynamics (Cd)": "0.36"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3411 lbs (1547 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "21 mpg US (11.2 L/100Km)",
       "Highway": "31 mpg US (7.6 L/100Km)",
       "Combined": "26 mpg US (9 L/100Km)"
@@ -2028,7 +2028,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Nubira/Lacetti 4 door 1.4L 5MT FWD (95 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-nubiralacetti-4-door-2004.html#aeng_chevrolet-nubiralacetti-4-door-2004-14",
-    "ENGINE SPECS - 1.4L 5MT FWD (95 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1399 cm3",
       "Power": "70 KW @ 6200 RPM\n95 HP @ 6200 RPM\n94 BHP @ 6200 RPM",
@@ -2041,18 +2041,18 @@
       "Top Speed": "108.7 mph (175 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/55 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "177.8 in (4516 mm)",
       "Width": "67.9 in (1725 mm)",
       "Height": "56.9 in (1445 mm)",
@@ -2061,11 +2061,11 @@
       "Cargo Volume": "42.9 cuFT (1215 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2590.9 lbs (1175 kg)",
       "Gross Weight Limit": "3660.3 lbs (1660 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "25.3 mpg US (9.3 L/100Km)",
       "Highway": "41.3 mpg US (5.7 L/100Km)",
       "Combined": "33.1 mpg US (7.1 L/100Km)"
@@ -2088,7 +2088,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Onix 1.0L 5MT FWD (78 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-onix-2012.html#aeng_chevrolet-onix-2012-10l-5mt-78-hp",
-    "ENGINE SPECS - 1.0L 5MT FWD (78 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "999 cm3",
       "Power": "57.4 KW @ 6400 RPM\n78 HP @ 6400 RPM\n77 BHP @ 6400 RPM",
@@ -2096,18 +2096,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5 speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/70 R14"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "154.7 in (3929 mm)",
       "Width": "67.1 in (1704 mm)",
       "Height": "58.4 in (1483 mm)",
@@ -2116,7 +2116,7 @@
       "Cargo Volume": "9.9 cuFT (280 L)",
       "Aerodynamics (Cd)": "0.35"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2231 lbs (1012 kg)"
     },
     "images": [
@@ -2137,7 +2137,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Orlando 1.4L Turbo 6MT FWD (140 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-orlando-2010.html#aeng_chevrolet-orlando-2010-14-turbo-140-hp",
-    "ENGINE SPECS - 1.4L TURBO 6MT FWD (140 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1362 cm3",
       "Power": "103 KW @ 6000 RPM\n140 HP @ 6000 RPM\n138 BHP @ 6000 RPM",
@@ -2150,18 +2150,18 @@
       "Top Speed": "124 mph (200 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "11 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/60 R16"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "183 in (4648 mm)",
       "Width": "72.3 in (1836 mm)",
       "Height": "64.3 in (1633 mm)",
@@ -2171,11 +2171,11 @@
       "Cargo Volume": "3.6 cuFT (102 L)",
       "Aerodynamics (Cd)": "0.325"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3393 lbs (1539 kg)",
       "Gross Weight Limit": "4804 lbs (2179 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "30.9 mpg US (7.6 L/100Km)",
       "Highway": "43.6 mpg US (5.4 L/100Km)",
       "Combined": "37.9 mpg US (6.2 L/100Km)",
@@ -2199,7 +2199,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Prisma 1.4L 5MT (98 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-prisma-2013.html#aeng_chevrolet-prisma-2006-14-5mt-98-hp",
-    "ENGINE SPECS - 1.4L 5MT (98 HP)": {
+    "engine_specs": {
       "Cylinders": "4",
       "Displacement": "1389 cm3",
       "Power": "72 KW @ 6000 RPM\n98 HP @ 6000 RPM\n97 BHP @ 6000 RPM",
@@ -2207,18 +2207,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5 speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "185/65/R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "168.3 in (4275 mm)",
       "Width": "77.3 in (1963 mm)",
       "Height": "58.4 in (1483 mm)",
@@ -2242,7 +2242,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET S-10 Crew Cab 4.3L V6 5MT (193 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-s-10-crew-cab-2000.html#aeng_chevrolet-s-10-crew-cab-2000-43",
-    "ENGINE SPECS - 4.3L V6 5MT (193 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "4293 cm3",
       "Power": "142 KW @ 4400 RPM\n193 HP @ 4400 RPM\n190 BHP @ 4400 RPM",
@@ -2250,18 +2250,18 @@
       "Fuel System": "Electronic Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "235/70 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "205.3 in (5215 mm)",
       "Width": "67.9 in (1725 mm)",
       "Height": "63.4 in (1610 mm)",
@@ -2269,7 +2269,7 @@
       "Wheelbase": "122.9 in (3122 mm)",
       "Aerodynamics (Cd)": "0.5"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4083.7 lbs (1852 kg)"
     },
     "images": [
@@ -2290,7 +2290,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Silverado 3500HD Regular Cab 6.0 V8 6AT (360 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-silverado-3500hd-regular-cab-2008.html#aeng_chevrolet-silverado-3500hd-regular-cab-2008-60-v8",
-    "ENGINE SPECS - 6.0 V8 6AT (360 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "5967 cm3",
       "Power": "268.5 KW @ 5400 RPM\n365 HP @ 5400 RPM\n360 BHP @ 5400 RPM",
@@ -2298,18 +2298,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "LT225/75R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "225 in (5715 mm)",
       "Width": "95.9 in (2436 mm)",
       "Height": "1944 in (49378 mm)",
@@ -2319,11 +2319,11 @@
       "Cargo Volume": "76.6 cuFT (2169 L)",
       "Aerodynamics (Cd)": "0.41"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4888 lbs (2217 kg)",
       "Gross Weight Limit": "9500 lbs (4309 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "Combined": "14 mpg US (16.8 L/100Km)"
     },
     "images": [
@@ -2344,7 +2344,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Sonic Hatchback 5 Doors 1.4L Turbo 6AT FWD (138 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-sonic-hatchback-5-doors-2011.html#aeng_chevrolet-sonic-hatchback-5-doors-2011-14-turbo-6at-140-hp",
-    "ENGINE SPECS - 1.4L TURBO 6AT FWD (138 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1364 cm3",
       "Power": "103 KW @ 4900 RPM\n140 HP @ 4900 RPM\n138 BHP @ 4900 RPM",
@@ -2352,18 +2352,18 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "6-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/65R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "159 in (4039 mm)",
       "Width": "68.3 in (1735 mm)",
       "Height": "59.7 in (1516 mm)",
@@ -2373,11 +2373,11 @@
       "Cargo Volume": "19 cuFT (538 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3020 lbs (1370 kg)",
       "Gross Weight Limit": "3770 lbs (1710 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "27 mpg US (8.7 L/100Km)",
       "Highway": "37 mpg US (6.4 L/100Km)",
       "Combined": "31 mpg US (7.6 L/100Km)"
@@ -2400,7 +2400,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Sonic RS 1.4L Turbo 6MT (140 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-sonic-rs-2012.html#aeng_chevrolet-sonic-rs-2012-14l-turbo",
-    "ENGINE SPECS - 1.4L TURBO 6MT (140 HP)": {
+    "engine_specs": {
       "Cylinders": "4",
       "Displacement": "1364 cm3",
       "Power": "103 KW @ 4900 RPM\n140 HP @ 4900 RPM\n138 BHP @ 4900 RPM",
@@ -2411,18 +2411,18 @@
     "PERFORMANCE SPECS": {
       "Acceleration 0-62 Mph (0-100 kph)": "11 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "six-speed manual transmission"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "vendetd disks",
       "Rear": "vented disks"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "P205/50R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "159 in (4039 mm)",
       "Width": "68.3 in (1735 mm)",
       "Height": "59.7 in (1516 mm)",
@@ -2430,10 +2430,10 @@
       "Wheelbase": "99.4 in (2525 mm)",
       "Cargo Volume": "19 cuFT (538 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2743 lbs (1244 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "29 mpg US (8.1 L/100Km)",
       "Highway": "40 mpg US (5.9 L/100Km)"
     },
@@ -2455,7 +2455,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Sonic 1.4L Ecotec 5MT FWD (138 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-sonic-2016.html#aeng_chevrolet-sonic-2016-14l-ecotec-5mt-138-hp",
-    "ENGINE SPECS - 1.4L ECOTEC 5MT FWD (138 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1364 cm3",
       "Power": "101.5 KW @ 4900 RPM\n138 HP @ 4900 RPM\n136 BHP @ 4900 RPM",
@@ -2464,18 +2464,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "12.2 gallons (46.2 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/65R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "173.9 in (4417 mm)",
       "Width": "68.3 in (1735 mm)",
       "Height": "59.7 in (1516 mm)",
@@ -2484,10 +2484,10 @@
       "Cargo Volume": "14.9 cuFT (422 L)",
       "Aerodynamics (Cd)": "0.33"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2793 lbs (1267 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "28 mpg US (8.4 L/100Km)",
       "Highway": "37.3 mpg US (6.3 L/100Km)"
     },
@@ -2509,7 +2509,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Spin 1.2L 5MT FWD (86 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-spin-2012.html#aeng_chevrolet-spin-2012-12l-5mt-86-hp",
-    "ENGINE SPECS - 1.2L 5MT FWD (86 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1229 cm3",
       "Power": "63 KW @ 5600 RPM\n86 HP @ 5600 RPM\n84 BHP @ 5600 RPM",
@@ -2518,18 +2518,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "14 gallons (53.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-manual speed"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs 256 x 24mm",
       "Rear": "Drums 230 x 45mm"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/65 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "171.7 in (4361 mm)",
       "Width": "68.3 in (1735 mm)",
       "Height": "65.5 in (1664 mm)",
@@ -2557,7 +2557,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET SS 6.2L V8 6AT (415 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-ss-2016.html#aeng_chevrolet-ss-2016-62l-v8-6at-415-hp",
-    "ENGINE SPECS - 6.2L V8 6AT (415 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "6162 cm3",
       "Power": "305.2 KW @ 5900 RPM\n415 HP @ 5900 RPM\n409 BHP @ 5900 RPM",
@@ -2566,18 +2566,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "18.8 gallons (71.2 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "6-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "245/40 R19 // 275/35 R19"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "195.5 in (4966 mm)",
       "Width": "74.7 in (1897 mm)",
       "Height": "57.9 in (1471 mm)",
@@ -2585,10 +2585,10 @@
       "Wheelbase": "114.8 in (2916 mm)",
       "Cargo Volume": "16.4 cuFT (464 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3975 lbs (1803 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14 mpg US (16.8 L/100Km)",
       "Highway": "22 mpg US (10.7 L/100Km)",
       "Combined": "16 mpg US (14.7 L/100Km)"
@@ -2611,7 +2611,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET SSR 5.3L V8 4AT (290 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-ssr-2003.html#aeng_chevrolet-ssr-2003-53",
-    "ENGINE SPECS - 5.3L V8 4AT (290 HP)": {
+    "engine_specs": {
       "Cylinders": "V8",
       "Displacement": "5327 cm3",
       "Power": "213 KW @ 5200 RPM\n290 HP @ 5200 RPM\n286 BHP @ 5200 RPM",
@@ -2624,18 +2624,18 @@
       "Top Speed": "130 mph (209 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "7.7 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Rear Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Ventilated Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "255/45 R19 // 295/40 R20"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "191.4 in (4862 mm)",
       "Width": "78.6 in (1996 mm)",
       "Height": "64.2 in (1631 mm)",
@@ -2644,10 +2644,10 @@
       "Ground Clearance": "6.1 in (155 mm)",
       "Cargo Volume": "23.5 cuFT (665 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4079.2 lbs (1850 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "13.8 mpg US (17 L/100Km)",
       "Highway": "26.1 mpg US (9 L/100Km)",
       "Combined": "17 mpg US (13.8 L/100Km)"
@@ -2670,7 +2670,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Tacuma/Rezzo 1.6L 5MT FWD (107 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-tacuma-rezzo-2004.html#aeng_chevrolet-tacumarezzo-2004-16",
-    "ENGINE SPECS - 1.6L 5MT FWD (107 HP)": {
+    "engine_specs": {
       "Cylinders": "L4",
       "Displacement": "1598 cm3",
       "Power": "79 KW @ 6200 RPM\n107 HP @ 6200 RPM\n106 BHP @ 6200 RPM",
@@ -2683,18 +2683,18 @@
       "Top Speed": "103.8 mph (167 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "12.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "5-Speed manual"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "195/60 R15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "171.3 in (4351 mm)",
       "Width": "69.1 in (1755 mm)",
       "Height": "62.2 in (1580 mm)",
@@ -2703,11 +2703,11 @@
       "Ground Clearance": "7.1 in (180 mm)",
       "Cargo Volume": "56 cuFT (1586 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "2804.8 lbs (1272 kg)",
       "Gross Weight Limit": "4030.7 lbs (1828 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "21.8 mpg US (10.8 L/100Km)",
       "Highway": "37.3 mpg US (6.3 L/100Km)",
       "Combined": "29.4 mpg US (8 L/100Km)"
@@ -2730,7 +2730,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Tracker 1.8L AWD 6AT (140 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-tracker-2013.html#aeng_chevrolet-tracker-2013-18-awd-6at-140-hp",
-    "ENGINE SPECS - 1.8L AWD 6AT (140 HP)": {
+    "engine_specs": {
       "Cylinders": "4",
       "Displacement": "1796 cm3",
       "Power": "103 KW @ 6300 RPM\n140 HP @ 6300 RPM\n138 BHP @ 6300 RPM",
@@ -2738,15 +2738,15 @@
       "Fuel System": "Multipoint Injection",
       "Fuel": "Gasoline"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "6 speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Solid Discs"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "167.2 in (4247 mm)",
       "Width": "70.6 in (1793 mm)",
       "Height": "65.9 in (1674 mm)",
@@ -2755,7 +2755,7 @@
       "Ground Clearance": "6.1 in (155 mm)",
       "Aerodynamics (Cd)": "0.358"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3142 lbs (1425 kg)",
       "Gross Weight Limit": "4103 lbs (1861 kg)"
     },
@@ -2777,7 +2777,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Uplander 3.5L V6 4AT FWD (203 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-uplander-2004.html#aeng_chevrolet-uplander-2005-35",
-    "ENGINE SPECS - 3.5L V6 4AT FWD (203 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3498 cm3",
       "Power": "149 KW @ 5200 RPM\n203 HP @ 5200 RPM\n200 BHP @ 5200 RPM",
@@ -2786,18 +2786,18 @@
       "Fuel": "Gasoline",
       "Fuel capacity": "25.1 gallons (95.0 L)"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "Front Wheel Drive",
       "Gearbox": "4-speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Ventilated Discs",
       "Rear": "Discs"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "225/60 R17"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "204.4 in (5192 mm)",
       "Width": "72 in (1829 mm)",
       "Height": "72 in (1829 mm)",
@@ -2806,7 +2806,7 @@
       "Ground Clearance": "6.7 in (170 mm)",
       "Cargo Volume": "135.3 cuFT (3831 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "4464.4 lbs (2025 kg)"
     },
     "images": [
@@ -2827,7 +2827,7 @@
     "fuel_type": "gasoline",
     "engine": "CHEVROLET Venture 3.4L V6 4AT AWD (188 HP)",
     "engine_url": "https://www.autoevolution.com/cars/chevrolet-venture-1996.html#aeng_chevrolet-venture-1996-34l-v6-4at-awd-188-hp",
-    "ENGINE SPECS - 3.4L V6 4AT AWD (188 HP)": {
+    "engine_specs": {
       "Cylinders": "V6",
       "Displacement": "3400 cm3",
       "Power": "138 KW @ 5200 RPM\n188 HP @ 5200 RPM\n185 BHP @ 5200 RPM",
@@ -2839,18 +2839,18 @@
       "Top Speed": "107 mph (172 km/h)",
       "Acceleration 0-62 Mph (0-100 kph)": "13.2 s"
     },
-    "TRANSMISSION SPECS": {
+    "transmission_specs": {
       "Drive Type": "All Wheel Drive",
       "Gearbox": "4-Speed automatic"
     },
-    "BRAKES SPECS": {
+    "brakes_specs": {
       "Front": "Discs",
       "Rear": "Drums"
     },
-    "TIRES SPECS": {
+    "tires_specs": {
       "Tire Size": "215/70 R 15"
     },
-    "DIMENSIONS": {
+    "dimensions": {
       "Length": "186.9 in (4747 mm)",
       "Width": "72 in (1829 mm)",
       "Height": "67.4 in (1712 mm)",
@@ -2859,11 +2859,11 @@
       "Ground Clearance": "5.9 in (150 mm)",
       "Cargo Volume": "118.7 cuFT (3361 L)"
     },
-    "WEIGHT SPECS": {
+    "weight_specs": {
       "Unladen Weight": "3704 lbs (1680 kg)",
       "Gross Weight Limit": "5358.2 lbs (2430 kg)"
     },
-    "FUEL ECONOMY (NEDC)": {
+    "fuel_economy": {
       "City": "14.3 mpg US (16.4 L/100Km)",
       "Highway": "21.8 mpg US (10.8 L/100Km)",
       "Combined": "18.4 mpg US (12.8 L/100Km)"
